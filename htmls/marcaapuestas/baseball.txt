@@ -1,0 +1,7129 @@
+
+<!DOCTYPE html>
+<html class="logged-out" lang="es">
+<head>
+<title>
+Apuestas deportivas en Marca Apuestas
+</title>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<link rel="dns-prefetch" href="https://cachesports.marcaapuestas.es/" />
+<meta name="description" content="Apuesta a todos los deportes en línea y en vivo- La Liga, Champions League, ATP, y mucho más" />
+<meta name="keywords" content="Apuestas, apuestas en vivo, fútbol, tenis, básquetbol, ligas mundiales, eventos deportivos, fútbol en vivo." />
+<link rel="canonical" href="https://deportes.marcaapuestas.es/es/type-coupon?sb_type_ids=19248-44784-47030-47372-47373" />
+<link rel="icon" type="image/png" href="https://cachesports.marcaapuestas.es/web_static/R_MultiOp_4_8_8/desktop/marca/image/icon.png" />
+<link rel="shortcut icon" href="https://cachesports.marcaapuestas.es/web_static/R_MultiOp_4_8_8/desktop/marca/image/icon.ico" />
+<link rel="stylesheet" type="text/css"
+href="https://cachesports.marcaapuestas.es/web_static/R_MultiOp_4_8_8/desktop/marca/css/core.min.css" />
+<link rel="stylesheet" type="text/css"
+href="https://cachesports.marcaapuestas.es/web_static/R_MultiOp_4_8_8/desktop/marca/css/fragments/front.min.css" />
+<link rel="stylesheet" type="text/css"
+href="https://cachesports.marcaapuestas.es/web_static/R_MultiOp_4_8_8/desktop/marca/css/fragments/top-x-bets.min.css" />
+<link rel="stylesheet" type="text/css"
+href="https://cachesports.marcaapuestas.es/web_static/R_MultiOp_4_8_8/desktop/marca/css/cash-out.min.css" />
+<link rel="stylesheet" type="text/css"
+href="https://cachesports.marcaapuestas.es/web_static/R_MultiOp_4_8_8/desktop/marca/css/fragments/custom-type-coupon.min.css" />
+<link rel="stylesheet" type="text/css"
+href="https://cachesports.marcaapuestas.es/web_static/R_MultiOp_4_8_8/desktop/marca/css/fragments/sports.min.css" />
+<script type="text/javascript">
+if (typeof(Geneity) != 'object') var Geneity = Object();
+Geneity.Page = {"page_key": "DEFAULT", "page_args": {"sport_code": "BASE"}, "page_type": "TYPECPN"};
+</script>
+<script type="text/javascript"
+src="/web_nr?lang=es&amp;tz_offset=2&amp;key=browser_data.go_js_data">
+</script>
+<script type="text/javascript"
+src="https://cachesports.marcaapuestas.es/web_static/R_MultiOp_4_8_8/desktop/js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript"
+src="https://cachesports.marcaapuestas.es/web_static/R_MultiOp_4_8_8/desktop/js/jquery.cookie.js"></script>
+<script type="text/javascript"
+src="https://cachesports.marcaapuestas.es/web_static/R_MultiOp_4_8_8/desktop/marca/js/core.min.js"></script>
+<script type="text/javascript"
+src="https://cachesports.marcaapuestas.es/web_static/R_MultiOp_4_8_8/desktop/marca/js/front.min.js"></script>
+<script type="text/javascript"
+src="https://cachesports.marcaapuestas.es/web_static/R_MultiOp_4_8_8/desktop/marca/js/Slider.min.js"></script>
+<script type="text/javascript"
+src="https://cachesports.marcaapuestas.es/web_static/R_MultiOp_4_8_8/desktop/marca/js/fragments/TopXBets.min.js"></script>
+<!--[if lte IE 9]>
+<link rel="stylesheet" type="text/css"
+href="/web_nr?key=IE.go_IE9_css" />
+<script type="text/javascript"
+src="https://cachesports.marcaapuestas.es/web_static/R_MultiOp_4_8_8/desktop/js/IE9.js"></script>
+<![endif]-->
+<!--[if lte IE 9 ]>
+<link rel="stylesheet" type="text/css" media="screen" href="/web_static/R_MultiOp_4_8_8/desktop/marca/js/PIE_Gen.htc" />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel="stylesheet" type="text/css" title="IE8"
+href="/web_nr?key=IE.go_IE8_css" />
+<script type="text/javascript" src="https://cachesports.marcaapuestas.es/web_static/R_MultiOp_4_8_8/desktop/js/ie8-mediaqueries.js"></script>
+<![endif]-->
+<script>
+/*@cc_on
+@if (@_jscript_version <= 8) {
+document.createStyleSheet("/web_nr?key=IE.go_IE10_css");
+}
+@elif (@_jscript_version <= 10) {
+$('head').append("<link rel='stylesheet' type='text/css'\
+href='/web_nr?key=IE.go_IE10_css' />");
+}
+@end
+@*/
+</script>
+</head>
+<body class="site-MRC layout-3_col PAGE-TYPECPN-DEFAULT" data-view_id="1053">
+<div class="cms-contents">
+<div id="contents">
+<div id="header-area">
+<div class="fragment login">
+<div class="logo">
+<h1 class="logo header MRC gb">
+<a href="/es">
+<img src="https://cachesports.marcaapuestas.es/web_static/R_MultiOp_4_8_8/desktop/bh/MRC/desktop_header_logo.png" alt="SITE_NAME" width="274" height="42" />
+</a>
+</h1>
+<span class="tz_clock"></span>
+</div>
+<div class="when-logged-out">
+<a href="/web_nr?key=login.go_passwd_recovery"
+class="overlay_div passwd-recovery">¿Contraseña olvidada?</a>
+<form action="https://deportes.marcaapuestas.es/web_nr?key=login" method="POST" class="login">
+<div class="remember_div">
+<input class="remember_me" type="checkbox" name="remember_me" />
+<span class="remember_text">Recuérdame</span>
+</div>
+<label class="has-placeholder">
+<span class="placeholder">
+Usuario:
+</span>
+<input type="text" name="username" value=""
+size="10" tabindex="1" autocomplete="off" />
+</label>
+<label class="has-placeholder">
+<span class="placeholder">
+Contraseña:
+</span>
+<input type="password" name="password" value=""
+size="10" tabindex="2" autocomplete="off" />
+</label>
+<button type="submit" class="log-in button"
+tabindex="3" accesskey="2">Entrar</button>
+<a href="https://www.marcaapuestas.es/reg?back_url=https%3A%2F%2Fdeportes.marcaapuestas.es%2Fes&amp;product=sport&amp;languageCode=es&amp;page=sport-registration"
+class="register-link button" tabindex="4">¡Regístrate ahora!</a>
+</form>
+</div>
+<div class="when-logged-in">
+<a class="my-account" href="/web_nr?key=account.go_account" target="myaccount"
+data-popup_width="1300"
+data-popup_height="800">
+<span class="person-icon"></span>
+<span class="welcome-section">
+<span class="welcome_message">Bienvenido:</span>
+<span id="welcome_id" class="welcome">
+<span id="welcome_name"></span>
+</span>
+</span>
+</a>
+<span id="balance_id" class="balance expander expander-collapsed">
+<span class="expander-button">
+<span class="balance-icon"></span>
+<span class="total-balance-value" ></span>
+</span>
+<span class="extended-balance expander-content">
+<span class="balance-container">
+<span class="label">Balance Efectivo:</span>
+<span class="balance-value"></span>
+</span>
+<span class="balance-container">
+<span class="label">Balance de Bonos</span>
+<span class="bonus-balance-value"></span>
+</span>
+<span class="balance-container">
+<span class="label">Balance de Bono de Apuestas</span>
+<span class="token-balance-value"></span>
+</span>
+<span class="balance-container">
+<span class="label">Balance de Bono Pendiente</span>
+<span class="pending-balance-value"></span>
+</span>
+<span class="balance-container">
+<span class="label">Saldo actual</span>
+<span class="total-balance-value"></span>
+</span>
+</span>
+<button type="submit" name="refresh" title="Actualizar">
+Actualizar
+</button>
+</span>
+<span class="open-bets">
+<a href="/web_nr?bet_result=O&amp;key=account.go_bets_history"
+target="myaccount"
+data-popup_width="1300"
+data-popup_height="800">
+<span class="no_open_bets">-</span>
+<span class="open-bet-icon"></span>Apuestas abiertas
+</a>
+</span>
+<span class="deposit">
+<a href="/web_nr?key=account.go_cashier" target="myaccount"
+data-popup_width="1300"
+data-popup_height="800"
+class="button">
+<span>Depositar</span>
+</a>
+</span>
+<button type="submit" name="do-logout" title="Salir">
+Salir
+</button>
+</div>
+</div>
+<div class="fragment marca-header">
+<div class="first-row-container">
+<div class="first-row">
+<div class="first-menu">
+<ul class="nav-F1"><!--
+--><li class="header-nav-SPORTS selected ">
+<a href="/es"
+>
+Deportes
+</a>
+</li><!--
+--><li class="header-nav-LIVE-BETTING ">
+<a href="/es/live-betting"
+>
+Apuestas en Vivo
+</a>
+</li><!--
+--><li class="header-nav-CASINO ">
+<a href="https://www.marcaapuestas.es/casino"
+>
+Casino
+</a>
+</li><!--
+--><li class="header-nav-NOTICIAS ">
+<a href="https://noticias.marcaapuestas.es/"
+>
+Noticias
+</a>
+</li><!--
+--></ul>
+</div>
+</div>
+</div>
+<div class="second-row-container">
+<div class="second-row">
+<div class="second-menu">
+<ul class="nav-F1"><!--
+--><li class="header-nav-PROMOCIONES ">
+<a href="https://www.marcaapuestas.es/promociones/deportes"
+>
+Promociones
+</a>
+</li><!--
+--><li class="header-nav-MÉTODOS-DE-PAGO ">
+<a href="https://www.marcaapuestas.es/deportes/metodos-de-pago"
+target="_blank"
+>
+Métodos de pago
+</a>
+</li><!--
+--><li class="header-nav-CALENDARIO ">
+<a href="https://deportes.marcaapuestas.es/es/calendar"
+>
+Calendario
+</a>
+</li><!--
+--><li class="header-nav-RESULTADOS ">
+<a href="http://ls.betradar.com/ls/livescore/?/marca1/es/page"
+target="_blank"
+>
+Resultados
+</a>
+</li><!--
+--></ul>
+</div>
+</div>
+</div>
+<div class="header-dropdown-container">
+<div class="header-dropdown ">
+<div class="playtech-chat"
+id="playtech.chat.div_marca.es_marca-es-sportsbook"></div>
+<select name="price_format">
+<option value="FRAC"
+>
+Fraccional
+</option>
+<option value="DEC"
+selected="selected">
+Decimal
+</option>
+<option value="US"
+>
+Americano
+</option>
+</select>
+<form name="tz_offset" action="/web_nr" method="post">
+<input type="hidden" name="key" value="region.do_set_region_opts" />
+<select name="tz_offset">
+<option class="tz_opt" value="-12"
+>
+GMT -12
+</option>
+<option class="tz_opt" value="-11"
+>
+GMT -11
+</option>
+<option class="tz_opt" value="-10"
+>
+GMT -10
+</option>
+<option class="tz_opt" value="-9"
+>
+GMT -9
+</option>
+<option class="tz_opt" value="-8"
+>
+GMT -8
+</option>
+<option class="tz_opt" value="-7"
+>
+GMT -7
+</option>
+<option class="tz_opt" value="-6"
+>
+GMT -6
+</option>
+<option class="tz_opt" value="-5"
+>
+GMT -5
+</option>
+<option class="tz_opt" value="-4"
+>
+GMT -4
+</option>
+<option class="tz_opt" value="-3"
+>
+GMT -3
+</option>
+<option class="tz_opt" value="-2"
+>
+GMT -2
+</option>
+<option class="tz_opt" value="-1"
+>
+GMT -1
+</option>
+<option class="tz_opt" value="0"
+>
+GMT +0
+</option>
+<option class="tz_opt" value="1"
+>
+GMT +1
+</option>
+<option class="tz_opt" value="2"
+selected="selected">
+GMT +2
+</option>
+<option class="tz_opt" value="3"
+>
+GMT +3
+</option>
+<option class="tz_opt" value="4"
+>
+GMT +4
+</option>
+<option class="tz_opt" value="5"
+>
+GMT +5
+</option>
+<option class="tz_opt" value="6"
+>
+GMT +6
+</option>
+<option class="tz_opt" value="7"
+>
+GMT +7
+</option>
+<option class="tz_opt" value="8"
+>
+GMT +8
+</option>
+<option class="tz_opt" value="9"
+>
+GMT +9
+</option>
+<option class="tz_opt" value="10"
+>
+GMT +10
+</option>
+<option class="tz_opt" value="11"
+>
+GMT +11
+</option>
+<option class="tz_opt" value="12"
+>
+GMT +12
+</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='fragment promo-banner hidden'>
+</div>
+</div>
+<div id="main-contents">
+<div id="body">
+<div>
+<div id="nav-area">
+<div class="fragment search">
+<form action="/es/search"
+method="get" name="search_box">
+<label class="input has-placeholder">
+<span class="placeholder">
+Buscar apuestas
+</span>
+<input type="text" name="s" maxlength="128" />
+</label>
+<div class="button">
+<button type="submit">
+<span>Buscar</span>
+</button>
+</div>
+</form>
+</div>
+<div class="fragment favourites">
+<h4>Mis Favoritos</h4>
+<div class="empty">
+<div class="content default-content">
+</div>
+<div class="content user-content"></div>
+<div class="empty-message">
+Marca las estrellas para ver siempre aquí tus favoritos
+</div>
+<div class="loading-message">
+Cargando tus favoritos, por favor espere…
+</div>
+</div>
+</div>
+<div class="fragment navigation">
+<h4>ENLACES RAPIDOS</h4>
+<ul>
+<li >
+<span class="nav-icon icon-FOOT"></span><!--
+--><a href="/es/t/19161/UEFA-Liga-de-Campeones" >
+Liga de Campeones
+</a>
+</li>
+<li >
+<span class="nav-icon icon-FOOT"></span><!--
+--><a href="/es/t/46383/UEFA-Supercuotas" >
+Supercuotas Europa
+</a>
+</li>
+<li >
+<span class="nav-icon icon-FOOT"></span><!--
+--><a href="/es/t/19162/UEFA-Europa-League" >
+Europa League
+</a>
+</li>
+<li >
+<span class="nav-icon icon-FOOT"></span><!--
+--><a href="/es/t/19160/Espa%C3%B1a-LaLiga" >
+LaLiga
+</a>
+</li>
+<li >
+<span class="nav-icon icon-FOOT"></span><!--
+--><a href="/es/t/46319/Espa%C3%B1a-Supercuotas" >
+Supercuotas LaLiga
+</a>
+</li>
+<li >
+<span class="nav-icon icon-FOOT"></span><!--
+--><a href="/es/t/48352/Espa%C3%B1a-Segunda" >
+Segunda División
+</a>
+</li>
+<li >
+<span class="nav-icon icon-BASK"></span><!--
+--><a href="/es/t/48976/EuroBasket" >
+Eurobasket
+</a>
+</li>
+<li >
+<span class="nav-icon "></span><!--
+--><a href="/es/t/21645/M%C3%BAltiples-Mejoradas" >
+Supercombis MARCA
+</a>
+</li>
+<li >
+<span class="nav-icon icon-FOOT"></span><!--
+--><a href="/es/t/48278/Espa%C3%B1a-LaLiga" >
+LaLiga Campeón
+</a>
+</li>
+<li >
+<span class="nav-icon icon-FOOT"></span><!--
+--><a href="/es/t/19157/Inglaterra-Premier-League" >
+Premier League
+</a>
+</li>
+<li >
+<span class="nav-icon icon-FOOT"></span><!--
+--><a href="/es/t/19327/Francia-Ligue-1" >
+Ligue 1 Francia
+</a>
+</li>
+<li >
+<span class="nav-icon icon-FOOT"></span><!--
+--><a href="/es/t/19158/Alemania-Bundesliga-1" >
+Bundesliga Alemania
+</a>
+</li>
+<li >
+<span class="nav-icon icon-FOOT"></span><!--
+--><a href="/es/t/19159/Italia-Serie-A" >
+Serie A Italia
+</a>
+</li>
+<li >
+<span class="nav-icon "></span><!--
+--><a href="/es/calendar" target="_blank">
+Calendario
+</a>
+</li>
+<li >
+<span class="nav-icon "></span><!--
+--><a href="http://ls.betradar.com/ls/livescore/?/marca1/es/page" target="_blank">
+Resultados
+</a>
+</li>
+</ul>
+</div>
+<div class="fragment hierarchy">
+<h4>Deportes</h4>
+<ul class="hierarchy">
+<li class="expander expander-collapsed sport-FOOT" data-sport_code="FOOT" data-title="Football">
+<span class="expander-button"></span>
+<a href="/es/s/FOOT/F%C3%BAtbol">
+<span class="FF-bugfix">
+Fútbol
+</span>
+</a>
+<ul class="expander-content">
+<li class="expander expander-collapsed" data-sb_class_id="12433">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+España
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="19160">
+<a href="/es/t/19160/Espa%C3%B1a-LaLiga">
+<span class="FF-bugfix">
+España - LaLiga
+</span>
+</a>
+</li>
+<li data-sb_type_id="48352">
+<a href="/es/t/48352/Espa%C3%B1a-Segunda">
+<span class="FF-bugfix">
+España - Segunda
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12711">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Competiciones FIFA
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="22996">
+<a href="/es/t/22996/Womens-World-Cup-Qualifiers">
+<span class="FF-bugfix">
+Womens World Cup Qualifiers
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12769">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Especiales Fútbol
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="45666">
+<a href="/es/t/45666/UK-Supercuotas">
+<span class="FF-bugfix">
+UK Supercuotas
+</span>
+</a>
+</li>
+<li data-sb_type_id="46383">
+<a href="/es/t/46383/UEFA-Supercuotas">
+<span class="FF-bugfix">
+UEFA Supercuotas
+</span>
+</a>
+</li>
+<li data-sb_type_id="46319">
+<a href="/es/t/46319/Espa%C3%B1a-Supercuotas">
+<span class="FF-bugfix">
+España Supercuotas
+</span>
+</a>
+</li>
+<li data-sb_type_id="21645">
+<a href="/es/t/21645/M%C3%BAltiples-Mejoradas">
+<span class="FF-bugfix">
+Múltiples Mejoradas
+</span>
+</a>
+</li>
+<li data-sb_type_id="21703">
+<a href="/es/t/21703/Especiales-Jugadores">
+<span class="FF-bugfix">
+Especiales Jugadores
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12710">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Competiciones UEFA
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="19161">
+<a href="/es/t/19161/UEFA-Liga-de-Campeones">
+<span class="FF-bugfix">
+UEFA - Liga de Campeones
+</span>
+</a>
+</li>
+<li data-sb_type_id="19162">
+<a href="/es/t/19162/UEFA-Europa-League">
+<span class="FF-bugfix">
+UEFA - Europa League
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12430">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Reino Unido
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="19157">
+<a href="/es/t/19157/Inglaterra-Premier-League">
+<span class="FF-bugfix">
+Inglaterra - Premier League
+</span>
+</a>
+</li>
+<li data-sb_type_id="19156">
+<a href="/es/t/19156/Inglaterra-Championship">
+<span class="FF-bugfix">
+Inglaterra - Championship
+</span>
+</a>
+</li>
+<li data-sb_type_id="19326">
+<a href="/es/t/19326/Inglaterra-League-One">
+<span class="FF-bugfix">
+Inglaterra - League One
+</span>
+</a>
+</li>
+<li data-sb_type_id="19300">
+<a href="/es/t/19300/Inglaterra-League-Two">
+<span class="FF-bugfix">
+Inglaterra - League Two
+</span>
+</a>
+</li>
+<li data-sb_type_id="19374">
+<a href="/es/t/19374/Inglaterra-National-League">
+<span class="FF-bugfix">
+Inglaterra - National League
+</span>
+</a>
+</li>
+<li data-sb_type_id="19163">
+<a href="/es/t/19163/Inglaterra-EFL-Cup">
+<span class="FF-bugfix">
+Inglaterra - EFL Cup
+</span>
+</a>
+</li>
+<li data-sb_type_id="26870">
+<a href="/es/t/26870/England-Isthmian-Premier-Division">
+<span class="FF-bugfix">
+England - Isthmian Premier Division
+</span>
+</a>
+</li>
+<li data-sb_type_id="19875">
+<a href="/es/t/19875/Inglaterra-Southern-Premier-League">
+<span class="FF-bugfix">
+Inglaterra - Southern Premier League
+</span>
+</a>
+</li>
+<li data-sb_type_id="30668">
+<a href="/es/t/30668/Inglaterra-Copa-FA-Clasificaci%C3%B3n">
+<span class="FF-bugfix">
+Inglaterra - Copa FA Clasificación
+</span>
+</a>
+</li>
+<li data-sb_type_id="21502">
+<a href="/es/t/21502/Inglaterra-Premier-League-2">
+<span class="FF-bugfix">
+Inglaterra - Premier League 2
+</span>
+</a>
+</li>
+<li data-sb_type_id="19208">
+<a href="/es/t/19208/Escocia-Premiership">
+<span class="FF-bugfix">
+Escocia - Premiership
+</span>
+</a>
+</li>
+<li data-sb_type_id="19879">
+<a href="/es/t/19879/Escocia-Championship">
+<span class="FF-bugfix">
+Escocia - Championship
+</span>
+</a>
+</li>
+<li data-sb_type_id="19569">
+<a href="/es/t/19569/Escocia-League-One">
+<span class="FF-bugfix">
+Escocia - League One
+</span>
+</a>
+</li>
+<li data-sb_type_id="19570">
+<a href="/es/t/19570/Escocia-League-Two">
+<span class="FF-bugfix">
+Escocia - League Two
+</span>
+</a>
+</li>
+<li data-sb_type_id="19881">
+<a href="/es/t/19881/Gales-Premier-League">
+<span class="FF-bugfix">
+Gales - Premier League
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="25684">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Apuestas Anticipadas
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="48274">
+<a href="/es/t/48274/Inglaterra-Premier-League">
+<span class="FF-bugfix">
+Inglaterra - Premier League
+</span>
+</a>
+</li>
+<li data-sb_type_id="48275">
+<a href="/es/t/48275/Inglaterra-Championship">
+<span class="FF-bugfix">
+Inglaterra - Championship
+</span>
+</a>
+</li>
+<li data-sb_type_id="48276">
+<a href="/es/t/48276/Inglaterra-League-One">
+<span class="FF-bugfix">
+Inglaterra - League One
+</span>
+</a>
+</li>
+<li data-sb_type_id="48277">
+<a href="/es/t/48277/Inglaterra-League-Two">
+<span class="FF-bugfix">
+Inglaterra - League Two
+</span>
+</a>
+</li>
+<li data-sb_type_id="48504">
+<a href="/es/t/48504/Inglaterra-National-League">
+<span class="FF-bugfix">
+Inglaterra - National League
+</span>
+</a>
+</li>
+<li data-sb_type_id="48287">
+<a href="/es/t/48287/Inglaterra-FA-Cup">
+<span class="FF-bugfix">
+Inglaterra - FA Cup
+</span>
+</a>
+</li>
+<li data-sb_type_id="48509">
+<a href="/es/t/48509/England-League-Cup">
+<span class="FF-bugfix">
+England - League Cup
+</span>
+</a>
+</li>
+<li data-sb_type_id="48286">
+<a href="/es/t/48286/Escocia-Premiership">
+<span class="FF-bugfix">
+Escocia - Premiership
+</span>
+</a>
+</li>
+<li data-sb_type_id="48505">
+<a href="/es/t/48505/Escocia-Championship">
+<span class="FF-bugfix">
+Escocia - Championship
+</span>
+</a>
+</li>
+<li data-sb_type_id="48506">
+<a href="/es/t/48506/Escocia-League-One">
+<span class="FF-bugfix">
+Escocia - League One
+</span>
+</a>
+</li>
+<li data-sb_type_id="48507">
+<a href="/es/t/48507/Escocia-League-Two">
+<span class="FF-bugfix">
+Escocia - League Two
+</span>
+</a>
+</li>
+<li data-sb_type_id="48295">
+<a href="/es/t/48295/Francia-Ligue-1">
+<span class="FF-bugfix">
+Francia - Ligue 1
+</span>
+</a>
+</li>
+<li data-sb_type_id="48279">
+<a href="/es/t/48279/Alemania-Bundesliga">
+<span class="FF-bugfix">
+Alemania - Bundesliga
+</span>
+</a>
+</li>
+<li data-sb_type_id="48296">
+<a href="/es/t/48296/Italia-Serie-A">
+<span class="FF-bugfix">
+Italia - Serie A
+</span>
+</a>
+</li>
+<li data-sb_type_id="48278">
+<a href="/es/t/48278/Espa%C3%B1a-LaLiga">
+<span class="FF-bugfix">
+España - LaLiga
+</span>
+</a>
+</li>
+<li data-sb_type_id="49011">
+<a href="/es/t/49011/Holanda-Eredivisie">
+<span class="FF-bugfix">
+Holanda - Eredivisie
+</span>
+</a>
+</li>
+<li data-sb_type_id="48300">
+<a href="/es/t/48300/Portugal-Primeira-Liga">
+<span class="FF-bugfix">
+Portugal - Primeira Liga
+</span>
+</a>
+</li>
+<li data-sb_type_id="48298">
+<a href="/es/t/48298/UEFA-Liga-de-Campeones">
+<span class="FF-bugfix">
+UEFA - Liga de Campeones
+</span>
+</a>
+</li>
+<li data-sb_type_id="48958">
+<a href="/es/t/48958/UEFA-Champions-League-Group-Betting">
+<span class="FF-bugfix">
+UEFA - Champions League - Group Betting
+</span>
+</a>
+</li>
+<li data-sb_type_id="48299">
+<a href="/es/t/48299/UEFA-Europa-League">
+<span class="FF-bugfix">
+UEFA - Europa League
+</span>
+</a>
+</li>
+<li data-sb_type_id="48960">
+<a href="/es/t/48960/UEFA-Europa-League-Group-Betting">
+<span class="FF-bugfix">
+UEFA - Europa League - Group Betting
+</span>
+</a>
+</li>
+<li data-sb_type_id="48306">
+<a href="/es/t/48306/FIFA-World-Cup-2018">
+<span class="FF-bugfix">
+FIFA - World Cup 2018
+</span>
+</a>
+</li>
+<li data-sb_type_id="48305">
+<a href="/es/t/48305/FIFA-World-Cup-Groups">
+<span class="FF-bugfix">
+FIFA - World Cup Groups
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12432">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Italia
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="19159">
+<a href="/es/t/19159/Italia-Serie-A">
+<span class="FF-bugfix">
+Italia - Serie A
+</span>
+</a>
+</li>
+<li data-sb_type_id="19328">
+<a href="/es/t/19328/Italia-Serie-B">
+<span class="FF-bugfix">
+Italia - Serie B
+</span>
+</a>
+</li>
+<li data-sb_type_id="19942">
+<a href="/es/t/19942/Italy-Serie-C">
+<span class="FF-bugfix">
+Italy - Serie C
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12512">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Francia
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="19327">
+<a href="/es/t/19327/Francia-Ligue-1">
+<span class="FF-bugfix">
+Francia - Ligue 1
+</span>
+</a>
+</li>
+<li data-sb_type_id="19405">
+<a href="/es/t/19405/Francia-Ligue-2">
+<span class="FF-bugfix">
+Francia - Ligue 2
+</span>
+</a>
+</li>
+<li data-sb_type_id="19869">
+<a href="/es/t/19869/Francia-National">
+<span class="FF-bugfix">
+Francia - National
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12431">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Alemania
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="19158">
+<a href="/es/t/19158/Alemania-Bundesliga-1">
+<span class="FF-bugfix">
+Alemania - Bundesliga 1
+</span>
+</a>
+</li>
+<li data-sb_type_id="19344">
+<a href="/es/t/19344/Alemania-Bundesliga-2">
+<span class="FF-bugfix">
+Alemania - Bundesliga 2
+</span>
+</a>
+</li>
+<li data-sb_type_id="19366">
+<a href="/es/t/19366/Alemania-Bundesliga-3">
+<span class="FF-bugfix">
+Alemania - Bundesliga 3
+</span>
+</a>
+</li>
+<li data-sb_type_id="19380">
+<a href="/es/t/19380/Alemania-Regionalliga">
+<span class="FF-bugfix">
+Alemania - Regionalliga
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12434">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Europa
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="19738">
+<a href="/es/t/19738/Copa-de-Armenia">
+<span class="FF-bugfix">
+Copa de Armenia
+</span>
+</a>
+</li>
+<li data-sb_type_id="19347">
+<a href="/es/t/19347/Austria-Bundesliga">
+<span class="FF-bugfix">
+Austria - Bundesliga
+</span>
+</a>
+</li>
+<li data-sb_type_id="19371">
+<a href="/es/t/19371/Austria-Erste-Liga">
+<span class="FF-bugfix">
+Austria - Erste Liga
+</span>
+</a>
+</li>
+<li data-sb_type_id="19372">
+<a href="/es/t/19372/Belgium-First-Division-A">
+<span class="FF-bugfix">
+Belgium - First Division A
+</span>
+</a>
+</li>
+<li data-sb_type_id="19774">
+<a href="/es/t/19774/B%C3%A9lgica">
+<span class="FF-bugfix">
+Bélgica
+</span>
+</a>
+</li>
+<li data-sb_type_id="19391">
+<a href="/es/t/19391/Bulgaria-First-League">
+<span class="FF-bugfix">
+Bulgaria - First League
+</span>
+</a>
+</li>
+<li data-sb_type_id="19390">
+<a href="/es/t/19390/Croacia-1.HNL">
+<span class="FF-bugfix">
+Croacia - 1.HNL
+</span>
+</a>
+</li>
+<li data-sb_type_id="19403">
+<a href="/es/t/19403/Czech-Republic-First-League">
+<span class="FF-bugfix">
+Czech Republic - First League
+</span>
+</a>
+</li>
+<li data-sb_type_id="21948">
+<a href="/es/t/21948/Georgia-Pirveli-Liga">
+<span class="FF-bugfix">
+Georgia - Pirveli Liga
+</span>
+</a>
+</li>
+<li data-sb_type_id="46697">
+<a href="/es/t/46697/Georgia-U19-Soccer-League">
+<span class="FF-bugfix">
+Georgia - U19 Soccer League
+</span>
+</a>
+</li>
+<li data-sb_type_id="19209">
+<a href="/es/t/19209/Grecia-Super-League">
+<span class="FF-bugfix">
+Grecia - Super League
+</span>
+</a>
+</li>
+<li data-sb_type_id="19316">
+<a href="/es/t/19316/Hungr%C3%ADa-NB1">
+<span class="FF-bugfix">
+Hungría - NB1
+</span>
+</a>
+</li>
+<li data-sb_type_id="19940">
+<a href="/es/t/19940/Islandia-Premier-League">
+<span class="FF-bugfix">
+Islandia - Premier League
+</span>
+</a>
+</li>
+<li data-sb_type_id="19480">
+<a href="/es/t/19480/Lituania-A-Lyga">
+<span class="FF-bugfix">
+Lituania - A Lyga
+</span>
+</a>
+</li>
+<li data-sb_type_id="19358">
+<a href="/es/t/19358/Holanda-Eredivisie">
+<span class="FF-bugfix">
+Holanda - Eredivisie
+</span>
+</a>
+</li>
+<li data-sb_type_id="19375">
+<a href="/es/t/19375/Holanda-Eerste-Divisie">
+<span class="FF-bugfix">
+Holanda - Eerste Divisie
+</span>
+</a>
+</li>
+<li data-sb_type_id="19336">
+<a href="/es/t/19336/Polonia-Ekstraklasa">
+<span class="FF-bugfix">
+Polonia - Ekstraklasa
+</span>
+</a>
+</li>
+<li data-sb_type_id="19416">
+<a href="/es/t/19416/Polonia-I-liga">
+<span class="FF-bugfix">
+Polonia - I liga
+</span>
+</a>
+</li>
+<li data-sb_type_id="19211">
+<a href="/es/t/19211/Portugal-Primeira-Liga">
+<span class="FF-bugfix">
+Portugal - Primeira Liga
+</span>
+</a>
+</li>
+<li data-sb_type_id="19338">
+<a href="/es/t/19338/Portugal-Segunda-Liga">
+<span class="FF-bugfix">
+Portugal - Segunda Liga
+</span>
+</a>
+</li>
+<li data-sb_type_id="46019">
+<a href="/es/t/46019/Ruman%C3%ADa-Liga-1">
+<span class="FF-bugfix">
+Rumanía - Liga 1
+</span>
+</a>
+</li>
+<li data-sb_type_id="19388">
+<a href="/es/t/19388/Rusia-Premier-League">
+<span class="FF-bugfix">
+Rusia - Premier League
+</span>
+</a>
+</li>
+<li data-sb_type_id="19487">
+<a href="/es/t/19487/Rusia-Division-1">
+<span class="FF-bugfix">
+Rusia - Division 1
+</span>
+</a>
+</li>
+<li data-sb_type_id="28738">
+<a href="/es/t/28738/Russia-Moskovskaya-Oblast">
+<span class="FF-bugfix">
+Russia - Moskovskaya Oblast
+</span>
+</a>
+</li>
+<li data-sb_type_id="19410">
+<a href="/es/t/19410/Eslovaquia-Super-Liga">
+<span class="FF-bugfix">
+Eslovaquia - Super Liga
+</span>
+</a>
+</li>
+<li data-sb_type_id="19415">
+<a href="/es/t/19415/Copa-de-Eslovaquia">
+<span class="FF-bugfix">
+Copa de Eslovaquia
+</span>
+</a>
+</li>
+<li data-sb_type_id="19384">
+<a href="/es/t/19384/Eslovenia-Prva-Liga">
+<span class="FF-bugfix">
+Eslovenia - Prva Liga
+</span>
+</a>
+</li>
+<li data-sb_type_id="19305">
+<a href="/es/t/19305/Suiza-Super-League">
+<span class="FF-bugfix">
+Suiza - Super League
+</span>
+</a>
+</li>
+<li data-sb_type_id="19363">
+<a href="/es/t/19363/Turqu%C3%ADa-Super-League">
+<span class="FF-bugfix">
+Turquía - Super League
+</span>
+</a>
+</li>
+<li data-sb_type_id="19370">
+<a href="/es/t/19370/Turqu%C3%ADa-TFF-League-1">
+<span class="FF-bugfix">
+Turquía - TFF League 1
+</span>
+</a>
+</li>
+<li data-sb_type_id="19383">
+<a href="/es/t/19383/Ucrania-Premier-League">
+<span class="FF-bugfix">
+Ucrania - Premier League
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12521">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+América
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="19296">
+<a href="/es/t/19296/Argentina-Superliga">
+<span class="FF-bugfix">
+Argentina - Superliga
+</span>
+</a>
+</li>
+<li data-sb_type_id="19342">
+<a href="/es/t/19342/Argentina-Primera-B-Nacional">
+<span class="FF-bugfix">
+Argentina - Primera B Nacional
+</span>
+</a>
+</li>
+<li data-sb_type_id="19297">
+<a href="/es/t/19297/Brasil-Serie-A">
+<span class="FF-bugfix">
+Brasil - Serie A
+</span>
+</a>
+</li>
+<li data-sb_type_id="19393">
+<a href="/es/t/19393/Brasil-Serie-B">
+<span class="FF-bugfix">
+Brasil - Serie B
+</span>
+</a>
+</li>
+<li data-sb_type_id="26866">
+<a href="/es/t/26866/Brazil-U20">
+<span class="FF-bugfix">
+Brazil - U20
+</span>
+</a>
+</li>
+<li data-sb_type_id="19799">
+<a href="/es/t/19799/Copa-de-Chile">
+<span class="FF-bugfix">
+Copa de Chile
+</span>
+</a>
+</li>
+<li data-sb_type_id="29698">
+<a href="/es/t/29698/Colombia-Copa-Colombia">
+<span class="FF-bugfix">
+Colombia - Copa Colombia
+</span>
+</a>
+</li>
+<li data-sb_type_id="19311">
+<a href="/es/t/19311/Colombia-Primera-A">
+<span class="FF-bugfix">
+Colombia - Primera A
+</span>
+</a>
+</li>
+<li data-sb_type_id="19462">
+<a href="/es/t/19462/Copa-Libertadores">
+<span class="FF-bugfix">
+Copa Libertadores
+</span>
+</a>
+</li>
+<li data-sb_type_id="19348">
+<a href="/es/t/19348/Copa-Sudamericana">
+<span class="FF-bugfix">
+Copa Sudamericana
+</span>
+</a>
+</li>
+<li data-sb_type_id="19402">
+<a href="/es/t/19402/Costa-Rica-Primera-Divisi%C3%B3n">
+<span class="FF-bugfix">
+Costa Rica - Primera División
+</span>
+</a>
+</li>
+<li data-sb_type_id="19469">
+<a href="/es/t/19469/Honduras-Liga-Nacional">
+<span class="FF-bugfix">
+Honduras - Liga Nacional
+</span>
+</a>
+</li>
+<li data-sb_type_id="19329">
+<a href="/es/t/19329/Mexico-Liga-MX">
+<span class="FF-bugfix">
+Mexico - Liga MX
+</span>
+</a>
+</li>
+<li data-sb_type_id="19414">
+<a href="/es/t/19414/M%C3%A9xico-Liga-de-Ascenso">
+<span class="FF-bugfix">
+México - Liga de Ascenso
+</span>
+</a>
+</li>
+<li data-sb_type_id="19359">
+<a href="/es/t/19359/Paraguay-Primera-Divisi%C3%B3n">
+<span class="FF-bugfix">
+Paraguay - Primera División
+</span>
+</a>
+</li>
+<li data-sb_type_id="19340">
+<a href="/es/t/19340/Per%C3%BA-Primera-Divisi%C3%B3n">
+<span class="FF-bugfix">
+Perú - Primera División
+</span>
+</a>
+</li>
+<li data-sb_type_id="19398">
+<a href="/es/t/19398/Uruguay-Primera-Divisi%C3%B3n">
+<span class="FF-bugfix">
+Uruguay - Primera División
+</span>
+</a>
+</li>
+<li data-sb_type_id="19302">
+<a href="/es/t/19302/EE.UU-MLS">
+<span class="FF-bugfix">
+EE.UU - MLS
+</span>
+</a>
+</li>
+<li data-sb_type_id="20080">
+<a href="/es/t/20080/Venezuela-Primera-Divisi%C3%B3n">
+<span class="FF-bugfix">
+Venezuela - Primera División
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12709">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Asia
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="19485">
+<a href="/es/t/19485/China-Super-League">
+<span class="FF-bugfix">
+China - Super League
+</span>
+</a>
+</li>
+<li data-sb_type_id="19441">
+<a href="/es/t/19441/Ir%C3%A1n-Pro-League">
+<span class="FF-bugfix">
+Irán - Pro League
+</span>
+</a>
+</li>
+<li data-sb_type_id="19378">
+<a href="/es/t/19378/Japon-J-League">
+<span class="FF-bugfix">
+Japon - J-League
+</span>
+</a>
+</li>
+<li data-sb_type_id="19301">
+<a href="/es/t/19301/Japon-J-League-2">
+<span class="FF-bugfix">
+Japon - J-League 2
+</span>
+</a>
+</li>
+<li data-sb_type_id="19436">
+<a href="/es/t/19436/Jordania-Premier-League">
+<span class="FF-bugfix">
+Jordania - Premier League
+</span>
+</a>
+</li>
+<li data-sb_type_id="19963">
+<a href="/es/t/19963/Kuwait-Premier-League">
+<span class="FF-bugfix">
+Kuwait - Premier League
+</span>
+</a>
+</li>
+<li data-sb_type_id="19421">
+<a href="/es/t/19421/Qatar-Stars-League">
+<span class="FF-bugfix">
+Qatar - Stars League
+</span>
+</a>
+</li>
+<li data-sb_type_id="19361">
+<a href="/es/t/19361/Arabia-Saudi-Professional-League">
+<span class="FF-bugfix">
+Arabia Saudi - Professional League
+</span>
+</a>
+</li>
+<li data-sb_type_id="19463">
+<a href="/es/t/19463/Singapur-S.League">
+<span class="FF-bugfix">
+Singapur - S.League
+</span>
+</a>
+</li>
+<li data-sb_type_id="19306">
+<a href="/es/t/19306/Coral-del-Sur-K-League-Classic">
+<span class="FF-bugfix">
+Coral del Sur - K-League Classic
+</span>
+</a>
+</li>
+<li data-sb_type_id="47954">
+<a href="/es/t/47954/Tajikistan-Tajik-League">
+<span class="FF-bugfix">
+Tajikistan - Tajik League
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="14454">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+África
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="29730">
+<a href="/es/t/29730/Egipto-Premier-League">
+<span class="FF-bugfix">
+Egipto - Premier League
+</span>
+</a>
+</li>
+<li data-sb_type_id="29746">
+<a href="/es/t/29746/Sudafrica-Premier-League">
+<span class="FF-bugfix">
+Sudafrica - Premier League
+</span>
+</a>
+</li>
+<li data-sb_type_id="29758">
+<a href="/es/t/29758/Kenya-Premier-League">
+<span class="FF-bugfix">
+Kenya - Premier League
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12465">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Australia
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="29774">
+<a href="/es/t/29774/Australia-A-League">
+<span class="FF-bugfix">
+Australia - A-League
+</span>
+</a>
+</li>
+<li data-sb_type_id="27753">
+<a href="/es/t/27753/Australia-Brisbane-Premier-League">
+<span class="FF-bugfix">
+Australia - Brisbane Premier League
+</span>
+</a>
+</li>
+<li data-sb_type_id="29918">
+<a href="/es/t/29918/Australia-FFA-Cup">
+<span class="FF-bugfix">
+Australia - FFA Cup
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="14334">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Escandinávia
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="19299">
+<a href="/es/t/19299/Dinamarca-Superliga">
+<span class="FF-bugfix">
+Dinamarca - Superliga
+</span>
+</a>
+</li>
+<li data-sb_type_id="19292">
+<a href="/es/t/19292/Dinamarca-Division-1">
+<span class="FF-bugfix">
+Dinamarca - Division 1
+</span>
+</a>
+</li>
+<li data-sb_type_id="19437">
+<a href="/es/t/19437/Dinamarca-Division-2">
+<span class="FF-bugfix">
+Dinamarca - Division 2
+</span>
+</a>
+</li>
+<li data-sb_type_id="19314">
+<a href="/es/t/19314/Finlandia-Veikkausliiga">
+<span class="FF-bugfix">
+Finlandia - Veikkausliiga
+</span>
+</a>
+</li>
+<li data-sb_type_id="19496">
+<a href="/es/t/19496/Finlandia-Ykkonen">
+<span class="FF-bugfix">
+Finlandia - Ykkonen
+</span>
+</a>
+</li>
+<li data-sb_type_id="19865">
+<a href="/es/t/19865/Finlandia-Kakkonen">
+<span class="FF-bugfix">
+Finlandia - Kakkonen
+</span>
+</a>
+</li>
+<li data-sb_type_id="19472">
+<a href="/es/t/19472/Norway-Eliteserien">
+<span class="FF-bugfix">
+Norway - Eliteserien
+</span>
+</a>
+</li>
+<li data-sb_type_id="19486">
+<a href="/es/t/19486/Norway-1st-Division">
+<span class="FF-bugfix">
+Norway - 1st Division
+</span>
+</a>
+</li>
+<li data-sb_type_id="20019">
+<a href="/es/t/20019/Noruega-Division-3">
+<span class="FF-bugfix">
+Noruega - Division 3
+</span>
+</a>
+</li>
+<li data-sb_type_id="20022">
+<a href="/es/t/20022/Norway-U19-League">
+<span class="FF-bugfix">
+Norway - U19 League
+</span>
+</a>
+</li>
+<li data-sb_type_id="19308">
+<a href="/es/t/19308/Suecia-Allsvenskan">
+<span class="FF-bugfix">
+Suecia - Allsvenskan
+</span>
+</a>
+</li>
+<li data-sb_type_id="19428">
+<a href="/es/t/19428/Suecia-Superettan">
+<span class="FF-bugfix">
+Suecia - Superettan
+</span>
+</a>
+</li>
+<li data-sb_type_id="20053">
+<a href="/es/t/20053/Suecia-Division-1">
+<span class="FF-bugfix">
+Suecia - Division 1
+</span>
+</a>
+</li>
+<li data-sb_type_id="19500">
+<a href="/es/t/19500/Suecia-Division-2">
+<span class="FF-bugfix">
+Suecia - Division 2
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12519">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Irlanda
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="19427">
+<a href="/es/t/19427/Irlanda-Premier-Division">
+<span class="FF-bugfix">
+Irlanda - Premier Division
+</span>
+</a>
+</li>
+<li data-sb_type_id="19343">
+<a href="/es/t/19343/-Irlanda-1-Division">
+<span class="FF-bugfix">
+Irlanda - 1 Division
+</span>
+</a>
+</li>
+<li data-sb_type_id="19932">
+<a href="/es/t/19932/Irlanda-League-Cup">
+<span class="FF-bugfix">
+Irlanda - League Cup
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="14447">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Fútbol femenino
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="32032">
+<a href="/es/t/32032/Womens-International-Friendlies">
+<span class="FF-bugfix">
+Womens International - Friendlies
+</span>
+</a>
+</li>
+<li data-sb_type_id="32979">
+<a href="/es/t/32979/Womens-International-U19-European-Championship">
+<span class="FF-bugfix">
+Womens International - U19 European Championship
+</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed sport-TENN" data-sport_code="TENN" data-title="Tennis">
+<span class="expander-button"></span>
+<a href="/es/s/TENN/Tenis">
+<span class="FF-bugfix">
+Tenis
+</span>
+</a>
+<ul class="expander-content">
+<li class="expander expander-collapsed" data-sb_class_id="12726">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+WTA Quebec
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="25212">
+<a href="/es/t/25212/Individuales-Femeninos">
+<span class="FF-bugfix">
+Individuales Femeninos
+</span>
+</a>
+</li>
+<li data-sb_type_id="25365">
+<a href="/es/t/25365/Dobles-Femeninos">
+<span class="FF-bugfix">
+Dobles Femeninos
+</span>
+</a>
+</li>
+<li data-sb_type_id="46485">
+<a href="/es/t/46485/Ganadora-Ind.-Femenino">
+<span class="FF-bugfix">
+Ganadora Ind. Femenino
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="13828">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+WTA Tokyo International
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="25554">
+<a href="/es/t/25554/Individuales-Femeninos">
+<span class="FF-bugfix">
+Individuales Femeninos
+</span>
+</a>
+</li>
+<li data-sb_type_id="30396">
+<a href="/es/t/30396/Dobles-Femeninos">
+<span class="FF-bugfix">
+Dobles Femeninos
+</span>
+</a>
+</li>
+<li data-sb_type_id="46484">
+<a href="/es/t/46484/Ganadora-Ind.-Femenino">
+<span class="FF-bugfix">
+Ganadora Ind. Femenino
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12724">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Challenger Banja Luka
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="21448">
+<a href="/es/t/21448/Individuales-Masculinos">
+<span class="FF-bugfix">
+Individuales Masculinos
+</span>
+</a>
+</li>
+<li data-sb_type_id="30414">
+<a href="/es/t/30414/Dobles-masculinos">
+<span class="FF-bugfix">
+Dobles masculinos
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="14901">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Challenger Cary
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="33366">
+<a href="/es/t/33366/Individuales-Masculinos">
+<span class="FF-bugfix">
+Individuales Masculinos
+</span>
+</a>
+</li>
+<li data-sb_type_id="33368">
+<a href="/es/t/33368/Dobles-masculinos">
+<span class="FF-bugfix">
+Dobles masculinos
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12731">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Challenger Istanbul
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="27542">
+<a href="/es/t/27542/Individuales-Masculinos">
+<span class="FF-bugfix">
+Individuales Masculinos
+</span>
+</a>
+</li>
+<li data-sb_type_id="27544">
+<a href="/es/t/27544/Dobles-masculinos">
+<span class="FF-bugfix">
+Dobles masculinos
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="13744">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Challenger Shanghai
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="30409">
+<a href="/es/t/30409/Dobles-masculinos">
+<span class="FF-bugfix">
+Dobles masculinos
+</span>
+</a>
+</li>
+<li data-sb_type_id="25119">
+<a href="/es/t/25119/Individuales-Masculinos">
+<span class="FF-bugfix">
+Individuales Masculinos
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="13804">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Challenger Szczecin
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="25464">
+<a href="/es/t/25464/Individuales-Masculinos">
+<span class="FF-bugfix">
+Individuales Masculinos
+</span>
+</a>
+</li>
+<li data-sb_type_id="30412">
+<a href="/es/t/30412/Dobles-masculinos">
+<span class="FF-bugfix">
+Dobles masculinos
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="14229">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+ITF Antalya
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="28085">
+<a href="/es/t/28085/Individuales-Masculinos">
+<span class="FF-bugfix">
+Individuales Masculinos
+</span>
+</a>
+</li>
+<li data-sb_type_id="28084">
+<a href="/es/t/28084/Dobles-masculinos">
+<span class="FF-bugfix">
+Dobles masculinos
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12895">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+ITF Buenos Aires
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="22025">
+<a href="/es/t/22025/Individuales-Masculinos">
+<span class="FF-bugfix">
+Individuales Masculinos
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="13167">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+ITF Cairo
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="23007">
+<a href="/es/t/23007/Individuales-Masculinos">
+<span class="FF-bugfix">
+Individuales Masculinos
+</span>
+</a>
+</li>
+<li data-sb_type_id="31473">
+<a href="/es/t/31473/Dobles-masculinos">
+<span class="FF-bugfix">
+Dobles masculinos
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="25154">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+ITF Hammamet
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="44533">
+<a href="/es/t/44533/Individuales-Masculinos">
+<span class="FF-bugfix">
+Individuales Masculinos
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="13760">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+ITF Mulhouse
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="25216">
+<a href="/es/t/25216/Individuales-Masculinos">
+<span class="FF-bugfix">
+Individuales Masculinos
+</span>
+</a>
+</li>
+<li data-sb_type_id="25363">
+<a href="/es/t/25363/Dobles-masculinos">
+<span class="FF-bugfix">
+Dobles masculinos
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="13608">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+ITF Nottingham
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="24643">
+<a href="/es/t/24643/Individuales-Masculinos">
+<span class="FF-bugfix">
+Individuales Masculinos
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="13289">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+ITF Santa Margherita Di Pula
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="23404">
+<a href="/es/t/23404/Individuales-Masculinos">
+<span class="FF-bugfix">
+Individuales Masculinos
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="13813">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+ITF Sevilla
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="25519">
+<a href="/es/t/25519/Individuales-Masculinos">
+<span class="FF-bugfix">
+Individuales Masculinos
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="13742">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+ITF Toronto
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="25115">
+<a href="/es/t/25115/Individuales-Masculinos">
+<span class="FF-bugfix">
+Individuales Masculinos
+</span>
+</a>
+</li>
+<li data-sb_type_id="25180">
+<a href="/es/t/25180/Dobles-masculinos">
+<span class="FF-bugfix">
+Dobles masculinos
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="13150">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+ITF Femenino Antalya
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="22943">
+<a href="/es/t/22943/Individuales-Femeninos">
+<span class="FF-bugfix">
+Individuales Femeninos
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="13780">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+ITF Femenino Batumi
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="25375">
+<a href="/es/t/25375/Individuales-Femeninos">
+<span class="FF-bugfix">
+Individuales Femeninos
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="13480">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+ITF Femenino Biarritz
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="24183">
+<a href="/es/t/24183/Individuales-Femeninos">
+<span class="FF-bugfix">
+Individuales Femeninos
+</span>
+</a>
+</li>
+<li data-sb_type_id="29431">
+<a href="/es/t/29431/Dobles-Femeninos">
+<span class="FF-bugfix">
+Dobles Femeninos
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="13761">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+ITF Femenino Buenos Aires
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="25219">
+<a href="/es/t/25219/Individuales-Femeninos">
+<span class="FF-bugfix">
+Individuales Femeninos
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="25435">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+ITF Femenino Guiyang
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="46361">
+<a href="/es/t/46361/Individuales-Femeninos">
+<span class="FF-bugfix">
+Individuales Femeninos
+</span>
+</a>
+</li>
+<li data-sb_type_id="46362">
+<a href="/es/t/46362/Dobles-Femeninos">
+<span class="FF-bugfix">
+Dobles Femeninos
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="25159">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+ITF Femenino Hammamet
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="44546">
+<a href="/es/t/44546/Individuales-Femeninos">
+<span class="FF-bugfix">
+Individuales Femeninos
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="13821">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+ITF Femenino Las Vegas
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="25535">
+<a href="/es/t/25535/Individuales-Femeninos">
+<span class="FF-bugfix">
+Individuales Femeninos
+</span>
+</a>
+</li>
+<li data-sb_type_id="25606">
+<a href="/es/t/25606/Dobles-Femeninos">
+<span class="FF-bugfix">
+Dobles Femeninos
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="13298">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+ITF Femenino Prague
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="23441">
+<a href="/es/t/23441/Individuales-Femeninos">
+<span class="FF-bugfix">
+Individuales Femeninos
+</span>
+</a>
+</li>
+<li data-sb_type_id="28634">
+<a href="/es/t/28634/Dobles-Femeninos">
+<span class="FF-bugfix">
+Dobles Femeninos
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="13764">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+ITF Femenino Redding
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="25226">
+<a href="/es/t/25226/Individuales-Femeninos">
+<span class="FF-bugfix">
+Individuales Femeninos
+</span>
+</a>
+</li>
+<li data-sb_type_id="25272">
+<a href="/es/t/25272/Dobles-Femeninos">
+<span class="FF-bugfix">
+Dobles Femeninos
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="13757">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+ITF Femenino Santa Margherita Di Pula
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="25210">
+<a href="/es/t/25210/Individuales-Femeninos">
+<span class="FF-bugfix">
+Individuales Femeninos
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="25852">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+ITF Femenino Szekesfehervar
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="49098">
+<a href="/es/t/49098/Individuales-Femeninos">
+<span class="FF-bugfix">
+Individuales Femeninos
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12732">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Copa Davis
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="21462">
+<a href="/es/t/21462/World-Group-Matches">
+<span class="FF-bugfix">
+World Group - Matches
+</span>
+</a>
+</li>
+<li data-sb_type_id="22493">
+<a href="/es/t/22493/World-Group-Tie-Winner">
+<span class="FF-bugfix">
+World Group - Tie Winner
+</span>
+</a>
+</li>
+<li data-sb_type_id="33003">
+<a href="/es/t/33003/Group-I-Matches">
+<span class="FF-bugfix">
+Group I - Matches
+</span>
+</a>
+</li>
+<li data-sb_type_id="33002">
+<a href="/es/t/33002/Group-I-Tie-Winner">
+<span class="FF-bugfix">
+Group I - Tie Winner
+</span>
+</a>
+</li>
+<li data-sb_type_id="33005">
+<a href="/es/t/33005/Group-II-Matches">
+<span class="FF-bugfix">
+Group II - Matches
+</span>
+</a>
+</li>
+<li data-sb_type_id="33007">
+<a href="/es/t/33007/Group-II-Tie-Winner">
+<span class="FF-bugfix">
+Group II - Tie Winner
+</span>
+</a>
+</li>
+<li data-sb_type_id="21873">
+<a href="/es/t/21873/Campe%C3%B3n-Absoluto">
+<span class="FF-bugfix">
+Campeón Absoluto
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12718">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Open de Australia
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="21427">
+<a href="/es/t/21427/Ganador-Masculino">
+<span class="FF-bugfix">
+Ganador Masculino
+</span>
+</a>
+</li>
+<li data-sb_type_id="21428">
+<a href="/es/t/21428/Ganadora-Ind.-Femenino">
+<span class="FF-bugfix">
+Ganadora Ind. Femenino
+</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed sport-BASK" data-sport_code="BASK" data-title="Basketball">
+<span class="expander-button"></span>
+<a href="/es/s/BASK/Baloncesto">
+<span class="FF-bugfix">
+Baloncesto
+</span>
+</a>
+<ul class="expander-content">
+<li class="expander expander-collapsed" data-sb_class_id="12449">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+España
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="49021">
+<a href="/es/t/49021/Liga-ACB-Ganador">
+<span class="FF-bugfix">
+Liga ACB Ganador
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12714">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Internacional
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="21414">
+<a href="/es/t/21414/Ganador-de-la-Euroliga">
+<span class="FF-bugfix">
+Ganador de la Euroliga
+</span>
+</a>
+</li>
+<li data-sb_type_id="21724">
+<a href="/es/t/21724/Eurocup-Winner">
+<span class="FF-bugfix">
+Eurocup Winner
+</span>
+</a>
+</li>
+<li data-sb_type_id="21437">
+<a href="/es/t/21437/Club-Friendly-Matches">
+<span class="FF-bugfix">
+Club Friendly Matches
+</span>
+</a>
+</li>
+<li data-sb_type_id="25571">
+<a href="/es/t/25571/Club-Friendly-Matches-%28Women%29">
+<span class="FF-bugfix">
+Club Friendly Matches (Women)
+</span>
+</a>
+</li>
+<li data-sb_type_id="49101">
+<a href="/es/t/49101/Seri-Mutiara-Cup">
+<span class="FF-bugfix">
+Seri Mutiara Cup
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12442">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+EE.UU
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="32848">
+<a href="/es/t/32848/NBA-Torneo">
+<span class="FF-bugfix">
+NBA - Torneo
+</span>
+</a>
+</li>
+<li data-sb_type_id="33086">
+<a href="/es/t/33086/NBA-Conferencias">
+<span class="FF-bugfix">
+NBA - Conferencias
+</span>
+</a>
+</li>
+<li data-sb_type_id="33612">
+<a href="/es/t/33612/NBA-Divisiones">
+<span class="FF-bugfix">
+NBA - Divisiones
+</span>
+</a>
+</li>
+<li data-sb_type_id="19203">
+<a href="/es/t/19203/WNBA">
+<span class="FF-bugfix">
+WNBA
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="25727">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+EuroBasket
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="48976">
+<a href="/es/t/48976/EuroBasket">
+<span class="FF-bugfix">
+EuroBasket
+</span>
+</a>
+</li>
+<li data-sb_type_id="48474">
+<a href="/es/t/48474/EuroBasket-Winner">
+<span class="FF-bugfix">
+EuroBasket - Winner
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="25851">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+AfroBasket
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="49081">
+<a href="/es/t/49081/AfroBasket">
+<span class="FF-bugfix">
+AfroBasket
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="14758">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Bahréin
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="32303">
+<a href="/es/t/32303/Premier-League">
+<span class="FF-bugfix">
+Premier League
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12459">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Brasil
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="33232">
+<a href="/es/t/33232/Campeonato-Paulista">
+<span class="FF-bugfix">
+Campeonato Paulista
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="25529">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+El Salvador
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="46962">
+<a href="/es/t/46962/Liga-Mayor">
+<span class="FF-bugfix">
+Liga Mayor
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12447">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Grecia
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="19611">
+<a href="/es/t/19611/A1-Winner">
+<span class="FF-bugfix">
+A1 Winner
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12437">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Rusia
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="30996">
+<a href="/es/t/30996/Cup-%28women%29">
+<span class="FF-bugfix">
+Cup (women)
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="25409">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Vietnam
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="46213">
+<a href="/es/t/46213/VBA">
+<span class="FF-bugfix">
+VBA
+</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed sport-VOLL" data-sport_code="VOLL" data-title="Volleyball">
+<span class="expander-button"></span>
+<a href="/es/s/VOLL/V%C3%B3leibol">
+<span class="FF-bugfix">
+Vóleibol
+</span>
+</a>
+<ul class="expander-content">
+<li class="expander expander-collapsed" data-sb_class_id="25808">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+World Championship U23
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="48843">
+<a href="/es/t/48843/Individuales-Femeninos">
+<span class="FF-bugfix">
+Individuales Femeninos
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="25836">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+FIVB Grand Champions Cup
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="49016">
+<a href="/es/t/49016/Individuales-Masculinos">
+<span class="FF-bugfix">
+Individuales Masculinos
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12651">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Serbia
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="33729">
+<a href="/es/t/33729/Super-Cup-%28Women%29">
+<span class="FF-bugfix">
+Super Cup (Women)
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="25277">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Vietnam
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="49093">
+<a href="/es/t/49093/Vinh-Long-Open-Cup-%28Men%29">
+<span class="FF-bugfix">
+Vinh Long Open Cup (Men)
+</span>
+</a>
+</li>
+<li data-sb_type_id="49094">
+<a href="/es/t/49094/Vinh-Long-Open-Cup-%28Women%29">
+<span class="FF-bugfix">
+Vinh Long Open Cup (Women)
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="15024">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Jordania
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="45455">
+<a href="/es/t/45455/Jordan-Volleyball-League-%28Women%29">
+<span class="FF-bugfix">
+Jordan Volleyball League (Women)
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12574">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Internacional
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="33399">
+<a href="/es/t/33399/Club-Friendly-%28Men%29">
+<span class="FF-bugfix">
+Club Friendly (Men)
+</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed sport-HAND" data-sport_code="HAND" data-title="Handball">
+<span class="expander-button"></span>
+<a href="/es/s/HAND/Balonmano">
+<span class="FF-bugfix">
+Balonmano
+</span>
+</a>
+<ul class="expander-content">
+<li class="expander expander-collapsed" data-sb_class_id="25557">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Campeonato Mundial
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="48472">
+<a href="/es/t/48472/World-Championship-%28Women%29">
+<span class="FF-bugfix">
+World Championship (Women)
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12624">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Austria
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="20748">
+<a href="/es/t/20748/HLA">
+<span class="FF-bugfix">
+HLA
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12626">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Dinamarca
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="20755">
+<a href="/es/t/20755/Handboldligaen">
+<span class="FF-bugfix">
+Handboldligaen
+</span>
+</a>
+</li>
+<li data-sb_type_id="20756">
+<a href="/es/t/20756/Handboldligaen-%28femenino%29">
+<span class="FF-bugfix">
+Handboldligaen (femenino)
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="14914">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Finlandia
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="33431">
+<a href="/es/t/33431/SM-liiga">
+<span class="FF-bugfix">
+SM-liiga
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12628">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Francia
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="20765">
+<a href="/es/t/20765/Division-1">
+<span class="FF-bugfix">
+Division 1
+</span>
+</a>
+</li>
+<li data-sb_type_id="20766">
+<a href="/es/t/20766/LHF-Division-1-%28Women%29">
+<span class="FF-bugfix">
+LHF Division 1 (Women)
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12471">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Alemania
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="19254">
+<a href="/es/t/19254/Bundesliga">
+<span class="FF-bugfix">
+Bundesliga
+</span>
+</a>
+</li>
+<li data-sb_type_id="20754">
+<a href="/es/t/20754/2.-Bundesliga">
+<span class="FF-bugfix">
+2. Bundesliga
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="14902">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Islandia
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="33381">
+<a href="/es/t/33381/Urvalsdeild">
+<span class="FF-bugfix">
+Urvalsdeild
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12472">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Internacional
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="20800">
+<a href="/es/t/20800/Liga-de-Campeones">
+<span class="FF-bugfix">
+Liga de Campeones
+</span>
+</a>
+</li>
+<li data-sb_type_id="20797">
+<a href="/es/t/20797/Amistosos-Clubes">
+<span class="FF-bugfix">
+Amistosos Clubes
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12630">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Noruega
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="20770">
+<a href="/es/t/20770/Eliteserien-%28Women%29">
+<span class="FF-bugfix">
+Eliteserien (Women)
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12728">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Rusia
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="21453">
+<a href="/es/t/21453/Super-League">
+<span class="FF-bugfix">
+Super League
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="14932">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Eslovaquia
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="33617">
+<a href="/es/t/33617/Extraliga">
+<span class="FF-bugfix">
+Extraliga
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12627">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+España
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="20760">
+<a href="/es/t/20760/Liga-Asobal">
+<span class="FF-bugfix">
+Liga Asobal
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12631">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Suecia
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="20774">
+<a href="/es/t/20774/Elitserien">
+<span class="FF-bugfix">
+Elitserien
+</span>
+</a>
+</li>
+<li data-sb_type_id="20775">
+<a href="/es/t/20775/Elitserien-%28femenino%29">
+<span class="FF-bugfix">
+Elitserien (femenino)
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="25564">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+European Championships
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="48426">
+<a href="/es/t/48426/Campeonato-de-Europa-de-Dardos">
+<span class="FF-bugfix">
+Campeonato de Europa de Dardos
+</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed sport-ICEH" data-sport_code="ICEH" data-title="Ice Hockey">
+<span class="expander-button"></span>
+<a href="/es/s/ICEH/Hockey-sobre-Hielo">
+<span class="FF-bugfix">
+Hockey sobre Hielo
+</span>
+</a>
+<ul class="expander-content">
+<li class="expander expander-collapsed" data-sb_class_id="12488">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+EE.UU
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="32849">
+<a href="/es/t/32849/NHL-Ganador">
+<span class="FF-bugfix">
+NHL - Ganador
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12490">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Internacional
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="21198">
+<a href="/es/t/21198/Amistosos-Clubes">
+<span class="FF-bugfix">
+Amistosos Clubes
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="25754">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Winter Olympics Ice Hockey
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="48565">
+<a href="/es/t/48565/Campe%C3%B3n-Absoluto">
+<span class="FF-bugfix">
+Campeón Absoluto
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="25753">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+World Championship
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="48563">
+<a href="/es/t/48563/Campe%C3%B3n-Absoluto">
+<span class="FF-bugfix">
+Campeón Absoluto
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12489">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Rusia
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="19284">
+<a href="/es/t/19284/KHL">
+<span class="FF-bugfix">
+KHL
+</span>
+</a>
+</li>
+<li data-sb_type_id="21170">
+<a href="/es/t/21170/VHL">
+<span class="FF-bugfix">
+VHL
+</span>
+</a>
+</li>
+<li data-sb_type_id="22901">
+<a href="/es/t/22901/MHL">
+<span class="FF-bugfix">
+MHL
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12673">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Suecia
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="21174">
+<a href="/es/t/21174/SHL">
+<span class="FF-bugfix">
+SHL
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12669">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Finlandia
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="21163">
+<a href="/es/t/21163/SM-Liga">
+<span class="FF-bugfix">
+SM-Liga
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12666">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+República Checa
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="21159">
+<a href="/es/t/21159/Extraliga">
+<span class="FF-bugfix">
+Extraliga
+</span>
+</a>
+</li>
+<li data-sb_type_id="33360">
+<a href="/es/t/33360/1st-Liga">
+<span class="FF-bugfix">
+1st Liga
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12667">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Alemania
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="21160">
+<a href="/es/t/21160/DEL">
+<span class="FF-bugfix">
+DEL
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12665">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Suiza
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="33288">
+<a href="/es/t/33288/NLA">
+<span class="FF-bugfix">
+NLA
+</span>
+</a>
+</li>
+<li data-sb_type_id="34008">
+<a href="/es/t/34008/NLB">
+<span class="FF-bugfix">
+NLB
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12662">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Austria
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="21153">
+<a href="/es/t/21153/Erste-Bank-EHL">
+<span class="FF-bugfix">
+Erste Bank - EHL
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12487">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Eslovaquia
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="19282">
+<a href="/es/t/19282/Extraliga">
+<span class="FF-bugfix">
+Extraliga
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12672">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Noruega
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="21167">
+<a href="/es/t/21167/GET-Ligaen">
+<span class="FF-bugfix">
+GET Ligaen
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12663">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Bielorrusia
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="33297">
+<a href="/es/t/33297/Extraleague">
+<span class="FF-bugfix">
+Extraleague
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12668">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Dinamarca
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="30886">
+<a href="/es/t/30886/Metal-Ligaen">
+<span class="FF-bugfix">
+Metal Ligaen
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12670">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Francia
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="21165">
+<a href="/es/t/21165/Ligue-Magnus">
+<span class="FF-bugfix">
+Ligue Magnus
+</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed sport-BASE" data-sport_code="BASE" data-title="Baseball">
+<span class="expander-button"></span>
+<a href="/es/s/BASE/B%C3%A9isbol">
+<span class="FF-bugfix">
+Béisbol
+</span>
+</a>
+<ul class="expander-content">
+<li class="expander expander-collapsed" data-sb_class_id="12468">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+EE.UU
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="19248">
+<a href="/es/t/19248/MLB">
+<span class="FF-bugfix">
+MLB
+</span>
+</a>
+</li>
+<li data-sb_type_id="47030">
+<a href="/es/t/47030/MLB-World-Series">
+<span class="FF-bugfix">
+MLB - World Series
+</span>
+</a>
+</li>
+<li data-sb_type_id="47372">
+<a href="/es/t/47372/MLB-American-League">
+<span class="FF-bugfix">
+MLB - American League
+</span>
+</a>
+</li>
+<li data-sb_type_id="47373">
+<a href="/es/t/47373/MLB-National-League">
+<span class="FF-bugfix">
+MLB - National League
+</span>
+</a>
+</li>
+<li data-sb_type_id="44784">
+<a href="/es/t/44784/MLB-Divisions">
+<span class="FF-bugfix">
+MLB - Divisions
+</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed sport-AMFO" data-sport_code="AMFO" data-title="American Football">
+<span class="expander-button"></span>
+<a href="/es/s/AMFO/F%C3%BAtbol-Americano">
+<span class="FF-bugfix">
+Fútbol Americano
+</span>
+</a>
+<ul class="expander-content">
+<li class="expander expander-collapsed" data-sb_class_id="12469">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+EE.UU
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="1611">
+<a href="/es/t/1611/NFL">
+<span class="FF-bugfix">
+NFL
+</span>
+</a>
+</li>
+<li data-sb_type_id="19251">
+<a href="/es/t/19251/NCAAF">
+<span class="FF-bugfix">
+NCAAF
+</span>
+</a>
+</li>
+<li data-sb_type_id="47642">
+<a href="/es/t/47642/NFL-Super-Bowl-LII">
+<span class="FF-bugfix">
+NFL - Super Bowl LII
+</span>
+</a>
+</li>
+<li data-sb_type_id="47645">
+<a href="/es/t/47645/NFL-Conferences">
+<span class="FF-bugfix">
+NFL - Conferences
+</span>
+</a>
+</li>
+<li data-sb_type_id="48284">
+<a href="/es/t/48284/NFL-Divisions">
+<span class="FF-bugfix">
+NFL - Divisions
+</span>
+</a>
+</li>
+<li data-sb_type_id="32699">
+<a href="/es/t/32699/NFL-Regular-Season-Wins">
+<span class="FF-bugfix">
+NFL - Regular Season Wins
+</span>
+</a>
+</li>
+<li data-sb_type_id="32801">
+<a href="/es/t/32801/NFL-Season-Specials">
+<span class="FF-bugfix">
+NFL - Season Specials
+</span>
+</a>
+</li>
+<li data-sb_type_id="45187">
+<a href="/es/t/45187/NFL-Enhanced-Specials">
+<span class="FF-bugfix">
+NFL - Enhanced Specials
+</span>
+</a>
+</li>
+<li data-sb_type_id="47611">
+<a href="/es/t/47611/NCAAF-Outright">
+<span class="FF-bugfix">
+NCAAF - Outright
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12621">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Canadá
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="29649">
+<a href="/es/t/29649/CFL">
+<span class="FF-bugfix">
+CFL
+</span>
+</a>
+</li>
+<li data-sb_type_id="44774">
+<a href="/es/t/44774/CFL-Grey-Cup-Winner-2017">
+<span class="FF-bugfix">
+CFL - Grey Cup Winner 2017
+</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed sport-BADM" data-sport_code="BADM" data-title="Badminton">
+<span class="expander-button"></span>
+<a href="/es/s/BADM/Badminton">
+<span class="FF-bugfix">
+Badminton
+</span>
+</a>
+<ul class="expander-content">
+<li class="expander expander-collapsed" data-sb_class_id="25853">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Belgian International
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="49110">
+<a href="/es/t/49110/Women%27s-Singles-Matches">
+<span class="FF-bugfix">
+Women's Singles Matches
+</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed sport-GOLF" data-sport_code="GOLF" data-title="Golf">
+<span class="expander-button"></span>
+<a href="/es/s/GOLF/Golf">
+<span class="FF-bugfix">
+Golf
+</span>
+</a>
+<ul class="expander-content">
+<li class="expander expander-collapsed" data-sb_class_id="13755">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Campeonato BMW
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="25205">
+<a href="/es/t/25205/Campe%C3%B3n-Absoluto">
+<span class="FF-bugfix">
+Campeón Absoluto
+</span>
+</a>
+</li>
+<li data-sb_type_id="25232">
+<a href="/es/t/25232/Partidos-a-72-Hoyos">
+<span class="FF-bugfix">
+Partidos a 72 Hoyos
+</span>
+</a>
+</li>
+<li data-sb_type_id="25248">
+<a href="/es/t/25248/Top-5-Final">
+<span class="FF-bugfix">
+Top 5 Final
+</span>
+</a>
+</li>
+<li data-sb_type_id="25249">
+<a href="/es/t/25249/Finalizar%C3%A1-entre-los-10-primeros">
+<span class="FF-bugfix">
+Finalizará entre los 10 primeros
+</span>
+</a>
+</li>
+<li data-sb_type_id="46469">
+<a href="/es/t/46469/Top-20-Final">
+<span class="FF-bugfix">
+Top 20 Final
+</span>
+</a>
+</li>
+<li data-sb_type_id="25265">
+<a href="/es/t/25265/1%C2%AA-Ronda-2-Bolas">
+<span class="FF-bugfix">
+1ª Ronda 2 Bolas
+</span>
+</a>
+</li>
+<li data-sb_type_id="25264">
+<a href="/es/t/25264/1%C2%AA-Ronda-3-Bolas">
+<span class="FF-bugfix">
+1ª Ronda 3 Bolas
+</span>
+</a>
+</li>
+<li data-sb_type_id="25284">
+<a href="/es/t/25284/1-Ronda-Partidos-a-18-hoyos">
+<span class="FF-bugfix">
+1 Ronda Partidos a 18 hoyos
+</span>
+</a>
+</li>
+<li data-sb_type_id="25250">
+<a href="/es/t/25250/Mejor-americano">
+<span class="FF-bugfix">
+Mejor americano
+</span>
+</a>
+</li>
+<li data-sb_type_id="49102">
+<a href="/es/t/49102/Mejor-Australiano">
+<span class="FF-bugfix">
+Mejor Australiano
+</span>
+</a>
+</li>
+<li data-sb_type_id="49096">
+<a href="/es/t/49096/Mejor-Europeo">
+<span class="FF-bugfix">
+Mejor Europeo
+</span>
+</a>
+</li>
+<li data-sb_type_id="25238">
+<a href="/es/t/25238/Mejor-ingl%C3%A9s">
+<span class="FF-bugfix">
+Mejor inglés
+</span>
+</a>
+</li>
+<li data-sb_type_id="25235">
+<a href="/es/t/25235/Top-Europeo">
+<span class="FF-bugfix">
+Top Europeo
+</span>
+</a>
+</li>
+<li data-sb_type_id="25234">
+<a href="/es/t/25234/Mejor-Brit%C3%A1nico-e-Irland%C3%A9s">
+<span class="FF-bugfix">
+Mejor Británico e Irlandés
+</span>
+</a>
+</li>
+<li data-sb_type_id="25236">
+<a href="/es/t/25236/Mejor-resto-del-mundo">
+<span class="FF-bugfix">
+Mejor resto del mundo
+</span>
+</a>
+</li>
+<li data-sb_type_id="49095">
+<a href="/es/t/49095/Mejor-espa%C3%B1ol">
+<span class="FF-bugfix">
+Mejor español
+</span>
+</a>
+</li>
+<li data-sb_type_id="25253">
+<a href="/es/t/25253/%C2%BFHabr%C3%A1-Play-off%3F">
+<span class="FF-bugfix">
+¿Habrá Play-off?
+</span>
+</a>
+</li>
+<li data-sb_type_id="25254">
+<a href="/es/t/25254/Hoyo-en-uno%3F">
+<span class="FF-bugfix">
+Hoyo en uno?
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="13767">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Open KLM
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="25229">
+<a href="/es/t/25229/Campe%C3%B3n-Absoluto">
+<span class="FF-bugfix">
+Campeón Absoluto
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="13802">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Pacific Links Bear Mountain Championship
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="25461">
+<a href="/es/t/25461/Campe%C3%B3n-Absoluto">
+<span class="FF-bugfix">
+Campeón Absoluto
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="13569">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Albertsons Boise Open
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="24499">
+<a href="/es/t/24499/Campe%C3%B3n-Absoluto">
+<span class="FF-bugfix">
+Campeón Absoluto
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="13655">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Presidents Cup
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="24838">
+<a href="/es/t/24838/Campe%C3%B3n-Absoluto">
+<span class="FF-bugfix">
+Campeón Absoluto
+</span>
+</a>
+</li>
+<li data-sb_type_id="25598">
+<a href="/es/t/25598/Mejor-americano">
+<span class="FF-bugfix">
+Mejor americano
+</span>
+</a>
+</li>
+<li data-sb_type_id="25599">
+<a href="/es/t/25599/Top-International">
+<span class="FF-bugfix">
+Top International
+</span>
+</a>
+</li>
+<li data-sb_type_id="25693">
+<a href="/es/t/25693/Top-Jugador-con-m%C3%A1s-puntos">
+<span class="FF-bugfix">
+Top Jugador con más puntos
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12902">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+US Money List
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="22058">
+<a href="/es/t/22058/US-Money-List-2016%2F17">
+<span class="FF-bugfix">
+US Money List 2016/17
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="13174">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Masters Augusta
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="23024">
+<a href="/es/t/23024/Campe%C3%B3n-Absoluto">
+<span class="FF-bugfix">
+Campeón Absoluto
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12740">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+US Open
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="21494">
+<a href="/es/t/21494/Campe%C3%B3n-Absoluto">
+<span class="FF-bugfix">
+Campeón Absoluto
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12738">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+El British Open
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="21492">
+<a href="/es/t/21492/Campe%C3%B3n-Absoluto">
+<span class="FF-bugfix">
+Campeón Absoluto
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12741">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+PGA Championship
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="21495">
+<a href="/es/t/21495/Campe%C3%B3n-Absoluto">
+<span class="FF-bugfix">
+Campeón Absoluto
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12735">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Ryder Cup
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="21477">
+<a href="/es/t/21477/Campe%C3%B3n-Absoluto">
+<span class="FF-bugfix">
+Campeón Absoluto
+</span>
+</a>
+</li>
+<li data-sb_type_id="21478">
+<a href="/es/t/21478/Levantara-el-trofeo">
+<span class="FF-bugfix">
+Levantara el trofeo
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12748">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Solheim Cup
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="21528">
+<a href="/es/t/21528/Campe%C3%B3n-Absoluto">
+<span class="FF-bugfix">
+Campeón Absoluto
+</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed sport-CRIC" data-sport_code="CRIC" data-title="Cricket">
+<span class="expander-button"></span>
+<a href="/es/s/CRIC/Cr%C3%ADquet">
+<span class="FF-bugfix">
+Críquet
+</span>
+</a>
+<ul class="expander-content">
+<li class="expander expander-collapsed" data-sb_class_id="25143">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Australia Tour of India
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="44459">
+<a href="/es/t/44459/1st-ODI">
+<span class="FF-bugfix">
+1st ODI
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="13698">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Ashes 2017
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="24975">
+<a href="/es/t/24975/England-Tour-of-Australia-2017">
+<span class="FF-bugfix">
+England Tour of Australia 2017
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12635">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Inglaterra
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="20855">
+<a href="/es/t/20855/County-Championship-Division-1">
+<span class="FF-bugfix">
+County Championship Division 1
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12638">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Internacional
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="20865">
+<a href="/es/t/20865/ICC-Cricket-World-Cup-Outright">
+<span class="FF-bugfix">
+ICC Cricket World Cup Outright
+</span>
+</a>
+</li>
+<li data-sb_type_id="20866">
+<a href="/es/t/20866/ICC-World-Twenty20-Outright">
+<span class="FF-bugfix">
+ICC World Twenty20 Outright
+</span>
+</a>
+</li>
+<li data-sb_type_id="20864">
+<a href="/es/t/20864/Twenty20-Internationals">
+<span class="FF-bugfix">
+Twenty20 Internationals
+</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed sport-RUGU" data-sport_code="RUGU" data-title="Rugby Union">
+<span class="expander-button"></span>
+<a href="/es/s/RUGU/Rugby-Union">
+<span class="FF-bugfix">
+Rugby Union
+</span>
+</a>
+<ul class="expander-content">
+<li class="expander expander-collapsed" data-sb_class_id="12955">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Torneo de las Seis Naciones
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="22250">
+<a href="/es/t/22250/Torneo">
+<span class="FF-bugfix">
+Torneo
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="25414">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+El Campeonato de Rugby
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="46236">
+<a href="/es/t/46236/Mercados-de-Campeon-a-largo-plazo">
+<span class="FF-bugfix">
+Mercados de Campeon a largo plazo
+</span>
+</a>
+</li>
+<li data-sb_type_id="46237">
+<a href="/es/t/46237/Apuesta-Partido">
+<span class="FF-bugfix">
+Apuesta Partido
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="25415">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Aviva Premiership
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="46238">
+<a href="/es/t/46238/Mercados-de-Campeon-a-largo-plazo">
+<span class="FF-bugfix">
+Mercados de Campeon a largo plazo
+</span>
+</a>
+</li>
+<li data-sb_type_id="46239">
+<a href="/es/t/46239/Apuesta-Partido">
+<span class="FF-bugfix">
+Apuesta Partido
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="25420">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+European Rugby Championship Cup
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="46254">
+<a href="/es/t/46254/Mercados-de-Campeon-a-largo-plazo">
+<span class="FF-bugfix">
+Mercados de Campeon a largo plazo
+</span>
+</a>
+</li>
+<li data-sb_type_id="46257">
+<a href="/es/t/46257/Pool-Betting">
+<span class="FF-bugfix">
+Pool Betting
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="25417">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Top 14
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="46247">
+<a href="/es/t/46247/Apuesta-Partido">
+<span class="FF-bugfix">
+Apuesta Partido
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12655">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Mitre10 Cup
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="22260">
+<a href="/es/t/22260/Apuesta-Partido">
+<span class="FF-bugfix">
+Apuesta Partido
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="25802">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Guinness Pro 14
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="48819">
+<a href="/es/t/48819/Torneo">
+<span class="FF-bugfix">
+Torneo
+</span>
+</a>
+</li>
+<li data-sb_type_id="48820">
+<a href="/es/t/48820/Apuesta-Partido">
+<span class="FF-bugfix">
+Apuesta Partido
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="25419">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+France Pro D2
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="46253">
+<a href="/es/t/46253/Apuesta-Partido">
+<span class="FF-bugfix">
+Apuesta Partido
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="14846">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Copa del Mundo de Rugby
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="32992">
+<a href="/es/t/32992/Campe%C3%B3n-Absoluto">
+<span class="FF-bugfix">
+Campeón Absoluto
+</span>
+</a>
+</li>
+<li data-sb_type_id="32994">
+<a href="/es/t/32994/Pool-Betting">
+<span class="FF-bugfix">
+Pool Betting
+</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed sport-RUGL" data-sport_code="RUGL" data-title="Rugby League">
+<span class="expander-button"></span>
+<a href="/es/s/RUGL/Rugby-League">
+<span class="FF-bugfix">
+Rugby League
+</span>
+</a>
+<ul class="expander-content">
+<li class="expander expander-collapsed" data-sb_class_id="12751">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+NRL
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="22234">
+<a href="/es/t/22234/Grand-Final-Ganador">
+<span class="FF-bugfix">
+Grand Final Ganador
+</span>
+</a>
+</li>
+<li data-sb_type_id="22059">
+<a href="/es/t/22059/Apuesta-Partido">
+<span class="FF-bugfix">
+Apuesta Partido
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12750">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Super League
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="32941">
+<a href="/es/t/32941/Super-8s">
+<span class="FF-bugfix">
+Super 8s
+</span>
+</a>
+</li>
+<li data-sb_type_id="21531">
+<a href="/es/t/21531/Grand-Final-Ganador">
+<span class="FF-bugfix">
+Grand Final Ganador
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12753">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Mundial de Fútbol
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="21540">
+<a href="/es/t/21540/Campe%C3%B3n-Absoluto">
+<span class="FF-bugfix">
+Campeón Absoluto
+</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed sport-BOXI" data-sport_code="BOXI" data-title="Boxing">
+<span class="expander-button"></span>
+<a href="/es/s/BOXI/Boxeo">
+<span class="FF-bugfix">
+Boxeo
+</span>
+</a>
+<ul class="expander-content">
+<li class="expander expander-collapsed" data-sb_class_id="12622">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Internacional
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="20572">
+<a href="/es/t/20572/Apuestas-Boxeo">
+<span class="FF-bugfix">
+Apuestas Boxeo
+</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed sport-MMAF" data-sport_code="MMAF" data-title="MMA">
+<span class="expander-button"></span>
+<a href="/es/s/MMAF/Artes-marciales">
+<span class="FF-bugfix">
+Artes marciales
+</span>
+</a>
+<ul class="expander-content">
+<li class="expander expander-collapsed" data-sb_class_id="12623">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Internacional
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="20743">
+<a href="/es/t/20743/UFC">
+<span class="FF-bugfix">
+UFC
+</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed sport-MOTO" data-sport_code="MOTO" data-title="Motor Sport">
+<span class="expander-button"></span>
+<a href="/es/s/MOTO/Motor">
+<span class="FF-bugfix">
+Motor
+</span>
+</a>
+<ul class="expander-content">
+<li class="expander expander-collapsed" data-sb_class_id="12818">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Formula 1
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="21788">
+<a href="/es/t/21788/Ganador-Gran-Premio">
+<span class="FF-bugfix">
+Ganador Gran Premio
+</span>
+</a>
+</li>
+<li data-sb_type_id="21798">
+<a href="/es/t/21798/Ganador-de-la-Clasificacion">
+<span class="FF-bugfix">
+Ganador de la Clasificacion
+</span>
+</a>
+</li>
+<li data-sb_type_id="21795">
+<a href="/es/t/21795/Practice-1">
+<span class="FF-bugfix">
+Practice 1
+</span>
+</a>
+</li>
+<li data-sb_type_id="34011">
+<a href="/es/t/34011/Constructor-Ganador-de-la-Clasificacion">
+<span class="FF-bugfix">
+Constructor Ganador de la Clasificacion
+</span>
+</a>
+</li>
+<li data-sb_type_id="21793">
+<a href="/es/t/21793/Coche-ganador">
+<span class="FF-bugfix">
+Coche ganador
+</span>
+</a>
+</li>
+<li data-sb_type_id="21791">
+<a href="/es/t/21791/Podio-final">
+<span class="FF-bugfix">
+Podio final
+</span>
+</a>
+</li>
+<li data-sb_type_id="21792">
+<a href="/es/t/21792/Terminar%C3%A1-en-puntos">
+<span class="FF-bugfix">
+Terminará en puntos
+</span>
+</a>
+</li>
+<li data-sb_type_id="34010">
+<a href="/es/t/34010/Finalizar%C3%A1-entre-los-6-primeros">
+<span class="FF-bugfix">
+Finalizará entre los 6 primeros
+</span>
+</a>
+</li>
+<li data-sb_type_id="30915">
+<a href="/es/t/30915/ambos-coches-terminaran-en-puntos">
+<span class="FF-bugfix">
+ambos coches terminaran en puntos
+</span>
+</a>
+</li>
+<li data-sb_type_id="21794">
+<a href="/es/t/21794/Vuelta-rapida">
+<span class="FF-bugfix">
+Vuelta rapida
+</span>
+</a>
+</li>
+<li data-sb_type_id="24968">
+<a href="/es/t/24968/Hat-Trick-%28Pole%2C-Gana-la-Carrera-y-Vuelta-R%C3%A1pida%29">
+<span class="FF-bugfix">
+Hat Trick (Pole, Gana la Carrera y Vuelta Rápida)
+</span>
+</a>
+</li>
+<li data-sb_type_id="34029">
+<a href="/es/t/34029/Posici%C3%B3n-en-la-parrilla-de-salida-del-ganador-del-GP">
+<span class="FF-bugfix">
+Posición en la parrilla de salida del ganador del GP
+</span>
+</a>
+</li>
+<li data-sb_type_id="21862">
+<a href="/es/t/21862/1er-Piloto-en-Abandonar">
+<span class="FF-bugfix">
+1er Piloto en Abandonar
+</span>
+</a>
+</li>
+<li data-sb_type_id="21863">
+<a href="/es/t/21863/Primer-constructor-en-retirarse">
+<span class="FF-bugfix">
+Primer constructor en retirarse
+</span>
+</a>
+</li>
+<li data-sb_type_id="21858">
+<a href="/es/t/21858/Safety-Car">
+<span class="FF-bugfix">
+Safety Car
+</span>
+</a>
+</li>
+<li data-sb_type_id="28265">
+<a href="/es/t/28265/Numero-de-coches-en-terminar-la-carrera">
+<span class="FF-bugfix">
+Numero de coches en terminar la carrera
+</span>
+</a>
+</li>
+<li data-sb_type_id="23121">
+<a href="/es/t/23121/Se-clasificar%C3%A1">
+<span class="FF-bugfix">
+Se clasificará
+</span>
+</a>
+</li>
+<li data-sb_type_id="21789">
+<a href="/es/t/21789/Ganador-Campeonato-de-Pilotos">
+<span class="FF-bugfix">
+Ganador Campeonato de Pilotos
+</span>
+</a>
+</li>
+<li data-sb_type_id="22635">
+<a href="/es/t/22635/Campeonato-de-Constructores-">
+<span class="FF-bugfix">
+Campeonato de Constructores
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12817">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+MotoGP
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="21837">
+<a href="/es/t/21837/Ganador-del-campeonato">
+<span class="FF-bugfix">
+Ganador del campeonato
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12819">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Moto2
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="21908">
+<a href="/es/t/21908/Ganador-del-campeonato">
+<span class="FF-bugfix">
+Ganador del campeonato
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12821">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+NASCAR
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="47573">
+<a href="/es/t/47573/Monster-Energy-NASCAR-Cup-Series">
+<span class="FF-bugfix">
+Monster Energy NASCAR Cup Series
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12822">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Speedway
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="21854">
+<a href="/es/t/21854/Campe%C3%B3n-Campeonato-del-Mundo">
+<span class="FF-bugfix">
+Campeón Campeonato del Mundo
+</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed sport-SNOO" data-sport_code="SNOO" data-title="Snooker">
+<span class="expander-button"></span>
+<a href="/es/s/SNOO/Snooker">
+<span class="FF-bugfix">
+Snooker
+</span>
+</a>
+<ul class="expander-content">
+<li class="expander expander-collapsed" data-sb_class_id="13634">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Indian Open
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="25642">
+<a href="/es/t/25642/Apuesta-Partido">
+<span class="FF-bugfix">
+Apuesta Partido
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12871">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Campeonato del Mundo Snooker
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="21966">
+<a href="/es/t/21966/Campe%C3%B3n-Absoluto">
+<span class="FF-bugfix">
+Campeón Absoluto
+</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed sport-DART" data-sport_code="DART" data-title="Darts">
+<span class="expander-button"></span>
+<a href="/es/s/DART/Dardos">
+<span class="FF-bugfix">
+Dardos
+</span>
+</a>
+<ul class="expander-content">
+<li class="expander expander-collapsed" data-sb_class_id="25455">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Liga de Campeones
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="46509">
+<a href="/es/t/46509/Apuesta-Partido">
+<span class="FF-bugfix">
+Apuesta Partido
+</span>
+</a>
+</li>
+<li data-sb_type_id="46510">
+<a href="/es/t/46510/Apuesta-a-largo-plazo">
+<span class="FF-bugfix">
+Apuesta a largo plazo
+</span>
+</a>
+</li>
+<li data-sb_type_id="46577">
+<a href="/es/t/46577/Apuestas-Grupos">
+<span class="FF-bugfix">
+Apuestas Grupos
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="13838">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+World Grand Prix
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="25601">
+<a href="/es/t/25601/Apuesta-a-largo-plazo">
+<span class="FF-bugfix">
+Apuesta a largo plazo
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed" data-sb_class_id="12873">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+PDC - Campeonato del Mundo
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="21971">
+<a href="/es/t/21971/Apuesta-a-largo-plazo">
+<span class="FF-bugfix">
+Apuesta a largo plazo
+</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed sport-AUFL" data-sport_code="AUFL" data-title="Australian Football">
+<span class="expander-button"></span>
+<a href="/es/s/AUFL/F%C3%BAtbol-Australiano">
+<span class="FF-bugfix">
+Fútbol Australiano
+</span>
+</a>
+<ul class="expander-content">
+<li class="expander expander-collapsed" data-sb_class_id="12742">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+AFL
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="21498">
+<a href="/es/t/21498/Apuesta-Partido">
+<span class="FF-bugfix">
+Apuesta Partido
+</span>
+</a>
+</li>
+<li data-sb_type_id="21496">
+<a href="/es/t/21496/Apuesta-a-largo-plazo">
+<span class="FF-bugfix">
+Apuesta a largo plazo
+</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="expander expander-collapsed sport-GAAG" data-sport_code="GAAG" data-title="Gaelic Games">
+<span class="expander-button"></span>
+<a href="/es/s/GAAG/Gaelic-Games">
+<span class="FF-bugfix">
+Gaelic Games
+</span>
+</a>
+<ul class="expander-content">
+<li class="expander expander-collapsed" data-sb_class_id="25837">
+<div class="expander-button no-link">
+<span class="FF-bugfix">
+Fútbol
+</span>
+</div>
+<ul class="expander-content">
+<li data-sb_type_id="49022">
+<a href="/es/t/49022/All-Ireland-Senior-Championship">
+<span class="FF-bugfix">
+All Ireland Senior Championship
+</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="fragment inplay-and-upcoming "
+data-msg_stamp="OTg1NTEyNjgwOjEwNTM6ZXM="
+data-src_code="INPLAY_UPCOM"
+data-frag_desc="SW5QbGF5QW5kVXBjb21pbmd8LTczZmZkZTg1fDE1fDV8fHx8MzB8fA"
+data-update_interval="30"
+>
+<div class="tab-container tab-header">
+<ul class="tabs"><!--
+--><li class="inplay active-tab
+load-on-click">
+<a href="#upcoming-tab-inplay"><span class="live">En</span>Vivo</a>
+</li><!--
+--><li class="upcoming
+load-on-click">
+<a href="#upcoming-tab-upcoming">Próximo(s)</a>
+</li><!--
+--></ul>
+</div>
+<div id="upcoming-tab-inplay" >
+<div class="expander">
+<h5 class="expander-SFOOT expander-button">
+Fútbol (2)
+</h5>
+<div class="expander-content sport-FOOT">
+<div class="expander sport-FOOT
+mkt mkt-64801655 mkt-sort-MRES"
+data-mkt_id="64801655">
+<h6 class="expander-E5525342 expander-button" title="Mahallai 83 vs Somon">
+<a href="/es/e/5525342/Mahallai-83-vs-Somon">
+Mahallai 83 vs Somon
+</a>
+</h6>
+<div class="expander-content">
+<div class="ev ev-5525342 inplay"
+data-ev_id="5525342">
+<span class="clock ticking clock_mode_forward second_half second_half"
+data-zero_point="1505387971">
+78:17
+</span>
+<span class="period">2ª Mitad</span>
+<span class="score">0-1</span>
+</div>
+<ul class="default mkt_content limited mkt-sort-MRES ev-sort-MT"><!--
+--><li class="limited-row">
+<button type="button" name="add-to-slip" title="Mahallai 83 "
+class="price price-259132473-LP
+seln-259132473 mkt-64801655 ev-5525342
+"
+value="MjU5MTMyNDczOjI4LzE6OjA">
+<span>
+<span>
+<span class="favourite-button" title="Agregar o Remover de tus equipos favoritos."
+data-ref_key="TEAM" data-ref_id="183772">&#9733;</span></span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Mahallai 83</span>
+</span>
+</span>
+<span class="price frac">28/1</span>
+<span class="price dec">29.00</span>
+<span class="price us">+2800</span>
+</span>
+</button>
+</li><!--
+--><li class="limited-row">
+<button type="button" name="add-to-slip" title=" empate "
+class="price price-259132474-LP
+seln-259132474 mkt-64801655 ev-5525342
+"
+value="MjU5MTMyNDc0OjE1LzQ6OjA">
+<span>
+<span class="seln-label">
+<span>
+<span class="seln-name"> empate</span>
+</span>
+</span>
+<span class="price frac">15/4</span>
+<span class="price dec">4.75</span>
+<span class="price us">+375</span>
+</span>
+</button>
+</li><!--
+--><li class="limited-row">
+<button type="button" name="add-to-slip" title="Somon "
+class="price price-259132475-LP
+seln-259132475 mkt-64801655 ev-5525342
+"
+value="MjU5MTMyNDc1OjIvMTM6OjA">
+<span>
+<span>
+<span class="favourite-button" title="Agregar o Remover de tus equipos favoritos."
+data-ref_key="TEAM" data-ref_id="183773">&#9733;</span></span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Somon</span>
+</span>
+</span>
+<span class="price frac">2/13</span>
+<span class="price dec">1.153</span>
+<span class="price us">-650</span>
+</span>
+</button>
+</li><!--
+--></ul>
+</div>
+</div>
+<div class="expander sport-FOOT
+mkt mkt-65225918 mkt-sort-HCTG"
+data-mkt_id="65225918">
+<h6 class="expander-E5536434 expander-button" title="Kuntsevo vs Sokol Moscow">
+<a href="/es/e/5536434/Kuntsevo-vs-Sokol-Moscow">
+Kuntsevo vs Sokol Moscow
+</a>
+</h6>
+<div class="expander-content">
+<div class="ev ev-5536434 inplay"
+data-ev_id="5536434">
+<span class="clock ticking clock_mode_forward second_half second_half"
+data-zero_point="1505387833">
+80:35
+</span>
+<span class="period">2ª Mitad</span>
+<span class="score">2-0</span>
+</div>
+<ul class="default mkt_content limited mkt-sort-HCTG ev-sort-MT"><!--
+--><li class="limited-row">
+<button type="button" name="add-to-slip" title="Más de 2.5"
+class="price price-260572433-LP
+seln-260572433 mkt-65225918 ev-5536434
+"
+value="MjYwNTcyNDMzOjEwLzExOjEwOjA">
+<span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Más de</span>
+(<span class="seln-hcap">2.5</span>)
+</span>
+</span>
+<span class="price frac">10/11</span>
+<span class="price dec">1.909</span>
+<span class="price us">-110</span>
+</span>
+</button>
+</li><!--
+--><li class="limited-row">
+<button type="button" name="add-to-slip" title="Menos de 2.5"
+class="price price-260572432-LP
+seln-260572432 mkt-65225918 ev-5536434
+"
+value="MjYwNTcyNDMyOjUvNjoxMDow">
+<span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Menos de</span>
+(<span class="seln-hcap">2.5</span>)
+</span>
+</span>
+<span class="price frac">5/6</span>
+<span class="price dec">1.833</span>
+<span class="price us">-120</span>
+</span>
+</button>
+</li><!--
+--></ul>
+</div>
+</div>
+</div>
+</div>
+<div class="expander">
+<h5 class="expander-STENN expander-button">
+Tenis (8)
+</h5>
+<div class="expander-content sport-TENN">
+<div class="expander sport-TENN
+mkt mkt-65187510 mkt-sort-HTOH"
+data-mkt_id="65187510">
+<h6 class="expander-E5546332 expander-button" title="Viktoriya Tomova vs Irina Maria Bara">
+<a href="/es/e/5546332/Viktoriya-Tomova-vs-Irina-Maria-Bara">
+Viktoriya Tomova vs Irina Maria Bara
+</a>
+</h6>
+<div class="expander-content">
+<div class="ev ev-5546332 inplay"
+data-ev_id="5546332">
+<span class="period">En vivo</span>
+<span class="score">0-1</span>
+</div>
+<ul class="default mkt_content limited mkt-sort-HTOH ev-sort-MT"><!--
+--><li class="limited-row">
+<button type="button" name="add-to-slip" title="Viktoriya Tomova "
+class="price price-260435401-LP
+seln-260435401 mkt-65187510 ev-5546332
+"
+value="MjYwNDM1NDAxOjEwLzE6OjA">
+<span>
+<span>
+<span class="favourite-button" title="Agregar o remover este jugador de sus favoritos."
+data-ref_key="PLAYER" data-ref_id="3391">&#9733;</span></span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Viktoriya Tomova</span>
+</span>
+</span>
+<span class="price frac">10/1</span>
+<span class="price dec">11.00</span>
+<span class="price us">+1000</span>
+</span>
+</button>
+</li><!--
+--><li class="limited-row">
+<button type="button" name="add-to-slip" title="Irina Maria Bara "
+class="price price-260435402-LP
+seln-260435402 mkt-65187510 ev-5546332
+"
+value="MjYwNDM1NDAyOjEvMjU6OjA">
+<span>
+<span>
+<span class="favourite-button" title="Agregar o remover este jugador de sus favoritos."
+data-ref_key="PLAYER" data-ref_id="197">&#9733;</span></span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Irina Maria Bara</span>
+</span>
+</span>
+<span class="price frac">1/25</span>
+<span class="price dec">1.04</span>
+<span class="price us">-2500</span>
+</span>
+</button>
+</li><!--
+--></ul>
+</div>
+</div>
+<div class="expander sport-TENN
+mkt mkt-65187539 mkt-sort-HTOH"
+data-mkt_id="65187539">
+<h6 class="expander-E5546334 expander-button" title="Jessika Ponchet vs Mihaela Buzarnescu">
+<a href="/es/e/5546334/Jessika-Ponchet-vs-Mihaela-Buzarnescu">
+Jessika Ponchet vs Mihaela Buzarnescu
+</a>
+</h6>
+<div class="expander-content">
+<div class="ev ev-5546334 inplay"
+data-ev_id="5546334">
+<span class="period">En vivo</span>
+<span class="score">1-1</span>
+</div>
+<ul class="default mkt_content limited mkt-sort-HTOH ev-sort-MT"><!--
+--><li class="limited-row">
+<button type="button" name="add-to-slip" title="Jessika Ponchet "
+class="price price-260435468-LP
+seln-260435468 mkt-65187539 ev-5546334
+"
+value="MjYwNDM1NDY4OjIvMTo6MA">
+<span>
+<span>
+<span class="favourite-button" title="Agregar o remover este jugador de sus favoritos."
+data-ref_key="PLAYER" data-ref_id="1005702">&#9733;</span></span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Jessika Ponchet</span>
+</span>
+</span>
+<span class="price frac">2/1</span>
+<span class="price dec">3.00</span>
+<span class="price us">+200</span>
+</span>
+</button>
+</li><!--
+--><li class="limited-row">
+<button type="button" name="add-to-slip" title="Mihaela Buzarnescu "
+class="price price-260435469-LP
+seln-260435469 mkt-65187539 ev-5546334
+"
+value="MjYwNDM1NDY5OjEvMzo6MA">
+<span>
+<span>
+<span class="favourite-button" title="Agregar o remover este jugador de sus favoritos."
+data-ref_key="PLAYER" data-ref_id="466">&#9733;</span></span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Mihaela Buzarnescu</span>
+</span>
+</span>
+<span class="price frac">1/3</span>
+<span class="price dec">1.333</span>
+<span class="price us">-300</span>
+</span>
+</button>
+</li><!--
+--></ul>
+</div>
+</div>
+<div class="expander sport-TENN
+mkt mkt-65235860 mkt-sort-SGMW"
+data-mkt_id="65235860">
+<h6 class="expander-E5543089 expander-button" title="Eduarda Piai vs Barbara Gatica">
+<a href="/es/e/5543089/Eduarda-Piai-vs-Barbara-Gatica">
+Eduarda Piai vs Barbara Gatica
+</a>
+</h6>
+<div class="expander-content">
+<div class="ev ev-5543089 inplay"
+data-ev_id="5543089">
+<span class="period">En vivo</span>
+<span class="score">1-1</span>
+</div>
+<ul class="default mkt_content limited mkt-sort-SGMW ev-sort-MT"><!--
+--><li class="limited-row">
+<button type="button" name="add-to-slip" title="Eduarda Piai "
+class="price price-260620271-LP
+seln-260620271 mkt-65235860 ev-5543089
+"
+value="MjYwNjIwMjcxOjkvNDo6MA">
+<span>
+<span>
+<span class="favourite-button" title="Agregar o remover este jugador de sus favoritos."
+data-ref_key="PLAYER" data-ref_id="1002244">&#9733;</span></span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Eduarda Piai</span>
+</span>
+</span>
+<span class="price frac">9/4</span>
+<span class="price dec">3.25</span>
+<span class="price us">+225</span>
+</span>
+</button>
+</li><!--
+--><li class="limited-row">
+<button type="button" name="add-to-slip" title="Barbara Gatica "
+class="price price-260620270-LP
+seln-260620270 mkt-65235860 ev-5543089
+"
+value="MjYwNjIwMjcwOjMvMTA6OjA">
+<span>
+<span>
+<span class="favourite-button" title="Agregar o remover este jugador de sus favoritos."
+data-ref_key="PLAYER" data-ref_id="1015491">&#9733;</span></span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Barbara Gatica</span>
+</span>
+</span>
+<span class="price frac">3/10</span>
+<span class="price dec">1.30</span>
+<span class="price us">-334</span>
+</span>
+</button>
+</li><!--
+--></ul>
+</div>
+</div>
+<div class="expander sport-TENN
+mkt mkt-65175567 mkt-sort-HTOH"
+data-mkt_id="65175567">
+<h6 class="expander-E5545805 expander-button" title="Peter Goldsteiner vs Ilya Vasilyev">
+<a href="/es/e/5545805/Peter-Goldsteiner-vs-Ilya-Vasilyev">
+Peter Goldsteiner vs Ilya Vasilyev
+</a>
+</h6>
+<div class="expander-content">
+<div class="ev ev-5545805 inplay"
+data-ev_id="5545805">
+<span class="period">En vivo</span>
+<span class="score">1-1</span>
+</div>
+<ul class="default mkt_content limited mkt-sort-HTOH ev-sort-MT"><!--
+--><li class="limited-row">
+<button type="button" name="add-to-slip" title="Peter Goldsteiner "
+class="price price-260397189-LP
+seln-260397189 mkt-65175567 ev-5545805
+"
+value="MjYwMzk3MTg5OjUvNjo6MA">
+<span>
+<span>
+<span class="favourite-button" title="Agregar o remover este jugador de sus favoritos."
+data-ref_key="PLAYER" data-ref_id="1006726">&#9733;</span></span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Peter Goldsteiner</span>
+</span>
+</span>
+<span class="price frac">5/6</span>
+<span class="price dec">1.833</span>
+<span class="price us">-120</span>
+</span>
+</button>
+</li><!--
+--><li class="limited-row">
+<button type="button" name="add-to-slip" title="Ilya Vasilyev "
+class="price price-260397188-LP
+seln-260397188 mkt-65175567 ev-5545805
+"
+value="MjYwMzk3MTg4OjUvNjo6MA">
+<span>
+<span>
+<span class="favourite-button" title="Agregar o remover este jugador de sus favoritos."
+data-ref_key="PLAYER" data-ref_id="1008914">&#9733;</span></span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Ilya Vasilyev</span>
+</span>
+</span>
+<span class="price frac">5/6</span>
+<span class="price dec">1.833</span>
+<span class="price us">-120</span>
+</span>
+</button>
+</li><!--
+--></ul>
+</div>
+</div>
+<div class="expander sport-TENN
+mkt mkt-65176260 mkt-sort-HTOH"
+data-mkt_id="65176260">
+<h6 class="expander-E5545825 expander-button" title="Omar Giacalone vs Bastian Trinker">
+<a href="/es/e/5545825/Omar-Giacalone-vs-Bastian-Trinker">
+Omar Giacalone vs Bastian Trinker
+</a>
+</h6>
+<div class="expander-content">
+<div class="ev ev-5545825 inplay"
+data-ev_id="5545825">
+<span class="period">En vivo</span>
+<span class="score">1-0</span>
+</div>
+<ul class="default mkt_content limited mkt-sort-HTOH ev-sort-MT"><!--
+--><li class="limited-row">
+<button type="button" name="add-to-slip" title="Omar Giacalone "
+class="price price-260399609-LP
+seln-260399609 mkt-65176260 ev-5545825
+"
+value="MjYwMzk5NjA5OjEvMzM6OjA">
+<span>
+<span>
+<span class="favourite-button" title="Agregar o remover este jugador de sus favoritos."
+data-ref_key="PLAYER" data-ref_id="1193">&#9733;</span></span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Omar Giacalone</span>
+</span>
+</span>
+<span class="price frac">1/33</span>
+<span class="price dec">1.03</span>
+<span class="price us">-3300</span>
+</span>
+</button>
+</li><!--
+--><li class="limited-row">
+<button type="button" name="add-to-slip" title="Bastian Trinker "
+class="price price-260399608-LP
+seln-260399608 mkt-65176260 ev-5545825
+"
+value="MjYwMzk5NjA4OjExLzE6OjA">
+<span>
+<span>
+<span class="favourite-button" title="Agregar o remover este jugador de sus favoritos."
+data-ref_key="PLAYER" data-ref_id="3414">&#9733;</span></span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Bastian Trinker</span>
+</span>
+</span>
+<span class="price frac">11/1</span>
+<span class="price dec">12.00</span>
+<span class="price us">+1100</span>
+</span>
+</button>
+</li><!--
+--></ul>
+</div>
+</div>
+<div class="expander sport-TENN
+mkt mkt-65089197 mkt-sort-HTOH"
+data-mkt_id="65089197">
+<h6 class="expander-E5541192 expander-button" title="Malek Jaziri vs Benjamin Bonzi">
+<a href="/es/e/5541192/Malek-Jaziri-vs-Benjamin-Bonzi">
+Malek Jaziri vs Benjamin Bonzi
+</a>
+</h6>
+<div class="expander-content">
+<div class="ev ev-5541192 inplay"
+data-ev_id="5541192">
+<span class="period">En vivo</span>
+<span class="score">1-1</span>
+</div>
+<ul class="default mkt_content limited mkt-sort-HTOH ev-sort-MT"><!--
+--><li class="limited-row">
+<button type="button" name="add-to-slip" title="Malek Jaziri "
+class="price price-260098043-LP
+seln-260098043 mkt-65089197 ev-5541192
+"
+value="MjYwMDk4MDQzOjEvODo6MA">
+<span>
+<span>
+<span class="favourite-button" title="Agregar o remover este jugador de sus favoritos."
+data-ref_key="PLAYER" data-ref_id="1532">&#9733;</span></span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Malek Jaziri</span>
+</span>
+</span>
+<span class="price frac">1/8</span>
+<span class="price dec">1.125</span>
+<span class="price us">-800</span>
+</span>
+</button>
+</li><!--
+--><li class="limited-row">
+<button type="button" name="add-to-slip" title="Benjamin Bonzi "
+class="price price-260098044-LP
+seln-260098044 mkt-65089197 ev-5541192
+"
+value="MjYwMDk4MDQ0OjkvMjo6MA">
+<span>
+<span>
+<span class="favourite-button" title="Agregar o remover este jugador de sus favoritos."
+data-ref_key="PLAYER" data-ref_id="1010728">&#9733;</span></span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Benjamin Bonzi</span>
+</span>
+</span>
+<span class="price frac">9/2</span>
+<span class="price dec">5.50</span>
+<span class="price us">+450</span>
+</span>
+</button>
+</li><!--
+--></ul>
+</div>
+</div>
+<div class="expander sport-TENN
+mkt mkt-65175100 mkt-sort-HTOH"
+data-mkt_id="65175100">
+<h6 class="expander-E5545787 expander-button" title="Olympe Lancelot vs Maria Joao Koehler">
+<a href="/es/e/5545787/Olympe-Lancelot-vs-Maria-Joao-Koehler">
+Olympe Lancelot vs Maria Joao Koehler
+</a>
+</h6>
+<div class="expander-content">
+<div class="ev ev-5545787 inplay"
+data-ev_id="5545787">
+<span class="period">En vivo</span>
+<span class="score">1-0</span>
+</div>
+<ul class="default mkt_content limited mkt-sort-HTOH ev-sort-MT"><!--
+--><li class="limited-row">
+<button type="button" name="add-to-slip" title="Olympe Lancelot "
+class="price price-260396077-LP
+seln-260396077 mkt-65175100 ev-5545787
+"
+value="MjYwMzk2MDc3OjIvNzo6MA">
+<span>
+<span>
+<span class="favourite-button" title="Agregar o remover este jugador de sus favoritos."
+data-ref_key="PLAYER" data-ref_id="1068567">&#9733;</span></span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Olympe Lancelot</span>
+</span>
+</span>
+<span class="price frac">2/7</span>
+<span class="price dec">1.285</span>
+<span class="price us">-350</span>
+</span>
+</button>
+</li><!--
+--><li class="limited-row">
+<button type="button" name="add-to-slip" title="Maria Joao Koehler "
+class="price price-260396076-LP
+seln-260396076 mkt-65175100 ev-5545787
+"
+value="MjYwMzk2MDc2OjEyLzU6OjA">
+<span>
+<span>
+<span class="favourite-button" title="Agregar o remover este jugador de sus favoritos."
+data-ref_key="PLAYER" data-ref_id="1721">&#9733;</span></span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Maria Joao Koehler</span>
+</span>
+</span>
+<span class="price frac">12/5</span>
+<span class="price dec">3.40</span>
+<span class="price us">+240</span>
+</span>
+</button>
+</li><!--
+--></ul>
+</div>
+</div>
+<div class="expander sport-TENN
+mkt mkt-65175163 mkt-sort-HTOH"
+data-mkt_id="65175163">
+<h6 class="expander-E5545788 expander-button" title="Ines Murta vs Francesca Bullani">
+<a href="/es/e/5545788/Ines-Murta-vs-Francesca-Bullani">
+Ines Murta vs Francesca Bullani
+</a>
+</h6>
+<div class="expander-content">
+<div class="ev ev-5545788 inplay"
+data-ev_id="5545788">
+<span class="period">En vivo</span>
+<span class="score">1-0</span>
+</div>
+<ul class="default mkt_content limited mkt-sort-HTOH ev-sort-MT"><!--
+--><li class="limited-row">
+<button type="button" name="add-to-slip" title="Ines Murta "
+class="price price-260396217-LP
+seln-260396217 mkt-65175163 ev-5545788
+"
+value="MjYwMzk2MjE3OjEvMzM6OjA">
+<span>
+<span>
+<span class="favourite-button" title="Agregar o remover este jugador de sus favoritos."
+data-ref_key="PLAYER" data-ref_id="2386">&#9733;</span></span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Ines Murta</span>
+</span>
+</span>
+<span class="price frac">1/33</span>
+<span class="price dec">1.03</span>
+<span class="price us">-3300</span>
+</span>
+</button>
+</li><!--
+--><li class="limited-row">
+<button type="button" name="add-to-slip" title="Francesca Bullani "
+class="price price-260396216-LP
+seln-260396216 mkt-65175163 ev-5545788
+"
+value="MjYwMzk2MjE2OjExLzE6OjA">
+<span>
+<span>
+<span class="favourite-button" title="Agregar o remover este jugador de sus favoritos."
+data-ref_key="PLAYER" data-ref_id="1015926">&#9733;</span></span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Francesca Bullani</span>
+</span>
+</span>
+<span class="price frac">11/1</span>
+<span class="price dec">12.00</span>
+<span class="price us">+1100</span>
+</span>
+</button>
+</li><!--
+--></ul>
+</div>
+</div>
+</div>
+</div>
+<div class="expander">
+<h5 class="expander-SVOLL expander-button">
+Vóleibol (3)
+</h5>
+<div class="expander-content sport-VOLL">
+<div class="expander sport-VOLL
+mkt mkt-65214972 mkt-sort-H2HT"
+data-mkt_id="65214972">
+<h6 class="expander-E5548303 expander-button" title="Vinh Long vs VLXD Binh Duong">
+<a href="/es/e/5548303/Vinh-Long-vs-VLXD-Binh-Duong">
+Vinh Long vs VLXD Binh Duong
+</a>
+</h6>
+<div class="expander-content">
+<div class="ev ev-5548303 inplay"
+data-ev_id="5548303">
+<span class="clock ticking clock_mode_none live live"
+data-zero_point="1505392668">
+0:00
+</span>
+<span class="period">En vivo</span>
+<span class="score">2-0</span>
+</div>
+<ul class="default mkt_content limited mkt-sort-H2HT ev-sort-MT"><!--
+--><li class="limited-row">
+<button type="button" name="add-to-slip" title="Vinh Long "
+class="price price-260529100-LP
+seln-260529100 mkt-65214972 ev-5548303
+"
+value="MjYwNTI5MTAwOjEvMzo6MA">
+<span>
+<span>
+<span class="favourite-button" title="Agregar o Remover de tus equipos favoritos."
+data-ref_key="TEAM" data-ref_id="176848">&#9733;</span></span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Vinh Long</span>
+</span>
+</span>
+<span class="price frac">1/3</span>
+<span class="price dec">1.333</span>
+<span class="price us">-300</span>
+</span>
+</button>
+</li><!--
+--><li class="limited-row">
+<button type="button" name="add-to-slip" title="VLXD Binh Duong "
+class="price price-260529101-LP
+seln-260529101 mkt-65214972 ev-5548303
+"
+value="MjYwNTI5MTAxOjIvMTo6MA">
+<span>
+<span>
+<span class="favourite-button" title="Agregar o Remover de tus equipos favoritos."
+data-ref_key="TEAM" data-ref_id="182451">&#9733;</span></span>
+<span class="seln-label">
+<span>
+<span class="seln-name">VLXD Binh Duong</span>
+</span>
+</span>
+<span class="price frac">2/1</span>
+<span class="price dec">3.00</span>
+<span class="price us">+200</span>
+</span>
+</button>
+</li><!--
+--></ul>
+</div>
+</div>
+<div class="expander sport-VOLL
+mkt mkt-65217314 mkt-sort-H2HT"
+data-mkt_id="65217314">
+<h6 class="expander-E5548412 expander-button" title="Halkbank Ankara vs Saipa">
+<a href="/es/e/5548412/Halkbank-Ankara-vs-Saipa">
+Halkbank Ankara vs Saipa
+</a>
+</h6>
+<div class="expander-content">
+<div class="ev ev-5548412 inplay"
+data-ev_id="5548412">
+<span class="clock ticking clock_mode_none live live"
+data-zero_point="1505392668">
+0:00
+</span>
+<span class="period">En vivo</span>
+<span class="score">1-2</span>
+</div>
+<ul class="default mkt_content limited mkt-sort-H2HT ev-sort-MT"><!--
+--><li class="limited-row">
+<button type="button" name="add-to-slip" title="Halkbank Ankara "
+class="price price-260535976-LP
+seln-260535976 mkt-65217314 ev-5548412
+"
+value="MjYwNTM1OTc2OjYvNTo6MA">
+<span>
+<span>
+<span class="favourite-button" title="Agregar o Remover de tus equipos favoritos."
+data-ref_key="TEAM" data-ref_id="148363">&#9733;</span></span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Halkbank Ankara</span>
+</span>
+</span>
+<span class="price frac">6/5</span>
+<span class="price dec">2.20</span>
+<span class="price us">+120</span>
+</span>
+</button>
+</li><!--
+--><li class="limited-row">
+<button type="button" name="add-to-slip" title="Saipa "
+class="price price-260535977-LP
+seln-260535977 mkt-65217314 ev-5548412
+"
+value="MjYwNTM1OTc3OjMvNTo6MA">
+<span>
+<span>
+<span class="favourite-button" title="Agregar o Remover de tus equipos favoritos."
+data-ref_key="TEAM" data-ref_id="172397">&#9733;</span></span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Saipa</span>
+</span>
+</span>
+<span class="price frac">3/5</span>
+<span class="price dec">1.60</span>
+<span class="price us">-167</span>
+</span>
+</button>
+</li><!--
+--></ul>
+</div>
+</div>
+<div class="expander sport-VOLL
+mkt mkt-65217351 mkt-sort-H2HT"
+data-mkt_id="65217351">
+<h6 class="expander-E5548419 expander-button" title="Kraguj Women vs ZOK Fortuna Plus Women">
+<a href="/es/e/5548419/Kraguj-Women-vs-ZOK-Fortuna-Plus-Women">
+Kraguj Women vs ZOK Fortuna Plus Women
+</a>
+</h6>
+<div class="expander-content">
+<div class="ev ev-5548419 inplay"
+data-ev_id="5548419">
+<span class="clock ticking clock_mode_none live live"
+data-zero_point="1505392668">
+0:00
+</span>
+<span class="period">En vivo</span>
+<span class="score">1-2</span>
+</div>
+<ul class="default mkt_content limited mkt-sort-H2HT ev-sort-MT"><!--
+--><li class="limited-row">
+<button type="button" name="add-to-slip" title="Kraguj Women "
+class="price price-260536060-LP
+seln-260536060 mkt-65217351 ev-5548419
+"
+value="MjYwNTM2MDYwOjEzLzg6OjA">
+<span>
+<span>
+<span class="favourite-button" title="Agregar o Remover de tus equipos favoritos."
+data-ref_key="TEAM" data-ref_id="171545">&#9733;</span></span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Kraguj Women</span>
+</span>
+</span>
+<span class="price frac">13/8</span>
+<span class="price dec">2.625</span>
+<span class="price us">+162</span>
+</span>
+</button>
+</li><!--
+--><li class="limited-row">
+<button type="button" name="add-to-slip" title="ZOK Fortuna Plus Women "
+class="price price-260536061-LP
+seln-260536061 mkt-65217351 ev-5548419
+"
+value="MjYwNTM2MDYxOjQvOTo6MA">
+<span>
+<span>
+<span class="favourite-button" title="Agregar o Remover de tus equipos favoritos."
+data-ref_key="TEAM" data-ref_id="186661">&#9733;</span></span>
+<span class="seln-label">
+<span>
+<span class="seln-name">ZOK Fortuna Plus Women</span>
+</span>
+</span>
+<span class="price frac">4/9</span>
+<span class="price dec">1.444</span>
+<span class="price us">-225</span>
+</span>
+</button>
+</li><!--
+--></ul>
+</div>
+</div>
+</div>
+</div>
+<div class="expander">
+<h5 class="expander-SGOLF expander-button">
+Golf (1)
+</h5>
+<div class="expander-content sport-GOLF">
+<div class="expander sport-GOLF
+mkt mkt-65044649 mkt-sort-STRD"
+data-mkt_id="65044649">
+<h6 class="expander-E5537863 expander-button" title="KLM Open 2017 - Outright Winner">
+<a href="/es/e/5537863/KLM-Open-2017-Outright-Winner">
+KLM Open 2017 - Outright Winner
+</a>
+</h6>
+<div class="expander-content">
+<div class="ev ev-5537863 "
+data-ev_id="5537863">
+<span class="clock stopped clock_mode_none "
+data-zero_point="1505392668">
+0:00
+</span>
+<span class="period"></span>
+<span class="score"></span>
+</div>
+<ul class="default mkt_content limited mkt-sort-STRD ev-sort-TN"><!--
+--><li class="limited-row">
+<button type="button" name="add-to-slip" title="Bernd Wiesberger "
+class="price price-259945747-LP
+seln-259945747 mkt-65044649 ev-5537863
+"
+value="MjU5OTQ1NzQ3OjMwMDAvMTAwMDo6MA">
+<span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Bernd Wiesberger</span>
+</span>
+</span>
+<span class="price frac">3/1</span>
+<span class="price dec">4.00</span>
+<span class="price us">+300</span>
+</span>
+</button>
+</li><!--
+--><li class="limited-row">
+<button type="button" name="add-to-slip" title="Ashun Wu "
+class="price price-259945865-LP
+seln-259945865 mkt-65044649 ev-5537863
+"
+value="MjU5OTQ1ODY1OjIwMDAwLzEwMDA6OjA">
+<span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Ashun Wu</span>
+</span>
+</span>
+<span class="price frac">20/1</span>
+<span class="price dec">21.00</span>
+<span class="price us">+2000</span>
+</span>
+</button>
+</li><!--
+--><li class="limited-row">
+<button type="button" name="add-to-slip" title="Lee Westwood "
+class="price price-259945746-LP
+seln-259945746 mkt-65044649 ev-5537863
+"
+value="MjU5OTQ1NzQ2OjIyMDAwLzEwMDA6OjA">
+<span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Lee Westwood</span>
+</span>
+</span>
+<span class="price frac">22/1</span>
+<span class="price dec">23.00</span>
+<span class="price us">+2200</span>
+</span>
+</button>
+</li><!--
+--><li class="limited-row">
+<button type="button" name="add-to-slip" title="Ross Fisher "
+class="price price-259945720-LP
+seln-259945720 mkt-65044649 ev-5537863
+"
+value="MjU5OTQ1NzIwOjI1MDAwLzEwMDA6OjA">
+<span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Ross Fisher</span>
+</span>
+</span>
+<span class="price frac">25/1</span>
+<span class="price dec">26.00</span>
+<span class="price us">+2500</span>
+</span>
+</button>
+</li><!--
+--><li class="more_selns limited-row">
+<a href="/es/e/5537863/KLM-Open-2017-Outright-Winner">
+114 Selección
+</a>
+</li><!--
+--></ul>
+<div class="ew-terms">
+1/4
+Cuota
+posición
+1-2-3-4-5
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="expander">
+<h5 class="expander-SCRIC expander-button">
+Críquet (1)
+</h5>
+<div class="expander-content sport-CRIC">
+<div class="expander sport-CRIC
+mkt mkt-65114989 mkt-sort-MRES"
+data-mkt_id="65114989">
+<h6 class="expander-E5537174 expander-button" title="Warwickshire vs Essex">
+<a href="/es/e/5537174/Warwickshire-vs-Essex">
+Warwickshire vs Essex
+</a>
+</h6>
+<div class="expander-content">
+<div class="ev ev-5537174 inplay"
+data-ev_id="5537174">
+<span class="clock ticking clock_mode_forward live live"
+data-zero_point="1505236763">
+2598:25
+</span>
+<span class="period">En vivo</span>
+<span class="score">201 / 55-5-369-9 Dc</span>
+</div>
+<ul class="default mkt_content limited mkt-sort-MRES ev-sort-MT"><!--
+--><li class="limited-row">
+<button type="button" name="add-to-slip" title="Warwickshire "
+class="price price-260191723-LP
+seln-260191723 mkt-65114989 ev-5537174
+"
+data-statuses="ASA"
+disabled="disabled"
+value="MjYwMTkxNzIzOjEwMDAwMC8xMDAwOjow">
+<span>
+<span>
+<span class="favourite-button" title="Agregar o Remover de tus equipos favoritos."
+data-ref_key="TEAM" data-ref_id="107839">&#9733;</span></span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Warwickshire</span>
+</span>
+</span>
+<span class="price frac">100/1</span>
+<span class="price dec">101.00</span>
+<span class="price us">+10000</span>
+</span>
+</button>
+</li><!--
+--><li class="limited-row">
+<button type="button" name="add-to-slip" title=" empate "
+class="price price-260191724-LP
+seln-260191724 mkt-65114989 ev-5537174
+"
+data-statuses="ASA"
+disabled="disabled"
+value="MjYwMTkxNzI0OjE0MDAwLzEwMDA6OjA">
+<span>
+<span class="seln-label">
+<span>
+<span class="seln-name"> empate</span>
+</span>
+</span>
+<span class="price frac">14/1</span>
+<span class="price dec">15.00</span>
+<span class="price us">+1400</span>
+</span>
+</button>
+</li><!--
+--><li class="limited-row">
+<button type="button" name="add-to-slip" title="Essex "
+class="price price-260191725-LP
+seln-260191725 mkt-65114989 ev-5537174
+"
+data-statuses="ASA"
+disabled="disabled"
+value="MjYwMTkxNzI1OjEwLzEwMDA6OjA">
+<span>
+<span>
+<span class="favourite-button" title="Agregar o Remover de tus equipos favoritos."
+data-ref_key="TEAM" data-ref_id="107895">&#9733;</span></span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Essex</span>
+</span>
+</span>
+<span class="price frac">1/100</span>
+<span class="price dec">1.01</span>
+<span class="price us">-10000</span>
+</span>
+</button>
+</li><!--
+--></ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fragment navigation">
+<h4>SERVICIOS</h4>
+<ul>
+<li >
+<span class="nav-icon "></span><!--
+--><a href="http://ls.betradar.com/ls/livescore/?/marca1/es/page" >
+Resultados
+</a>
+</li>
+<li >
+<span class="nav-icon "></span><!--
+--><a href="https://www.marcaapuestas.es/faq" >
+Faq
+</a>
+</li>
+<li >
+<span class="nav-icon "></span><!--
+--><a href="https://www.marcaapuestas.es/reglas" >
+Reglas
+</a>
+</li>
+<li >
+<span class="nav-icon "></span><!--
+--><a href="https://www.marcaapuestas.es/contacto" >
+Atención al cliente
+</a>
+</li>
+</ul>
+</div></div>
+<div id="main-area">
+<div class="fragment sports-title">
+<div class="breadcrumbs-content">
+<span class="title">¿Dónde estoy?</span>:
+<ul>
+<li >
+<a href="/es">Inicio</a>
+</li>
+<li >
+<a href="/es/s/BASE/B%C3%A9isbol">Béisbol</a>
+</li>
+<li class="last-item">
+Cupón
+</li>
+</ul>
+</div>
+</div>
+<div class="fragment custom-type-coupon" data-msg_stamp="OTg1NTEzMDE0OjEwNTM6ZXM=">
+<div class="mkt-menu">
+<h3>
+Todos los partidos -
+Lanzador contra lanzador
+</h3>
+<ul class="mkt-grouping"><!--
+--><li class="sbtype-grouping selected">
+<a href="/es/type-coupon?coupon_group_by=SBTYPE&amp;mkt_sort=HHPP&amp;sb_type_ids=19248-47030-47372-47373-44784">
+Ver liga
+</a>
+<span class="select-arrow"><span class="select-arrow-in"></span></span>
+</li><!--
+--><li class="time-grouping">
+<a href="/es/type-coupon?coupon_group_by=TIME&amp;mkt_sort=HHPP&amp;sb_type_ids=19248-47030-47372-47373-44784">
+Ver hora
+</a>
+<span class="select-arrow"><span class="select-arrow-in"></span></span>
+</li><!--
+--></ul>
+</div>
+<div class="mkt-sort-nav">
+<ul class="mkt-groups"><!--
+--><li class="selected">
+<div class="popup popup-closed">
+<button type="button" class="popup-button">
+Mercados Principales
+</button>
+<ul class="mkt-sorts popup-content">
+<li class="selected">
+<a href="/es/type-coupon?coupon_group_by=SBTYPE&amp;mkt_sort=HHPP&amp;sb_type_ids=19248-47030-47372-47373-44784">
+Lanzador contra lanzador
+</a>
+</li>
+<li >
+<a href="/es/type-coupon?coupon_group_by=SBTYPE&amp;mkt_sort=HHTT&amp;sb_type_ids=19248-47030-47372-47373-44784">
+Equipo vs equipo
+</a>
+</li>
+<li >
+<a href="/es/type-coupon?coupon_group_by=SBTYPE&amp;mkt_sort=FHOT&amp;sb_type_ids=19248-47030-47372-47373-44784">
+Líneas alternativas de carrera
+</a>
+</li>
+<li >
+<a href="/es/type-coupon?coupon_group_by=SBTYPE&amp;mkt_sort=FTPO&amp;sb_type_ids=19248-47030-47372-47373-44784">
+Línea de puntos adicional (Incl. Prórroga)
+</a>
+</li>
+<li >
+<a href="/es/type-coupon?coupon_group_by=SBTYPE&amp;mkt_sort=HCOT&amp;sb_type_ids=19248-47030-47372-47373-44784">
+Handicap (incl. Prórroga)
+</a>
+</li>
+<li >
+<a href="/es/type-coupon?coupon_group_by=SBTYPE&amp;mkt_sort=TPOT&amp;sb_type_ids=19248-47030-47372-47373-44784">
+Total Puntos (incl. Prórroga)
+</a>
+</li>
+</ul>
+</div>
+</li><!--
+--><li class="selected">
+<div class="popup popup-closed">
+<button type="button" class="popup-button">
+Mercados de uno contra uno
+</button>
+<ul class="mkt-sorts popup-content">
+<li >
+<a href="/es/type-coupon?coupon_group_by=SBTYPE&amp;mkt_sort=HHTT&amp;sb_type_ids=19248-47030-47372-47373-44784">
+Equipo vs equipo
+</a>
+</li>
+<li class="selected">
+<a href="/es/type-coupon?coupon_group_by=SBTYPE&amp;mkt_sort=HHPP&amp;sb_type_ids=19248-47030-47372-47373-44784">
+Lanzador contra lanzador
+</a>
+</li>
+</ul>
+</div>
+</li><!--
+--><li class="">
+<div class="popup popup-closed">
+<button type="button" class="popup-button">
+Otros Mercados
+</button>
+<ul class="mkt-sorts popup-content">
+<li >
+<a href="/es/type-coupon?coupon_group_by=SBTYPE&amp;mkt_sort=HIIN&amp;sb_type_ids=19248-47030-47372-47373-44784">
+Entrada con mas carreras
+</a>
+</li>
+<li >
+<a href="/es/type-coupon?coupon_group_by=SBTYPE&amp;mkt_sort=HOT3&amp;sb_type_ids=19248-47030-47372-47373-44784">
+Línea de carreras - 3 Opciones
+</a>
+</li>
+<li >
+<a href="/es/type-coupon?coupon_group_by=SBTYPE&amp;mkt_sort=O3OT&amp;sb_type_ids=19248-47030-47372-47373-44784">
+Total de carreras - 3 Opciones
+</a>
+</li>
+<li >
+<a href="/es/type-coupon?coupon_group_by=SBTYPE&amp;mkt_sort=OEAG&amp;sb_type_ids=19248-47030-47372-47373-44784">
+Total de carreras Par/Impar - Visitanete
+</a>
+</li>
+<li >
+<a href="/es/type-coupon?coupon_group_by=SBTYPE&amp;mkt_sort=OEHG&amp;sb_type_ids=19248-47030-47372-47373-44784">
+Total de carreras Par/Impar - Local
+</a>
+</li>
+<li >
+<a href="/es/type-coupon?coupon_group_by=SBTYPE&amp;mkt_sort=OEOT&amp;sb_type_ids=19248-47030-47372-47373-44784">
+Total Puntos Par/Impar (Incl. Prórroga)
+</a>
+</li>
+<li >
+<a href="/es/type-coupon?coupon_group_by=SBTYPE&amp;mkt_sort=OVRT&amp;sb_type_ids=19248-47030-47372-47373-44784">
+Habrá Prórroga
+</a>
+</li>
+<li >
+<a href="/es/type-coupon?coupon_group_by=SBTYPE&amp;mkt_sort=TOTG&amp;sb_type_ids=19248-47030-47372-47373-44784">
+Total Goles
+</a>
+</li>
+<li >
+<a href="/es/type-coupon?coupon_group_by=SBTYPE&amp;mkt_sort=WMBA&amp;sb_type_ids=19248-47030-47372-47373-44784">
+MKT_SORT-WMBA
+</a>
+</li>
+</ul>
+</div>
+</li><!--
+--><li class="">
+<div>
+<a href="/es/type-coupon?coupon_group_by=SBTYPE&amp;mkt_sort=OUTR&amp;sb_type_ids=19248-47030-47372-47373-44784">
+Ganador
+</a>
+</div>
+</li><!--
+--></ul>
+</div>
+<div class="expander">
+<h4 class="expander-button">
+<span class="favourite-button" title="Agregar o Remover esta liga de tus favoritos."
+data-ref_key="TYPE" data-ref_id="19248">&#9733;</span>
+MLB
+</h4>
+<div class="expander-content">
+<div >
+<table class="coupon coupon-horizontal coupon-scoreboard ">
+<tbody>
+<tr class="mkt mkt_content mkt-65184439 "
+data-mkt_id="65184439">
+<td class="event-favourite">
+<span class="favourite-button" title="Agregar o remover este evento de sus favoritos."
+data-ref_key="EVENT" data-ref_id="5546237">&#9733;</span>
+</td>
+<td class="time coupon-scoreboard">
+<div class="ev ev-5546237" data-ev_id="5546237">
+<span class="time">19:10</span>
+<span class="date">14 Sep</span>
+</div>
+</td>
+<td class="event-scoreboard">
+<span title="En vivo" class="will-be-inplay-inside">
+<span class="will-be-inplay-image "></span>
+</span>
+</td>
+<td class="seln ">
+<div>
+<button type="button" name="add-to-slip" title="Chicago White Sox "
+class="price price-260425715-LP
+seln-260425715 mkt-65184439 ev-5546237
+"
+value="MjYwNDI1NzE1OjExLzEwOjow">
+<span>
+<span>
+<span class="favourite-button" title="Agregar o Remover de tus equipos favoritos."
+data-ref_key="TEAM" data-ref_id="107671">&#9733;</span></span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Chicago White Sox</span>
+</span>
+</span>
+<span class="price frac">11/10</span>
+<span class="price dec">2.10</span>
+<span class="price us">+110</span>
+</span>
+</button>
+</div>
+</td>
+<td class="seln ">
+<div>
+<button type="button" name="add-to-slip" title="Detroit Tigers "
+class="price price-260425713-LP
+seln-260425713 mkt-65184439 ev-5546237
+"
+value="MjYwNDI1NzEzOjMvNDo6MA">
+<span>
+<span>
+<span class="favourite-button" title="Agregar o Remover de tus equipos favoritos."
+data-ref_key="TEAM" data-ref_id="107549">&#9733;</span></span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Detroit Tigers</span>
+</span>
+</span>
+<span class="price frac">3/4</span>
+<span class="price dec">1.75</span>
+<span class="price us">-134</span>
+</span>
+</button>
+</div>
+</td>
+<td class="mkt-count">
+<a title="Nº de mercados"
+href="/es/e/5546237/Chicago-White-Sox%28J.-Shields%29-%40-Detroit-Tigers%28C.-Bell%29">
++33
+</a>
+</td>
+<td class="stats"><!--
+--><a title="Estadísticas" href="http://stats.betradar.com/s4/?clientid=1647&amp;matchid=10946338&amp;language=es" target="_blank"
+class="stats" data-popup_width="1100"
+data-popup_height="800">
+<span class="ST">st</span>
+</a><!--
+--></td>
+</tr>
+<tr class="mkt mkt_content mkt-65184556 "
+data-mkt_id="65184556">
+<td class="event-favourite">
+<span class="favourite-button" title="Agregar o remover este evento de sus favoritos."
+data-ref_key="EVENT" data-ref_id="5546245">&#9733;</span>
+</td>
+<td class="time coupon-scoreboard">
+<div class="ev ev-5546245" data-ev_id="5546245">
+<span class="time">19:35</span>
+<span class="date">14 Sep</span>
+</div>
+</td>
+<td class="event-scoreboard">
+<span title="En vivo" class="will-be-inplay-inside">
+<span class="will-be-inplay-image "></span>
+</span>
+</td>
+<td class="seln ">
+<div>
+<button type="button" name="add-to-slip" title="Oakland Athletics "
+class="price price-260426061-LP
+seln-260426061 mkt-65184556 ev-5546245
+"
+value="MjYwNDI2MDYxOjkvNTo6MA">
+<span>
+<span>
+<span class="favourite-button" title="Agregar o Remover de tus equipos favoritos."
+data-ref_key="TEAM" data-ref_id="107660">&#9733;</span></span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Oakland Athletics</span>
+</span>
+</span>
+<span class="price frac">9/5</span>
+<span class="price dec">2.80</span>
+<span class="price us">+180</span>
+</span>
+</button>
+</div>
+</td>
+<td class="seln ">
+<div>
+<button type="button" name="add-to-slip" title="Boston Red Sox "
+class="price price-260426060-LP
+seln-260426060 mkt-65184556 ev-5546245
+"
+value="MjYwNDI2MDYwOjkvMjA6OjA">
+<span>
+<span>
+<span class="favourite-button" title="Agregar o Remover de tus equipos favoritos."
+data-ref_key="TEAM" data-ref_id="107558">&#9733;</span></span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Boston Red Sox</span>
+</span>
+</span>
+<span class="price frac">9/20</span>
+<span class="price dec">1.45</span>
+<span class="price us">-223</span>
+</span>
+</button>
+</div>
+</td>
+<td class="mkt-count">
+<a title="Nº de mercados"
+href="/es/e/5546245/Oakland-Athletics%28D.-Gossett%29-%40-Boston-Red-Sox%28D.-Pomeranz%29">
++33
+</a>
+</td>
+<td class="stats"><!--
+--><a title="Estadísticas" href="http://stats.betradar.com/s4/?clientid=1647&amp;matchid=10946340&amp;language=es" target="_blank"
+class="stats" data-popup_width="1100"
+data-popup_height="800">
+<span class="ST">st</span>
+</a><!--
+--></td>
+</tr>
+<tr class="mkt mkt_content mkt-65184496 "
+data-mkt_id="65184496">
+<td class="event-favourite">
+<span class="favourite-button" title="Agregar o remover este evento de sus favoritos."
+data-ref_key="EVENT" data-ref_id="5546241">&#9733;</span>
+</td>
+<td class="time coupon-scoreboard">
+<div class="ev ev-5546241" data-ev_id="5546241">
+<span class="time">19:45</span>
+<span class="date">14 Sep</span>
+</div>
+</td>
+<td class="event-scoreboard">
+<span title="En vivo" class="will-be-inplay-inside">
+<span class="will-be-inplay-image "></span>
+</span>
+</td>
+<td class="seln ">
+<div>
+<button type="button" name="add-to-slip" title="Cincinnati Reds "
+class="price price-260425881-LP
+seln-260425881 mkt-65184496 ev-5546241
+"
+value="MjYwNDI1ODgxOjkvNTo6MA">
+<span>
+<span>
+<span class="favourite-button" title="Agregar o Remover de tus equipos favoritos."
+data-ref_key="TEAM" data-ref_id="107557">&#9733;</span></span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Cincinnati Reds</span>
+</span>
+</span>
+<span class="price frac">9/5</span>
+<span class="price dec">2.80</span>
+<span class="price us">+180</span>
+</span>
+</button>
+</div>
+</td>
+<td class="seln ">
+<div>
+<button type="button" name="add-to-slip" title="St. Louis Cardinals "
+class="price price-260425880-LP
+seln-260425880 mkt-65184496 ev-5546241
+"
+value="MjYwNDI1ODgwOjkvMjA6OjA">
+<span>
+<span>
+<span class="favourite-button" title="Agregar o Remover de tus equipos favoritos."
+data-ref_key="TEAM" data-ref_id="107554">&#9733;</span></span>
+<span class="seln-label">
+<span>
+<span class="seln-name">St. Louis Cardinals</span>
+</span>
+</span>
+<span class="price frac">9/20</span>
+<span class="price dec">1.45</span>
+<span class="price us">-223</span>
+</span>
+</button>
+</div>
+</td>
+<td class="mkt-count">
+<a title="Nº de mercados"
+href="/es/e/5546241/Cincinnati-Reds%28A.-Garrett%29-%40-St.-Louis-Cardinals%28L.-Weaver%29">
++33
+</a>
+</td>
+<td class="stats"><!--
+--><a title="Estadísticas" href="http://stats.betradar.com/s4/?clientid=1647&amp;matchid=10946342&amp;language=es" target="_blank"
+class="stats" data-popup_width="1100"
+data-popup_height="800">
+<span class="ST">st</span>
+</a><!--
+--></td>
+</tr>
+<tr class="mkt mkt_content mkt-65184511 "
+data-mkt_id="65184511">
+<td class="event-favourite">
+<span class="favourite-button" title="Agregar o remover este evento de sus favoritos."
+data-ref_key="EVENT" data-ref_id="5546242">&#9733;</span>
+</td>
+<td class="time coupon-scoreboard">
+<div class="ev ev-5546242" data-ev_id="5546242">
+<span class="time">21:40</span>
+<span class="date">14 Sep</span>
+</div>
+</td>
+<td class="event-scoreboard">
+<span title="En vivo" class="will-be-inplay-inside">
+<span class="will-be-inplay-image "></span>
+</span>
+</td>
+<td class="seln ">
+<div>
+<button type="button" name="add-to-slip" title="Colorado Rockies "
+class="price price-260425926-LP
+seln-260425926 mkt-65184511 ev-5546242
+"
+value="MjYwNDI1OTI2OjI5LzIwOjow">
+<span>
+<span>
+<span class="favourite-button" title="Agregar o Remover de tus equipos favoritos."
+data-ref_key="TEAM" data-ref_id="107664">&#9733;</span></span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Colorado Rockies</span>
+</span>
+</span>
+<span class="price frac">29/20</span>
+<span class="price dec">2.45</span>
+<span class="price us">+145</span>
+</span>
+</button>
+</div>
+</td>
+<td class="seln ">
+<div>
+<button type="button" name="add-to-slip" title="Arizona Diamondbacks "
+class="price price-260425925-LP
+seln-260425925 mkt-65184511 ev-5546242
+"
+value="MjYwNDI1OTI1OjQvNzo6MA">
+<span>
+<span>
+<span class="favourite-button" title="Agregar o Remover de tus equipos favoritos."
+data-ref_key="TEAM" data-ref_id="107551">&#9733;</span></span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Arizona Diamondbacks</span>
+</span>
+</span>
+<span class="price frac">4/7</span>
+<span class="price dec">1.571</span>
+<span class="price us">-175</span>
+</span>
+</button>
+</div>
+</td>
+<td class="mkt-count">
+<a title="Nº de mercados"
+href="/es/e/5546242/Colorado-Rockies%28C.-Bettis%29-%40-Arizona-Diamondbacks%28Z.-Godley%29">
++33
+</a>
+</td>
+<td class="stats"><!--
+--><a title="Estadísticas" href="http://stats.betradar.com/s4/?clientid=1647&amp;matchid=10946344&amp;language=es" target="_blank"
+class="stats" data-popup_width="1100"
+data-popup_height="800">
+<span class="ST">st</span>
+</a><!--
+--></td>
+</tr>
+<tr class="mkt mkt_content mkt-65184526 "
+data-mkt_id="65184526">
+<td class="event-favourite">
+<span class="favourite-button" title="Agregar o remover este evento de sus favoritos."
+data-ref_key="EVENT" data-ref_id="5546243">&#9733;</span>
+</td>
+<td class="time coupon-scoreboard">
+<div class="ev ev-5546243" data-ev_id="5546243">
+<span class="time">01:05</span>
+<span class="date">15 Sep</span>
+</div>
+</td>
+<td class="event-scoreboard">
+<span title="En vivo" class="will-be-inplay-inside">
+<span class="will-be-inplay-image "></span>
+</span>
+</td>
+<td class="seln ">
+<div>
+<button type="button" name="add-to-slip" title="Miami Marlins "
+class="price price-260425971-LP
+seln-260425971 mkt-65184526 ev-5546243
+"
+value="MjYwNDI1OTcxOjMvNDo6MA">
+<span>
+<span>
+<span class="favourite-button" title="Agregar o Remover de tus equipos favoritos."
+data-ref_key="TEAM" data-ref_id="107553">&#9733;</span></span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Miami Marlins</span>
+</span>
+</span>
+<span class="price frac">3/4</span>
+<span class="price dec">1.75</span>
+<span class="price us">-134</span>
+</span>
+</button>
+</div>
+</td>
+<td class="seln ">
+<div>
+<button type="button" name="add-to-slip" title="Philadelphia Phillies "
+class="price price-260425970-LP
+seln-260425970 mkt-65184526 ev-5546243
+"
+value="MjYwNDI1OTcwOjExLzEwOjow">
+<span>
+<span>
+<span class="favourite-button" title="Agregar o Remover de tus equipos favoritos."
+data-ref_key="TEAM" data-ref_id="107556">&#9733;</span></span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Philadelphia Phillies</span>
+</span>
+</span>
+<span class="price frac">11/10</span>
+<span class="price dec">2.10</span>
+<span class="price us">+110</span>
+</span>
+</button>
+</div>
+</td>
+<td class="mkt-count">
+<a title="Nº de mercados"
+href="/es/e/5546243/Miami-Marlins%28J.-Urena%29-%40-Philadelphia-Phillies%28J.-Thompson%29">
++33
+</a>
+</td>
+<td class="stats"><!--
+--><a title="Estadísticas" href="http://stats.betradar.com/s4/?clientid=1647&amp;matchid=10946350&amp;language=es" target="_blank"
+class="stats" data-popup_width="1100"
+data-popup_height="800">
+<span class="ST">st</span>
+</a><!--
+--></td>
+</tr>
+<tr class="mkt mkt_content mkt-65184541 "
+data-mkt_id="65184541">
+<td class="event-favourite">
+<span class="favourite-button" title="Agregar o remover este evento de sus favoritos."
+data-ref_key="EVENT" data-ref_id="5546244">&#9733;</span>
+</td>
+<td class="time coupon-scoreboard">
+<div class="ev ev-5546244" data-ev_id="5546244">
+<span class="time">01:05</span>
+<span class="date">15 Sep</span>
+</div>
+</td>
+<td class="event-scoreboard">
+<span title="En vivo" class="will-be-inplay-inside">
+<span class="will-be-inplay-image "></span>
+</span>
+</td>
+<td class="seln ">
+<div>
+<button type="button" name="add-to-slip" title="Atlanta Braves "
+class="price price-260426016-LP
+seln-260426016 mkt-65184541 ev-5546244
+"
+value="MjYwNDI2MDE2OjYvNDo6MA">
+<span>
+<span>
+<span class="favourite-button" title="Agregar o Remover de tus equipos favoritos."
+data-ref_key="TEAM" data-ref_id="107563">&#9733;</span></span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Atlanta Braves</span>
+</span>
+</span>
+<span class="price frac">6/4</span>
+<span class="price dec">2.50</span>
+<span class="price us">+150</span>
+</span>
+</button>
+</div>
+</td>
+<td class="seln ">
+<div>
+<button type="button" name="add-to-slip" title="Washington Nationals "
+class="price price-260426015-LP
+seln-260426015 mkt-65184541 ev-5546244
+"
+value="MjYwNDI2MDE1OjExLzIwOjow">
+<span>
+<span>
+<span class="favourite-button" title="Agregar o Remover de tus equipos favoritos."
+data-ref_key="TEAM" data-ref_id="107668">&#9733;</span></span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Washington Nationals</span>
+</span>
+</span>
+<span class="price frac">11/20</span>
+<span class="price dec">1.55</span>
+<span class="price us">-182</span>
+</span>
+</button>
+</div>
+</td>
+<td class="mkt-count">
+<a title="Nº de mercados"
+href="/es/e/5546244/Atlanta-Braves%28M.-Foltynewicz%29-%40-Washington-Nationals%28T.-Roark%29">
++33
+</a>
+</td>
+<td class="stats"><!--
+--><a title="Estadísticas" href="http://stats.betradar.com/s4/?clientid=1647&amp;matchid=10946346&amp;language=es" target="_blank"
+class="stats" data-popup_width="1100"
+data-popup_height="800">
+<span class="ST">st</span>
+</a><!--
+--></td>
+</tr>
+<tr class="mkt mkt_content mkt-65184601 "
+data-mkt_id="65184601">
+<td class="event-favourite">
+<span class="favourite-button" title="Agregar o remover este evento de sus favoritos."
+data-ref_key="EVENT" data-ref_id="5546248">&#9733;</span>
+</td>
+<td class="time coupon-scoreboard">
+<div class="ev ev-5546248" data-ev_id="5546248">
+<span class="time">01:05</span>
+<span class="date">15 Sep</span>
+</div>
+</td>
+<td class="event-scoreboard">
+<span title="En vivo" class="will-be-inplay-inside">
+<span class="will-be-inplay-image "></span>
+</span>
+</td>
+<td class="seln ">
+<div>
+<button type="button" name="add-to-slip" title="Baltimore Orioles "
+class="price price-260426196-LP
+seln-260426196 mkt-65184601 ev-5546248
+"
+value="MjYwNDI2MTk2OjcvNDo6MA">
+<span>
+<span>
+<span class="favourite-button" title="Agregar o Remover de tus equipos favoritos."
+data-ref_key="TEAM" data-ref_id="107657">&#9733;</span></span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Baltimore Orioles</span>
+</span>
+</span>
+<span class="price frac">7/4</span>
+<span class="price dec">2.75</span>
+<span class="price us">+175</span>
+</span>
+</button>
+</div>
+</td>
+<td class="seln ">
+<div>
+<button type="button" name="add-to-slip" title="New York Yankees "
+class="price price-260426195-LP
+seln-260426195 mkt-65184601 ev-5546248
+"
+value="MjYwNDI2MTk1OjEyLzI1Ojow">
+<span>
+<span>
+<span class="favourite-button" title="Agregar o Remover de tus equipos favoritos."
+data-ref_key="TEAM" data-ref_id="107675">&#9733;</span></span>
+<span class="seln-label">
+<span>
+<span class="seln-name">New York Yankees</span>
+</span>
+</span>
+<span class="price frac">12/25</span>
+<span class="price dec">1.48</span>
+<span class="price us">-209</span>
+</span>
+</button>
+</div>
+</td>
+<td class="mkt-count">
+<a title="Nº de mercados"
+href="/es/e/5546248/Baltimore-Orioles%28W.-Miley%29-%40-New-York-Yankees%28M.-Tanaka%29">
++33
+</a>
+</td>
+<td class="stats"><!--
+--><a title="Estadísticas" href="http://stats.betradar.com/s4/?clientid=1647&amp;matchid=10946348&amp;language=es" target="_blank"
+class="stats" data-popup_width="1100"
+data-popup_height="800">
+<span class="ST">st</span>
+</a><!--
+--></td>
+</tr>
+<tr class="mkt mkt_content mkt-65184465 "
+data-mkt_id="65184465">
+<td class="event-favourite">
+<span class="favourite-button" title="Agregar o remover este evento de sus favoritos."
+data-ref_key="EVENT" data-ref_id="5546239">&#9733;</span>
+</td>
+<td class="time coupon-scoreboard">
+<div class="ev ev-5546239" data-ev_id="5546239">
+<span class="time">01:10</span>
+<span class="date">15 Sep</span>
+</div>
+</td>
+<td class="event-scoreboard">
+<span title="En vivo" class="will-be-inplay-inside">
+<span class="will-be-inplay-image "></span>
+</span>
+</td>
+<td class="seln ">
+<div>
+<button type="button" name="add-to-slip" title="Kansas City Royals "
+class="price price-260425789-LP
+seln-260425789 mkt-65184465 ev-5546239
+"
+value="MjYwNDI1Nzg5OjM3LzIwOjow">
+<span>
+<span>
+<span class="favourite-button" title="Agregar o Remover de tus equipos favoritos."
+data-ref_key="TEAM" data-ref_id="107670">&#9733;</span></span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Kansas City Royals</span>
+</span>
+</span>
+<span class="price frac">37/20</span>
+<span class="price dec">2.85</span>
+<span class="price us">+185</span>
+</span>
+</button>
+</div>
+</td>
+<td class="seln ">
+<div>
+<button type="button" name="add-to-slip" title="Cleveland Indians "
+class="price price-260425788-LP
+seln-260425788 mkt-65184465 ev-5546239
+"
+value="MjYwNDI1Nzg4OjQvOTo6MA">
+<span>
+<span>
+<span class="favourite-button" title="Agregar o Remover de tus equipos favoritos."
+data-ref_key="TEAM" data-ref_id="107674">&#9733;</span></span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Cleveland Indians</span>
+</span>
+</span>
+<span class="price frac">4/9</span>
+<span class="price dec">1.444</span>
+<span class="price us">-225</span>
+</span>
+</button>
+</div>
+</td>
+<td class="mkt-count">
+<a title="Nº de mercados"
+href="/es/e/5546239/Kansas-City-Royals%28J.-Junis%29-%40-Cleveland-Indians%28J.-Tomlin%29">
++33
+</a>
+</td>
+<td class="stats"><!--
+--><a title="Estadísticas" href="http://stats.betradar.com/s4/?clientid=1647&amp;matchid=10946352&amp;language=es" target="_blank"
+class="stats" data-popup_width="1100"
+data-popup_height="800">
+<span class="ST">st</span>
+</a><!--
+--></td>
+</tr>
+<tr class="mkt mkt_content mkt-65184481 "
+data-mkt_id="65184481">
+<td class="event-favourite">
+<span class="favourite-button" title="Agregar o remover este evento de sus favoritos."
+data-ref_key="EVENT" data-ref_id="5546240">&#9733;</span>
+</td>
+<td class="time coupon-scoreboard">
+<div class="ev ev-5546240" data-ev_id="5546240">
+<span class="time">02:05</span>
+<span class="date">15 Sep</span>
+</div>
+</td>
+<td class="event-scoreboard">
+<span title="En vivo" class="will-be-inplay-inside">
+<span class="will-be-inplay-image "></span>
+</span>
+</td>
+<td class="seln ">
+<div>
+<button type="button" name="add-to-slip" title="Seattle Mariners "
+class="price price-260425836-LP
+seln-260425836 mkt-65184481 ev-5546240
+"
+value="MjYwNDI1ODM2OjE5LzIwOjow">
+<span>
+<span>
+<span class="favourite-button" title="Agregar o Remover de tus equipos favoritos."
+data-ref_key="TEAM" data-ref_id="107672">&#9733;</span></span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Seattle Mariners</span>
+</span>
+</span>
+<span class="price frac">19/20</span>
+<span class="price dec">1.95</span>
+<span class="price us">-106</span>
+</span>
+</button>
+</div>
+</td>
+<td class="seln ">
+<div>
+<button type="button" name="add-to-slip" title="Texas Rangers "
+class="price price-260425835-LP
+seln-260425835 mkt-65184481 ev-5546240
+"
+value="MjYwNDI1ODM1OjkvMTA6OjA">
+<span>
+<span>
+<span class="favourite-button" title="Agregar o Remover de tus equipos favoritos."
+data-ref_key="TEAM" data-ref_id="107661">&#9733;</span></span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Texas Rangers</span>
+</span>
+</span>
+<span class="price frac">9/10</span>
+<span class="price dec">1.90</span>
+<span class="price us">-112</span>
+</span>
+</button>
+</div>
+</td>
+<td class="mkt-count">
+<a title="Nº de mercados"
+href="/es/e/5546240/Seattle-Mariners%28F-Hernandez%29-%40-Texas-Rangers%28A.-Cashner%29">
++33
+</a>
+</td>
+<td class="stats"><!--
+--><a title="Estadísticas" href="http://stats.betradar.com/s4/?clientid=1647&amp;matchid=10946356&amp;language=es" target="_blank"
+class="stats" data-popup_width="1100"
+data-popup_height="800">
+<span class="ST">st</span>
+</a><!--
+--></td>
+</tr>
+<tr class="mkt mkt_content mkt-65184441 "
+data-mkt_id="65184441">
+<td class="event-favourite">
+<span class="favourite-button" title="Agregar o remover este evento de sus favoritos."
+data-ref_key="EVENT" data-ref_id="5546238">&#9733;</span>
+</td>
+<td class="time coupon-scoreboard">
+<div class="ev ev-5546238" data-ev_id="5546238">
+<span class="time">02:10</span>
+<span class="date">15 Sep</span>
+</div>
+</td>
+<td class="event-scoreboard">
+<span title="En vivo" class="will-be-inplay-inside">
+<span class="will-be-inplay-image "></span>
+</span>
+</td>
+<td class="seln ">
+<div>
+<button type="button" name="add-to-slip" title="Toronto Blue Jays "
+class="price price-260425720-LP
+seln-260425720 mkt-65184441 ev-5546238
+"
+value="MjYwNDI1NzIwOjI5LzIwOjow">
+<span>
+<span>
+<span class="favourite-button" title="Agregar o Remover de tus equipos favoritos."
+data-ref_key="TEAM" data-ref_id="107550">&#9733;</span></span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Toronto Blue Jays</span>
+</span>
+</span>
+<span class="price frac">29/20</span>
+<span class="price dec">2.45</span>
+<span class="price us">+145</span>
+</span>
+</button>
+</div>
+</td>
+<td class="seln ">
+<div>
+<button type="button" name="add-to-slip" title="Minnesota Twins "
+class="price price-260425718-LP
+seln-260425718 mkt-65184441 ev-5546238
+"
+value="MjYwNDI1NzE4OjQvNzo6MA">
+<span>
+<span>
+<span class="favourite-button" title="Agregar o Remover de tus equipos favoritos."
+data-ref_key="TEAM" data-ref_id="107662">&#9733;</span></span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Minnesota Twins</span>
+</span>
+</span>
+<span class="price frac">4/7</span>
+<span class="price dec">1.571</span>
+<span class="price us">-175</span>
+</span>
+</button>
+</div>
+</td>
+<td class="mkt-count">
+<a title="Nº de mercados"
+href="/es/e/5546238/Toronto-Blue-Jays%28B.-Anderson%29-%40-Minnesota-Twins%28J.-Berrios%29">
++33
+</a>
+</td>
+<td class="stats"><!--
+--><a title="Estadísticas" href="http://stats.betradar.com/s4/?clientid=1647&amp;matchid=10946358&amp;language=es" target="_blank"
+class="stats" data-popup_width="1100"
+data-popup_height="800">
+<span class="ST">st</span>
+</a><!--
+--></td>
+</tr>
+<tr class="mkt mkt_content mkt-65184586 "
+data-mkt_id="65184586">
+<td class="event-favourite">
+<span class="favourite-button" title="Agregar o remover este evento de sus favoritos."
+data-ref_key="EVENT" data-ref_id="5546247">&#9733;</span>
+</td>
+<td class="time coupon-scoreboard">
+<div class="ev ev-5546247" data-ev_id="5546247">
+<span class="time">04:05</span>
+<span class="date">15 Sep</span>
+</div>
+</td>
+<td class="event-scoreboard">
+<span title="En vivo" class="will-be-inplay-inside">
+<span class="will-be-inplay-image "></span>
+</span>
+</td>
+<td class="seln ">
+<div>
+<button type="button" name="add-to-slip" title="Houston Astros "
+class="price price-260426151-LP
+seln-260426151 mkt-65184586 ev-5546247
+"
+value="MjYwNDI2MTUxOjcvMTA6OjA">
+<span>
+<span>
+<span class="favourite-button" title="Agregar o Remover de tus equipos favoritos."
+data-ref_key="TEAM" data-ref_id="107555">&#9733;</span></span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Houston Astros</span>
+</span>
+</span>
+<span class="price frac">7/10</span>
+<span class="price dec">1.70</span>
+<span class="price us">-143</span>
+</span>
+</button>
+</div>
+</td>
+<td class="seln ">
+<div>
+<button type="button" name="add-to-slip" title="Los Angeles Angels "
+class="price price-260426150-LP
+seln-260426150 mkt-65184586 ev-5546247
+"
+value="MjYwNDI2MTUwOjYvNTo6MA">
+<span>
+<span>
+<span class="favourite-button" title="Agregar o Remover de tus equipos favoritos."
+data-ref_key="TEAM" data-ref_id="107561">&#9733;</span></span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Los Angeles Angels</span>
+</span>
+</span>
+<span class="price frac">6/5</span>
+<span class="price dec">2.20</span>
+<span class="price us">+120</span>
+</span>
+</button>
+</div>
+</td>
+<td class="mkt-count">
+<a title="Nº de mercados"
+href="/es/e/5546247/Houston-Astros%28B.-Peacock%29-%40-Los-Angeles-Angels%28R.-Nolasco%29">
++33
+</a>
+</td>
+<td class="stats"><!--
+--><a title="Estadísticas" href="http://stats.betradar.com/s4/?clientid=1647&amp;matchid=10946360&amp;language=es" target="_blank"
+class="stats" data-popup_width="1100"
+data-popup_height="800">
+<span class="ST">st</span>
+</a><!--
+--></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div></div>
+<div id="slip-area">
+<div class="fragment betslip" id="betslip-container">
+<div class="slip-head">
+<ul class="betslip-navigation">
+<li class="betslip selected">
+<button name="betslip"><h4 class="slip-title">Boleto</h4></button>
+</li>
+<li class="open-bets">
+<button name="open_bets" disabled="disabled"><h4 class="slip-title">Apuestas abiertas</h4></button>
+</li>
+</ul>
+</div>
+<div id="betslip">
+<div class="loading">
+Cargando boleto de apuestas…
+</div>
+</div>
+<div class="shroud"></div>
+<div class="shroud-error empty"></div>
+<div class="shroud-msg empty"></div>
+</div><div class="fragment bhighlight "
+data-msg_stamp="OTg1NTEyNzM2OjEwNTM6ZXM="
+data-src_code="BETHIGHLIGHT">
+<div class="BH_container bhighlight-update bh_carousel">
+<input type="hidden" name="bh_container_code" value="rhm_carousel" />
+<input type="hidden" name="incl_non_sport" value="Y" />
+<input type="hidden" name="sport_code" value="" />
+<input type="hidden" name="show_all" value="N" />
+<div class="BH_carousel_container">
+<div class="header">
+<div class="tabs">
+<h4 class="carousel">JUEGOS DE CASINO</h4>
+<ul class="carousel">
+<li>
+<button type="button"
+title="Marca RHM Two Carousel"
+class="bh_button default active selected"
+name="load_highlight_button"
+value="111287">
+</button>
+</li>
+<li>
+<button type="button"
+title="Marca RHM Carousel"
+class="bh_button default"
+name="load_highlight_button"
+value="111285">
+</button>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="bhighlight BH_111287 img_promo">
+<input type="hidden" name="default_display_time" value="5" />
+<input type="hidden" name="display_time" value="5" />
+<input type="hidden" name="highlight_id" value="111287" />
+<div>
+<div class="BH_right last">
+<div class="content">
+<div class="graphics">
+<a href="https://cachedownload.marcaapuestas.es/casinoclient.html?game=ro&amp;language=es"
+target="_blank"
+data-popup_width="800"
+data-popup_height="600"
+>
+<img src="https://cachesports.marcaapuestas.es/web_static/R_MultiOp_4_8_8/desktop/bh/MRC/xsell-sport-roulette.jpg" alt="Image Alt Text"
+width="240"
+/>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fragment top_x_bets">
+<h4>Lo + apostado</h4>
+<div class="content">
+<ul class="top-selns" data-src_code="TOP_X_SELN">
+<li data-numerator="4" data-denominator="9">
+<button type="button" name="add-to-slip" title="Milan "
+class="price price-256237011-LP
+seln-256237011 mkt-63962352 ev-5473507
+"
+value="MjU2MjM3MDExOjQvOTo6MA">
+<span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Milan</span>
+</span>
+</span>
+<span class="price frac">4/9</span>
+<span class="price dec">1.444</span>
+<span class="price us">-225</span>
+</span>
+</button>
+<div class="top-x-tooltip">
+<span class="ev-name">
+<a href="/es/e/5473507/Austria-Wien-vs-Milan">
+Austria Wien vs Milan
+</a>
+</span>
+<span class="time">Jueves, 14 Sep 2017 19:00:00</span>
+<span class="mkt-name">Resultado final</span>
+</div>
+</li>
+<li data-numerator="2" data-denominator="5">
+<button type="button" name="add-to-slip" title="Arsenal "
+class="price price-256240089-LP
+seln-256240089 mkt-63963147 ev-5473514
+"
+value="MjU2MjQwMDg5OjIvNTo6MA">
+<span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Arsenal</span>
+</span>
+</span>
+<span class="price frac">2/5</span>
+<span class="price dec">1.40</span>
+<span class="price us">-250</span>
+</span>
+</button>
+<div class="top-x-tooltip">
+<span class="ev-name">
+<a href="/es/e/5473514/Arsenal-vs-1.-FC-K%C3%B6ln">
+Arsenal vs 1. FC Köln
+</a>
+</span>
+<span class="time">Jueves, 14 Sep 2017 21:05:00</span>
+<span class="mkt-name">Resultado final</span>
+</div>
+</li>
+<li data-numerator="21" data-denominator="10">
+<button type="button" name="add-to-slip" title="Everton "
+class="price price-256237437-LP
+seln-256237437 mkt-63962461 ev-5473508
+"
+value="MjU2MjM3NDM3OjIxLzEwOjow">
+<span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Everton</span>
+</span>
+</span>
+<span class="price frac">21/10</span>
+<span class="price dec">3.10</span>
+<span class="price us">+210</span>
+</span>
+</button>
+<div class="top-x-tooltip">
+<span class="ev-name">
+<a href="/es/e/5473508/Atalanta-vs-Everton">
+Atalanta vs Everton
+</a>
+</span>
+<span class="time">Jueves, 14 Sep 2017 19:00:00</span>
+<span class="mkt-name">Resultado final</span>
+</div>
+</li>
+<li data-numerator="29" data-denominator="20">
+<button type="button" name="add-to-slip" title="Nice "
+class="price price-256242269-LP
+seln-256242269 mkt-63963736 ev-5473519
+"
+value="MjU2MjQyMjY5OjI5LzIwOjow">
+<span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Nice</span>
+</span>
+</span>
+<span class="price frac">29/20</span>
+<span class="price dec">2.45</span>
+<span class="price us">+145</span>
+</span>
+</button>
+<div class="top-x-tooltip">
+<span class="ev-name">
+<a href="/es/e/5473519/Zulte-Waregem-vs-Nice">
+Zulte Waregem vs Nice
+</a>
+</span>
+<span class="time">Jueves, 14 Sep 2017 21:05:00</span>
+<span class="mkt-name">Resultado final</span>
+</div>
+</li>
+<li data-numerator="21" data-denominator="20">
+<button type="button" name="add-to-slip" title="Slavia Prague "
+class="price price-256234179-LP
+seln-256234179 mkt-63961590 ev-5473501
+"
+value="MjU2MjM0MTc5OjIxLzIwOjow">
+<span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Slavia Prague</span>
+</span>
+</span>
+<span class="price frac">21/20</span>
+<span class="price dec">2.05</span>
+<span class="price us">+105</span>
+</span>
+</button>
+<div class="top-x-tooltip">
+<span class="ev-name">
+<a href="/es/e/5473501/Slavia-Prague-vs-Maccabi-Tel-Aviv">
+Slavia Prague vs Maccabi Tel Aviv
+</a>
+</span>
+<span class="time">Jueves, 14 Sep 2017 19:00:00</span>
+<span class="mkt-name">Resultado final</span>
+</div>
+</li>
+</ul>
+<div class="top-5-slider" data-ladder="[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 85, 90, 95, 100, 125, 150, 175, 200, 225, 250]"></div>
+<div class="stake-container">
+<label>
+<span class="stake">Apuesta</span>
+<input class="stake-ctrl top-bets-stake"
+type="number" min="1" max="10000"
+value="5.00" />
+</label>
+</div>
+<div class="returns-container">
+<span class="returns">Ingreso</span>
+<span class="returns-box">
+<span class="ccy"></span>
+<span class="top-bets-returns"></span>
+</span>
+</div>
+<button name="add-top-bets"
+data-bet_refs="MjU2MjM3MDExOjQvOTo6MA,MjU2MjQwMDg5OjIvNTo6MA,MjU2MjM3NDM3OjIxLzEwOjow,MjU2MjQyMjY5OjI5LzIwOjow,MjU2MjM0MTc5OjIxLzIwOjow"
+data-seln_ids="256237011,256240089,256237437,256242269,256234179"
+data-src_code="TOP_X_BUTTON">
+Agregar A Boleto
+</button>
+</div>
+</div><div class="fragment bhighlight "
+data-msg_stamp="OTg1NTEyNzM2OjEwNTM6ZXM="
+data-src_code="BETHIGHLIGHT">
+<div class="BH_container bhighlight-update bh_carousel">
+<input type="hidden" name="bh_container_code" value="carrusel_movil" />
+<input type="hidden" name="incl_non_sport" value="Y" />
+<input type="hidden" name="sport_code" value="" />
+<input type="hidden" name="show_all" value="N" />
+<div class="BH_carousel_container">
+<div class="header">
+<div class="tabs">
+</div>
+</div>
+</div>
+<div class="bhighlight BH_150627 img_promo">
+<input type="hidden" name="default_display_time" value="5" />
+<input type="hidden" name="display_time" value="5" />
+<input type="hidden" name="highlight_id" value="150627" />
+<div>
+<div class="BH_right last">
+<div class="content">
+<div class="graphics">
+<a href="https://noticias.marcaapuestas.es/promociones/26-04-2016/descarga-la-nueva-aplicacion-movil-en-iphone-y-android/"
+target="_blank"
+data-popup_width="600"
+data-popup_height="400"
+>
+<img src="https://cachesports.marcaapuestas.es/web_static/R_MultiOp_4_8_8/desktop/bh/MRC/logo_android.jpg" alt=""
+width="240"
+/>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div><div class="fragment bhighlight "
+data-msg_stamp="OTg1NTEyNzM2OjEwNTM6ZXM="
+data-src_code="BETHIGHLIGHT">
+<div class="BH_container bhighlight-update bh_carousel">
+<input type="hidden" name="bh_container_code" value="carrusell_movilll" />
+<input type="hidden" name="incl_non_sport" value="Y" />
+<input type="hidden" name="sport_code" value="" />
+<input type="hidden" name="show_all" value="N" />
+<div class="BH_carousel_container">
+<div class="header">
+<div class="tabs">
+</div>
+</div>
+</div>
+<div class="bhighlight BH_150644 img_promo">
+<input type="hidden" name="default_display_time" value="5" />
+<input type="hidden" name="display_time" value="5" />
+<input type="hidden" name="highlight_id" value="150644" />
+<div>
+<div class="BH_right last">
+<div class="content">
+<div class="graphics">
+<a href="https://itunes.apple.com/ES/app/id1077467008?mt=8"
+target="_blank"
+data-popup_width="600"
+data-popup_height="400"
+>
+<img src="https://cachesports.marcaapuestas.es/web_static/R_MultiOp_4_8_8/desktop/bh/MRC/logo_ios.jpg" alt=""
+width="240"
+/>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+<div id="footer-area">
+<div class="fragment marca-footer">
+<ul class="nav-F1"><!--
+--><li class="header-nav-MOBILE ">
+<a href="/web_nr?key=do_switch_platform&amp;platform=mobile"
+>
+Móvil
+</a>
+</li><!--
+--><li class="header-nav-TERMS-CONDITIONS ">
+<a href="https://www.marcaapuestas.es/terminos-y-condiciones"
+>
+Términos
+</a>
+</li><!--
+--><li class="header-nav-RESPONSIBLE-GAMING ">
+<a href="https://www.marcaapuestas.es/juego-responsable"
+>
+Juego Responsable
+</a>
+</li><!--
+--><li class="header-nav-F-A-Q ">
+<a href="https://www.marcaapuestas.es/faq"
+>
+Preguntas Frecuentes
+</a>
+</li><!--
+--><li class="header-nav-REGLAS ">
+<a href="https://www.marcaapuestas.es/reglas"
+>
+Reglas
+</a>
+</li><!--
+--><li class="header-nav-CONTACTO ">
+<a href="https://www.marcaapuestas.es/contacto/"
+>
+Contacto
+</a>
+</li><!--
+--><li class="header-nav-POLÍTICA-DE-PRIVACIDAD ">
+<a href="https://www.marcaapuestas.es/politica-de-privacidad"
+>
+Política de Privacidad
+</a>
+</li><!--
+--><li class="header-nav-POLÍTICA-DE-COOKIES ">
+<a href="https://www.marcaapuestas.es/politica-de-cookies"
+>
+Política de Cookies
+</a>
+</li><!--
+--></ul>
+<ul class="nav-F2">
+<li>
+<span class="nav-icon icon-above18"></span>
+<a class="nav-icon-image" href="https://www.marcaapuestas.es/juego-responsable/" >
+18PLUS
+</a>
+</li>
+<li>
+<span class="nav-icon icon-playtech"></span>
+<a class="nav-icon-image" href="http://playtech.com" >
+Playtech
+</a>
+</li>
+<li>
+<span class="nav-icon icon-PCI"></span>
+<a class="nav-icon-image" href="/" >
+PCI
+</a>
+</li>
+<li>
+<span class="nav-icon icon-safe_gaming"></span>
+<a class="nav-icon-image" href="http://www.juegoseguro.es/" >
+SAFE_GAMING
+</a>
+</li>
+<li>
+<span class="nav-icon icon-informed_betting"></span>
+<a class="nav-icon-image" href="https://www.jugarbien.es/" >
+INFORMED_BETTING
+</a>
+</li>
+<li>
+<span class="nav-icon icon-auto_exclusion"></span>
+<a class="nav-icon-image" href="http://www.ordenacionjuego.es/es/rgiaj" >
+AUTO_EXCLUSION
+</a>
+</li>
+<li>
+<span class="nav-icon icon-nethive"></span>
+<a class="nav-icon-image" href="https://www.nethive.com/" >
+NETHIVE
+</a>
+</li>
+<li>
+<span class="nav-icon icon-go_daddy"></span>
+<a class="nav-icon-image" href="/" >
+GO_DADDY
+</a>
+</li>
+<li>
+<span class="nav-icon icon-ssl"></span>
+<a class="nav-icon-image" href="/" >
+SSL
+</a>
+</li>
+</ul>
+<div class="payment-links">
+<div class="arr left"></div>
+<a class="payment-carousel"
+href="#">
+<span class="payment-image">
+Métodos de pago
+</span>
+</a>
+<div class="arr right"></div>
+</div>
+<span class="copyright">@Marca Apuestas Avenida de San Luis 25 - 28033 MADRID Un web de Unidad Editorial</span>
+</div></div>
+</div>
+</div>
+</body>
+</html>

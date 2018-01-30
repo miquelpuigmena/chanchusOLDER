@@ -1,0 +1,3074 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="EN" xml:lang="EN">
+<head id="ctl00_Head1"><title>
+	MLB - Baseball - Interwetten
+</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><link href="/img/icons/iphone_icon.png" rel="apple-touch-icon-precomposed" /><link href="/img/icons/iphone_icon.png" rel="apple-touch-icon" /><link href="/img/favicon.ico" type="image/ico" rel="icon" /><link rel="alternate" href="http://www.interwetten.es/en/sportsbook/betting/bettingoffer.aspx?leagueid=14233%2c406176&amp;type=0&amp;ogPreselect=1" hreflang="en-es"></link><link rel="alternate" href="http://www.interwetten.gr/en/sportsbook/betting/bettingoffer.aspx?leagueid=14233%2c406176&amp;type=0&amp;ogPreselect=1" hreflang="en-gr"></link><link rel="alternate" href="http://www.interwetten.com/en/sportsbook/betting/bettingoffer.aspx?leagueid=14233%2c406176&amp;type=0&amp;ogPreselect=1" hreflang="en"></link><link rel="alternate" href="http://www.interwetten.es/de/sportsbook/betting/bettingoffer.aspx?leagueid=14233%2c406176&amp;type=0&amp;ogPreselect=1" hreflang="de-es"></link><link rel="alternate" href="http://www.interwetten.gr/de/sportsbook/betting/bettingoffer.aspx?leagueid=14233%2c406176&amp;type=0&amp;ogPreselect=1" hreflang="de-gr"></link><link rel="alternate" href="http://www.interwetten.com/de/sportsbook/betting/bettingoffer.aspx?leagueid=14233%2c406176&amp;type=0&amp;ogPreselect=1" hreflang="de"></link><link rel="alternate" href="http://www.interwetten.es/es/sportsbook/betting/bettingoffer.aspx?leagueid=14233%2c406176&amp;type=0&amp;ogPreselect=1" hreflang="es-es"></link><link rel="alternate" href="http://www.interwetten.com/es/sportsbook/betting/bettingoffer.aspx?leagueid=14233%2c406176&amp;type=0&amp;ogPreselect=1" hreflang="es"></link><link href="https://styles.gamesassists.com/App_Themes/SportsBook/css/a_common.css?licence=Spain&amp;build=2017.09.12.4" type="text/css" rel="stylesheet" /><meta http-equiv="X-UA-Compatible" content="IE=edge"/> <link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.interwetten.es/en/BettingOffer/Events/14233%2C406176" ><meta name="robots" content="noindex,follow" /><meta name="og:image" content="http://www.interwetten.com/img/logos/interwetten_fb.jpg" xml:lang="EN" /><link rel="canonical" href="https://www.interwetten.es/en/sportsbook/l/14233/mlb" /></head>
+<body id="top" class="twenty-years en spain sportsbook">
+
+<!-- GTM -->
+<script>
+	window.dataLayer = window.dataLayer || [];
+	window.dataLayer.push({'pageArea': 'SportsBookBettingOffer'});
+</script>
+
+<script>window.dataLayer.push({'LEADNUMBER': '0'});</script>
+<script>window.dataLayer.push({'dimension1': 'false','dimension5':'WebSite'});</script>
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KFDXZP" height="0" width="0" style="display: none; visibility: hidden"></iframe></noscript>
+<script>(function (w, d, s, l, i){w[l] = w[l] || []; w[l].push({'gtm.start':new Date().getTime(), event: 'gtm.js'}); var f = d.getElementsByTagName(s)[0],j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src ='//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);})(window, document, 'script', 'dataLayer', 'GTM-KFDXZP');</script>
+<!-- End GTM -->
+<form method="post" action="/en/sportsbook/betting/bettingoffer.aspx?leagueid=14233,406176&amp;type=0&amp;ogPreselect=1" id="aspnetForm" onsubmit="return gBS.IsSubmittable();">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="UASjigAd3L+bZfpH/1nzgB0BRm4fmPmmbkDQMCytDlRUKK5dVvIyrA3tBpBlwhnqRzawd2ZRuVedUt3pcOaYHXaO69r5oTWHyFyxVV7We1eTrpxV9HfAb3oGDfAX5ZKoy72WD7HKDuz+ztHFxxttnEUPekNd3Pqmjr5zWrhOdpdDS05uQ+Wge4I+YJD/GAohWqJ5XyEYTFSk44NmknnTbrccKZNuYIWyhCGEHun/sbUn/xHrcEMOj9YVCCOxMkCN7y6Gw1U16c+aEWqXG5QfzTB7vP58ny3mZihyJJ46Z4BSVEHXALuGYyqn9qlwuM6cUMRVFpZdo3bkKBpRCfzghRzBODY3iQSvcN2jv8b2xPUyrRwqT/W+cD8fyFzQL7QlSr/VEccUZpm+d0CfA6oTgO99/zWxdep+bIFzs/lfXzxWAM/RfJ+tFVunD34UZuLsQh3bx7JLldhGKb80ymB2BvahqX9fEyN2z2cPbG8S5ZfFLwnx7+pctVKw9N/9uM9w8hMPhGl4BG1xV3SC508lZJAv2QeMmLaJ+coXwTWvxb6gO5RG34ZBTpdOvw39JdXaKxLpzZdN25CE86p/beafSUs4OlKm15eF+BP4CHNX2QzzSF3SPF1oflJ6TLEJeQFOCp0wPtGiX0E7ErTXyF/L1OJBL9SsgDSQKIQ4Ny3ihE47wI89vPPRz2uAkDB1ONrG4MqDzV/Grlg7aNwRgRcfJ5sLHTQWw67OJFfV17toE9JyJpIMT0PE1HotUQUJx+GQ4Ib5iw/Ce/fjzr6+zKI1JRI47BHP8rBjVnPSutITEBCZzzvJ8ZqjoFuo6o+j3aA1/sdgM514R7g5j16rEGXXpJe79bdb8MlaJiyt8Ls4lK7uBJQkojNNswDdVqgVjxkGABAA2/Jx0nZUz+baC8QasrdrGX0ai5aA3LwFhISvW9mdRzKeZGRbKivJO1rUNjRFJD4kMarQvoBpx3FgFL333B9mC2EfuzSNveiXXdq+B2axdvawAmlrltYhdyBoMIbEL1BSOZnpyeT6XhLWFWN9z3u1XBlKcQzI9P46/aUx1WzHaMTVDvtULySNbxJZ5F3IueT4t/AwGeGKbsEYY2MAqqPLNi+UlJgWCJIuLkOj42ZmFSbaoxupFOL4JVqEPxK4nTJ2cNB88iRlzqH+je1CzbF6gwyPCV7bp5OIeyj4d1aPcc9QOayojt/MDI3iTFfYNtF0dpsGpHKE0RJADsLElBCYDqVgmHp8TTBaO+LmQ399Bb4Y0rXZrhFg/GNekuDXHPl1hFTYab15SVZFCTGIY520xfeFZ0n7MdF/br3qbnEqO594Icgp8PCNxF49cxZMzhswiRXyKpVsevm3hf0On2/LzIgXOz+pPEW3w4Tm/iDCA6fVcjGBMLpXIxOvqdv/b7hQL63z98qTMU3X42+78tm1QnZ+5KuleenRfe24oNAHybWmoqik8r/lM2lSPRGf3tfF/rPFjGoY32zbIqsgwjDzjyfcKdPo567HJHghSKyn6eod8b77nwyp0xnTDc9Ozb9J3A9oylUtQNE4raN0otAUH2aYPNMsXYzgqW/yrpGFqqppJIlVkKMgWK44KnTrSwzyzu5jazEPKCa8woLD1YhsK4D4IypMCfjdSuOcpxu69qx3aHv5rtYxtdE0Yehe/1v1jceNUgl8n2fXuFRX9xygL+vBPc8saftyiTm88uJdWlSg3titxPr7GalMgCPmI5Xb7m+mLtrn8PwsHbkVYJ4CgPtePnaaGXsftSyfD2E=" />
+</div>
+
+
+<script type="text/javascript">
+//<![CDATA[
+var ajaxBasicPath = "/Common/AjaxMethods.aspx";
+var applicationPath = "/";
+var applicationLanguage = "en";
+var applicationProduct = "";//]]>
+</script>
+
+	
+<div class="abs background"><span class="backgroundGradient"></span><span class="abs "></span><span class="bg b border"></span></div>
+	
+
+
+<div class="pagehead">
+	<div class="icons">
+		<div class="search">
+			
+			
+			<div class="searchcontainer">
+				 
+				<span class="bg y active"></span><span class="borderright"></span>
+				<span class="sp icon f19 magnifier TRACKING-EVENT" onclick="search.Show(this.parentNode);" event-tracking="[&quot;Search&quot;,&quot;Toggle&quot;,&quot;SportsBook&quot;]" title="Search"></span>
+				<span class="borderleft"></span>
+				<span class="borderbottom"></span>
+				<div id="searchbox" class="searchbox inputstyle">
+	
+	<input name="ctl00_wucHeader_ucSearchBox_txtSearchText" type="text" id="txtSearchText" class="text" />
+	<a id="btnSearchLink" class="btn g" link-tracking="[&quot;Search&quot;,&quot;Do&quot;,&quot;SportsBook&quot;]" class="TRACKING-LINK" href="javascript:__doPostBack(&#39;ctl00$wucHeader$ucSearchBox$btnSearchLink&#39;,&#39;&#39;)">OK</a>
+
+</div>
+
+
+
+
+
+			</div>
+			
+		</div>
+		<a href="/en/home" target="_self" title="Interwetten" class="abs logo en interwetten"></a>
+		<span class="abs motto spain en"></span>
+		
+	</div>
+	
+	
+
+
+	<div id="lastGamingSessionDetails" class="ui-dialog gamesessiondetails spain" style="display: none;">
+		<div class="ui-dialog-titlebar bgb ui-widget-header ui-corner-all ui-helper-clearfix"><span class="ui-dialog-title">Gaming session details<label class="sp abs"></label></span><a class="ui-dialog-titlebar-close ui-corner-all" role="button" onclick="Account.toggle.Detail('lastGamingSessionDetails');"><span class="ui-icon ui-icon-closethick"></span></a></div>
+		<div class="content">
+			<span>
+				</span>
+			<div>
+				
+			</div>
+			<div>
+				
+			</div>
+			<div>
+				
+			</div>
+			<div>
+				
+			</div>
+		</div>
+	</div>
+
+<span class="headerLinks es">
+		<span class="sp leftend"></span><a href="/en/common/account/playerprotectionpage.aspx" id="ctl00_wucHeader_lnkProtectionPage" class="lnkprotectionpage">Player Protection Page</a><span class="inputstyle"><span id="DDB_Language_Btn" class="btn TRACKING-EVENT" event-tracking="[&quot;Header&quot;,&quot;Toggle&quot;,&quot;Languages&quot;]"><label id="currentFlag" class="flag en">&nbsp;</label>&nbsp;<label id="ctl00_wucHeader_LanguageSelection_lblCultureText" class="flagname"></label><label class="icon f08 bl arrow-down"></label></span><span id="DDB_Language_List" class="list small TRACKING-LINK" link-tracking="[&quot;Header&quot;,&quot;Click&quot;,&quot;Language&quot;]"><a href="/de/sportsbook/betting/bettingoffer.aspx?leagueid=14233%2c406176&type=0&ogPreselect=1"><span class="flag de"></span>Deutsch</a><a href="/en/sportsbook/betting/bettingoffer.aspx?leagueid=14233%2c406176&type=0&ogPreselect=1"><span class="flag en"></span>English</a><a href="/es/sportsbook/betting/bettingoffer.aspx?leagueid=14233%2c406176&type=0&ogPreselect=1"><span class="flag es"></span>Español</a></span></span><a href="/en/common/contact.aspx" link-tracking="[&quot;Header&quot;,&quot;Click&quot;,&quot;Contact&quot;]" class="TRACKING-LINK">Contact</a><a href="/en/common/payments/payment.aspx" link-tracking="[&quot;Header&quot;,&quot;Click&quot;,&quot;Payment-Provider&quot;]" class="TRACKING-LINK">Payment options</a>
+		</span>
+
+<div class="inputstyle login" style="min-height: 36px;">
+		
+		<input name="ctl00$wucHeader$ucLogin$txtLoginUsername" type="text" id="txtLoginUsername" tabindex="1" class="text" />
+		<a href="/common/register/passwordforgotten.aspx" title="Have you forgotten your username?" link-tracking="[&quot;Header&quot;,&quot;Click&quot;,&quot;Username-Forgotten&quot;]" class="question username TRACKING-LINK"><span class="btn sp icon x1414 questionmark"></span></a>
+		<input name="ctl00$wucHeader$ucLogin$txtLoginPasswordPlacebo" type="text" value="Password" id="txtLoginPasswordPlacebo" tabindex="2" class="text" autocomplete="off" onfocus="Global.SwitchObject(this,&#39;txtLoginPassword&#39;);" />
+		<a href="/common/register/passwordforgotten.aspx" title="Have you forgotten your password?" link-tracking="[&quot;Header&quot;,&quot;Click&quot;,&quot;Password-Forgotten&quot;]" class="question password TRACKING-LINK"><span class="btn sp icon x1414 questionmark"></span></a>
+		<input name="ctl00$wucHeader$ucLogin$txtLoginPassword" type="password" id="txtLoginPassword" tabindex="2" class="text" autocomplete="off" onfocus="$(&#39;.question.password&#39;).hide();" onblur="$(&#39;.question.password&#39;).show();" />
+		
+		<a id="lnkLogin" tabindex="3" class="btn y" href="javascript:__doPostBack(&#39;ctl00$wucHeader$ucLogin$lnkLogin&#39;,&#39;&#39;)">
+			<span>
+				Login</span><input type="submit" name="ctl00$wucHeader$ucLogin$btntLogIn" value="" id="btntLogIn" tabindex="4" class="none" /></a>
+		
+		<a href="/en/register" id="lnkRegister" tabindex="-1" class="btn y arrow adv"><span>
+			Register</span><label class="icon f08 bl arrow-right"></label></a>
+		
+	</div>
+
+
+
+	
+	
+
+<div class="menu en i5">
+	<span>
+		<span>
+			<a href="/en/sportsbook/default.aspx" link-tracking="[&quot;Menubar&quot;,&quot;Click&quot;,&quot;Sportsbook&quot;]" class="tab Sportsbook en TRACKING-LINK">Sportsbook<span class="bg y abs active"></span></a><a href="/en/sportsbook/live" link-tracking="[&quot;Menubar&quot;,&quot;Click&quot;,&quot;Live&quot;]" class="tab Live en TRACKING-LINK">Live</a><a href="/en/casino" link-tracking="[&quot;Menubar&quot;,&quot;Click&quot;,&quot;Casino&quot;]" class="tab Casino en TRACKING-LINK">Casino</a><a href="/en/live-casino" link-tracking="[&quot;Menubar&quot;,&quot;Click&quot;,&quot;Live-Casino&quot;]" class="tab LiveCasino en TRACKING-LINK">Live Casino</a><a href="/en/mobile" link-tracking="[&quot;Menubar&quot;,&quot;Click&quot;,&quot;Mobile&quot;]" class="tab Mobile en TRACKING-LINK">Mobile</a>
+		</span>
+		<span class="RightNavigationPanel">
+			
+			<a id="BS_Betslip_Header" class="bg y">
+					<label id="BS_Image_Direction" class="icon f11 bl arrow-down"></label>
+					<span>Betting slip</span>
+					<strong id="BS_Header_Betcount" class="bg b">0</strong>
+					<span id="BS_CashOut_Header" class="none">Cash-Out!</span>
+				</a>
+		</span>
+	</span>
+</div>
+
+</div>
+	<div id="divRoot" class="pageroot">
+		<table cellpadding="0" cellspacing="0">
+			<tr>
+				<td class="colleft">
+						
+	
+
+	
+
+<div class="box list line quick right hover">
+	<h2 class="fvd open border TRACKING-EVENT" event-tracking="[&quot;Top-Leagues&quot;,&quot;Toggle&quot;,&quot;Group&quot;]" onclick="navi.OnNaviToggle(this);">Top Links<label class="icon f08 wh arrow-up"></label></h2>
+	
+			<a href="/en/sportsbook/top-leagues?topLinkId=3" class="TRACKING-LINK first" link-tracking="[&quot;Top-Leagues&quot;,&quot;Click&quot;,&quot;1&quot;]">
+				<label></label>
+				<span>Europa League</span><label class="icon f08 bl arrow-right"></label>
+			</a>
+		
+			<a href="/en/sportsbook/top-leagues?topLinkId=15" class="TRACKING-LINK" link-tracking="[&quot;Top-Leagues&quot;,&quot;Click&quot;,&quot;2&quot;]">
+				<label></label>
+				<span>WTA Tour</span><label class="icon f08 bl arrow-right"></label>
+			</a>
+		
+			<a href="/en/sportsbook/top-leagues?topLinkId=1" class="TRACKING-LINK" link-tracking="[&quot;Top-Leagues&quot;,&quot;Click&quot;,&quot;3&quot;]">
+				<label></label>
+				<span>European Top Leagues </span><label class="icon f08 bl arrow-right"></label>
+			</a>
+		
+			<a href="/en/sportsbook/top-leagues?topLinkId=127" class="TRACKING-LINK" link-tracking="[&quot;Top-Leagues&quot;,&quot;Click&quot;,&quot;4&quot;]">
+				<label></label>
+				<span>Eurobasket 2017</span><label class="icon f08 bl arrow-right"></label>
+			</a>
+		
+			<a href="/en/sportsbook/top-leagues?topLinkId=14" class="TRACKING-LINK" link-tracking="[&quot;Top-Leagues&quot;,&quot;Click&quot;,&quot;5&quot;]">
+				<label></label>
+				<span>Spain</span><label class="icon f08 bl arrow-right"></label>
+			</a>
+		
+</div>
+
+
+<div id="ctl00_cphNavigation_ucNavigation_ucKindOfSportList_bettingOfferLinks" class="box list line quick right hover">
+	<h2 onclick="navi.OnNaviToggle(this);" class="fvd open border TRACKING-EVENT" event-tracking="[&quot;Offer-Navi&quot;,&quot;Toggle&quot;,&quot;Group&quot;]">Betting offer<label class="icon f08 wh arrow-up"></label></h2>
+	<a href="/en/sportsbook/live" link-tracking="[&quot;Offer-Navi&quot;,&quot;Click&quot;,&quot;Live&quot;]" class="first TRACKING-LINK"><label></label><span>Live Betting</span><label class="icon f08 bl arrow-right"></label></a>
+	
+	<a href="/en/sportsbook/last-minute" link-tracking="[&quot;Offer-Navi&quot;,&quot;Click&quot;,&quot;Last-Minute&quot;]" class="TRACKING-LINK"><label></label><span>Last Minute</span><label class="icon f08 bl arrow-right"></label></a>
+	<a href="/en/sportsbook/bets-below-quote" link-tracking="[&quot;Offer-Navi&quot;,&quot;Click&quot;,&quot;Odds-Below&quot;]" class="TRACKING-LINK"><label></label><span>Odds under 2,00</span><label class="icon f08 bl arrow-right"></label></a>
+	<a href="/en/sportsbook/today" link-tracking="[&quot;Offer-Navi&quot;,&quot;Click&quot;,&quot;Today&quot;]" class="TRACKING-LINK"><label></label><span>Today</span><label class="icon f08 bl arrow-right"></label></a>
+	
+	<div class="slider">
+		<div id="QL_Slider_Range"></div>
+		<div class="coordinates">
+			<span class="ls1">&lsaquo; 1h<label></label></span>
+			<span class="ls2">2h<label></label></span>
+			<span class="ls3">3h<label></label></span>
+			<span class="ls4">4h<label></label></span>
+			<span class="ls5">6h<label></label></span>
+			<a id="QL_Slider_Button" class="btn g">Go</a>
+		</div>
+	</div>
+	
+</div>
+<div id="kosListBox" class="box list koslist right">
+	
+	<h2 id="lnkMainKos10" class="fvd border">
+		<span class="kos k10_1"></span><strong>Football</strong>
+		
+		<label class="sp_sb icon select none" title="Deselect all"></label>
+		<label class="icon f08 wh arrow-down"></label>
+	</h2>
+	<div id="divSubMenu_10" class="box list line sub hover" style="display: none;">
+		<a href="/en/sportsbook/o/10/football" id="kos_ue_10" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Overview-10&quot;]" class="TRACKING-LINK"><span>Overview</span></a>
+		<label class="sp_sb icon type special"><a href="/en/sportsbook/o/10/football/special" title="Special" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Special-10&quot;]" class="TRACKING-LINK"></a></label>
+		<label class="sp_sb icon type long"><a href="/en/sportsbook/o/10/football/long-term" title="Long term" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Longterm-10&quot;]" class="TRACKING-LINK"></a></label>
+		
+		<a href="/en/sportsbook/l/10410/champions-league" id="league_10410" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-10410&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_10410" class="sp_sb icon x1313 notchecked"></span>
+			<span>Champions League</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/105379/europa-league" id="league_105379" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-105379&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_105379" class="sp_sb icon x1313 notchecked"></span>
+			<span>Europa League</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/407008/u19-ec-qualification-women" id="league_407008" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-407008&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_407008" class="sp_sb icon x1313 notchecked"></span>
+			<span>U19 EC Qualification Women</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/105120/copa-libertadores-90" id="league_105120" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-105120&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_105120" class="sp_sb icon x1313 notchecked"></span>
+			<span>Copa Libertadores (90´)</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/105217/copa-sudamericana-90" id="league_105217" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-105217&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_105217" class="sp_sb icon x1313 notchecked"></span>
+			<span>Copa Sudamericana (90´)</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405560/int-friendlies-women" id="league_405560" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405560&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405560" class="sp_sb icon x1313 notchecked"></span>
+			<span>Int. Friendlies Women</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/1019/germany-bundesliga" id="league_1019" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-1019&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_1019" class="sp_sb icon x1313 notchecked"></span>
+			<span>Germany Bundesliga</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/1020/germany-second-league" id="league_1020" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-1020&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_1020" class="sp_sb icon x1313 notchecked"></span>
+			<span>Germany Second League</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405932/germany-third-league" id="league_405932" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405932&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405932" class="sp_sb icon x1313 notchecked"></span>
+			<span>Germany Third League</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/10347/germany-fourth-league-bavaria" id="league_10347" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-10347&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_10347" class="sp_sb icon x1313 notchecked"></span>
+			<span>Germany Fourth League Bavaria </span>
+		</a>
+		
+		<a href="/en/sportsbook/l/406747/germany-fourth-league-northeast" id="league_406747" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-406747&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_406747" class="sp_sb icon x1313 notchecked"></span>
+			<span>Germany Fourth League Northeast</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/105325/germany-fourth-league-north" id="league_105325" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-105325&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_105325" class="sp_sb icon x1313 notchecked"></span>
+			<span>Germany Fourth League North </span>
+		</a>
+		
+		<a href="/en/sportsbook/l/406748/germany-fourth-league-southwest" id="league_406748" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-406748&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_406748" class="sp_sb icon x1313 notchecked"></span>
+			<span>Germany Fourth League Southwest</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405432/germany-fourth-league-west" id="league_405432" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405432&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405432" class="sp_sb icon x1313 notchecked"></span>
+			<span>Germany Fourth League West</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/10268/germany-dfb-cup" id="league_10268" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-10268&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_10268" class="sp_sb icon x1313 notchecked"></span>
+			<span>Germany DFB Cup</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/1021/england-premier-league" id="league_1021" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-1021&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_1021" class="sp_sb icon x1313 notchecked"></span>
+			<span>England Premier League</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/1022/england-championship" id="league_1022" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-1022&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_1022" class="sp_sb icon x1313 notchecked"></span>
+			<span>England Championship </span>
+		</a>
+		
+		<a href="/en/sportsbook/l/10467/england-league-one" id="league_10467" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-10467&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_10467" class="sp_sb icon x1313 notchecked"></span>
+			<span>England League One </span>
+		</a>
+		
+		<a href="/en/sportsbook/l/10468/england-league-two" id="league_10468" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-10468&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_10468" class="sp_sb icon x1313 notchecked"></span>
+			<span>England League Two </span>
+		</a>
+		
+		<a href="/en/sportsbook/l/10691/england-national-league" id="league_10691" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-10691&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_10691" class="sp_sb icon x1313 notchecked"></span>
+			<span>England National League</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/10427/england-efl-cup" id="league_10427" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-10427&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_10427" class="sp_sb icon x1313 notchecked"></span>
+			<span>England EFL Cup</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/1091/england-fa-cup" id="league_1091" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-1091&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_1091" class="sp_sb icon x1313 notchecked"></span>
+			<span>England FA Cup</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/1029/italy-serie-a" id="league_1029" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-1029&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_1029" class="sp_sb icon x1313 notchecked"></span>
+			<span>Italy Serie A</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405298/italy-series-b" id="league_405298" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405298&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405298" class="sp_sb icon x1313 notchecked"></span>
+			<span>Italy Series B </span>
+		</a>
+		
+		<a href="/en/sportsbook/l/407049/italy-cup-90" id="league_407049" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-407049&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_407049" class="sp_sb icon x1313 notchecked"></span>
+			<span>Italy Cup (90´)</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/407902/italy-lega-pro-girone-a" id="league_407902" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-407902&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_407902" class="sp_sb icon x1313 notchecked"></span>
+			<span>Italy Lega Pro Girone A</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405355/italy-lega-pro-girone-b" id="league_405355" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405355&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405355" class="sp_sb icon x1313 notchecked"></span>
+			<span>Italy Lega Pro Girone B</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/407636/italy-lega-pro-girone-c" id="league_407636" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-407636&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_407636" class="sp_sb icon x1313 notchecked"></span>
+			<span>Italy Lega Pro Girone C</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/1030/spain-premier-division" id="league_1030" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-1030&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_1030" class="sp_sb icon x1313 notchecked"></span>
+			<span>Spain Premier Division</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/105034/spain-segunda-division" id="league_105034" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-105034&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_105034" class="sp_sb icon x1313 notchecked"></span>
+			<span>Spain Segunda Division</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/10523/spain-cup" id="league_10523" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-10523&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_10523" class="sp_sb icon x1313 notchecked"></span>
+			<span>Spain Cup</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/1024/france-ligue-1" id="league_1024" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-1024&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_1024" class="sp_sb icon x1313 notchecked"></span>
+			<span>France Ligue 1</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/10617/france-ligue-2" id="league_10617" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-10617&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_10617" class="sp_sb icon x1313 notchecked"></span>
+			<span>France Ligue 2</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405434/france-championnat-national" id="league_405434" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405434&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405434" class="sp_sb icon x1313 notchecked"></span>
+			<span>France Championnat National</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/10416/france-league-cup" id="league_10416" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-10416&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_10416" class="sp_sb icon x1313 notchecked"></span>
+			<span>France League Cup</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/1081/france-cup-90" id="league_1081" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-1081&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_1081" class="sp_sb icon x1313 notchecked"></span>
+			<span>France Cup (90´)</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/10692/switzerland-cup-90" id="league_10692" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-10692&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_10692" class="sp_sb icon x1313 notchecked"></span>
+			<span>Switzerland Cup (90´)</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/1025/switzerland-super-league" id="league_1025" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-1025&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_1025" class="sp_sb icon x1313 notchecked"></span>
+			<span>Switzerland Super League</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/1023/austria-bundesliga" id="league_1023" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-1023&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_1023" class="sp_sb icon x1313 notchecked"></span>
+			<span>Austria Bundesliga</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/10900/austria-first-league" id="league_10900" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-10900&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_10900" class="sp_sb icon x1313 notchecked"></span>
+			<span>Austria First League</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/406244/austria-third-league-east" id="league_406244" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-406244&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_406244" class="sp_sb icon x1313 notchecked"></span>
+			<span>Austria Third League East</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405718/austria-third-league-centre" id="league_405718" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405718&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405718" class="sp_sb icon x1313 notchecked"></span>
+			<span>Austria Third League Centre</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405871/austria-third-league-west" id="league_405871" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405871&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405871" class="sp_sb icon x1313 notchecked"></span>
+			<span>Austria Third League West</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/1026/scotland-premiership" id="league_1026" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-1026&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_1026" class="sp_sb icon x1313 notchecked"></span>
+			<span>Scotland Premiership</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/10605/scotland-championship" id="league_10605" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-10605&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_10605" class="sp_sb icon x1313 notchecked"></span>
+			<span>Scotland Championship</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405266/scotland-league-one" id="league_405266" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405266&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405266" class="sp_sb icon x1313 notchecked"></span>
+			<span>Scotland League One</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/10607/scotland-league-two" id="league_10607" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-10607&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_10607" class="sp_sb icon x1313 notchecked"></span>
+			<span>Scotland League Two</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/10598/portugal-primeira-liga" id="league_10598" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-10598&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_10598" class="sp_sb icon x1313 notchecked"></span>
+			<span>Portugal Primeira Liga</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/10269/portugal-segunda-liga" id="league_10269" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-10269&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_10269" class="sp_sb icon x1313 notchecked"></span>
+			<span>Portugal Segunda Liga</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/1027/holland-ehrendivision" id="league_1027" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-1027&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_1027" class="sp_sb icon x1313 notchecked"></span>
+			<span>Holland Ehrendivision</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/10448/holland-second-division" id="league_10448" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-10448&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_10448" class="sp_sb icon x1313 notchecked"></span>
+			<span>Holland Second Division</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/1028/belgium-first-division-a" id="league_1028" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-1028&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_1028" class="sp_sb icon x1313 notchecked"></span>
+			<span>Belgium First Division A</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/10265/belgium-second-league" id="league_10265" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-10265&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_10265" class="sp_sb icon x1313 notchecked"></span>
+			<span>Belgium Second League</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/1036/turkey-super-lig" id="league_1036" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-1036&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_1036" class="sp_sb icon x1313 notchecked"></span>
+			<span>Turkey Süper Lig</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405290/turkey-first-league" id="league_405290" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405290&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405290" class="sp_sb icon x1313 notchecked"></span>
+			<span>Turkey First League</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/1060/greece-super-league" id="league_1060" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-1060&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_1060" class="sp_sb icon x1313 notchecked"></span>
+			<span>Greece Super League</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/105284/greece-cup" id="league_105284" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-105284&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_105284" class="sp_sb icon x1313 notchecked"></span>
+			<span>Greece Cup</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405435/cyprus-division-1" id="league_405435" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405435&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405435" class="sp_sb icon x1313 notchecked"></span>
+			<span>Cyprus Division 1</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/10412/russia-premier-league" id="league_10412" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-10412&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_10412" class="sp_sb icon x1313 notchecked"></span>
+			<span>Russia Premier League</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405677/russia-1st-league" id="league_405677" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405677&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405677" class="sp_sb icon x1313 notchecked"></span>
+			<span>Russia 1st League</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/1035/denmark-superleague" id="league_1035" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-1035&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_1035" class="sp_sb icon x1313 notchecked"></span>
+			<span>Denmark Superleague</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/105225/denmark-first-division" id="league_105225" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-105225&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_105225" class="sp_sb icon x1313 notchecked"></span>
+			<span>Denmark First Division</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/10235/sweden-allsvenskan" id="league_10235" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-10235&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_10235" class="sp_sb icon x1313 notchecked"></span>
+			<span>Sweden Allsvenskan</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/10208/sweden-superettan" id="league_10208" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-10208&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_10208" class="sp_sb icon x1313 notchecked"></span>
+			<span>Sweden Superettan </span>
+		</a>
+		
+		<a href="/en/sportsbook/l/406338/sweden-division-1-sodra" id="league_406338" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-406338&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_406338" class="sp_sb icon x1313 notchecked"></span>
+			<span>Sweden Division 1 Sodra </span>
+		</a>
+		
+		<a href="/en/sportsbook/l/10251/norway-eliteseries" id="league_10251" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-10251&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_10251" class="sp_sb icon x1313 notchecked"></span>
+			<span>Norway Eliteseries</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/408665/norway-3rd-division" id="league_408665" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-408665&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_408665" class="sp_sb icon x1313 notchecked"></span>
+			<span>Norway 3rd Division</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/10293/finland-veikkausliiga" id="league_10293" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-10293&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_10293" class="sp_sb icon x1313 notchecked"></span>
+			<span>Finland  Veikkausliiga</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405403/finland-second-league" id="league_405403" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405403&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405403" class="sp_sb icon x1313 notchecked"></span>
+			<span>Finland Second League</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/406344/finland-kakkonen" id="league_406344" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-406344&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_406344" class="sp_sb icon x1313 notchecked"></span>
+			<span>Finland Kakkonen</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/10420/czech-republic-1st-league" id="league_10420" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-10420&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_10420" class="sp_sb icon x1313 notchecked"></span>
+			<span>Czech Republic 1st League</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/406007/czech-republic-second-league" id="league_406007" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-406007&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_406007" class="sp_sb icon x1313 notchecked"></span>
+			<span>Czech Republic Second League</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405859/ukraine-1st-league" id="league_405859" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405859&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405859" class="sp_sb icon x1313 notchecked"></span>
+			<span>Ukraine 1st League</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405281/slovakia-first-league" id="league_405281" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405281&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405281" class="sp_sb icon x1313 notchecked"></span>
+			<span>Slovakia First League</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405447/slovakia-cup-90" id="league_405447" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405447&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405447" class="sp_sb icon x1313 notchecked"></span>
+			<span>Slovakia Cup (90´)</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/10306/hungary-nb-i" id="league_10306" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-10306&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_10306" class="sp_sb icon x1313 notchecked"></span>
+			<span>Hungary NB I</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405364/romania-league-1" id="league_405364" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405364&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405364" class="sp_sb icon x1313 notchecked"></span>
+			<span>Romania League 1</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405622/bulgaria-league" id="league_405622" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405622&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405622" class="sp_sb icon x1313 notchecked"></span>
+			<span>Bulgaria League</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405931/belarus-vysshaya-liga" id="league_405931" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405931&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405931" class="sp_sb icon x1313 notchecked"></span>
+			<span>Belarus Vysshaya Liga</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/1059/poland-ekstraklasa" id="league_1059" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-1059&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_1059" class="sp_sb icon x1313 notchecked"></span>
+			<span>Poland Ekstraklasa</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/406254/poland-league-2" id="league_406254" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-406254&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_406254" class="sp_sb icon x1313 notchecked"></span>
+			<span>Poland League 2</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/406081/croatia-1-hnl" id="league_406081" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-406081&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_406081" class="sp_sb icon x1313 notchecked"></span>
+			<span>Croatia 1.HNL </span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405541/slovenia-first-division" id="league_405541" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405541&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405541" class="sp_sb icon x1313 notchecked"></span>
+			<span>Slovenia First Division</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/406539/kazakhstan-premier-league" id="league_406539" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-406539&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_406539" class="sp_sb icon x1313 notchecked"></span>
+			<span>Kazakhstan Premier League</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405909/lithuania-a-lyga" id="league_405909" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405909&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405909" class="sp_sb icon x1313 notchecked"></span>
+			<span>Lithuania A Lyga</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405911/estonia-meistriliiga" id="league_405911" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405911&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405911" class="sp_sb icon x1313 notchecked"></span>
+			<span>Estonia Meistriliiga</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/10435/republic-ireland-premier" id="league_10435" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-10435&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_10435" class="sp_sb icon x1313 notchecked"></span>
+			<span>Republic Ireland Premier</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405921/ireland-league-cup" id="league_405921" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405921&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405921" class="sp_sb icon x1313 notchecked"></span>
+			<span>Ireland League Cup</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405917/ireland-division-1" id="league_405917" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405917&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405917" class="sp_sb icon x1313 notchecked"></span>
+			<span>Ireland Division 1</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405357/wales-premier-league" id="league_405357" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405357&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405357" class="sp_sb icon x1313 notchecked"></span>
+			<span>Wales Premier League</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/10424/iceland-premier" id="league_10424" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-10424&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_10424" class="sp_sb icon x1313 notchecked"></span>
+			<span>Iceland Premier</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405899/iceland-1-deild" id="league_405899" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405899&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405899" class="sp_sb icon x1313 notchecked"></span>
+			<span>Iceland 1.deild</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/10750/usa-major-league-soccer" id="league_10750" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-10750&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_10750" class="sp_sb icon x1313 notchecked"></span>
+			<span>USA Major League Soccer</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/105121/argentina-primera-division" id="league_105121" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-105121&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_105121" class="sp_sb icon x1313 notchecked"></span>
+			<span>Argentina Primera Division </span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405902/argentina-primera-b-nacional" id="league_405902" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405902&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405902" class="sp_sb icon x1313 notchecked"></span>
+			<span>Argentina Primera B Nacional </span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405525/brazil-serie-a" id="league_405525" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405525&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405525" class="sp_sb icon x1313 notchecked"></span>
+			<span>Brazil Serie A</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405526/brazil-serie-b" id="league_405526" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405526&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405526" class="sp_sb icon x1313 notchecked"></span>
+			<span>Brazil Serie B</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405250/mexico-primera-division" id="league_405250" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405250&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405250" class="sp_sb icon x1313 notchecked"></span>
+			<span>Mexico Primera Division </span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405417/peru-1st-league" id="league_405417" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405417&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405417" class="sp_sb icon x1313 notchecked"></span>
+			<span>Peru 1st League</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/407689/honduras-liga-nacional" id="league_407689" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-407689&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_407689" class="sp_sb icon x1313 notchecked"></span>
+			<span>Honduras Liga Nacional</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/406296/costa-rica-primera-division" id="league_406296" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-406296&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_406296" class="sp_sb icon x1313 notchecked"></span>
+			<span>Costa Rica Primera Division</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/406548/chile-cup-90" id="league_406548" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-406548&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_406548" class="sp_sb icon x1313 notchecked"></span>
+			<span>Chile Cup (90´)</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/406569/venezuela-primera-division" id="league_406569" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-406569&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_406569" class="sp_sb icon x1313 notchecked"></span>
+			<span>Venezuela Primera Division</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/10148/japan-j-league" id="league_10148" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-10148&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_10148" class="sp_sb icon x1313 notchecked"></span>
+			<span>Japan J-League</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405394/japan-j-2-league" id="league_405394" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405394&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405394" class="sp_sb icon x1313 notchecked"></span>
+			<span>Japan J-2-League</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405420/china-super-league" id="league_405420" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405420&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405420" class="sp_sb icon x1313 notchecked"></span>
+			<span>China Super League</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/105152/singapore-s-league" id="league_105152" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-105152&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_105152" class="sp_sb icon x1313 notchecked"></span>
+			<span>Singapore S-League</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/10462/qatar-stars-league" id="league_10462" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-10462&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_10462" class="sp_sb icon x1313 notchecked"></span>
+			<span>Qatar Stars League</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/406147/south-africa-premier" id="league_406147" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-406147&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_406147" class="sp_sb icon x1313 notchecked"></span>
+			<span>South Africa Premier</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/406183/saudi-arabia-professional-league" id="league_406183" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-406183&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_406183" class="sp_sb icon x1313 notchecked"></span>
+			<span>Saudi Arabia Professional League</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405773/iran-pro-league" id="league_405773" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405773&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405773" class="sp_sb icon x1313 notchecked"></span>
+			<span>Iran Pro League</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405644/egypt-premier-90" id="league_405644" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405644&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405644" class="sp_sb icon x1313 notchecked"></span>
+			<span>Egypt Premier (90´)</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/406817/algeria-ligue-1" id="league_406817" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-406817&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_406817" class="sp_sb icon x1313 notchecked"></span>
+			<span>Algeria Ligue 1</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/406827/uae-pro-league" id="league_406827" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-406827&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_406827" class="sp_sb icon x1313 notchecked"></span>
+			<span>UAE Pro League</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/407217/kuwait-league" id="league_407217" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-407217&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_407217" class="sp_sb icon x1313 notchecked"></span>
+			<span>Kuwait League</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405855/korea-k-league-90" id="league_405855" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405855&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405855" class="sp_sb icon x1313 notchecked"></span>
+			<span>Korea K-League (90´)</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/406696/armenian-cup" id="league_406696" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-406696&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_406696" class="sp_sb icon x1313 notchecked"></span>
+			<span>Armenian Cup</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/406317/indonesia-soccer-championship" id="league_406317" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-406317&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_406317" class="sp_sb icon x1313 notchecked"></span>
+			<span>Indonesia Soccer Championship</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405912/estonia-esiliiga" id="league_405912" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405912&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405912" class="sp_sb icon x1313 notchecked"></span>
+			<span>Estonia Esiliiga</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405887/colombia-postobon-cup-90" id="league_405887" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405887&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405887" class="sp_sb icon x1313 notchecked"></span>
+			<span>Colombia Postobon Cup (90´)</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405765/bahrain-premier-league" id="league_405765" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405765&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405765" class="sp_sb icon x1313 notchecked"></span>
+			<span>Bahrain Premier League</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/406795/jordan-league" id="league_406795" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-406795&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_406795" class="sp_sb icon x1313 notchecked"></span>
+			<span>Jordan League</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/406638/wc-2018-winner" id="league_406638" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-406638&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_406638" class="sp_sb icon x1313 notchecked"></span>
+			<span>WC 2018-Winner</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/10405/euro-2020-winner" id="league_10405" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-10405&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_10405" class="sp_sb icon x1313 notchecked"></span>
+			<span>EURO 2020-Winner</span>
+		</a>
+		
+	</div>
+	
+	<h2 id="lnkMainKos11" class="fvd border">
+		<span class="kos k11_1"></span><strong>Tennis</strong>
+		
+		<label class="sp_sb icon select none" title="Deselect all"></label>
+		<label class="icon f08 wh arrow-down"></label>
+	</h2>
+	<div id="divSubMenu_11" class="box list line sub hover" style="display: none;">
+		<a href="/en/sportsbook/o/11/tennis" id="kos_ue_11" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Overview-11&quot;]" class="TRACKING-LINK"><span>Overview</span></a>
+		<label class="sp_sb icon type special"><a href="/en/sportsbook/o/11/tennis/special" title="Special" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Special-11&quot;]" class="TRACKING-LINK"></a></label>
+		<label class="sp_sb icon type long"><a href="/en/sportsbook/o/11/tennis/long-term" title="Long term" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Longterm-11&quot;]" class="TRACKING-LINK"></a></label>
+		
+		<a href="/en/sportsbook/l/405265/davis-cup" id="league_405265" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405265&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405265" class="sp_sb icon x1313 notchecked"></span>
+			<span>Davis Cup</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/407129/wta-tokyo" id="league_407129" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-407129&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_407129" class="sp_sb icon x1313 notchecked"></span>
+			<span>WTA Tokyo</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/407105/wta-quebec" id="league_407105" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-407105&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_407105" class="sp_sb icon x1313 notchecked"></span>
+			<span>WTA Quebec</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/407106/wta-quebec-doubles" id="league_407106" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-407106&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_407106" class="sp_sb icon x1313 notchecked"></span>
+			<span>WTA Quebec Doubles</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/407643/atp-challenger-shanghai" id="league_407643" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-407643&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_407643" class="sp_sb icon x1313 notchecked"></span>
+			<span>ATP Challenger Shanghai</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/407649/atp-challenger-szczecin" id="league_407649" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-407649&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_407649" class="sp_sb icon x1313 notchecked"></span>
+			<span>ATP Challenger Szczecin</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/407650/atp-challenger-istanbul" id="league_407650" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-407650&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_407650" class="sp_sb icon x1313 notchecked"></span>
+			<span>ATP Challenger Istanbul</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/407651/atp-challenger-banja-luka" id="league_407651" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-407651&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_407651" class="sp_sb icon x1313 notchecked"></span>
+			<span>ATP Challenger Banja Luka</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/407973/atp-challenger-cary" id="league_407973" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-407973&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_407973" class="sp_sb icon x1313 notchecked"></span>
+			<span>ATP Challenger Cary</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/407718/itf-france-men" id="league_407718" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-407718&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_407718" class="sp_sb icon x1313 notchecked"></span>
+			<span>ITF France Men</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/407735/itf-usa-men" id="league_407735" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-407735&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_407735" class="sp_sb icon x1313 notchecked"></span>
+			<span>ITF USA Men</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/407757/itf-tunisia-men" id="league_407757" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-407757&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_407757" class="sp_sb icon x1313 notchecked"></span>
+			<span>ITF Tunisia Men</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/407789/itf-argentina-men" id="league_407789" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-407789&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_407789" class="sp_sb icon x1313 notchecked"></span>
+			<span>ITF Argentina Men</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/407851/itf-canada-men" id="league_407851" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-407851&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_407851" class="sp_sb icon x1313 notchecked"></span>
+			<span>ITF Canada Men</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/407720/itf-italy-men" id="league_407720" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-407720&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_407720" class="sp_sb icon x1313 notchecked"></span>
+			<span>ITF Italy Men</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/407747/itf-turkey-men" id="league_407747" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-407747&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_407747" class="sp_sb icon x1313 notchecked"></span>
+			<span>ITF Turkey Men</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/407721/itf-spain-men" id="league_407721" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-407721&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_407721" class="sp_sb icon x1313 notchecked"></span>
+			<span>ITF Spain Men</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/407711/itf-france-women" id="league_407711" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-407711&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_407711" class="sp_sb icon x1313 notchecked"></span>
+			<span>ITF France Women</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/407714/itf-thailand-women" id="league_407714" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-407714&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_407714" class="sp_sb icon x1313 notchecked"></span>
+			<span>ITF Thailand Women</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/407715/itf-usa-women" id="league_407715" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-407715&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_407715" class="sp_sb icon x1313 notchecked"></span>
+			<span>ITF USA Women</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/407748/itf-egypt-women" id="league_407748" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-407748&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_407748" class="sp_sb icon x1313 notchecked"></span>
+			<span>ITF Egypt Women</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/407749/itf-turkey-women" id="league_407749" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-407749&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_407749" class="sp_sb icon x1313 notchecked"></span>
+			<span>ITF Turkey Women</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/407846/itf-italy-women" id="league_407846" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-407846&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_407846" class="sp_sb icon x1313 notchecked"></span>
+			<span>ITF Italy Women</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/407848/itf-china-women" id="league_407848" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-407848&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_407848" class="sp_sb icon x1313 notchecked"></span>
+			<span>ITF China Women</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/407883/itf-argentina-women" id="league_407883" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-407883&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_407883" class="sp_sb icon x1313 notchecked"></span>
+			<span>ITF Argentina Women</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/407927/itf-georgia-women" id="league_407927" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-407927&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_407927" class="sp_sb icon x1313 notchecked"></span>
+			<span>ITF Georgia Women</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/407779/itf-tunisia-women" id="league_407779" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-407779&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_407779" class="sp_sb icon x1313 notchecked"></span>
+			<span>ITF Tunisia Women</span>
+		</a>
+		
+	</div>
+	
+	<h2 id="lnkMainKos40" class="fvd border">
+		<span class="kos k40_1"></span><strong>Ice Hockey</strong>
+		
+		<label class="sp_sb icon select none" title="Deselect all"></label>
+		<label class="icon f08 wh arrow-down"></label>
+	</h2>
+	<div id="divSubMenu_40" class="box list line sub hover" style="display: none;">
+		<a href="/en/sportsbook/o/40/ice-hockey" id="kos_ue_40" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Overview-40&quot;]" class="TRACKING-LINK"><span>Overview</span></a>
+		<label class="sp_sb icon type special"><a href="/en/sportsbook/o/40/ice hockey/special" title="Special" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Special-40&quot;]" class="TRACKING-LINK"></a></label>
+		<label class="sp_sb icon type long"><a href="/en/sportsbook/o/40/ice hockey/long-term" title="Long term" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Longterm-40&quot;]" class="TRACKING-LINK"></a></label>
+		
+		<a href="/en/sportsbook/l/4080/nhl" id="league_4080" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-4080&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_4080" class="sp_sb icon x1313 notchecked"></span>
+			<span>NHL</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/406024/champions-hockey-league" id="league_406024" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-406024&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_406024" class="sp_sb icon x1313 notchecked"></span>
+			<span>Champions Hockey League</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405566/friendlies-60" id="league_405566" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405566&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405566" class="sp_sb icon x1313 notchecked"></span>
+			<span>Friendlies (60´)</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405088/switzerland-national-league" id="league_405088" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405088&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405088" class="sp_sb icon x1313 notchecked"></span>
+			<span>Switzerland National League</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/40625/switzerland-swiss-league" id="league_40625" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-40625&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_40625" class="sp_sb icon x1313 notchecked"></span>
+			<span>Switzerland Swiss League</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/40627/germany-del" id="league_40627" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-40627&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_40627" class="sp_sb icon x1313 notchecked"></span>
+			<span>Germany DEL</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405373/germany-2-league" id="league_405373" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405373&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405373" class="sp_sb icon x1313 notchecked"></span>
+			<span>Germany 2. League</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405288/khl" id="league_405288" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405288&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405288" class="sp_sb icon x1313 notchecked"></span>
+			<span>KHL</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/406472/russia-vhl" id="league_406472" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-406472&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_406472" class="sp_sb icon x1313 notchecked"></span>
+			<span>Russia VHL</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/406610/russia-mhl" id="league_406610" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-406610&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_406610" class="sp_sb icon x1313 notchecked"></span>
+			<span>Russia MHL</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/406562/belarus-extraliga" id="league_406562" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-406562&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_406562" class="sp_sb icon x1313 notchecked"></span>
+			<span>Belarus Extraliga</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/4083/austria-ehl" id="league_4083" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-4083&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_4083" class="sp_sb icon x1313 notchecked"></span>
+			<span>Austria EHL</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405811/alps-hockey-league" id="league_405811" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405811&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405811" class="sp_sb icon x1313 notchecked"></span>
+			<span>Alps Hockey League</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/40506/sweden-shl" id="league_40506" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-40506&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_40506" class="sp_sb icon x1313 notchecked"></span>
+			<span>Sweden SHL</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/40511/finland-sm-liga" id="league_40511" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-40511&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_40511" class="sp_sb icon x1313 notchecked"></span>
+			<span>Finland SM-Liga</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405093/norway-eliteserien" id="league_405093" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405093&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405093" class="sp_sb icon x1313 notchecked"></span>
+			<span>Norway Eliteserien</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405307/denmark" id="league_405307" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405307&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405307" class="sp_sb icon x1313 notchecked"></span>
+			<span>Denmark</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405257/czech-republic-extraliga" id="league_405257" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405257&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405257" class="sp_sb icon x1313 notchecked"></span>
+			<span>Czech Republic Extraliga</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405822/czech-republic-league-1" id="league_405822" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405822&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405822" class="sp_sb icon x1313 notchecked"></span>
+			<span>Czech Republic League 1</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405258/slovakia-extraliga" id="league_405258" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405258&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405258" class="sp_sb icon x1313 notchecked"></span>
+			<span>Slovakia Extraliga</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405684/france-ligue-magnus" id="league_405684" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405684&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405684" class="sp_sb icon x1313 notchecked"></span>
+			<span>France Ligue Magnus</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405680/winter-games-2018" id="league_405680" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405680&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405680" class="sp_sb icon x1313 notchecked"></span>
+			<span>Winter Games 2018</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405147/a-world-championship-2018" id="league_405147" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405147&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405147" class="sp_sb icon x1313 notchecked"></span>
+			<span>A - World Championship 2018</span>
+		</a>
+		
+	</div>
+	
+	<h2 id="lnkMainKos15" class="fvd border">
+		<span class="kos k15_1"></span><strong>Basketball</strong>
+		
+		<label class="sp_sb icon select none" title="Deselect all"></label>
+		<label class="icon f08 wh arrow-down"></label>
+	</h2>
+	<div id="divSubMenu_15" class="box list line sub hover" style="display: none;">
+		<a href="/en/sportsbook/o/15/basketball" id="kos_ue_15" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Overview-15&quot;]" class="TRACKING-LINK"><span>Overview</span></a>
+		<label class="sp_sb icon type special"><a href="/en/sportsbook/o/15/basketball/special" title="Special" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Special-15&quot;]" class="TRACKING-LINK"></a></label>
+		<label class="sp_sb icon type long"><a href="/en/sportsbook/o/15/basketball/long-term" title="Long term" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Longterm-15&quot;]" class="TRACKING-LINK"></a></label>
+		
+		<a href="/en/sportsbook/l/15103/nba" id="league_15103" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-15103&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_15103" class="sp_sb icon x1313 notchecked"></span>
+			<span>NBA</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405983/eurobasket" id="league_405983" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405983&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405983" class="sp_sb icon x1313 notchecked"></span>
+			<span>Eurobasket</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/407095/africa-championship" id="league_407095" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-407095&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_407095" class="sp_sb icon x1313 notchecked"></span>
+			<span>Africa Championship</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/15225/ncaab-college" id="league_15225" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-15225&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_15225" class="sp_sb icon x1313 notchecked"></span>
+			<span>NCAAB (College) </span>
+		</a>
+		
+		<a href="/en/sportsbook/l/15/wnba" id="league_15" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-15&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_15" class="sp_sb icon x1313 notchecked"></span>
+			<span>WNBA </span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405226/euroleague" id="league_405226" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405226&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405226" class="sp_sb icon x1313 notchecked"></span>
+			<span>Euroleague</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405224/german-bbl" id="league_405224" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405224&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405224" class="sp_sb icon x1313 notchecked"></span>
+			<span>German BBL </span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405277/spain-acb" id="league_405277" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405277&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405277" class="sp_sb icon x1313 notchecked"></span>
+			<span>Spain ACB </span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405293/italy-lega-a" id="league_405293" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405293&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405293" class="sp_sb icon x1313 notchecked"></span>
+			<span>Italy Lega A </span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405278/greece-a1" id="league_405278" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405278&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405278" class="sp_sb icon x1313 notchecked"></span>
+			<span>Greece A1 </span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405372/france-pro-a" id="league_405372" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405372&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405372" class="sp_sb icon x1313 notchecked"></span>
+			<span>France Pro A </span>
+		</a>
+		
+	</div>
+	
+	<h2 id="lnkMainKos13" class="fvd border">
+		<span class="kos k13_1"></span><strong>American Football</strong>
+		
+		<label class="sp_sb icon select none" title="Deselect all"></label>
+		<label class="icon f08 wh arrow-down"></label>
+	</h2>
+	<div id="divSubMenu_13" class="box list line sub hover" style="display: none;">
+		<a href="/en/sportsbook/o/13/american-football" id="kos_ue_13" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Overview-13&quot;]" class="TRACKING-LINK"><span>Overview</span></a>
+		<label class="sp_sb icon type special"><a href="/en/sportsbook/o/13/american football/special" title="Special" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Special-13&quot;]" class="TRACKING-LINK"></a></label>
+		<label class="sp_sb icon type long"><a href="/en/sportsbook/o/13/american football/long-term" title="Long term" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Longterm-13&quot;]" class="TRACKING-LINK"></a></label>
+		
+		<a href="/en/sportsbook/l/13472/nfl" id="league_13472" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-13472&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_13472" class="sp_sb icon x1313 notchecked"></span>
+			<span>NFL</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/13473/ncaaf-college" id="league_13473" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-13473&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_13473" class="sp_sb icon x1313 notchecked"></span>
+			<span>NCAAF (College) </span>
+		</a>
+		
+		<a href="/en/sportsbook/l/13450/canada-cfl" id="league_13450" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-13450&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_13450" class="sp_sb icon x1313 notchecked"></span>
+			<span>Canada - CFL</span>
+		</a>
+		
+	</div>
+	
+	<h2 id="lnkMainKos14" class="fvd open border">
+		<span class="kos k14_1"></span><strong>Baseball</strong>
+		
+		<label class="sp_sb icon select none" title="Deselect all"></label>
+		<label class="icon f08 wh arrow-down"></label>
+	</h2>
+	<div id="divSubMenu_14" class="box list line sub hover" style="display: block;">
+		<a href="/en/sportsbook/l/14233/mlb" id="kos_ue_14" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Overview-14&quot;]" class="TRACKING-LINK"><span>Overview</span></a>
+		<label class="sp_sb icon type special"><a href="/en/sportsbook/o/14/baseball/special" title="Special" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Special-14&quot;]" class="TRACKING-LINK"></a></label>
+		<label class="sp_sb icon type long"><a href="/en/sportsbook/o/14/baseball/long-term" title="Long term" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Longterm-14&quot;]" class="TRACKING-LINK"></a></label>
+		
+		<a href="/sportsbook/betting/bettingoffer.aspx?leagueid=14233&delete=1" id="league_14233" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-14233&quot;]" class="lnk TRACKING-LINK active" rel="nofollow">
+			<span id="img_14233" class="sp_sb icon x1313 checked"></span>
+			<span>MLB</span>
+		</a>
+		
+	</div>
+	
+	<h2 id="lnkMainKos1002" class="fvd border">
+		<span class="kos k1002_1"></span><strong>Handball</strong>
+		
+		<label class="sp_sb icon select none" title="Deselect all"></label>
+		<label class="icon f08 wh arrow-down"></label>
+	</h2>
+	<div id="divSubMenu_1002" class="box list line sub hover" style="display: none;">
+		<a href="/en/sportsbook/o/1002/handball" id="kos_ue_1002" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Overview-1002&quot;]" class="TRACKING-LINK"><span>Overview</span></a>
+		<label class="sp_sb icon type special"><a href="/en/sportsbook/o/1002/handball/special" title="Special" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Special-1002&quot;]" class="TRACKING-LINK"></a></label>
+		<label class="sp_sb icon type long"><a href="/en/sportsbook/o/1002/handball/long-term" title="Long term" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Longterm-1002&quot;]" class="TRACKING-LINK"></a></label>
+		
+		<a href="/en/sportsbook/l/405361/ehf-champions-league-men-60" id="league_405361" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405361&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405361" class="sp_sb icon x1313 notchecked"></span>
+			<span>EHF Champions League Men (60´)</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405225/germany-bundesliga" id="league_405225" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405225&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405225" class="sp_sb icon x1313 notchecked"></span>
+			<span>Germany Bundesliga</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/406397/germany-2nd-bundesliga" id="league_406397" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-406397&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_406397" class="sp_sb icon x1313 notchecked"></span>
+			<span>Germany 2nd Bundesliga </span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405310/austria-hla" id="league_405310" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405310&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405310" class="sp_sb icon x1313 notchecked"></span>
+			<span>Austria HLA </span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405454/france-national-league" id="league_405454" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405454&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405454" class="sp_sb icon x1313 notchecked"></span>
+			<span>France National League</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405376/spain-asobal" id="league_405376" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405376&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405376" class="sp_sb icon x1313 notchecked"></span>
+			<span>Spain Asobal</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/406866/sweden-elitserien-women" id="league_406866" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-406866&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_406866" class="sp_sb icon x1313 notchecked"></span>
+			<span>Sweden Elitserien Women</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405362/sweden-elitserien" id="league_405362" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405362&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405362" class="sp_sb icon x1313 notchecked"></span>
+			<span>Sweden Elitserien </span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405375/norway-postenligaen-women" id="league_405375" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405375&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405375" class="sp_sb icon x1313 notchecked"></span>
+			<span>Norway Postenligaen Women</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405390/denmark-haandboldligaen-men" id="league_405390" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405390&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405390" class="sp_sb icon x1313 notchecked"></span>
+			<span>Denmark Haandboldligaen Men </span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405456/denmark-haandboldligaen-women" id="league_405456" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405456&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405456" class="sp_sb icon x1313 notchecked"></span>
+			<span>Denmark Haandboldligaen Women </span>
+		</a>
+		
+		<a href="/en/sportsbook/l/406516/russia-superleague-men" id="league_406516" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-406516&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_406516" class="sp_sb icon x1313 notchecked"></span>
+			<span>Russia Superleague Men</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/407142/iceland-men" id="league_407142" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-407142&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_407142" class="sp_sb icon x1313 notchecked"></span>
+			<span>Iceland Men</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/407206/slovakia-extraliga-men" id="league_407206" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-407206&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_407206" class="sp_sb icon x1313 notchecked"></span>
+			<span>Slovakia Extraliga Men</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/406054/world-championship-women-2017-ger" id="league_406054" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-406054&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_406054" class="sp_sb icon x1313 notchecked"></span>
+			<span>World Championship Women 2017 (GER)</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/408674/european-championship-men-2018-cro" id="league_408674" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-408674&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_408674" class="sp_sb icon x1313 notchecked"></span>
+			<span>European Championship Men 2018 (CRO)</span>
+		</a>
+		
+	</div>
+	
+	<h2 id="lnkMainKos80" class="fvd border">
+		<span class="kos k80_1"></span><strong>Golf</strong>
+		
+		<label class="sp_sb icon select none" title="Deselect all"></label>
+		<label class="icon f08 wh arrow-down"></label>
+	</h2>
+	<div id="divSubMenu_80" class="box list line sub hover" style="display: none;">
+		<a href="/en/sportsbook/o/80/golf" id="kos_ue_80" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Overview-80&quot;]" class="TRACKING-LINK"><span>Overview</span></a>
+		<label class="sp_sb icon type special"><a href="/en/sportsbook/o/80/golf/special" title="Special" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Special-80&quot;]" class="TRACKING-LINK"></a></label>
+		<label class="sp_sb icon type long"><a href="/en/sportsbook/o/80/golf/long-term" title="Long term" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Longterm-80&quot;]" class="TRACKING-LINK"></a></label>
+		
+		<a href="/en/sportsbook/l/405413/bmw-championship" id="league_405413" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405413&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405413" class="sp_sb icon x1313 notchecked"></span>
+			<span>BMW Championship</span>
+		</a>
+		
+		<a href="/en/sportsbook/l/405262/ryder-cup" id="league_405262" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405262&quot;]" class="lnk TRACKING-LINK">
+			<span id="img_405262" class="sp_sb icon x1313 notchecked"></span>
+			<span>Ryder Cup</span>
+		</a>
+		
+	</div>
+	
+	<div id="Nav_FurtherKos" class="further open TRACKING-EVENT" event-tracking="[&quot;Sports-Navi&quot;,&quot;Toggle&quot;,&quot;Further-Sports&quot;]">
+		<span>Further Sports (16)</span>
+		<label class="icon f08 bl arrow-up"></label>
+	</div>
+	<div id="Nav_FurtherKosList" class="box list koslist">
+	
+		<h2 id="lnkMainKos1012" class="fvd border">
+			<span class="kos k1012_1"></span><strong>Volleyball</strong>
+			
+			<label class="sp_sb icon select none" title="Deselect all"></label>
+			<label class="icon f08 wh arrow-down"></label>
+		</h2>
+		<div id="divSubMenu_1012" class="box list line sub hover" style="display: none;">
+			<a href="/en/sportsbook/o/1012/volleyball" id="kos_ue_1012" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Overview-1012&quot;]" class="TRACKING-LINK"><span>Overview</span></a>
+			<span class="sp_sb icon type special"><a href="/en/sportsbook/o/1012/volleyball/special" title="Special" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Special-1012&quot;]" class="TRACKING-LINK"></a></span>
+			<span class="sp_sb icon type long"><a href="/en/sportsbook/o/1012/volleyball/long-term" title="Long term" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Longterm-1012&quot;]" class="TRACKING-LINK"></a></span>
+			
+			<a href="/en/sportsbook/l/405552/fivb-grand-champions-cup-men" id="league_405552" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405552&quot;]" class="lnk TRACKING-LINK">
+				<span id="img_405552" class="sp_sb icon x1313 notchecked"></span>
+				<span>FIVB Grand Champions Cup Men</span>
+			</a>
+			
+			<a href="/en/sportsbook/l/405898/u23-world-championship-women" id="league_405898" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405898&quot;]" class="lnk TRACKING-LINK">
+				<span id="img_405898" class="sp_sb icon x1313 notchecked"></span>
+				<span>U23 World Championship Women</span>
+			</a>
+			
+			<a href="/en/sportsbook/l/405458/italy-a1-men" id="league_405458" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405458&quot;]" class="lnk TRACKING-LINK">
+				<span id="img_405458" class="sp_sb icon x1313 notchecked"></span>
+				<span>Italy A1 Men</span>
+			</a>
+			
+			<a href="/en/sportsbook/l/405472/italy-a1-women" id="league_405472" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405472&quot;]" class="lnk TRACKING-LINK">
+				<span id="img_405472" class="sp_sb icon x1313 notchecked"></span>
+				<span>Italy A1 Women</span>
+			</a>
+			
+		</div>
+	
+		<h2 id="lnkMainKos12" class="fvd border">
+			<span class="kos k12_1"></span><strong>Formula 1</strong>
+			
+			<label class="sp_sb icon select none" title="Deselect all"></label>
+			<label class="icon f08 wh arrow-down"></label>
+		</h2>
+		<div id="divSubMenu_12" class="box list line sub hover" style="display: none;">
+			<a href="/en/sportsbook/o/12/formula-1" id="kos_ue_12" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Overview-12&quot;]" class="TRACKING-LINK"><span>Overview</span></a>
+			<span class="sp_sb icon type special"><a href="/en/sportsbook/o/12/formula 1/special" title="Special" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Special-12&quot;]" class="TRACKING-LINK"></a></span>
+			<span class="sp_sb icon type long"><a href="/en/sportsbook/o/12/formula 1/long-term" title="Long term" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Longterm-12&quot;]" class="TRACKING-LINK"></a></span>
+			
+			<a href="/en/sportsbook/l/405259/qualifying" id="league_405259" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405259&quot;]" class="lnk TRACKING-LINK">
+				<span id="img_405259" class="sp_sb icon x1313 notchecked"></span>
+				<span>Qualifying</span>
+			</a>
+			
+			<a href="/en/sportsbook/l/405261/grand-prix" id="league_405261" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405261&quot;]" class="lnk TRACKING-LINK">
+				<span id="img_405261" class="sp_sb icon x1313 notchecked"></span>
+				<span>Grand Prix</span>
+			</a>
+			
+			<a href="/en/sportsbook/l/405289/championship-2017" id="league_405289" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405289&quot;]" class="lnk TRACKING-LINK">
+				<span id="img_405289" class="sp_sb icon x1313 notchecked"></span>
+				<span>Championship 2017</span>
+			</a>
+			
+		</div>
+	
+		<h2 id="lnkMainKos1011" class="fvd border">
+			<span class="kos k1011_1"></span><strong>Motorbike</strong>
+			
+			<label class="sp_sb icon select none" title="Deselect all"></label>
+			<label class="icon f08 wh arrow-down"></label>
+		</h2>
+		<div id="divSubMenu_1011" class="box list line sub hover" style="display: none;">
+			<a href="/en/sportsbook/l/405628/world-championship" id="kos_ue_1011" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Overview-1011&quot;]" class="TRACKING-LINK"><span>Overview</span></a>
+			<span class="sp_sb icon type special"><a href="/en/sportsbook/o/1011/motorbike/special" title="Special" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Special-1011&quot;]" class="TRACKING-LINK"></a></span>
+			<span class="sp_sb icon type long"><a href="/en/sportsbook/o/1011/motorbike/long-term" title="Long term" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Longterm-1011&quot;]" class="TRACKING-LINK"></a></span>
+			
+			<a href="/en/sportsbook/l/405628/world-championship" id="league_405628" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405628&quot;]" class="lnk TRACKING-LINK">
+				<span id="img_405628" class="sp_sb icon x1313 notchecked"></span>
+				<span>World Championship</span>
+			</a>
+			
+		</div>
+	
+		<h2 id="lnkMainKos1003" class="fvd border">
+			<span class="kos k1003_1"></span><strong>Rugby</strong>
+			
+			<label class="sp_sb icon select none" title="Deselect all"></label>
+			<label class="icon f08 wh arrow-down"></label>
+		</h2>
+		<div id="divSubMenu_1003" class="box list line sub hover" style="display: none;">
+			<a href="/en/sportsbook/o/1003/rugby" id="kos_ue_1003" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Overview-1003&quot;]" class="TRACKING-LINK"><span>Overview</span></a>
+			<span class="sp_sb icon type special"><a href="/en/sportsbook/o/1003/rugby/special" title="Special" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Special-1003&quot;]" class="TRACKING-LINK"></a></span>
+			<span class="sp_sb icon type long"><a href="/en/sportsbook/o/1003/rugby/long-term" title="Long term" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Longterm-1003&quot;]" class="TRACKING-LINK"></a></span>
+			
+			<a href="/en/sportsbook/l/406346/australia-nrc-80-rugby-union" id="league_406346" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-406346&quot;]" class="lnk TRACKING-LINK">
+				<span id="img_406346" class="sp_sb icon x1313 notchecked"></span>
+				<span>Australia NRC (80´) - Rugby Union</span>
+			</a>
+			
+			<a href="/en/sportsbook/l/405459/mitre-10-cup-80-rugby-union" id="league_405459" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405459&quot;]" class="lnk TRACKING-LINK">
+				<span id="img_405459" class="sp_sb icon x1313 notchecked"></span>
+				<span>Mitre 10 Cup (80´) - Rugby Union</span>
+			</a>
+			
+			<a href="/en/sportsbook/l/405646/rugby-world-cup-2019-in-japan-80-rugby-union" id="league_405646" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405646&quot;]" class="lnk TRACKING-LINK">
+				<span id="img_405646" class="sp_sb icon x1313 notchecked"></span>
+				<span>Rugby World Cup 2019 in Japan (80´) - Rugby Union</span>
+			</a>
+			
+			<a href="/en/sportsbook/l/405412/the-rugby-championship-80-rugby-union" id="league_405412" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405412&quot;]" class="lnk TRACKING-LINK">
+				<span id="img_405412" class="sp_sb icon x1313 notchecked"></span>
+				<span>The Rugby Championship (80´) - Rugby Union</span>
+			</a>
+			
+			<a href="/en/sportsbook/l/405395/nrl-80-rugby-league" id="league_405395" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405395&quot;]" class="lnk TRACKING-LINK">
+				<span id="img_405395" class="sp_sb icon x1313 notchecked"></span>
+				<span>NRL (80´) - Rugby League </span>
+			</a>
+			
+			<a href="/en/sportsbook/l/405399/currie-cup-80-rugby-union" id="league_405399" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405399&quot;]" class="lnk TRACKING-LINK">
+				<span id="img_405399" class="sp_sb icon x1313 notchecked"></span>
+				<span>Currie Cup (80´) - Rugby Union</span>
+			</a>
+			
+			<a href="/en/sportsbook/l/405444/france-pro-d2-80-rugby-union" id="league_405444" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405444&quot;]" class="lnk TRACKING-LINK">
+				<span id="img_405444" class="sp_sb icon x1313 notchecked"></span>
+				<span>France Pro D2 (80´) - Rugby Union</span>
+			</a>
+			
+			<a href="/en/sportsbook/l/405453/english-premiership-80-rugby-union" id="league_405453" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405453&quot;]" class="lnk TRACKING-LINK">
+				<span id="img_405453" class="sp_sb icon x1313 notchecked"></span>
+				<span>English Premiership (80´) - Rugby Union</span>
+			</a>
+			
+			<a href="/en/sportsbook/l/405396/super-league-80-rugby-league" id="league_405396" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405396&quot;]" class="lnk TRACKING-LINK">
+				<span id="img_405396" class="sp_sb icon x1313 notchecked"></span>
+				<span>Super League (80´) - Rugby League </span>
+			</a>
+			
+			<a href="/en/sportsbook/l/405988/rabodirect-pro12-80-rugby-union" id="league_405988" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405988&quot;]" class="lnk TRACKING-LINK">
+				<span id="img_405988" class="sp_sb icon x1313 notchecked"></span>
+				<span>RaboDirect Pro12 (80´) - Rugby Union</span>
+			</a>
+			
+			<a href="/en/sportsbook/l/408210/queensland-cup-80-rugby-league" id="league_408210" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-408210&quot;]" class="lnk TRACKING-LINK">
+				<span id="img_408210" class="sp_sb icon x1313 notchecked"></span>
+				<span>Queensland Cup (80´) - Rugby League</span>
+			</a>
+			
+			<a href="/en/sportsbook/l/406729/nsw-cup-80-rugby-league" id="league_406729" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-406729&quot;]" class="lnk TRACKING-LINK">
+				<span id="img_406729" class="sp_sb icon x1313 notchecked"></span>
+				<span>NSW Cup (80´) - Rugby League</span>
+			</a>
+			
+		</div>
+	
+		<h2 id="lnkMainKos1034" class="fvd border">
+			<span class="kos k1034_1"></span><strong>Australian Rules Football</strong>
+			
+			<label class="sp_sb icon select none" title="Deselect all"></label>
+			<label class="icon f08 wh arrow-down"></label>
+		</h2>
+		<div id="divSubMenu_1034" class="box list line sub hover" style="display: none;">
+			<a href="/en/sportsbook/l/405647/afl" id="kos_ue_1034" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Overview-1034&quot;]" class="TRACKING-LINK"><span>Overview</span></a>
+			<span class="sp_sb icon type special"><a href="/en/sportsbook/o/1034/australian rules football/special" title="Special" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Special-1034&quot;]" class="TRACKING-LINK"></a></span>
+			<span class="sp_sb icon type long"><a href="/en/sportsbook/o/1034/australian rules football/long-term" title="Long term" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Longterm-1034&quot;]" class="TRACKING-LINK"></a></span>
+			
+			<a href="/en/sportsbook/l/405647/afl" id="league_405647" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405647&quot;]" class="lnk TRACKING-LINK">
+				<span id="img_405647" class="sp_sb icon x1313 notchecked"></span>
+				<span>AFL</span>
+			</a>
+			
+		</div>
+	
+		<h2 id="lnkMainKos1022" class="fvd border">
+			<span class="kos k1022_1"></span><strong>Beach Soccer</strong>
+			
+			<label class="sp_sb icon select none" title="Deselect all"></label>
+			<label class="icon f08 wh arrow-down"></label>
+		</h2>
+		<div id="divSubMenu_1022" class="box list line sub hover" style="display: none;">
+			<a href="/en/sportsbook/l/405586/euro-beach-soccer-league" id="kos_ue_1022" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Overview-1022&quot;]" class="TRACKING-LINK"><span>Overview</span></a>
+			<span class="sp_sb icon type special"><a href="/en/sportsbook/o/1022/beach soccer/special" title="Special" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Special-1022&quot;]" class="TRACKING-LINK"></a></span>
+			<span class="sp_sb icon type long"><a href="/en/sportsbook/o/1022/beach soccer/long-term" title="Long term" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Longterm-1022&quot;]" class="TRACKING-LINK"></a></span>
+			
+			<a href="/en/sportsbook/l/405586/euro-beach-soccer-league" id="league_405586" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405586&quot;]" class="lnk TRACKING-LINK">
+				<span id="img_405586" class="sp_sb icon x1313 notchecked"></span>
+				<span>Euro Beach Soccer League</span>
+			</a>
+			
+		</div>
+	
+		<h2 id="lnkMainKos1033" class="fvd border">
+			<span class="kos k1033_1"></span><strong>Rally</strong>
+			
+			<label class="sp_sb icon select none" title="Deselect all"></label>
+			<label class="icon f08 wh arrow-down"></label>
+		</h2>
+		<div id="divSubMenu_1033" class="box list line sub hover" style="display: none;">
+			<a href="/en/sportsbook/l/405638/fia-world-rally-championship" id="kos_ue_1033" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Overview-1033&quot;]" class="TRACKING-LINK"><span>Overview</span></a>
+			<span class="sp_sb icon type special"><a href="/en/sportsbook/o/1033/rally/special" title="Special" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Special-1033&quot;]" class="TRACKING-LINK"></a></span>
+			<span class="sp_sb icon type long"><a href="/en/sportsbook/o/1033/rally/long-term" title="Long term" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Longterm-1033&quot;]" class="TRACKING-LINK"></a></span>
+			
+			<a href="/en/sportsbook/l/405638/fia-world-rally-championship" id="league_405638" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405638&quot;]" class="lnk TRACKING-LINK">
+				<span id="img_405638" class="sp_sb icon x1313 notchecked"></span>
+				<span>FIA World Rally Championship</span>
+			</a>
+			
+		</div>
+	
+		<h2 id="lnkMainKos1004" class="fvd border">
+			<span class="kos k1004_1"></span><strong>Cycling</strong>
+			
+			<label class="sp_sb icon select none" title="Deselect all"></label>
+			<label class="icon f08 wh arrow-down"></label>
+		</h2>
+		<div id="divSubMenu_1004" class="box list line sub hover" style="display: none;">
+			<a href="/en/sportsbook/o/1004/cycling" id="kos_ue_1004" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Overview-1004&quot;]" class="TRACKING-LINK"><span>Overview</span></a>
+			<span class="sp_sb icon type special"><a href="/en/sportsbook/o/1004/cycling/special" title="Special" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Special-1004&quot;]" class="TRACKING-LINK"></a></span>
+			<span class="sp_sb icon type long"><a href="/en/sportsbook/o/1004/cycling/long-term" title="Long term" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Longterm-1004&quot;]" class="TRACKING-LINK"></a></span>
+			
+			<a href="/en/sportsbook/l/405538/uci-world-tour" id="league_405538" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405538&quot;]" class="lnk TRACKING-LINK">
+				<span id="img_405538" class="sp_sb icon x1313 notchecked"></span>
+				<span>UCI World  Tour</span>
+			</a>
+			
+			<a href="/en/sportsbook/l/405349/uci-road-world-championships" id="league_405349" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405349&quot;]" class="lnk TRACKING-LINK">
+				<span id="img_405349" class="sp_sb icon x1313 notchecked"></span>
+				<span>UCI Road World Championships</span>
+			</a>
+			
+		</div>
+	
+		<h2 id="lnkMainKos1005" class="fvd border">
+			<span class="kos k1005_1"></span><strong>Snooker</strong>
+			
+			<label class="sp_sb icon select none" title="Deselect all"></label>
+			<label class="icon f08 wh arrow-down"></label>
+		</h2>
+		<div id="divSubMenu_1005" class="box list line sub hover" style="display: none;">
+			<a href="/en/sportsbook/o/1005/snooker" id="kos_ue_1005" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Overview-1005&quot;]" class="TRACKING-LINK"><span>Overview</span></a>
+			<span class="sp_sb icon type special"><a href="/en/sportsbook/o/1005/snooker/special" title="Special" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Special-1005&quot;]" class="TRACKING-LINK"></a></span>
+			<span class="sp_sb icon type long"><a href="/en/sportsbook/o/1005/snooker/long-term" title="Long term" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Longterm-1005&quot;]" class="TRACKING-LINK"></a></span>
+			
+			<a href="/en/sportsbook/l/405493/uk-championship" id="league_405493" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405493&quot;]" class="lnk TRACKING-LINK">
+				<span id="img_405493" class="sp_sb icon x1313 notchecked"></span>
+				<span>UK Championship</span>
+			</a>
+			
+			<a href="/en/sportsbook/l/405613/indian-open" id="league_405613" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405613&quot;]" class="lnk TRACKING-LINK">
+				<span id="img_405613" class="sp_sb icon x1313 notchecked"></span>
+				<span>Indian Open</span>
+			</a>
+			
+		</div>
+	
+		<h2 id="lnkMainKos1027" class="fvd border">
+			<span class="kos k1027_1"></span><strong>Cricket</strong>
+			
+			<label class="sp_sb icon select none" title="Deselect all"></label>
+			<label class="icon f08 wh arrow-down"></label>
+		</h2>
+		<div id="divSubMenu_1027" class="box list line sub hover" style="display: none;">
+			<a href="/en/sportsbook/o/1027/cricket" id="kos_ue_1027" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Overview-1027&quot;]" class="TRACKING-LINK"><span>Overview</span></a>
+			<span class="sp_sb icon type special"><a href="/en/sportsbook/o/1027/cricket/special" title="Special" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Special-1027&quot;]" class="TRACKING-LINK"></a></span>
+			<span class="sp_sb icon type long"><a href="/en/sportsbook/o/1027/cricket/long-term" title="Long term" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Longterm-1027&quot;]" class="TRACKING-LINK"></a></span>
+			
+			<a href="/en/sportsbook/l/405607/icc-world-cup-2019" id="league_405607" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405607&quot;]" class="lnk TRACKING-LINK">
+				<span id="img_405607" class="sp_sb icon x1313 notchecked"></span>
+				<span>ICC World Cup 2019</span>
+			</a>
+			
+			<a href="/en/sportsbook/l/405987/the-ashes" id="league_405987" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405987&quot;]" class="lnk TRACKING-LINK">
+				<span id="img_405987" class="sp_sb icon x1313 notchecked"></span>
+				<span>The Ashes </span>
+			</a>
+			
+		</div>
+	
+		<h2 id="lnkMainKos1021" class="fvd border">
+			<span class="kos k1021_1"></span><strong>Pool</strong>
+			
+			<label class="sp_sb icon select none" title="Deselect all"></label>
+			<label class="icon f08 wh arrow-down"></label>
+		</h2>
+		<div id="divSubMenu_1021" class="box list line sub hover" style="display: none;">
+			<a href="/en/sportsbook/l/406030/mosconi-cup" id="kos_ue_1021" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Overview-1021&quot;]" class="TRACKING-LINK"><span>Overview</span></a>
+			<span class="sp_sb icon type special"><a href="/en/sportsbook/o/1021/pool/special" title="Special" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Special-1021&quot;]" class="TRACKING-LINK"></a></span>
+			<span class="sp_sb icon type long"><a href="/en/sportsbook/o/1021/pool/long-term" title="Long term" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Longterm-1021&quot;]" class="TRACKING-LINK"></a></span>
+			
+			<a href="/en/sportsbook/l/406030/mosconi-cup" id="league_406030" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-406030&quot;]" class="lnk TRACKING-LINK">
+				<span id="img_406030" class="sp_sb icon x1313 notchecked"></span>
+				<span>Mosconi Cup</span>
+			</a>
+			
+		</div>
+	
+		<h2 id="lnkMainKos1016" class="fvd border">
+			<span class="kos k1016_1"></span><strong>Darts</strong>
+			
+			<label class="sp_sb icon select none" title="Deselect all"></label>
+			<label class="icon f08 wh arrow-down"></label>
+		</h2>
+		<div id="divSubMenu_1016" class="box list line sub hover" style="display: none;">
+			<a href="/en/sportsbook/o/1016/darts" id="kos_ue_1016" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Overview-1016&quot;]" class="TRACKING-LINK"><span>Overview</span></a>
+			<span class="sp_sb icon type special"><a href="/en/sportsbook/o/1016/darts/special" title="Special" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Special-1016&quot;]" class="TRACKING-LINK"></a></span>
+			<span class="sp_sb icon type long"><a href="/en/sportsbook/o/1016/darts/long-term" title="Long term" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Longterm-1016&quot;]" class="TRACKING-LINK"></a></span>
+			
+			<a href="/en/sportsbook/l/405510/pdc-world-championship" id="league_405510" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405510&quot;]" class="lnk TRACKING-LINK">
+				<span id="img_405510" class="sp_sb icon x1313 notchecked"></span>
+				<span>PDC World Championship</span>
+			</a>
+			
+			<a href="/en/sportsbook/l/405554/international-darts-open" id="league_405554" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405554&quot;]" class="lnk TRACKING-LINK">
+				<span id="img_405554" class="sp_sb icon x1313 notchecked"></span>
+				<span>International Darts Open</span>
+			</a>
+			
+			<a href="/en/sportsbook/l/407283/champions-league-of-darts" id="league_407283" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-407283&quot;]" class="lnk TRACKING-LINK">
+				<span id="img_407283" class="sp_sb icon x1313 notchecked"></span>
+				<span>Champions League of Darts</span>
+			</a>
+			
+		</div>
+	
+		<h2 id="lnkMainKos90" class="fvd border">
+			<span class="kos k90_1"></span><strong>Boxing</strong>
+			
+			<label class="sp_sb icon select none" title="Deselect all"></label>
+			<label class="icon f08 wh arrow-down"></label>
+		</h2>
+		<div id="divSubMenu_90" class="box list line sub hover" style="display: none;">
+			<a href="/en/sportsbook/l/90/boxing" id="kos_ue_90" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Overview-90&quot;]" class="TRACKING-LINK"><span>Overview</span></a>
+			<span class="sp_sb icon type special"><a href="/en/sportsbook/o/90/boxing/special" title="Special" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Special-90&quot;]" class="TRACKING-LINK"></a></span>
+			<span class="sp_sb icon type long"><a href="/en/sportsbook/o/90/boxing/long-term" title="Long term" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Longterm-90&quot;]" class="TRACKING-LINK"></a></span>
+			
+			<a href="/en/sportsbook/l/90/boxing" id="league_90" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-90&quot;]" class="lnk TRACKING-LINK">
+				<span id="img_90" class="sp_sb icon x1313 notchecked"></span>
+				<span>Boxing</span>
+			</a>
+			
+		</div>
+	
+		<h2 id="lnkMainKos1041" class="fvd border">
+			<span class="kos k1041_1"></span><strong>Pesapallo</strong>
+			
+			<label class="sp_sb icon select none" title="Deselect all"></label>
+			<label class="icon f08 wh arrow-down"></label>
+		</h2>
+		<div id="divSubMenu_1041" class="box list line sub hover" style="display: none;">
+			<a href="/en/sportsbook/l/405953/superpesis" id="kos_ue_1041" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Overview-1041&quot;]" class="TRACKING-LINK"><span>Overview</span></a>
+			<span class="sp_sb icon type special"><a href="/en/sportsbook/o/1041/pesapallo/special" title="Special" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Special-1041&quot;]" class="TRACKING-LINK"></a></span>
+			<span class="sp_sb icon type long"><a href="/en/sportsbook/o/1041/pesapallo/long-term" title="Long term" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Longterm-1041&quot;]" class="TRACKING-LINK"></a></span>
+			
+			<a href="/en/sportsbook/l/405953/superpesis" id="league_405953" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-405953&quot;]" class="lnk TRACKING-LINK">
+				<span id="img_405953" class="sp_sb icon x1313 notchecked"></span>
+				<span>Superpesis</span>
+			</a>
+			
+		</div>
+	
+		<h2 id="lnkMainKos200" class="fvd border">
+			<span class="kos k200_1"></span><strong>Alpine Skiing</strong>
+			
+			<label class="sp_sb icon select none" title="Deselect all"></label>
+			<label class="icon f08 wh arrow-down"></label>
+		</h2>
+		<div id="divSubMenu_200" class="box list line sub hover" style="display: none;">
+			<a href="/en/sportsbook/l/200/world-cup" id="kos_ue_200" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Overview-200&quot;]" class="TRACKING-LINK"><span>Overview</span></a>
+			<span class="sp_sb icon type special"><a href="/en/sportsbook/o/200/alpine skiing/special" title="Special" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Special-200&quot;]" class="TRACKING-LINK"></a></span>
+			<span class="sp_sb icon type long"><a href="/en/sportsbook/o/200/alpine skiing/long-term" title="Long term" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Longterm-200&quot;]" class="TRACKING-LINK"></a></span>
+			
+			<a href="/en/sportsbook/l/200/world-cup" id="league_200" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-200&quot;]" class="lnk TRACKING-LINK">
+				<span id="img_200" class="sp_sb icon x1313 notchecked"></span>
+				<span>World Cup</span>
+			</a>
+			
+		</div>
+	
+		<h2 id="lnkMainKos1057" class="fvd border">
+			<span class="kos k1057_1"></span><strong>Biathlon</strong>
+			
+			<label class="sp_sb icon select none" title="Deselect all"></label>
+			<label class="icon f08 wh arrow-down"></label>
+		</h2>
+		<div id="divSubMenu_1057" class="box list line sub hover" style="display: none;">
+			<a href="/en/sportsbook/l/406141/world-cup-competitions" id="kos_ue_1057" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Overview-1057&quot;]" class="TRACKING-LINK"><span>Overview</span></a>
+			<span class="sp_sb icon type special"><a href="/en/sportsbook/o/1057/biathlon/special" title="Special" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Special-1057&quot;]" class="TRACKING-LINK"></a></span>
+			<span class="sp_sb icon type long"><a href="/en/sportsbook/o/1057/biathlon/long-term" title="Long term" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;Longterm-1057&quot;]" class="TRACKING-LINK"></a></span>
+			
+			<a href="/en/sportsbook/l/406141/world-cup-competitions" id="league_406141" link-tracking="[&quot;Sports-Navi&quot;,&quot;Click&quot;,&quot;League-406141&quot;]" class="lnk TRACKING-LINK">
+				<span id="img_406141" class="sp_sb icon x1313 notchecked"></span>
+				<span>World Cup Competitions</span>
+			</a>
+			
+		</div>
+	
+	</div>
+</div>
+
+
+
+
+<div class="box list simple hover">
+	<h3 class="header">Betting tools</h3>
+	<a event-tracking="[&quot;Tools-Navi&quot;,&quot;Click&quot;,&quot;LiveScores&quot;]" onclick="SportsBook.OpenLiveScores(&quot;en&quot;, 0);" class="TRACKING-EVENT">
+		<label class="icon f08 bl arrow-right"></label><span>Live scores</span>
+	</a>
+	<a event-tracking="[&quot;Tools-Navi&quot;,&quot;Click&quot;,&quot;Statistics&quot;]" onclick="SportsBook.OpenGlobalStatistics(&quot;en&quot;, 245, 0);" class="TRACKING-EVENT" target="_blank">
+		<label class="icon f08 bl arrow-right"></label><span>Statistics</span>
+	</a>
+	<a class="TRACKING-LINK" link-tracking="[&quot;Tools-Navi&quot;,&quot;Click&quot;,&quot;Results&quot;]" href="/sportsbook/results.aspx">
+		<label class="icon f08 bl arrow-right"></label><span>Results</span>
+	</a>
+	
+	<a class="TRACKING-LINK" link-tracking="[&quot;Tools-Navi&quot;,&quot;Click&quot;,&quot;Today&quot;]" href="/sportsbook/betting/bettingoffer.aspx?type=4&amp;step=4&amp;hour=24">
+		<label class="icon f08 bl arrow-right"></label><span>Today´s bets</span>
+	</a>
+	
+</div>
+
+
+
+				</td>
+				<td class="colmiddle">
+					
+		<div id="e664bb55-24bc-4112-be74-c9fa6fb0ca4e" class="boxmsg warning" style="display:none;">
+	
+	<span class="sp icon x2222" >&nbsp;</span>
+	
+	<span id="lblMessage">Please enable cookies in your browser!</span>
+
+</div>
+	
+
+					
+
+					
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="bets offertype">
+	<div class="header gradient">
+		<a id="BTN_Bets_OfferTypes" class="btn g"><label class="icon f11 arrow-up"></label></a>
+		<span>Types of bet</span>
+	</div>
+	<table id="TBL_Bets_OfferTypes" cellspacing="0" cellpadding="0" class="bets">
+	
+	<tr>
+		<td><input id="cb3" type="checkbox" name="ctl00$cphMain$UCOffer$OfferGroupList$rptOfferGroup$ctl00$OfferGroupName1$cb3" checked="checked" /><label onclick="cbg.SelectOne(&#39;3&#39;);cbg.viewType=&#39;0&#39;;cbg.ClickButton(&#39;0&#39;);">Match</label></td>
+
+
+		<td><input id="cb5" type="checkbox" name="ctl00$cphMain$UCOffer$OfferGroupList$rptOfferGroup$ctl00$OfferGroupName2$cb5" /><label onclick="cbg.SelectOne(&#39;5&#39;);cbg.viewType=&#39;0&#39;;cbg.ClickButton(&#39;0&#39;);">Handicap</label></td>
+
+
+		<td class="last"><input id="cb9" type="checkbox" name="ctl00$cphMain$UCOffer$OfferGroupList$rptOfferGroup$ctl00$OfferGroupName3$cb9" /><label onclick="cbg.SelectOne(&#39;9&#39;);cbg.viewType=&#39;0&#39;;cbg.ClickButton(&#39;0&#39;);">Over/Under</label></td>
+
+
+	</tr>
+	
+	<tr>
+		<td><input id="cb14" type="checkbox" name="ctl00$cphMain$UCOffer$OfferGroupList$rptOfferGroup$ctl01$OfferGroupName1$cb14" /><label onclick="cbg.SelectOne(&#39;14&#39;);cbg.viewType=&#39;0&#39;;cbg.ClickButton(&#39;0&#39;);">Special Bets</label></td>
+
+
+		
+		
+	</tr>
+	
+<tr class="footer">
+	<td colspan="7">
+		<p>
+			<a id="Lnk_Select_All" class="link"><label class="icon f08 bl arrow-right"></label><span>Select all</span></a>
+			<a id="Lnk_Deselect_All" class="link"><label class="icon f08 bl arrow-right"></label><span>Deselect all</span></a>
+			<a id="Btn_Next_Bottom" class="btn bg g right" style="display:none;">Next</a>
+		</p>
+	</td>
+</tr>
+	</table>
+</div>
+
+<div class="quicktipp">
+	<a id="LNK_QUICKTIPP_FAVORITE" class="btn g QUICKTIPP TRACKING-EVENT" event-tracking="[&quot;Quick-Bet&quot;,&quot;Click&quot;,&quot;Favorite&quot;]" data-betting="[&quot;.BO151785748&quot;,&quot;.BO151785826&quot;,&quot;.BO151785750&quot;,&quot;.BO151785800&quot;,&quot;.BO151785782&quot;]" title="Place a combination bet of up to 5 favorites. Attention! Your current selection of events on the betting slip will be deleted.">Quick bet favorite</a><a id="LNK_QUICKTIPP_UNDERDOG" class="btn g QUICKTIPP TRACKING-EVENT" event-tracking="[&quot;Quick-Bet&quot;,&quot;Click&quot;,&quot;Outsider&quot;]" data-betting="[&quot;.BO151785851&quot;,&quot;.BO151785747&quot;,&quot;.BO151785808&quot;]" title="Place a combination bet of up to 3 outsiders. Attention! Your current selection of events on the betting slip will be deleted.">Quick bet outsider</a>
+</div>
+
+
+
+
+
+
+
+<div class="bets shadow">
+	<div id="ctl00_cphMain_UCOffer_LeagueList_rptLeague_ctl00_ucBettingContainer_divHeader" class="header gradient headerContainer">
+    <div class="text">
+		<h1 title="Baseball - MLB bets">Baseball - MLB bets</h1><label class="sp abs"></label>
+	</div>
+    
+
+		
+	
+	<span class="option">
+		
+		
+		
+		<a class="btn g close" onclick="document.location = &#39;/sportsbook/betting/bettingoffer.aspx?leagueid=14233&amp;delete=1&#39;;"><label class="sp icon x1010 xgray"></label></a>
+		
+		
+	</span>
+</div>
+
+
+<table id="TBL_Content_14233" cellspacing="0" cellpadding="0" class="bets border center">
+	<tr id="rowMessage" class="none">
+	<td colspan="7">
+		<p class="boxmsg info">
+			<span id="ctl00_cphMain_UCOffer_LeagueList_rptLeague_ctl00_ucBettingContainer_lblClose" class="sp icon x1010 xblack"></span>
+			
+		</p>
+	</td>
+</tr>
+
+
+<tr><td class="fvd" colspan="4"><p>Game<span id="spanBetInformation" class="sp icon x1414 information" title="Dear customer, please note that we list the home team first also for  American sports! Good luck and have fun betting." id=""></span></p></td></tr>
+
+
+
+
+<tr><td class="playtime" colspan="4"><p>14.09.2017</p></td>
+</tr>
+
+
+		
+<tr class="even">
+	<td class="date">19:10</td>
+	<td class="bets">
+		
+		<table cellspacing="3" cellpadding="0">
+			<tr class="b n2" data-betting="[56874286,10893258,&quot;Detroit  - Chicago &quot;,&quot;Game&quot;,false,&quot;N&quot;,false,13,1505416200]">
+				<td class="BO151785746 fvg hl BETTINGOFFER" data-betting="[151785746,&quot;1&quot;,&quot;&quot;,&quot;Detroit Tigers - Chicago White Sox&quot;,&quot;1,75&quot;,false]">
+	<p>
+		
+		<span>Detroit Tigers</span>
+		<strong >1,75</strong>
+	</p>
+</td>
+
+
+<td class="BO151785747 fvg hl BETTINGOFFER" data-betting="[151785747,&quot;2&quot;,&quot;&quot;,&quot;Detroit Tigers - Chicago White Sox&quot;,&quot;2&quot;,false]">
+	<p>
+		
+		<span>Chicago White Sox</span>
+		<strong >2,00</strong>
+	</p>
+</td>
+
+
+
+			</tr>
+		</table>
+	</td>
+	<td class="img"><label class="sp_sb icon x1614 statistic" data="[25,10946338,&quot;en&quot;,245,14]"></label></td>
+
+<td class="more"><a href="/en/sportsbook/e/10893258/detroit-tigers-chicago-white-sox" class="url" rel="nofollow">+8<label class="icon f08 bl arrow-right"></label></a></td>
+
+
+</tr>
+
+
+
+
+
+
+
+
+	
+
+
+
+
+		
+<tr class="odd">
+	<td class="date">19:35</td>
+	<td class="bets">
+		
+		<table cellspacing="3" cellpadding="0">
+			<tr class="b n2" data-betting="[56874287,10893220,&quot;Boston R - Oakland &quot;,&quot;Game&quot;,false,&quot;N&quot;,false,13,1505417700]">
+				<td class="BO151785748 fvg hl BETTINGOFFER" data-betting="[151785748,&quot;1&quot;,&quot;&quot;,&quot;Boston Red Sox - Oakland Athletics&quot;,&quot;1,4&quot;,false]">
+	<p>
+		
+		<span>Boston Red Sox</span>
+		<strong >1,40</strong>
+	</p>
+</td>
+
+
+<td class="BO151785749 fvg hl BETTINGOFFER" data-betting="[151785749,&quot;2&quot;,&quot;&quot;,&quot;Boston Red Sox - Oakland Athletics&quot;,&quot;2,65&quot;,false]">
+	<p>
+		
+		<span>Oakland Athletics</span>
+		<strong >2,65</strong>
+	</p>
+</td>
+
+
+
+			</tr>
+		</table>
+	</td>
+	<td class="img"><label class="sp_sb icon x1614 statistic" data="[25,10946340,&quot;en&quot;,245,14]"></label></td>
+
+<td class="more"><a href="/en/sportsbook/e/10893220/boston-red-sox-oakland-athletics" class="url" rel="nofollow">+8<label class="icon f08 bl arrow-right"></label></a></td>
+
+
+</tr>
+
+
+
+
+
+
+
+
+	
+
+
+
+
+		
+<tr class="even">
+	<td class="date">19:45</td>
+	<td class="bets">
+		
+		<table cellspacing="3" cellpadding="0">
+			<tr class="b n2" data-betting="[56874288,10893218,&quot;St. Loui - Cincinna&quot;,&quot;Game&quot;,false,&quot;N&quot;,false,13,1505418300]">
+				<td class="BO151785750 fvg hl BETTINGOFFER" data-betting="[151785750,&quot;1&quot;,&quot;&quot;,&quot;St. Louis Cardinals - Cincinnati Reds&quot;,&quot;1,45&quot;,false]">
+	<p>
+		
+		<span>St. Louis Cardinals</span>
+		<strong >1,45</strong>
+	</p>
+</td>
+
+
+<td class="BO151785751 fvg hl BETTINGOFFER" data-betting="[151785751,&quot;2&quot;,&quot;&quot;,&quot;St. Louis Cardinals - Cincinnati Reds&quot;,&quot;2,65&quot;,false]">
+	<p>
+		
+		<span>Cincinnati Reds</span>
+		<strong >2,65</strong>
+	</p>
+</td>
+
+
+
+			</tr>
+		</table>
+	</td>
+	<td class="img"><label class="sp_sb icon x1614 statistic" data="[25,10946342,&quot;en&quot;,245,14]"></label></td>
+
+<td class="more"><a href="/en/sportsbook/e/10893218/st-louis-cardinals-cincinnati-reds" class="url" rel="nofollow">+8<label class="icon f08 bl arrow-right"></label></a></td>
+
+
+</tr>
+
+
+
+
+
+
+
+
+	
+
+
+
+
+		
+<tr class="odd">
+	<td class="date">21:40</td>
+	<td class="bets">
+		
+		<table cellspacing="3" cellpadding="0">
+			<tr class="b n2" data-betting="[56874289,10893261,&quot;Arizona  - Colorado&quot;,&quot;Game&quot;,false,&quot;N&quot;,false,13,1505425200]">
+				<td class="BO151785758 fvg hl BETTINGOFFER" data-betting="[151785758,&quot;1&quot;,&quot;&quot;,&quot;Arizona Diamondbacks - Colorado Rockies&quot;,&quot;1,55&quot;,false]">
+	<p>
+		
+		<span>Arizona Diamondbacks</span>
+		<strong >1,55</strong>
+	</p>
+</td>
+
+
+<td class="BO151785759 fvg hl BETTINGOFFER" data-betting="[151785759,&quot;2&quot;,&quot;&quot;,&quot;Arizona Diamondbacks - Colorado Rockies&quot;,&quot;2,3&quot;,false]">
+	<p>
+		
+		<span>Colorado Rockies</span>
+		<strong >2,30</strong>
+	</p>
+</td>
+
+
+
+			</tr>
+		</table>
+	</td>
+	<td class="img"><label class="sp_sb icon x1614 statistic" data="[25,10946344,&quot;en&quot;,245,14]"></label></td>
+
+<td class="more"><a href="/en/sportsbook/e/10893261/arizona-diamondbacks-colorado-rockies" class="url" rel="nofollow">+8<label class="icon f08 bl arrow-right"></label></a></td>
+
+
+</tr>
+
+
+
+
+
+
+
+
+	
+
+
+
+<tr><td class="playtime" colspan="4"><p>15.09.2017</p></td>
+</tr>
+
+
+		
+<tr class="even">
+	<td class="date">01:05</td>
+	<td class="bets">
+		
+		<table cellspacing="3" cellpadding="0">
+			<tr class="b n2" data-betting="[56874309,10893221,&quot;New York - Baltimor&quot;,&quot;Game&quot;,false,&quot;N&quot;,false,13,1505437500]">
+				<td class="BO151785800 fvg hl BETTINGOFFER" data-betting="[151785800,&quot;1&quot;,&quot;&quot;,&quot;New York Yankees - Baltimore Orioles&quot;,&quot;1,45&quot;,false]">
+	<p>
+		
+		<span>New York Yankees</span>
+		<strong >1,45</strong>
+	</p>
+</td>
+
+
+<td class="BO151785801 fvg hl BETTINGOFFER" data-betting="[151785801,&quot;2&quot;,&quot;&quot;,&quot;New York Yankees - Baltimore Orioles&quot;,&quot;2,55&quot;,false]">
+	<p>
+		
+		<span>Baltimore Orioles</span>
+		<strong >2,55</strong>
+	</p>
+</td>
+
+
+
+			</tr>
+		</table>
+	</td>
+	<td class="img"><label class="sp_sb icon x1614 statistic" data="[25,10946348,&quot;en&quot;,245,14]"></label></td>
+
+<td class="more"><a href="/en/sportsbook/e/10893221/new-york-yankees-baltimore-orioles" class="url" rel="nofollow">+8<label class="icon f08 bl arrow-right"></label></a></td>
+
+
+</tr>
+
+
+
+
+
+
+
+
+	
+
+
+
+
+		
+<tr class="odd">
+	<td class="date">01:05</td>
+	<td class="bets">
+		
+		<table cellspacing="3" cellpadding="0">
+			<tr class="b n2" data-betting="[56874299,10893223,&quot;Washingt - Atlanta &quot;,&quot;Game&quot;,false,&quot;N&quot;,false,13,1505437500]">
+				<td class="BO151785782 fvg hl BETTINGOFFER" data-betting="[151785782,&quot;1&quot;,&quot;&quot;,&quot;Washington Nationals - Atlanta Braves&quot;,&quot;1,5&quot;,false]">
+	<p>
+		
+		<span>Washington Nationals</span>
+		<strong >1,50</strong>
+	</p>
+</td>
+
+
+<td class="BO151785783 fvg hl BETTINGOFFER" data-betting="[151785783,&quot;2&quot;,&quot;&quot;,&quot;Washington Nationals - Atlanta Braves&quot;,&quot;2,45&quot;,false]">
+	<p>
+		
+		<span>Atlanta Braves</span>
+		<strong >2,45</strong>
+	</p>
+</td>
+
+
+
+			</tr>
+		</table>
+	</td>
+	<td class="img"><label class="sp_sb icon x1614 statistic" data="[25,10946346,&quot;en&quot;,245,14]"></label></td>
+
+<td class="more"><a href="/en/sportsbook/e/10893223/washington-nationals-atlanta-braves" class="url" rel="nofollow">+8<label class="icon f08 bl arrow-right"></label></a></td>
+
+
+</tr>
+
+
+
+
+
+
+
+
+	
+
+
+
+
+		
+<tr class="even">
+	<td class="date">01:05</td>
+	<td class="bets">
+		
+		<table cellspacing="3" cellpadding="0">
+			<tr class="b n2" data-betting="[56874310,10893264,&quot;Philadel - Miami Ma&quot;,&quot;Game&quot;,false,&quot;N&quot;,false,13,1505437500]">
+				<td class="BO151785808 fvg hl BETTINGOFFER" data-betting="[151785808,&quot;1&quot;,&quot;&quot;,&quot;Philadelphia Phillies - Miami Marlins&quot;,&quot;2&quot;,false]">
+	<p>
+		
+		<span>Philadelphia Phillies</span>
+		<strong >2,00</strong>
+	</p>
+</td>
+
+
+<td class="BO151785809 fvg hl BETTINGOFFER" data-betting="[151785809,&quot;2&quot;,&quot;&quot;,&quot;Philadelphia Phillies - Miami Marlins&quot;,&quot;1,75&quot;,false]">
+	<p>
+		
+		<span>Miami Marlins</span>
+		<strong >1,75</strong>
+	</p>
+</td>
+
+
+
+			</tr>
+		</table>
+	</td>
+	<td class="img"><label class="sp_sb icon x1614 statistic" data="[25,10946350,&quot;en&quot;,245,14]"></label></td>
+
+<td class="more"><a href="/en/sportsbook/e/10893264/philadelphia-phillies-miami-marlins" class="url" rel="nofollow">+8<label class="icon f08 bl arrow-right"></label></a></td>
+
+
+</tr>
+
+
+
+
+
+
+
+
+	
+
+
+
+
+		
+<tr class="odd">
+	<td class="date">01:10</td>
+	<td class="bets">
+		
+		<table cellspacing="3" cellpadding="0">
+			<tr class="b n2" data-betting="[56874320,10893227,&quot;Clevelan - Kansas C&quot;,&quot;Game&quot;,false,&quot;N&quot;,false,13,1505437800]">
+				<td class="BO151785826 fvg hl BETTINGOFFER" data-betting="[151785826,&quot;1&quot;,&quot;&quot;,&quot;Cleveland Indians - Kansas City Royals&quot;,&quot;1,4&quot;,false]">
+	<p>
+		
+		<span>Cleveland Indians</span>
+		<strong >1,40</strong>
+	</p>
+</td>
+
+
+<td class="BO151785827 fvg hl BETTINGOFFER" data-betting="[151785827,&quot;2&quot;,&quot;&quot;,&quot;Cleveland Indians - Kansas City Royals&quot;,&quot;2,7&quot;,false]">
+	<p>
+		
+		<span>Kansas City Royals</span>
+		<strong >2,70</strong>
+	</p>
+</td>
+
+
+
+			</tr>
+		</table>
+	</td>
+	<td class="img"><label class="sp_sb icon x1614 statistic" data="[25,10946352,&quot;en&quot;,245,14]"></label></td>
+
+<td class="more"><a href="/en/sportsbook/e/10893227/cleveland-indians-kansas-city-royals" class="url" rel="nofollow">+8<label class="icon f08 bl arrow-right"></label></a></td>
+
+
+</tr>
+
+
+
+
+
+
+
+
+	
+
+
+
+
+		
+<tr class="even">
+	<td class="date">02:05</td>
+	<td class="bets">
+		
+		<table cellspacing="3" cellpadding="0">
+			<tr class="b n2" data-betting="[56874329,10893267,&quot;Texas Ra - Seattle &quot;,&quot;Game&quot;,false,&quot;N&quot;,false,13,1505441100]">
+				<td class="BO151785850 fvg hl BETTINGOFFER" data-betting="[151785850,&quot;1&quot;,&quot;&quot;,&quot;Texas Rangers - Seattle Mariners&quot;,&quot;1,8&quot;,false]">
+	<p>
+		
+		<span>Texas Rangers</span>
+		<strong >1,80</strong>
+	</p>
+</td>
+
+
+<td class="BO151785851 fvg hl BETTINGOFFER" data-betting="[151785851,&quot;2&quot;,&quot;&quot;,&quot;Texas Rangers - Seattle Mariners&quot;,&quot;1,9&quot;,false]">
+	<p>
+		
+		<span>Seattle Mariners</span>
+		<strong >1,90</strong>
+	</p>
+</td>
+
+
+
+			</tr>
+		</table>
+	</td>
+	<td class="img"><label class="sp_sb icon x1614 statistic" data="[25,10946356,&quot;en&quot;,245,14]"></label></td>
+
+<td class="more"><a href="/en/sportsbook/e/10893267/texas-rangers-seattle-mariners" class="url" rel="nofollow">+8<label class="icon f08 bl arrow-right"></label></a></td>
+
+
+</tr>
+
+
+
+
+
+
+
+
+	
+
+
+
+
+		
+<tr class="odd">
+	<td class="date">02:10</td>
+	<td class="bets">
+		
+		<table cellspacing="3" cellpadding="0">
+			<tr class="b n2" data-betting="[56874330,10893229,&quot;Minnesot - Toronto &quot;,&quot;Game&quot;,false,&quot;N&quot;,false,13,1505441400]">
+				<td class="BO151785852 fvg hl BETTINGOFFER" data-betting="[151785852,&quot;1&quot;,&quot;&quot;,&quot;Minnesota Twins - Toronto Blue Jays&quot;,&quot;1,5&quot;,false]">
+	<p>
+		
+		<span>Minnesota Twins</span>
+		<strong >1,50</strong>
+	</p>
+</td>
+
+
+<td class="BO151785853 fvg hl BETTINGOFFER" data-betting="[151785853,&quot;2&quot;,&quot;&quot;,&quot;Minnesota Twins - Toronto Blue Jays&quot;,&quot;2,35&quot;,false]">
+	<p>
+		
+		<span>Toronto Blue Jays</span>
+		<strong >2,35</strong>
+	</p>
+</td>
+
+
+
+			</tr>
+		</table>
+	</td>
+	<td class="img"><label class="sp_sb icon x1614 statistic" data="[25,10946358,&quot;en&quot;,245,14]"></label></td>
+
+<td class="more"><a href="/en/sportsbook/e/10893229/minnesota-twins-toronto-blue-jays" class="url" rel="nofollow">+8<label class="icon f08 bl arrow-right"></label></a></td>
+
+
+</tr>
+
+
+
+
+
+
+
+
+	
+
+
+
+
+		
+<tr class="even">
+	<td class="date">04:07</td>
+	<td class="bets">
+		
+		<table cellspacing="3" cellpadding="0">
+			<tr class="b n2" data-betting="[56874331,10893226,&quot;Los Ange - Houston &quot;,&quot;Game&quot;,false,&quot;N&quot;,false,13,1505448420]">
+				<td class="BO151785854 fvg hl BETTINGOFFER" data-betting="[151785854,&quot;1&quot;,&quot;&quot;,&quot;Los Angeles Angels of Anaheim - Houston Astros&quot;,&quot;2,1&quot;,false]">
+	<p>
+		
+		<span>Los Angeles Angels of Anaheim</span>
+		<strong >2,10</strong>
+	</p>
+</td>
+
+
+<td class="BO151785855 fvg hl BETTINGOFFER" data-betting="[151785855,&quot;2&quot;,&quot;&quot;,&quot;Los Angeles Angels of Anaheim - Houston Astros&quot;,&quot;1,65&quot;,false]">
+	<p>
+		
+		<span>Houston Astros</span>
+		<strong >1,65</strong>
+	</p>
+</td>
+
+
+
+			</tr>
+		</table>
+	</td>
+	<td class="img"><label class="sp_sb icon x1614 statistic" data="[25,10946360,&quot;en&quot;,245,14]"></label></td>
+
+<td class="more"><a href="/en/sportsbook/e/10893226/los-angeles-angels-of-anaheim-houston-astros" class="url" rel="nofollow">+8<label class="icon f08 bl arrow-right"></label></a></td>
+
+
+</tr>
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+</table>
+
+</div>
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="bets shadow">
+	<table cellspacing="0" cellpadding="0" class="bets border" >
+		<tr class="footer">
+			<td>
+				<p>
+					<a href="/sportsbook/betting/bettingoffer.aspx?back=1" id="ctl00_cphMain_UCOffer_ContentFooter_backBtn" class="btn g p" rel="nofollow">Back</a>
+					<a href="javascript:Global.OpenPopup('/SportsBook/Betting/PrintPage.aspx', 'Interwetten', 1024, 768, 1, 1, 1, 1);" class="link right"><label class="sp icon x1616 print"></label>Printable version</a>
+				</p>
+			</td>
+		</tr>
+	</table>
+</div>
+
+
+
+
+	
+	
+
+
+				</td>
+				<td class="colright">
+					
+	<div id="BS_Control_Betslip" style="display:none">
+	
+	<div id="BS_Tabs" class="tabs none">
+		<a id="BS_Button_MyBets" class="btn active">Bets</a><a id="BS_Button_CashOut" class="btn">Cash-Out</a>
+		<label></label>
+	</div><div id="BS_Tab_CashOut" class="none">
+	<p class="help">
+		<span class="sp icon x1414 information" title="Help">&nbsp;</span>
+<span id="QuickHelp_BetSlip_Cashout" class="quickHelp top">
+	<span>Cash-Out Bets</span>
+	<span class="sp icon x1010 xblack"></span>
+	<span>By clicking on the Cash Out button, you can end your bet prematurely and receive the amount displayed. Cash Out is available for the following
+sports: football, tennis, ice hockey, basketball, volleyball, beach volleyball, handball, American football, baseball and futsal.
+<br/>
+<br/>
+The minimum amount required for Cash Out to be available is EUR 0.30 or the equivalent amount in the currency of the account.</span>
+	
+	<span class="abs sp arrow right">&nbsp;</span>
+</span>
+		<span>Cash-Out Bets</span>		
+	</p>
+	<table id="BS_CashOut_Single" cellpadding="0" cellspacing="0" class="flow cashout">
+		<tr class="none">
+			<td></td>
+		</tr>
+	</table>
+	
+	<p id="BS_CashOut_Message" class="none">There no bets at this moment for cash-out on the betting slip.</p>
+	<p id="BS_CashOut_Load" class="none"></p>
+	<p id="BS_CashOut_Pages"></p>
+	
+	<div class="cashout error container none">
+		<div id="BS_CashOut_Error" class="boxmsg">
+			<span class="sp icon x2222">&nbsp;</span>
+			<strong class="caution">Attention!</strong>
+			<strong id="BS_Cashout_Success" class="none"></strong>
+			<span id="BS_Cashout_Text"></span>
+		</div>
+	</div>
+</div>
+	<div id="BS_Tab_BettingSlip">
+		<!-- SINGLE -->
+		<p class="single multi">
+			<span class="icon b x1414 information" title="Help">&nbsp;</span>
+<span id="QuickHelp_BetSlip_Single" class="quickHelp top">
+	<span>Single bet</span>
+	<span class="sp icon x1010 xblack"></span>
+	<span>In a single bet you only place one bet on an event and do not combine it with another bet.<br /></span>
+<span class="margin10Top none">
+<a href="#" title="Further help" class="linkArrowLeft underline">Further help</a></span>
+	
+	<span class="abs sp arrow right">&nbsp;</span>
+</span>
+			<span>Single bet</span>		
+		</p>
+		<!-- FREEBET -->
+		
+		<p class="freebet none" >
+			<span class="icon b x1414 information" title="Help">&nbsp;</span>
+<span id="QuickHelp_BetSlip_Freebet" class="quickHelp top">
+	<span>Freebet sportsbook</span>
+	<span class="sp icon x1010 xblack"></span>
+	<span>In a free bet you only place one bet on an event for free without reduction of your account balance.</span>
+	
+	<span class="abs sp arrow right">&nbsp;</span>
+</span>
+			<span>Freebet sportsbook</span>
+		</p>
+		
+		<table id="BS_Content_Single" cellpadding="0" cellspacing="0" class="flow single multi freebet one">
+		<tr class="none">
+			<td></td>
+		</tr>
+	</table>
+	
+		<p class="single multi">
+			<span class="icon b x1414 information" title="Help">&nbsp;</span>
+<span id="QuickHelp_BetSlip_Combi" class="quickHelp top">
+	<span>Accumulator bet</span>
+	<span class="sp icon x1010 xblack"></span>
+	<span>Several bets are added up and the different odds are multiplied. You have a lot to win, but all bets must be won.<br /></span>
+<span class="margin10Top none">
+<a href="#" title="Further help" class="linkArrowLeft underline">Further help</a></span>
+	
+	<span class="abs sp arrow right">&nbsp;</span>
+</span>
+			<span>Accumulator bet</span>
+		</p>
+		
+		<div class="freebet info text none">
+			<p>
+				The entire amount of the free bet must be placed at once.If you reject your free bet it expires without further notice.<a id="BS_Freebet_Reject" class="link" href="javascript:__doPostBack(&#39;ctl00$cphSideBar$ucBettingSlip$BS_Freebet_Reject&#39;,&#39;&#39;)">No free bet, please!</a>
+			</p>
+		</div>
+		
+		<table id="BS_Content_Combi" cellpadding="0" cellspacing="0" class="flow single multi">
+		<tr class="none">
+			<td></td>
+		</tr>
+	</table>
+	
+		<p id="BS_Header_System" class="single">
+			<span class="system">
+				<span>System bets</span>
+				<span class="icon b x1414 information" title="Help">&nbsp;</span>
+<span id="QuickHelp_BetSlip_System" class="quickHelp top">
+	<span>System bets</span>
+	<span class="sp icon x1010 xblack"></span>
+	<span>Several bets are combined. Even if bets are lost, you can win<br /></span>
+<span class="margin10Top none">
+<a href="#" title="Further help" class="linkArrowLeft underline">Further help</a></span>
+	
+	<span class="abs sp arrow right">&nbsp;</span>
+</span>
+			</span>
+			<span class="bank" >
+				<span id="BS_Button_Bank">&raquo; with bankers</span>
+				<span class="icon b x1414 information" title="Help">&nbsp;</span>
+<span id="QuickHelp_BetSlip_Bank" class="quickHelp top">
+	<span>with bankers</span>
+	<span class="sp icon x1010 xblack"></span>
+	<span>If you play system bets and are very sure of one of the tips, you can mark this event with a banker.<br /></span>
+<span class="margin10Top none">
+<a href="#" title="Further help" class="linkArrowLeft underline">Further help</a></span>
+	
+	<span class="abs sp arrow right">&nbsp;</span>
+</span>
+			</span>
+		</p>
+		<table id="BS_Content_System" cellpadding="0" cellspacing="0" class="flow single system">
+		<tr class="none">
+			<td></td>
+		</tr>
+	</table>
+	   
+		<!-- MULTI -->
+		
+		<p class="multi none">
+			Multiple-way system bets<span class="icon b x1414 information" title="Help">&nbsp;</span>
+<span id="QuickHelp_BetSlip_System_Multi" class="quickHelp top">
+	<span>Multiple-way system bets</span>
+	<span class="sp icon x1010 xblack"></span>
+	<span>In a multiple-way bet you can combine and place both single bets, as well as multiple bets.</span>
+	
+	<span class="abs sp arrow right">&nbsp;</span>
+</span>
+		</p>
+		<table id="BS_Content_System_Multi" cellpadding="0" cellspacing="0" class="flow multi system none">
+		<tr class="none">
+			<td></td>
+		</tr>
+	</table>
+	
+		<!-- SUMMARY -->
+		<div id="BS_Summary_Main" class="single multi freebet">
+	<div id="BS_Delete_Bets">
+		<span title="Delete all bets">Delete all bets</span><span class="sp_sb img del"></span>
+	</div>
+	<div>
+		
+		<p>
+			Number of bets:
+			<span>
+				<strong id="BS_Summary_Count">0</strong><strong id="BS_Summary_Count_Description">Bets</strong>
+			</span>
+		</p>
+		
+		<p>
+			Stake:
+			<span>
+				<strong id="BS_Summary_Stake">0,00</strong>
+				<strong>EUR</strong>
+			</span>
+		</p>
+		<p>
+			Possible winnings:
+			<span>
+				<strong id="BS_Summary_Win"></strong>
+				<strong>EUR</strong>
+			</span>
+		</p>
+	</div>
+	<div id="BS_Clear_Betslip">
+		<input name="ctl00$cphSideBar$ucBettingSlip$ucSummary$CB_BettingSlip_Clear" type="checkbox" id="CB_BettingSlip_Clear" />
+		<label for="CB_BettingSlip_Clear">After submission empty betting basket.</label>
+	</div>
+</div>
+
+
+
+<div class="submit bg b single multi freebet">
+	<span id="BS_Error" class="boxmsg warning none">
+		<span class="sp icon x2222">&nbsp;</span>
+		<strong class="caution">Attention!</strong>
+		<strong id="bsSaved" class="none">Your betting slip has been registered!</strong><span id="bsNotSaved" class="none">The betting slip was not successfully submitted!</span><span id="bsHasChanged" class="none">Bettingslip has changed, refresh please!</span><span id="bsLocked" class="none">Bet is currently locked</span><span id="bsExpired" class="none">Bet expired</span><span id="bsErrorHasTooManyBets" class="none">Absolute maximum of 20 bets in the betting basket at one time.</span><span id="bsErrorMinLimit" class="none">Some stakes are below the minimum stake limit. These bets have been reset to zero stakes. Please check your stakes.</span><span id="bsErrorMaxLimit" class="none">A number of stakes are higher than the maximum stake limit. These bets have been reset to the maximum possible stake. Please check your stakes.</span><span id="bsErrorLogin" class="none">Please log in to be able to place a bet.&nbsp;You don´t have an account yet?&nbsp;<a class="link" href="/register">Register now!</a></span><span id="bsErrorBalance" class="none">This stake exceeds your account balance.</span><span id="bsSelfLimitError" class="none">The entered sum exceeds your own set limit.</span><span id="bsEqualBetError" class="none">It is not possible to place similar bets on one betting slip.</span><span id="bsErrorNotRegisteredBets" class="none"><strong>We are sorry but AAMS national totalizator does not allow us to accept this bet":</strong></span><span id="bsErrorAccountBalanceLimit" class="none">For legal reasons you can stake on this live bet only the amount deposited on your account prior to the start of the game. Please select a different bet from our offer.</span><span id="bsErrorNoWinningPossible" class="none"></span>
+	</span>
+	<span id="BS_Animation" class="none">
+		<label class="abs"></label>Your bet is being forwarded... One moment please...
+	</span>
+	<div id="BS_NotSavedBets" class="none"></div>
+	<a id="BS_Button_Submit" class="btn y">Submit betting slip</a>
+	
+</div>
+		
+	</div>
+
+</div>
+
+<span id="BS_QuickLink" class="quickHelp link shadowbig">		
+	<span class="sp icon x1010 xblack" ></span><span>In the betting slip</span><strong id="BS_Quicklink_Betcount" class="bg b"></strong>
+</span>
+    
+
+
+<!-- Live Info wird angezeigt, wenn obige Bedingung nicht zutrifft-->
+<div id="BS_LiveInfo" class="box sidebar border liveinfo none">
+	<h4 class="header gradient"><span class="text">Information<label class="sp abs"></label></span></h4>
+	<p class="live">Please check the details of your chosen bets very closely on this page. The “Submit betting slip” button is the final step in bet submission. There will be no subsequent confirmation page! Details regarding score and minute of play are purely for purposes of orientation and no responsibility is taken for the correctness of this information.</p>
+	<p class="cashout">The Cash-Out function gives you the opportunity to end a bet before the results. This means that you can secure your winnings if the conditions are favourable, as well as minimise your losses if you believe the bet will probably be lost anyway.</p>
+	<a class="btn g arrow adv live" onclick="Global.DisplayMessage(&quot;ATTENTION:||Please check the details of your chosen bets very closely on this page. The *Submit betting slip* button is already the final step in bet submission. There will be no subsequent confirm page!||Current scores and ticker times are provided for orientation only and are subject to change and error.||For bets on soccer, ice hockey and handball games, the relevant and valid result of the game is the score at the end of regular playing time. Extra time and penalty shoot-outs have no influence on the bet payment. Exceptions are offered special bets, which are marked accordingly.||For bets on the sports Football, Basketball, and Baseball the result of a possible overtime is decisive for the evaluation of the bet.&quot;);return false;"><span class="large">More information</span><span class="small">Important information about placing your bet</span><label class="icon f08 arrow-right"></label></a>
+	<a class="btn g arrow adv cashout" onclick="Global.DisplayMessage(&quot;The Cash-Out feature allows you to have your bet paid out before the respective market closes. This allows you to take a profit if your bet is doing well, or minimise any potential loss should you think the bet is unlikely to result in a win.||Subject to our approval, you can cash out your bet for the amount offered on the Cash-Out tab on your betting slip. If you want to request a Cash-Out of your bet, just select the Cash-Out button.||If your request is successful, your bet will be settled immediately and any funds returned to your account will be equal to the amount shown on the Cash-Out tab on the betting slip. The bet is settled and the final result relating to your initial bet will have no impact on the Cash-Out settlement.||Cash-Out is available for selected betting offers and may be suspended at any time.&quot;);return false;"><span class="large">More information</span><span class="small">Important information on Cash-Out</span><label class="icon f08 arrow-right"></label></a>
+
+</div><div id="BS_SimilarBets" class="box betslip bets none">
+	<h2 class="header gradient">
+		<span class="text">Betting slip combinations<label class="sp abs"></label></span>
+	</h2>
+	<div id="BS_SimilarBets_Container"></div>   
+</div>
+
+
+
+	<div id="QuickPayInContainer" class="box border quickpayin none">
+	
+		<h2 class="header gradient"><span class="text">Quick Payin<label class="sp abs"></label></span><label id="ctl00_cphSideBar_QuickPayIn_spanClose" class="sp icon x1010 xgray"></label></h2>
+	
+	<div class="form default">
+		<strong id="LBL_QuickPayin_Zero">Your account balance is 0. Would you like to pay in now ?</strong>
+		<strong id="LBL_QuickPayin_NoAmount" class="none">Your account balance is too low. Would you like to pay in now ?</strong>
+		
+		<p class="image space"><span>Your last used payin method":</span><span id="ctl00_cphSideBar_QuickPayIn_spanMethod"></span></p>
+		
+		
+		<p class="space inputstyle">
+			<label><strong>Amount:</strong></label>
+			<input name="ctl00$cphSideBar$QuickPayIn$txtAmount" type="text" maxlength="5" id="ctl00_cphSideBar_QuickPayIn_txtAmount" class="text" />
+		</p>
+		
+		<p class="space">
+			<label>&nbsp;</label>
+			<a id="LNK_QuickPayin_Button" class="btn b" href="javascript:__doPostBack(&#39;ctl00$cphSideBar$QuickPayIn$LNK_QuickPayin_Button&#39;,&#39;&#39;)">Pay in now</a>
+		</p>
+		
+		<p class="space">()</p>
+		<p class="space"><a href="../../../Common/Payments/Payment.aspx?view=payin" class="link">Select a different payin method</a></p>
+		
+	</div>
+</div>
+	
+
+	
+	
+
+
+				</td>
+			</tr>
+		</table>
+	</div>
+	
+<div class="pagefooter">
+	
+	<p class="culturelist">
+		<span class="culture TRACKING-LINK" link-tracking="[&quot;Footer&quot;,&quot;Click&quot;,&quot;Language&quot;]">
+	
+	<a href="/de/sportsbook/betting/bettingoffer.aspx?leagueid=14233%2c406176&type=0&ogPreselect=1">Deutsch</a>
+	
+	<a href="/en/sportsbook/betting/bettingoffer.aspx?leagueid=14233%2c406176&type=0&ogPreselect=1">English</a>
+	
+	<a href="/es/sportsbook/betting/bettingoffer.aspx?leagueid=14233%2c406176&type=0&ogPreselect=1">Español</a>
+	
+</span>
+		<span id="spanClock" class="clock">14.09.2017 14:36:52</span>
+	</p>
+	<p class="links">
+		<span>
+			<strong>
+				Interwetten</strong>
+			
+				<a href="/en/common/cms/general.aspx?tid=About&amp;ln=About&amp;cat=The+Company">About Interwetten</a>
+				
+					<a href="http://www.interwetten.org" target="_blank">Media Center</a>
+				
+			<a href="http://affiliates.interwetten.com/?l=1" target="_blank">Affiliate Program</a>
+			
+				<a href="/en/common/cms/general.aspx?tid=About+Interwetten&amp;ln=About&amp;cat=Sponsoring">Sponsoring</a>
+			
+			<a href="/en/common/payments/payment.aspx" id="ctl00_ucFooter_lnkPayments">Payment options</a>
+			<a href="/en/common/contact.aspx">Contact</a>
+			
+			<a href="/en/sitemap.html">Sitemap</a>
+		</span>
+		<span>
+			<strong>Legal data</strong>
+			
+			<a href="/en/common/content/terms.aspx?tid=Terms+and+conditions+of+business&amp;ln=TermsAndConditions&amp;cat=Standard&st=SportsBook">
+				General terms and conditions</a>
+			<a href="/en/common/cms/general.aspx?tid=Privacy+policy&amp;cat=Privacy+Policy&amp;ln=Common&amp;st=General">Privacy policy</a>
+			<a href="/en/common/cms/general.aspx?cat=ResponsibleGaming&amp;tid=Responsible+Gaming&amp;ln=Common">Responsible Gaming</a>
+			
+			
+			
+			<a href="/en/common/cms/general.aspx?tid=About&amp;ln=About&amp;cat=Impressum">Imprint</a>
+			
+			
+		</span>
+		
+		<span>
+			<strong>Channels</strong>
+			
+					<a href="/en/sportsbook/default.aspx" link-tracking="[&quot;Footer&quot;,&quot;Click&quot;,&quot;Channel-Sportsbook&quot;]" class="TRACKING-LINK">Sportsbook</a>
+				
+					<a href="/en/sportsbook/live" link-tracking="[&quot;Footer&quot;,&quot;Click&quot;,&quot;Channel-Live&quot;]" class="TRACKING-LINK">Live</a>
+				
+					<a href="/en/casino" link-tracking="[&quot;Footer&quot;,&quot;Click&quot;,&quot;Channel-Casino&quot;]" class="TRACKING-LINK">Casino</a>
+				
+					<a href="/en/live-casino" link-tracking="[&quot;Footer&quot;,&quot;Click&quot;,&quot;Channel-Live-Casino&quot;]" class="TRACKING-LINK">Live Casino</a>
+				
+					<a href="/en/mobile" link-tracking="[&quot;Footer&quot;,&quot;Click&quot;,&quot;Channel-Mobile&quot;]" class="TRACKING-LINK">Mobile</a>
+				
+		</span>
+		
+		<span class="sportslist">
+				<strong>Betting is our sport</strong>
+				
+				
+					<span class="social">
+						<a href="https://www.facebook.com/Interwetten.es" target="_blank" class="sp_social facebook"></a>
+						<a href="https://twitter.com/Interwetten_esp" target="_blank" class="sp_social twitter"></a>
+					</span>
+				
+				
+						<a href="/en/sportsbook/o/10/football" link-tracking="[&quot;Footer&quot;,&quot;Click&quot;,&quot;Offer-Football&quot;]" class="TRACKING-LINK">Football</a>
+					
+						<a href="/en/sportsbook/o/11/tennis" link-tracking="[&quot;Footer&quot;,&quot;Click&quot;,&quot;Offer-Tennis&quot;]" class="TRACKING-LINK">Tennis</a>
+					
+						<a href="/sportsbook/l/10410/champions-league" link-tracking="[&quot;Footer&quot;,&quot;Click&quot;,&quot;Offer-Champions-League&quot;]" class="TRACKING-LINK">Champions League</a>
+					
+						<a href="/en/sportsbook/o/12/formula-1" link-tracking="[&quot;Footer&quot;,&quot;Click&quot;,&quot;Offer-Formula-1&quot;]" class="TRACKING-LINK">Formula 1</a>
+					
+						<a href="/en/sportsbook/o/13/american-football" link-tracking="[&quot;Footer&quot;,&quot;Click&quot;,&quot;Offer-American-Football&quot;]" class="TRACKING-LINK">American Football</a>
+					
+						<a href="/en/sportsbook/o/14/baseball" link-tracking="[&quot;Footer&quot;,&quot;Click&quot;,&quot;Offer-Baseball&quot;]" class="TRACKING-LINK">Baseball</a>
+					
+						<a href="/en/sportsbook/o/15/basketball" link-tracking="[&quot;Footer&quot;,&quot;Click&quot;,&quot;Offer-Basketball&quot;]" class="TRACKING-LINK">Basketball</a>
+					
+						<a href="/en/sportsbook/o/40/ice-hockey" link-tracking="[&quot;Footer&quot;,&quot;Click&quot;,&quot;Offer-Ice-Hockey&quot;]" class="TRACKING-LINK">Ice Hockey</a>
+					
+						<a href="/en/sportsbook/o/80/golf" link-tracking="[&quot;Footer&quot;,&quot;Click&quot;,&quot;Offer-Golf&quot;]" class="TRACKING-LINK">Golf</a>
+					
+						<a href="/en/sportsbook/o/90/boxing" link-tracking="[&quot;Footer&quot;,&quot;Click&quot;,&quot;Offer-Boxing&quot;]" class="TRACKING-LINK">Boxing</a>
+					
+						<a href="/en/sportsbook/o/200/alpine-skiing" link-tracking="[&quot;Footer&quot;,&quot;Click&quot;,&quot;Offer-Alpine-Skiing&quot;]" class="TRACKING-LINK">Alpine Skiing</a>
+					
+						<a href="/en/sportsbook/o/1002/handball" link-tracking="[&quot;Footer&quot;,&quot;Click&quot;,&quot;Offer-Handball&quot;]" class="TRACKING-LINK">Handball</a>
+					
+						<a href="/en/sportsbook/o/1003/rugby" link-tracking="[&quot;Footer&quot;,&quot;Click&quot;,&quot;Offer-Rugby&quot;]" class="TRACKING-LINK">Rugby</a>
+					
+						<a href="/en/sportsbook/o/1004/cycling" link-tracking="[&quot;Footer&quot;,&quot;Click&quot;,&quot;Offer-Cycling&quot;]" class="TRACKING-LINK">Cycling</a>
+					
+						<a href="/en/sportsbook/o/1011/motorbike" link-tracking="[&quot;Footer&quot;,&quot;Click&quot;,&quot;Offer-Motorbike&quot;]" class="TRACKING-LINK">Motorbike</a>
+					
+						<a href="/en/sportsbook/o/1012/volleyball" link-tracking="[&quot;Footer&quot;,&quot;Click&quot;,&quot;Offer-Volleyball&quot;]" class="TRACKING-LINK">Volleyball</a>
+					
+						<a href="/en/sportsbook/o/1016/darts" link-tracking="[&quot;Footer&quot;,&quot;Click&quot;,&quot;Offer-Darts&quot;]" class="TRACKING-LINK">Darts</a>
+					
+						<a href="/en/sportsbook/o/1032/sailing" link-tracking="[&quot;Footer&quot;,&quot;Click&quot;,&quot;Offer-Sailing&quot;]" class="TRACKING-LINK">Sailing</a>
+					
+						<a href="/en/sportsbook/o/1034/australian-rules-football" link-tracking="[&quot;Footer&quot;,&quot;Click&quot;,&quot;Offer-Australian-Rules-Football&quot;]" class="TRACKING-LINK">Australian Rules Football</a>
+					
+			</span>
+		
+	</p>
+	<p class="other spain">
+		
+			<span class="license">
+				<label>License</label>
+				<a href="http://www.ordenacionjuego.es/" class="icon" data="[&quot;http://www.ordenacionjuego.es/&quot;,&quot;Security&quot;,900,520]" title="Ordenación del Juego"></a>
+					<a href="http://www.juegoseguro.es/" title="Juego Seguro" target="_blank" class="icon two"></a>
+				
+			</span>
+		
+		
+		<span class="security">
+			
+<label>Security &amp; responsibility</label>
+<a href="http://www.eu-ssa.org/" title="European Sports Security Association" data="[&quot;http://www.eu-ssa.org/&quot;, &quot;Security&quot;]" class="icon essa POPUP-EVENT"></a><a href="https://www.thawte.com/" title="Thawte" data="[&quot;https://www.thawte.com/&quot;, &quot;Security&quot;]" class="icon thawte POPUP-EVENT"></a><a href="http://www.gamblingtherapy.org/?ReferrerID=338" title="Gambling Therapy" data="[&quot;http://www.gamblingtherapy.org/?ReferrerID=338/&quot;, &quot;Security&quot;]" class="icon gambling POPUP-EVENT"></a>
+
+<a href="/Common/CMS/General.aspx?cat=ResponsibleGaming&amp;tid=Responsible+Gaming&amp;ln=Common" title="Responsible Gaming" class="icon plus"></a>
+
+<a class="icon ex" href="http://www.ordenacionjuego.es/es/rgiaj" title="Self Exclusion" target="_blank"></a>
+<a class="icon jugarbien" href="https://www.jugarbien.es/" title="jugarbien.es" target="_blank"></a>
+
+
+
+		</span>		
+	</p>
+	<p class="copyright">
+		<strong>&#169; 2001-2017 by Interwetten España Plc</strong><br/>C/ Roc Boronat, 147, Pl.10<br/>08018 Barcelona<br/>España<br/>
+Telefon: +356 2327 6000, Telefax: +356 2327 6400, E-Mail: <a href="mailto:espana@interwetten.es">espana@interwetten.es</a>
+	</p>
+	<div id="debug-info" class="debuginfo">
+		vmweb03 | 02 | Spain | ESP | 0 | Productive | 2017.09.12.4
+	</div>
+</div>
+
+
+<div id="ctl00_ucFooter_wucAdvertPopOver_wucStickyBanner_pnlStickyContainer">
+	
+	<br />
+	<br />
+	<br />
+	<br />
+	<br />
+	<br />
+	<script type="text/javascript">
+			var StickyBanner = 
+			{
+				Hide:function(obj, type)
+				{
+					try
+					{
+						Tracking.Event(["StickyBanner-Event","Click","StickyBanner-CLOSE/HIDE"]);
+					}
+					catch(Ex){}
+					Actions.PopoverClose('9-20150219');
+					$("#pnlStickyBanner").hide();
+				},
+				Click:function(obj, type)
+				{
+					try
+					{
+						Tracking.Event(["StickyBanner-Event","Click","StickyBanner-SHOW-CONTENT"]);
+					}
+					catch(Ex){}
+					Actions.PopoverClick('9-20150219');
+				},
+				Load:function(obj, type)
+				{
+					try
+					{
+						Tracking.Event(["StickyBanner-Event","Load","Load and Display StickyBanner"]);
+					}
+					catch(Ex){}
+				}
+			}
+	</script>
+	<div class="stickybanner" id="pnlStickyBanner">
+		<div class="stickybanner-close" id="stickybanner-close">
+			<span class="close-icon" onclick="StickyBanner.Hide(this,'stickybanner-close')"><label class="icon f19 close"></label></span>
+		</div>
+		<div onclick="StickyBanner.Click(this,'stickybanner-click')">
+			
+
+
+
+
+<a id="3434" onclick="document.location = &#39;/SportsBook/LandingPages/ContentSportsBook.aspx?ln=Promotions&amp;cat=PSB30&amp;st=Sportsbook&#39;" data-tracking="[763950,3434,1112,&quot;I&quot;,3295,0,&quot;&quot;,0]" class="stickybannerimage" style="background: transparent url(https://media.cdn.gamesassists.com/images/234600.jpg) no-repeat; height: 90px; display:block; "></a>
+
+
+
+
+
+
+
+
+		</div>
+	</div>	
+
+</div>
+
+<script id="source-js" type="text/javascript" language="javascript" src="https://scripts.gamesassists.com/sportsbook/betting/source.js?licence=Spain&build=2017.09.12.4"></script>
+
+	
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="9F9DF14A" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="4v8HR/JGDGASjHpkmXLBLete8EIxCNW1QMDh66lvffhnt/+qRjnCucMUd5P3RxwuAnU/K3BnfHddQVtl9baT+Neti6YQ4eMM3ORvobgN2pavvaZ3FnJYOM8p8hiX2FLl/iFxrAvSGn6c7YImBfG3k//djCZ/r1Po2S0DWP+2mSjMF4tORzeEYmj86uWDp65zADAQbkl1N3r+/hUMSLBzmeamTrepCTmLQTsAw/Ufx/x8X9Uo3Sxd+d5ieN9njYSaixtatRSJoUdCHPtqcVBPWmp9mLEi15r2ImyWl4L6H7LDsEoEa+qSMjVKbwDTlYOLghBNREMjZw5pflp2fFLVCw7jYqa25iTGQkV7AJNvMdi7aIbMLSD/ERn9fGzB9+X2A1zzFRm5/oAbTkdo9ICEcTHPiV8NSkmLWu2fUxGROW0=" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+Global.License.SetLicense(7);
+EventHandler.Init.All();
+var search={Show: function(obj){var box=$("#searchbox");var css="active";box.toggle();$(obj).toggleClass(css);if($(obj).attr("class").$_contains(css)){box.children("input").focus();}}};
+AjaxControl.create({type:"AutoComplete",targetId:"#txtSearchText",method:"POST",methodName:"SportsBookSearch", minLength:3,count:10,css:"search",productTab:"Sportsbook",highlight:true});
+AjaxControl.create({type:"Watermark",targetId:"#txtSearchText",watermark:"Enter search option ex: Chelsea",css:"",isKeypress:false});
+AjaxControl.create({type:"DropDown",clickId:"#DDB_Language_Btn",sourceId:"#DDB_Language_List",autopost:false});
+AjaxControl.create({type:"Watermark",targetId:"#txtLoginUsername",watermark:"User name ",css:"",isKeypress:false});
+
+var navi = new Navi("#Nav_FurtherKos","#Nav_FurtherKosList");
+navi.AddItems({mainId:"lnkMainKos",subId:"divSubMenu_",kos:[10,11,40,15,13,14,1002,80,1012,12,1011,1003,1034,1022,1033,1004,1005,1027,1021,1016,90,1041,200,1057]});
+navi.DeselectAll(0);
+navi.SetSelectedItems("1|false|14|14233");
+
+navi.ql.init("#QL_Slider_Range", "#QL_Slider_Button", 1, 5, 2);
+
+BrowserInfo.CheckCookies('#e664bb55-24bc-4112-be74-c9fa6fb0ca4e');
+var cbg = new CheckBoxGroup("offergroup", 0, 0, "#Btn_Next_Bottom", "#TBL_Bets_OfferTypes", "#Lnk_Select_All", "#Lnk_Deselect_All");
+AjaxControl.create({type:"CollapsePanel",clickId:"#BTN_Bets_OfferTypes",targetId:"#TBL_Bets_OfferTypes",slideMode:"fast",collapseCss:"icon f11 arrow-down",expandCss:"icon f11 arrow-up"});
+
+LgIds.Refresh="Refresh";
+LgIds.Submit="SUBMIT BETTING SLIP";
+LgIds.SubmitNow="Place now your betting slip!";
+LgIds.DeleteLocked="DELETE ALL LOCKED BETS!";
+LgIds.DeleteExpired="DELETE EXPIRED BETS";
+LgIds.SubmitFreebet="Submit freebet";
+LgIds.Live="Live";
+LgIds.Locked="Locked";
+LgIds.OddChange="Change of odds";
+LgIds.Expired="Expired";
+LgIds.Quote="Odds";
+LgIds.Bet="Bet";
+LgIds.Bets="Bets";
+LgIds.Betsa="bets @";
+LgIds.MaxSystemBetExceeded="Maximum count of 12 bets are allowed for system bets.";
+LgIds.NothingToSave="Please choose the bets first and enter a valid amount next to the bets you wish to place.";
+LgIds.OnlyOneFreebet="We are offering you this free bet. You cannot place this free bet at the same time together with other bets!";
+LgIds.CombineAll="Combine all chosen,<br/>1 bet @ (Odds {0})";
+LgIds.CombiNotPossible="No combination possible with currently selected active bets.";
+LgIds.CombiInfo="Please select another bet in order to place a combination bet.";
+LgIds.SingleBet="Single bet";
+LgIds.CombiBet="Accumulator bet";
+LgIds.SystemBet="System bet";
+LgIds.SimilarBetsText="Combine your betting slip with the following bet";
+LgIds.OtherKombiTips="Further combination bets";
+LgIds.CombiAmount="For a stake of {0} {1}";
+LgIds.Favorites="Favorites";
+LgIds.FavoritesMessage="Click on a star to set a game as favorite";
+LgIds.TotalWin="Total winnings";
+LgIds.InfoTax="after tax deduction";
+LgIds.InfoColumns="Enter the number of columns {0} €";
+LgIds.TextColumns="{0} column(s) @ {1} €";
+LgIds.Columns="Columns";
+
+if(gBS != null)
+{
+	QuickLink.Init({bs:gBS, body:"#BS_QuickLink",count:"#BS_Quicklink_Betcount", keepVisible: false});
+
+	gBS.SetBetSlipIds({remove:"#BS_Delete_Bets",body:"#BS_Control_Betslip",single:{one:"#BS_Content_Single",combi:"#BS_Content_Combi",system:"#BS_Content_System"},multi:{system:"#BS_Content_System_Multi"}, sum:{main:"#BS_Summary_Main",count:"#BS_Summary_Count",txt:"#BS_Summary_Count_Description",amount:"#BS_Summary_Stake",win:"#BS_Summary_Win"}, bank:"#BS_Button_Bank", submit:"#BS_Button_Submit", error:"#BS_Error", ani:"#BS_Animation", clear:{panel:"#BS_Clear_Betslip",cb:"#CB_BettingSlip_Clear"},info:"#BS_LiveInfo",header:{btn:"#BS_Betslip_Header",direction:"#BS_Image_Direction",count:"#BS_Header_Betcount"},tabs:{ body:"#BS_Tabs", btn:{betslip:"#BS_Button_MyBets",cashout:"#BS_Button_CashOut"},ctl:{betslip:"#BS_Tab_BettingSlip",cashout:"#BS_Tab_CashOut"}}});
+	gBS.SetLoggedIn(false);
+
+	gBS.SetAmountList([5,10,25,50,100]);
+	gBS.SetHasLiveBetsPlaced(false);
+	gBS.SetOfferTypeCombiIDs([59,60,66,67,9905361,9905382,9905396,9905397,9905418,9905439,9905440,9905441,9905442,9905444,9905445,9905453,9905458,9905459,9905468,9905503,9905504,9905551,9905663,9905665,9905740,9905741]);
+	gBS.SetOddFormat("EU");
+	gBS.SetIsLiveBettingPage(false);
+	gBS.SetBetSlipType("HTML");
+
+	gBS.SetOpen(true);
+
+	gBS.SetArrayToRefresh([]);
+
+	gBS.ToggleBankVisible(false,false);
+
+	gBS.GetCombiBet().SetServerError("OK");
+	gBS.GenerateSystems(true);
+	gBS.SetAmount("CB","combi",0);
+	gBS.ReSetAmounts();
+
+	gBS.UrlToRedirect=encodeURIComponent("/en/sportsbook/betting/bettingoffer.aspx?leagueid=14233%2c406176&type=0&ogPreselect=1");
+
+	gBS.UpdateSummary(true);
+}
+
+QuickPayin.init({payin:"#QuickPayInContainer",item:"#LBL_QuickPayin_Zero",amount:"#LBL_QuickPayin_NoAmount",info:"#BS_LiveInfo"},0);
+SetBettingSlipMode("single");
+QuestionHelp.Init({id:"#QuickHelp_BetSlip_Cashout",position:"top"});
+QuestionHelp.Init({id:"#QuickHelp_BetSlip_Single",position:"top"});
+QuestionHelp.Init({id:"#QuickHelp_BetSlip_Freebet",position:"top"});
+QuestionHelp.Init({id:"#QuickHelp_BetSlip_Combi",position:"top"});
+QuestionHelp.Init({id:"#QuickHelp_BetSlip_System",position:"top"});
+QuestionHelp.Init({id:"#QuickHelp_BetSlip_Bank",position:"top"});
+QuestionHelp.Init({id:"#QuickHelp_BetSlip_System_Multi",position:"top"});
+SimilarBets.Initialize("BS_SimilarBets","BS_SimilarBets_Container","10","EUR",0);
+
+if (Clock != null) Clock.init("spanClock", "spanCounter", false, 0);
+//]]>
+</script>
+</form>
+	
+
+<script>
+	
+	
+</script>	
+	
+<script id="Connextra_Tracking" type="text/javascript" src="https://zz.connextra.com/dcs/tagController/tag/448f3d03dd6e/homepage?AccountID=0" async defer></script>
+
+</body>
+</html>

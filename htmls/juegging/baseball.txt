@@ -1,0 +1,2375 @@
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es">
+
+<head>
+	<meta name="description" content="B&#201;ISBOL" />
+    <meta name="keywords" content="Juegging,eFortuny,banegras,poker,casino,mediterraneo,cartas,ruleta,blackjack" />
+    <meta name="author" content="KirolSoft" />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />	
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+	<link rel="shortcut icon" href="/Customers/19/favicon.ico" />
+    <meta property="og:image" content="/Customers/19/Content/img/mini_sport.jpg" />
+
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/Customers/19/Content/images/apple/apple-touch-icon-114x114.png" />
+		<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/Customers/19/Content/images/apple/apple-touch-icon-72x72.png" />
+		<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/Customers/19/Content/images/apple/apple-touch-icon-57x57.png" />
+        <link rel="shortcut icon" sizes="196x196" href="/Customers/19/Content/images/android/icon-highres.png" />
+
+	<title>B&#201;ISBOL</title>		
+
+   <link type="text/css" href="/Content/themes/kirolsoft/jqueryUI.css?v=309" rel="stylesheet" />    
+   <link type="text/css" href="/Content/css/styles.css?v=309" rel="stylesheet" />
+            <script src="/Scripts/scriptsJQueryLayoutSport.js?v=309" type="text/javascript"></script>
+            <script src="/Scripts/scriptsKsSettings_esp.js?v=309" type="text/javascript"></script>
+            <script src="/Scripts/scriptsKsBase.js?v=309" type="text/javascript"></script>
+            <script src="/Scripts/scriptsKnockout.js?v=309" type="text/javascript"></script>
+
+	<!--[if IE 8]> <link rel="stylesheet" type="text/css" href="/Content/css/ie8.css" media="screen" /> <![endif]-->
+	<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="/Content/css/ie7.css" media="screen" /> <![endif]-->		
+
+		
+	            <script src="/Scripts/google/googleAnalytics.js" type="text/javascript"></script>
+
+            
+    
+    
+
+        <script type="text/javascript" src="https://lsdev.betradar.com/ls/livescore/?/kiroljokoa/es/widgetloader/sportcenter16"></script>
+
+</head>
+
+<body>
+	
+    
+
+
+<script type="text/javascript">
+
+    var storageKey = 'ocultarPopup';
+
+    // guardar storage cuando
+//    $('#noMostrarPopup').on('click', function () {
+//        // Si checkeado añadimos al storage
+//        if ($(this).is(':checked')) {
+//            storage.write(storageKey, true);
+//        } else {
+//            storage.write(storageKey, false);
+//        }
+//    });
+
+    $('.advOver').on('click', function () {
+        $(this).fadeOut(200);
+    });
+
+    if (storage.read(storageKey)) {
+        $('.advOver').hide();
+    }
+
+</script>
+	<!-- estructura -->
+    
+    
+
+        <div class="popfav" style="display: none;">
+        <div>
+            <span class="popfavClose"></span>
+            <img src="/Customers/19/Content/images/android/icon-highres.png" width="44px" onError="this.style.visibility='hidden';" />
+            <p>Añade <a href="#" class="popFavAdd">apuestas.juegging.es</a> a tus favoritos y evita pasar de nuevo por este proceso. <b>¡Hazlo Grande!</b></p>
+        </div>
+    </div>
+    <script type="text/javascript">
+
+        var favouriteCookieName = '';
+        var popFavoritosValue = kslib.ksCookies.getCookie(favouriteCookieName);
+
+        if (popFavoritosValue == '1') $('.popfav').show();
+
+        var deletePopFavCookie = function () {
+            kslib.ksCookies.deleteCookie(favouriteCookieName);
+        };
+
+        $('.popFavAdd').on('click', function (evt) {
+            // Añadir a favoritos
+            evt.preventDefault();
+            addBookmark('apuestas.juegging.es', 'apuestas.juegging.es')
+
+            // Eliminar la cookie "popFav"
+            deletePopFavCookie();
+        });
+
+        $('.popfavClose').on('click', function () {
+            $('.popfav').fadeOut('slow');
+            deletePopFavCookie();
+        });
+
+        
+
+    </script>
+
+    
+    <style>
+.fragment {
+    position: relative;
+    display:none;
+    background: #e9e9e9;
+    -webkit-box-shadow: 0px 5px 10px 0px rgba(173, 166, 166, 0.18);
+    -moz-box-shadow: 0px 5px 10px 0px rgba(173, 166, 166, 0.18);
+    box-shadow: 0px 5px 10px 0px rgba(173, 166, 166, 0.18);
+    z-index: 999;
+    border-bottom: 1px solid #e5e5e5;
+    width: 100%;
+	height:100px;
+	}
+    .fragment a{
+		overflow: hidden;
+		margin: 0 auto;
+		display: table;
+		padding: 10px 0;
+		min-width: 960px;
+		max-width: 1224px;
+		width: 100%;
+		position:relative;
+	}
+    .fragment .icon-mobile {
+        display: inline-block; 
+        margin:0 20px;
+    }
+
+    .fragment .icon-cerrar {
+        position: absolute;
+		top: 25px;
+		right: 20px;
+		cursor: pointer;
+		border: #FFF;
+		border-radius: 50%;
+		display: inline-block;
+		background: #FFF;
+		padding: 10px;
+		box-shadow: 1px 1px 1px 1px rgba(0,0,0,.2);
+    }
+    .fragment .title {
+        font-size: 3em;
+		display: inline-block;
+		color: #373737;
+		position: absolute;
+		bottom: 43%;
+		}
+        .fragment .title span {
+        	font-family: 'Black';
+        }
+</style>
+
+<!-- ir a version mobile -->
+
+<div class="fragment"> 
+        <a href='/Mobile/Sport/Deporte/429'>
+            <img class="icon-mobile" src="/Customers/19/Content/img/IconMobile.png" onError="this.onerror=null;this.src='/Content/images/trans.png';" />
+            <p class="title">IR A <span>VERSIÓN MÓVIL</span></p>
+            <img class="icon-cerrar" id="closeFragment" src="/Customers/19/Content/img/Cerrar.png" onError="this.onerror=null;this.src='/Content/images/trans.png';" />
+        </a>
+</div>
+
+
+<script type="text/javascript">
+    var getActionAreaFromJs = function () {
+        var url = window.location.href.toLowerCase();
+        if (url.indexOf('/android/') > 0) return 'Android';
+        if (url.indexOf('/mobile/1.0/') > 0) return 'Mobile/1.0';
+        if (url.indexOf('/mobile/') > 0) return 'Mobile';
+        return '';
+    }
+
+    $(document).on('ready', function () {
+        $("#closeFragment").click(function () {
+            $('.fragment').remove();
+            return false;
+        });
+
+        setToolTips({ elementId: '.cambiarCom', extraClass: 'toolTipPorDebajo' });
+       
+        var area = getActionAreaFromJs();
+        var irAMobile = ('True' == 'True') ? true : false;
+        var isMobileDevice = isMobile.any() ? true : false;
+
+        if (area != 'android' && irAMobile && isMobileDevice) {
+            $('.fragment').show();
+        }
+
+    });
+</script>
+
+	<div id="container">
+
+		<div id="messagewrapper" style="display: none">
+			
+		</div>
+		
+		<div id="header-wrap">
+			
+<!-- cabecera -->
+<div id="headerCont">
+    <div id="header">
+        <h1>Juegging</h1>
+        <a href="/esp/Sport" title="Juegging">
+            <img src="/Customers/19/Content/img/logo_empresa.png" class="fleft" alt="Juegging" onerror="this.onerror=null;this.src='/Content/img/onerror.png';" />
+        </a>
+    </div>
+    <div class="header_right">
+        <div id="acceso">
+
+
+            <div class="clear"></div>
+
+            <span class="at_cl">Servicio de Atenci&#243;n al Cliente</span>
+            <img src="/Customers/19/Content/img/menores_esp.png" alt="Prohibido menores de 18 años" onerror="this.onerror=null;this.src='/Content/img/onerror.png';" />
+
+        </div>
+
+        <div id="header_nav">
+
+            
+<ul id="navbar">
+    <li> <a class="active" href="/">Apuestas</a></li>
+    <li> <a class="" href="/esp/Live">Live</a></li>	
+	
+
+        <li><a class="" href="/esp/Casino">Casino</a></li>
+    
+        <li><a class="" href="/esp/Casino/Slots">Slots</a></li>
+
+    <li><a href="https://www.juegging.es/promociones" target="_blank">Promos</a></li>
+    <li><a href="https://www.juegging.es/blog/jueggingblog" target="_blank">Blog</a></li>
+</ul>
+
+            <div id="userData">
+                <div id="LoginHeader">
+                    
+
+
+<ul id='cuenta' class='menu'><li class='last'><form action="/esp/Account/login/429" data-ajax="true" data-ajax-begin="showWaitingMessage(&#39;#headerCont&#39;)" data-ajax-complete="closeWaitingMessage(&#39;#headerCont&#39;)" data-ajax-method="Post" data-ajax-mode="replace" data-ajax-success="onSuccessLogin" data-ajax-update="#LoginHeader" id="form1" method="post"><input id="UserName" maxlength="15" name="UserName" placeholder="Usuario" style="width:55px" type="text" value="" /><input id="Password" name="Password" placeholder="Contraseña" style="width:55px" type="password" />        <input type="hidden" id="TipoSaldoLogin" name="TipoSaldoLogin" value="1" />
+		<input type="submit" value="Entrar" class="btnLogin" />
+</form></li></ul>	<ul id="cuenta2" class=menu>
+		<li>
+			<a category="registrate" class="accountlogin " href="/esp/Account/RegistroDeUsuario">&#161;Reg&#237;strate!</a>
+		</li>
+		<li class="last">
+			<a category="olvidosucontrasena" class="accountlogin " href="/esp/Account/OlvidoSuContrasena">&#191;Olvidaste tu contrase&#241;a?</a>
+		</li>
+	</ul>
+	<script type="text/javascript">
+		userID = -1;
+		realTime = "2017-09-14 12:38:35Z";
+		if($.timeto) $.timeto.settings.realTime(realTime);
+
+		if ($('.loginError1').exists()) {
+			kslib.ksMessages.showMessageFromArea({ areaID: '.loginError1', height: 'auto', width: 350, dialogClass: 'ks-dialogError', removeArea: true });
+		}
+
+		if ($('.loginError2').exists()) {
+			kslib.ksMessages.showMessageFromArea({ areaID: '.loginError2', width: 700, dialogClass: 'ks-dialogError', removeArea: true });
+		}
+
+		if ($('.loginPendientes').exists()) {
+			kslib.ksMessages.showMessageFromAreaNoCloseButton({ areaID: '.loginPendientes', width: 600, removeArea: true });
+		}
+
+        if ($('.controlIdentidad').exists()) {
+			kslib.ksMessages.showMessageFromArea({ areaID: '.controlIdentidad', dialogClass: 'ks-dialogAviso', width: 600, removeArea: true });
+		}
+
+        actionArea = '';
+
+	</script>			
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--/cabecera -->
+		</div>
+		  
+		<!-- cuerpo -->
+		<div id="main-wrap">
+			<!-- principal -->
+			<div id="main">
+				<div class="grid3col">				
+					<div class="column first">
+                        <div class="resizer resFirst">
+						    
+ <div id="Menu">
+   
+
+
+
+
+
+
+<div class="listado_menu_izquierdo graphite" id="contBuscador">
+<span id="bloqueBuscador">
+
+<form action="/esp/Sport/Search" data-ajax="true" data-ajax-begin="showWaitingMessage(&#39;.column.center&#39;)" data-ajax-complete="closeWaitingMessage(&#39;.column.center&#39;)" data-ajax-method="POST" data-ajax-success="buscadorMgr.busquedaCompletada" id="buscadorForm" method="post">        <input name="termino" id="terminoBusqueda" value="B&#250;squeda" type="text" /> 
+		<a style="border:none;" href="#" title="Buscar términos" id="buscadorLink"><img src="/Content/img/icoBuscador.png" onError="this.onerror=null;this.src='/Content/images/trans.png';" /></a>
+        <div class="clear"></div>
+</form>
+</span>
+</div>
+
+<script type="text/javascript">
+
+    var buscadorMgr;
+
+    $(document).ready(function () {
+
+
+        var imgBusquedaHeader = new Image();
+        imgBusquedaHeader.src = $.img('busquedaHeader');
+
+        var input = $('#terminoBusqueda');
+        var updateTarget = ".column.center";
+        var default_value = "Búsqueda";
+
+        function getBusquedaTarget() {
+
+            var targetId = 'busquedaResult';
+
+            if ($('#headerBuscador', updateTarget).length == 0) {
+                var imgHeader = "<img onError='this.style.visibility=hidden;' class='img_resize' id='headerBuscador' style='border:1px solid #333333;' src='" + imgBusquedaHeader.src + "'/>";
+
+                var $updateTarget = $(updateTarget).empty();
+                $updateTarget.append(imgHeader);
+                $updateTarget.append("<div id='" + targetId + "'></div>");
+            }
+            return "#" + targetId;
+        }
+
+        buscadorMgr = new busquedaMgr(input, default_value, "buscadorForm", "buscadorLink", getBusquedaTarget, 'Por favor ampl&#237;a la b&#250;squeda, es demasiado corta.', 4,
+            function () {
+                eventLoaderOptions.onEventsLoad(updateTarget, null);
+                paggerCtrl.reset();
+
+            }
+        );
+
+    });
+
+</script>
+
+
+<div id="bannerLinks">
+  <div class="listado_menu_izquierdo graphite ">
+
+<ul>
+	
+        <li class="hlt"><span><a href="/esp/Sport/Hoy/ProximosEventos">HOY</a></span><span class="border"><a href="/esp/Live">LIVE</a></span><span><a href="/esp/Sport/Hoy/TopApostados">TOP</a></span><div class="clear"></div></li>
+    <li class="mnuStats">
+    </li>
+</ul>
+    </div>
+</div>
+
+<div id="seccionFavoritos">
+               
+
+
+</div>
+
+    <div id="seccionCategoriasDestacadas">
+                   
+    <div id="bloqueFavoritos" data-class="favoritosDestacados" class="graphite destacados">
+        <h3>DESTACADOS</h3>
+        <ul class="favoritos">
+                <li>
+                    <div id="Subcategoria_210" class="seccion">
+                        <a href="/esp/Sport/Competicion/210" title="Subcategoria: UEFA Europa League">
+                            <img src="/Content/images/SCT/sct_00000210.png" onerror="this.onerror=null;this.src='/Content/images/CAT/sct_00000040.png'" width="18" height="18" />&nbsp;UEFA Europa League
+                        </a>
+                    </div>
+                    <div class="clear"></div>
+                </li>
+                <li>
+                    <div id="Subcategoria_2355" class="seccion">
+                        <a href="/esp/Sport/Competicion/2355" title="Subcategoria: Islandia Urvalsdeild">
+                            <img src="/Content/images/SCT/sct_00002355.png" onerror="this.onerror=null;this.src='/Content/images/CAT/sct_00000040.png'" width="18" height="18" />&nbsp;Islandia Urvalsdeild
+                        </a>
+                    </div>
+                    <div class="clear"></div>
+                </li>
+                <li>
+                    <div id="Subcategoria_1922" class="seccion">
+                        <a href="/esp/Sport/Competicion/1922" title="Subcategoria: Challenger Cary">
+                            <img src="/Content/images/SCT/sct_00001922.png" onerror="this.onerror=null;this.src='/Content/images/CAT/sct_00000285.png'" width="18" height="18" />&nbsp;Challenger Cary
+                        </a>
+                    </div>
+                    <div class="clear"></div>
+                </li>
+                <li>
+                    <div id="Subcategoria_248" class="seccion">
+                        <a href="/esp/Sport/Competicion/248" title="Subcategoria: Eurobasket">
+                            <img src="/Content/images/SCT/sct_00000248.png" onerror="this.onerror=null;this.src='/Content/images/CAT/sct_00000050.png'" width="18" height="18" />&nbsp;Eurobasket
+                        </a>
+                    </div>
+                    <div class="clear"></div>
+                </li>
+                <li>
+                    <div id="Subcategoria_951" class="seccion">
+                        <a href="/esp/Sport/Competicion/951" title="Subcategoria: USA MLB ">
+                            <img src="/Content/images/SCT/sct_00000951.png" onerror="this.onerror=null;this.src='/Content/images/CAT/sct_00000429.png'" width="18" height="18" />&nbsp;USA MLB 
+                        </a>
+                    </div>
+                    <div class="clear"></div>
+                </li>
+                <li>
+                    <div id="Subcategoria_993" class="seccion">
+                        <a href="/esp/Sport/Competicion/993" title="Subcategoria: Bundesliga">
+                            <img src="/Content/images/SCT/sct_00000993.png" onerror="this.onerror=null;this.src='/Content/images/CAT/sct_00000060.png'" width="18" height="18" />&nbsp;Bundesliga
+                        </a>
+                    </div>
+                    <div class="clear"></div>
+                </li>
+                <li>
+                    <div id="Subcategoria_1214" class="seccion">
+                        <a href="/esp/Sport/Competicion/1214" title="Subcategoria: Rusia KHL">
+                            <img src="/Content/images/SCT/sct_00001214.png" onerror="this.onerror=null;this.src='/Content/images/CAT/sct_00000418.png'" width="18" height="18" />&nbsp;Rusia KHL
+                        </a>
+                    </div>
+                    <div class="clear"></div>
+                </li>
+        </ul>
+    </div>
+
+    </div>
+
+<div id="bloqueDeportes" class="graphite">
+      
+
+<script type="text/javascript">
+
+    var SportPre = "#sport-";
+    var ComptPre = "#compt-";
+
+    $(document).ready(function () {
+
+        var sportId = '429';
+        var toggleElement = null;
+        if (sportId != '') {
+            toggleElement = $('#menu-deportes').children().children('ul' + ComptPre + sportId);
+        }
+
+        kslib.ksAccordion.setAccordion({
+            areaID: '#menu-deportes',
+            urlAjax: $.url('compList'),
+            ajaxSuccess: compListLoaded,
+            toggleElement: toggleElement,
+            classActive: 'active',
+            toggleSpeed: 'fast'
+        });
+    });
+
+</script>
+    
+    <h3>
+		<span style="float: left;">Deportes</span>		
+		
+	</h3>
+							   
+	<ul class="accordion" id="menu-deportes">
+
+        <li class="dcjq-parent-li ksAccordion-li">
+            <a href="" class="dcjq-parent ksAccordion-icon">				
+                <img src="/Content/images/CAT/cat_00000040.png" alt="F&#218;TBOL" class="icoCatMenu" id="icofch-40" onError="this.onerror=null;this.src='/Content/images/trans.png';" />				
+				<span class="maximo_deporte">F&#218;TBOL</span>		
+                <div class="clear"></div>					
+            </a>
+                                                                 
+         
+			
+
+            <div class="hidden ksAccordion-ajax-data">id=40 </div>
+            <ul class="ksAccordion-toggle" id="compt-40" style="display: none"></ul>
+
+        </li>
+        <li class="dcjq-parent-li ksAccordion-li">
+            <a href="" class="dcjq-parent ksAccordion-icon">				
+                <img src="/Content/images/CAT/cat_00000050.png" alt="BASKET" class="icoCatMenu" id="icofch-50" onError="this.onerror=null;this.src='/Content/images/trans.png';" />				
+				<span class="maximo_deporte">BASKET</span>		
+                <div class="clear"></div>					
+            </a>
+                                                                 
+         
+			
+
+            <div class="hidden ksAccordion-ajax-data">id=50 </div>
+            <ul class="ksAccordion-toggle" id="compt-50" style="display: none"></ul>
+
+        </li>
+        <li class="dcjq-parent-li ksAccordion-li">
+            <a href="" class="dcjq-parent ksAccordion-icon">				
+                <img src="/Content/images/CAT/cat_00000285.png" alt="TENIS" class="icoCatMenu" id="icofch-285" onError="this.onerror=null;this.src='/Content/images/trans.png';" />				
+				<span class="maximo_deporte">TENIS</span>		
+                <div class="clear"></div>					
+            </a>
+                                                                 
+         
+			
+
+            <div class="hidden ksAccordion-ajax-data">id=285 </div>
+            <ul class="ksAccordion-toggle" id="compt-285" style="display: none"></ul>
+
+        </li>
+        <li class="dcjq-parent-li ksAccordion-li">
+            <a href="" class="dcjq-parent ksAccordion-icon">				
+                <img src="/Content/images/CAT/cat_00000417.png" alt="VOLEIBOL" class="icoCatMenu" id="icofch-417" onError="this.onerror=null;this.src='/Content/images/trans.png';" />				
+				<span class="maximo_deporte">VOLEIBOL</span>		
+                <div class="clear"></div>					
+            </a>
+                                                                 
+         
+			
+
+            <div class="hidden ksAccordion-ajax-data">id=417 </div>
+            <ul class="ksAccordion-toggle" id="compt-417" style="display: none"></ul>
+
+        </li>
+        <li class="dcjq-parent-li ksAccordion-li">
+            <a href="" class="dcjq-parent ksAccordion-icon">				
+                <img src="/Content/images/CAT/cat_00000080.png" alt="MOTOR" class="icoCatMenu" id="icofch-80" onError="this.onerror=null;this.src='/Content/images/trans.png';" />				
+				<span class="maximo_deporte">MOTOR</span>		
+                <div class="clear"></div>					
+            </a>
+                                                                 
+         
+			
+
+            <div class="hidden ksAccordion-ajax-data">id=80 </div>
+            <ul class="ksAccordion-toggle" id="compt-80" style="display: none"></ul>
+
+        </li>
+        <li class="dcjq-parent-li ksAccordion-li">
+            <a href="" class="dcjq-parent ksAccordion-icon">				
+                <img src="/Content/images/CAT/cat_00000130.png" alt="CICLISMO" class="icoCatMenu" id="icofch-130" onError="this.onerror=null;this.src='/Content/images/trans.png';" />				
+				<span class="maximo_deporte">CICLISMO</span>		
+                <div class="clear"></div>					
+            </a>
+                                                                 
+         
+			
+
+            <div class="hidden ksAccordion-ajax-data">id=130 </div>
+            <ul class="ksAccordion-toggle" id="compt-130" style="display: none"></ul>
+
+        </li>
+        <li class="dcjq-parent-li ksAccordion-li">
+            <a href="" class="dcjq-parent ksAccordion-icon">				
+                <img src="/Content/images/CAT/cat_00000406.png" alt="GOLF" class="icoCatMenu" id="icofch-406" onError="this.onerror=null;this.src='/Content/images/trans.png';" />				
+				<span class="maximo_deporte">GOLF</span>		
+                <div class="clear"></div>					
+            </a>
+                                                                 
+         
+			
+
+            <div class="hidden ksAccordion-ajax-data">id=406 </div>
+            <ul class="ksAccordion-toggle" id="compt-406" style="display: none"></ul>
+
+        </li>
+        <li class="dcjq-parent-li ksAccordion-li">
+            <a href="" class="dcjq-parent ksAccordion-icon">				
+                <img src="/Content/images/CAT/cat_00000060.png" alt="BALONMANO" class="icoCatMenu" id="icofch-60" onError="this.onerror=null;this.src='/Content/images/trans.png';" />				
+				<span class="maximo_deporte">BALONMANO</span>		
+                <div class="clear"></div>					
+            </a>
+                                                                 
+         
+			
+
+            <div class="hidden ksAccordion-ajax-data">id=60 </div>
+            <ul class="ksAccordion-toggle" id="compt-60" style="display: none"></ul>
+
+        </li>
+        <li class="dcjq-parent-li ksAccordion-li">
+            <a href="" class="dcjq-parent ksAccordion-icon">				
+                <img src="/Content/images/CAT/cat_00000020.png" alt="REMO" class="icoCatMenu" id="icofch-20" onError="this.onerror=null;this.src='/Content/images/trans.png';" />				
+				<span class="maximo_deporte">REMO</span>		
+                <div class="clear"></div>					
+            </a>
+                                                                 
+         
+			
+
+            <div class="hidden ksAccordion-ajax-data">id=20 </div>
+            <ul class="ksAccordion-toggle" id="compt-20" style="display: none"></ul>
+
+        </li>
+        <li class="dcjq-parent-li ksAccordion-li">
+            <a href="" class="dcjq-parent ksAccordion-icon">				
+                <img src="/Content/images/CAT/cat_00000418.png" alt="HOCKEY" class="icoCatMenu" id="icofch-418" onError="this.onerror=null;this.src='/Content/images/trans.png';" />				
+				<span class="maximo_deporte">HOCKEY</span>		
+                <div class="clear"></div>					
+            </a>
+                                                                 
+         
+			
+
+            <div class="hidden ksAccordion-ajax-data">id=418 </div>
+            <ul class="ksAccordion-toggle" id="compt-418" style="display: none"></ul>
+
+        </li>
+        <li class="dcjq-parent-li ksAccordion-li">
+            <a href="" class="dcjq-parent ksAccordion-icon">				
+                <img src="/Content/images/CAT/cat_00000429.png" alt="B&#201;ISBOL" class="icoCatMenu" id="icofch-429" onError="this.onerror=null;this.src='/Content/images/trans.png';" />				
+				<span class="maximo_deporte">B&#201;ISBOL</span>		
+                <div class="clear"></div>					
+            </a>
+                                                                 
+         
+			
+
+            <div class="hidden ksAccordion-ajax-data">id=429 </div>
+            <ul class="ksAccordion-toggle" id="compt-429" style="display: none"></ul>
+
+        </li>
+        <li class="dcjq-parent-li ksAccordion-li">
+            <a href="" class="dcjq-parent ksAccordion-icon">				
+                <img src="/Content/images/CAT/cat_00000413.png" alt="BOXEO / MMA" class="icoCatMenu" id="icofch-413" onError="this.onerror=null;this.src='/Content/images/trans.png';" />				
+				<span class="maximo_deporte">BOXEO / MMA</span>		
+                <div class="clear"></div>					
+            </a>
+                                                                 
+         
+			
+
+            <div class="hidden ksAccordion-ajax-data">id=413 </div>
+            <ul class="ksAccordion-toggle" id="compt-413" style="display: none"></ul>
+
+        </li>
+        <li class="dcjq-parent-li ksAccordion-li">
+            <a href="" class="dcjq-parent ksAccordion-icon">				
+                <img src="/Content/images/CAT/cat_00000430.png" alt="F&#218;TBOL AMERICANO" class="icoCatMenu" id="icofch-430" onError="this.onerror=null;this.src='/Content/images/trans.png';" />				
+				<span class="maximo_deporte">F&#218;TBOL AMERICANO</span>		
+                <div class="clear"></div>					
+            </a>
+                                                                 
+         
+			
+
+            <div class="hidden ksAccordion-ajax-data">id=430 </div>
+            <ul class="ksAccordion-toggle" id="compt-430" style="display: none"></ul>
+
+        </li>
+        <li class="dcjq-parent-li ksAccordion-li">
+            <a href="" class="dcjq-parent ksAccordion-icon">				
+                <img src="/Content/images/CAT/cat_00000359.png" alt="RUGBY" class="icoCatMenu" id="icofch-359" onError="this.onerror=null;this.src='/Content/images/trans.png';" />				
+				<span class="maximo_deporte">RUGBY</span>		
+                <div class="clear"></div>					
+            </a>
+                                                                 
+         
+			
+
+            <div class="hidden ksAccordion-ajax-data">id=359 </div>
+            <ul class="ksAccordion-toggle" id="compt-359" style="display: none"></ul>
+
+        </li>
+        <li class="dcjq-parent-li ksAccordion-li">
+            <a href="" class="dcjq-parent ksAccordion-icon">				
+                <img src="/Content/images/CAT/cat_00000451.png" alt="SNOOKER" class="icoCatMenu" id="icofch-451" onError="this.onerror=null;this.src='/Content/images/trans.png';" />				
+				<span class="maximo_deporte">SNOOKER</span>		
+                <div class="clear"></div>					
+            </a>
+                                                                 
+         
+			
+
+            <div class="hidden ksAccordion-ajax-data">id=451 </div>
+            <ul class="ksAccordion-toggle" id="compt-451" style="display: none"></ul>
+
+        </li>
+        <li class="dcjq-parent-li ksAccordion-li">
+            <a href="" class="dcjq-parent ksAccordion-icon">				
+                <img src="/Content/images/CAT/cat_00000449.png" alt="DARDOS" class="icoCatMenu" id="icofch-449" onError="this.onerror=null;this.src='/Content/images/trans.png';" />				
+				<span class="maximo_deporte">DARDOS</span>		
+                <div class="clear"></div>					
+            </a>
+                                                                 
+         
+			
+
+            <div class="hidden ksAccordion-ajax-data">id=449 </div>
+            <ul class="ksAccordion-toggle" id="compt-449" style="display: none"></ul>
+
+        </li>
+        <li class="dcjq-parent-li ksAccordion-li">
+            <a href="" class="dcjq-parent ksAccordion-icon">				
+                <img src="/Content/images/CAT/cat_00000374.png" alt="SURF" class="icoCatMenu" id="icofch-374" onError="this.onerror=null;this.src='/Content/images/trans.png';" />				
+				<span class="maximo_deporte">SURF</span>		
+                <div class="clear"></div>					
+            </a>
+                                                                 
+         
+			
+
+            <div class="hidden ksAccordion-ajax-data">id=374 </div>
+            <ul class="ksAccordion-toggle" id="compt-374" style="display: none"></ul>
+
+        </li>
+        <li class="dcjq-parent-li ksAccordion-li">
+            <a href="" class="dcjq-parent ksAccordion-icon">				
+                <img src="/Content/images/CAT/cat_00000487.png" alt="TRIATL&#211;N" class="icoCatMenu" id="icofch-487" onError="this.onerror=null;this.src='/Content/images/trans.png';" />				
+				<span class="maximo_deporte">TRIATL&#211;N</span>		
+                <div class="clear"></div>					
+            </a>
+                                                                 
+         
+			
+
+            <div class="hidden ksAccordion-ajax-data">id=487 </div>
+            <ul class="ksAccordion-toggle" id="compt-487" style="display: none"></ul>
+
+        </li>
+	</ul>
+</div>
+
+<div id="bloqueServicios" class="servicios">
+    
+
+<h3>Accesos directos</h3>
+<ul>
+	<li><a href="/esp/General/IngresosRetiradas">Ingresos y Retiradas</a></li>
+	    <li><a href="/esp/General/ConsultaBoleto">Consulta boletos</a></li>
+</ul>
+</div>
+
+ </div>
+					   						
+                        </div>
+					</div>
+					<!-- /column left -->
+					<div class="column center">
+                        <div class="resizer resCenter">
+						    
+           
+
+
+
+	<div class="breadcrumb">
+		<ul>
+			<li><a href="/">Inicio</a></li>
+					<li><a href="#">B&#201;ISBOL</a></li>
+		</ul>
+	</div>
+  	<div class="clear"></div>
+<form action="/esp/Sport/EventosCompeticiones" data-ajax="true" data-ajax-begin="eveLoader.marketChanging(&#39;divCat&#39;)" data-ajax-complete="eveLoader.marketChangedComplete(&#39;EveList&#39;);" data-ajax-failure="eveLoader.errorSubmitFilters();" data-ajax-method="POST" data-ajax-success="eveLoader.marketChanged(data, &#39;EveList&#39;,&#39;divCat&#39;);" id="frmEveFilter" method="post"><input id="tipo" name="tipo" type="hidden" value="0" /><input id="g" name="g" type="hidden" value="7" /><input id="codCat" name="codCat" type="hidden" value="429" /></form>		<div id="divFiltrosMarketsEvePrin" class="ksAccordion-toggle"> 
+	  <div class="graphite" style="margin-bottom:0">        	
+			<h3 class="titulo_seccion cmbbox flecha_graph" data-div=".modalidad" >
+				<span class="arrowRotate setArrow"></span>B&#201;ISBOL
+			</h3>
+			
+          
+			<div class="clear"></div>            
+       </div>   
+			  
+<div class="prox_eventos">
+  
+
+        
+    <div id="divMarketsEvePrin">                
+        
+
+ 
+    <input type="hidden" id="inputBetRadarWidget" data-category="429" value="" />
+   
+    <div class="getSct" id="divCat">  
+            <div class="clear"></div>
+        
+             <!--market-->
+                 <div class="modalidad SportMod">
+        <ul>
+                <li>                    
+                    <a data-ajax="true" data-ajax-begin="eveLoader.collectValues([&#39;g&#39;,&#39;tipo&#39;]);eveLoader.marketChanging(&#39;divCat&#39;); eveLoader.marketChangeArgs([{&quot;Key&quot;:&quot;ID&quot;,&quot;Value&quot;:429},{&quot;Key&quot;:&quot;cm&quot;,&quot;Value&quot;:4333},{&quot;Key&quot;:&quot;pv&quot;,&quot;Value&quot;:1},{&quot;Key&quot;:&quot;v&quot;,&quot;Value&quot;:true},{&quot;Key&quot;:&quot;dm&quot;,&quot;Value&quot;:&quot;Hándicap&quot;},{&quot;Key&quot;:&quot;nvp&quot;,&quot;Value&quot;:2}])" data-ajax-complete="eveLoader.marketChangedComplete(&#39;EveList&#39;);" data-ajax-method="POST" data-ajax-success="eveLoader.marketChanged(data, &#39;EveList&#39;, &#39;divCat&#39;);" href="/esp/Sport/EventosModDeporte/429?cm=4333&amp;pv=1&amp;v=True&amp;dm=H%C3%A1ndicap&amp;nvp=2">H&#225;ndicap</a>                                                                                                                
+                </li>
+                <li>                    
+                    <a data-ajax="true" data-ajax-begin="eveLoader.collectValues([&#39;g&#39;,&#39;tipo&#39;]);eveLoader.marketChanging(&#39;divCat&#39;); eveLoader.marketChangeArgs([{&quot;Key&quot;:&quot;ID&quot;,&quot;Value&quot;:429},{&quot;Key&quot;:&quot;cm&quot;,&quot;Value&quot;:4331},{&quot;Key&quot;:&quot;pv&quot;,&quot;Value&quot;:2},{&quot;Key&quot;:&quot;v&quot;,&quot;Value&quot;:true},{&quot;Key&quot;:&quot;dm&quot;,&quot;Value&quot;:&quot;Nº Carreras&quot;},{&quot;Key&quot;:&quot;nvp&quot;,&quot;Value&quot;:0}])" data-ajax-complete="eveLoader.marketChangedComplete(&#39;EveList&#39;);" data-ajax-method="POST" data-ajax-success="eveLoader.marketChanged(data, &#39;EveList&#39;, &#39;divCat&#39;);" href="/esp/Sport/EventosModDeporte/429?cm=4331&amp;pv=2&amp;v=True&amp;dm=N%C2%BA%20Carreras&amp;nvp=0">N&#186; Carreras</a>                                                                                                                
+                </li>
+        </ul>
+    <div class="clear"></div>
+    </div>
+
+
+			<!-- Orden -->
+			<div style="padding-top:10px">
+				<ul class="orden" style="padding-top:5px">
+					<li>Ordenar por:</li> 
+					    <li>   
+		<a filter-field="g" filter-value="7" id="group-7" ks-filterEvent="true">Fecha</a>	
+    </li>
+	           
+					<li>/</li> 
+					    <li>   
+		<a filter-field="g" filter-value="4" id="group-4" ks-filterEvent="true">Fecha-Competición</a>	
+    </li>
+	            
+				</ul>
+						
+				        <ul class="nav_glob">
+            <li id="proximoseventos-hoy" class="selected">
+                <a filter-field="tipo" filter-value="0" ks-filterEvent="true">HOY</a>
+             </li>
+            <li id="proximoseventos-live">
+                <a filter-field="tipo" filter-value="1" ks-filterEvent="true">LIVE</a>
+             </li>
+            <li id="proximoseventos-top">
+                <a filter-field="tipo" filter-value="2" ks-filterEvent="true">TOP</a>
+            </li>
+        </ul>
+<div class="clear"></div>  
+
+        
+	
+		<div style="/*margin:10px 6px 15px 0;float:right*/">
+				<div class="FavRisk">
+        <a class="addAcum acumTo" container="#EveList" href="/esp/BetSlip/AddAcum" lower="1">Favoritos<br /></a>
+	    <a class="addAcum acumTo" container="#EveList" href="/esp/BetSlip/AddAcum" lower="0">Riesgo<br /></a>
+    </div>
+
+		</div>
+	    <div class="clear"></div>
+
+				<div id="EveList" style="padding-top:0px">  
+
+
+
+
+
+
+    <div style="position:relative" class="btn_houdini_container">
+    <a class="btn_houdini" data-type="normal" data-column=".houdini_apuesta" data-container=".apuestas">
+        <img src="/Content/img/ico_abrirHoudini.png" alt="Mostrar dos columnas" onerror="this.onerror=null;this.src='/Content/img/onerror.png';" />
+    </a>
+    </div>    
+
+<ul class="apuestas">
+    <li class="fecha_evento">
+		
+                    <time class="dateFecha" datetime="2017-09-14 17:10:00Z" showToday="false" format="dd"></time>
+
+     <div class="modalidades">
+
+
+	        <div class="tit_modalidad modalidad_dos  houdini_apuesta">N&#186; Carreras </div>
+
+
+            <div class="tit_modalidad modalidad_tres  ">Ganador</div>
+        
+	</div>
+	</li> 
+		<li class="filtroCategoria filtroCat-429">
+			
+            <div class="infoEve">
+            
+                <div class="ico icoConExtra" style=margin-top:0;>
+                    <img Alt="USA MLB " onerror="this.onerror=null;this.src=&#39;/Content/images/trans.png&#39;;" src="/Content/images/SCT/sct_00000951.png"></img>            <span class="livetxt">LIVE</span>
+
+			    </div>
+
+                <div>
+    			
+                    <div class="date" style="margin-right:-20px;margin-left:-3px;">
+                        <div class="ico_tv_cont">        
+				            <p>         
+                                
+                         
+                           
+                                            <time class="dateFecha" datetime="2017-09-14 17:10:00Z" showToday="true" format="sd"></time>
+
+                                <br />
+				                <span title="2017-09-14 17:10:00Z" class="timeto tooltipEve" live="1" d-date="<h3>#date</h3><span>#time</span>">19:10</span>                            
+                    
+				            </p>
+                       </div>
+			        </div>
+                    <div style="margin-top:-5px;" class="ico"><img Style="width:24px; height:24px" onerror="this.onerror=null;this.src=&#39;/Content/images/trans.png&#39;;" src="/Content/images/TV/tvc_00000017.png"></img></div>
+                    
+			        <div class="info">
+				        <p>                
+                                <span class="overStar">
+		                            <span class="campeonato"> <a href="/esp/Sport/Competicion/951">USA MLB </a> </span>
+                                    <span class="star tooltipEve" title="Añadir a favoritos"><a class="fav" data-catId="429" data-id="951" data-tipo="2"></a></span>
+	                            </span>
+					        <br />
+					        <span class="partido">                                
+                                                <a href="/esp/Sport/Evento/807564">Detroit Tigers vs. Chicago White Sox &lt;19:10&gt; <span>(+ 9)</span></a>
+
+                            </span>
+				        </p> 
+			        </div>
+            
+                </div>
+
+            </div>
+
+               
+			<div class="it_807564 apuestas_fut" sport-type="Eve" des="Detroit Tigers vs. Chicago White Sox &lt;19:10&gt;">
+
+
+		<ul	class="it_807564_2916 houdini_apuesta" sport-type="Mkt" des="N&#186; Carreras (9,5) -incluye desempate" 				
+			il="0" ic="1" cg="0">
+
+				<li>
+					<a class="it_2916_1_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="- 9,5"><p class="tipe1"><span class="pronEvLst">- 9,5</span><br/><span class="coef">2,00</span></p></a>
+				</li>
+				<li>
+					<a class="it_2916_2_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="+ 9,5"><p class="tipe1"><span class="pronEvLst">+ 9,5</span><br/><span class="coef">1,75</span></p></a>
+				</li>
+		</ul>                                               
+		<ul 			   	  
+		class="it_807564_4332" sport-type="Mkt" des="Ganador" 
+		il="0" ic="1" cg="1"
+		>
+				
+				<li class="pronos2" >
+					<a class="it_4332_56153_E" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="Detroit Tigers"><p class="tipe1"><span class="pronEvLst">Detroit...</span><br/><span class="coef">1,75</span></p></a>
+				</li>
+				<li class="pronos2" >
+					<a class="it_4332_56149_E" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="Chicago White Sox"><p class="tipe1"><span class="pronEvLst">Chicago...</span><br/><span class="coef">2,00</span></p></a>
+				</li>
+	    </ul>		
+                
+			</div>
+
+			<div class="clear fle" ks-fle='14/09/2017'></div>			
+		</li>
+		<li class="filtroCategoria filtroCat-429">
+			
+            <div class="infoEve">
+            
+                <div class="ico icoConExtra" style=margin-top:0;>
+                    <img Alt="USA MLB " onerror="this.onerror=null;this.src=&#39;/Content/images/trans.png&#39;;" src="/Content/images/SCT/sct_00000951.png"></img>
+			    </div>
+
+                <div>
+    			
+                    <div class="date" style="margin-right:-20px;margin-left:-3px;">
+                        <div class="ico_tv_cont">        
+				            <p>         
+                                
+                         
+                           
+                                            <time class="dateFecha" datetime="2017-09-14 17:35:00Z" showToday="true" format="sd"></time>
+
+                                <br />
+				                <span title="2017-09-14 17:35:00Z" class="timeto tooltipEve" live="0" d-date="<h3>#date</h3><span>#time</span>">19:35</span>                            
+                    
+				            </p>
+                       </div>
+			        </div>
+                    <div style="margin-top:-5px;" class="ico"><img Style="width:24px; height:24px" onerror="this.onerror=null;this.src=&#39;/Content/images/trans.png&#39;;" src="/Content/images/TV/tvc_000000-1.png"></img></div>
+                    
+			        <div class="info">
+				        <p>                
+                                <span class="overStar">
+		                            <span class="campeonato"> <a href="/esp/Sport/Competicion/951">USA MLB </a> </span>
+                                    <span class="star tooltipEve" title="Añadir a favoritos"><a class="fav" data-catId="429" data-id="951" data-tipo="2"></a></span>
+	                            </span>
+					        <br />
+					        <span class="partido">                                
+                                                <a href="/esp/Sport/Evento/807347">Boston Red Sox vs. Oakland Athletics &lt;19:35&gt; <span>(+ 9)</span></a>
+
+                            </span>
+				        </p> 
+			        </div>
+            
+                </div>
+
+            </div>
+
+               
+			<div class="it_807347 apuestas_fut" sport-type="Eve" des="Boston Red Sox vs. Oakland Athletics &lt;19:35&gt;">
+
+
+		<ul	class="it_807347_2916 houdini_apuesta" sport-type="Mkt" des="N&#186; Carreras (9,5) -incluye desempate" 				
+			il="0" ic="1" cg="0">
+
+				<li>
+					<a class="it_2916_1_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="- 9,5"><p class="tipe1"><span class="pronEvLst">- 9,5</span><br/><span class="coef">1,95</span></p></a>
+				</li>
+				<li>
+					<a class="it_2916_2_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="+ 9,5"><p class="tipe1"><span class="pronEvLst">+ 9,5</span><br/><span class="coef">1,80</span></p></a>
+				</li>
+		</ul>                                               
+		<ul 			   	  
+		class="it_807347_4332" sport-type="Mkt" des="Ganador" 
+		il="0" ic="1" cg="1"
+		>
+				
+				<li class="pronos2" >
+					<a class="it_4332_56147_E" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="Boston Red Sox"><p class="tipe1"><span class="pronEvLst">Boston ...</span><br/><span class="coef">1,43</span></p></a>
+				</li>
+				<li class="pronos2" >
+					<a class="it_4332_56163_E" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="Oakland Athletics"><p class="tipe1"><span class="pronEvLst">Oakland...</span><br/><span class="coef">2,70</span></p></a>
+				</li>
+	    </ul>		
+                
+			</div>
+
+			<div class="clear fle" ks-fle='14/09/2017'></div>			
+		</li>
+		<li class="filtroCategoria filtroCat-429">
+			
+            <div class="infoEve">
+            
+                <div class="ico icoConExtra" style=margin-top:0;>
+                    <img Alt="USA MLB " onerror="this.onerror=null;this.src=&#39;/Content/images/trans.png&#39;;" src="/Content/images/SCT/sct_00000951.png"></img>
+			    </div>
+
+                <div>
+    			
+                    <div class="date" style="margin-right:-20px;margin-left:-3px;">
+                        <div class="ico_tv_cont">        
+				            <p>         
+                                
+                         
+                           
+                                            <time class="dateFecha" datetime="2017-09-14 17:45:00Z" showToday="true" format="sd"></time>
+
+                                <br />
+				                <span title="2017-09-14 17:45:00Z" class="timeto tooltipEve" live="0" d-date="<h3>#date</h3><span>#time</span>">19:45</span>                            
+                    
+				            </p>
+                       </div>
+			        </div>
+                    <div style="margin-top:-5px;" class="ico"><img Style="width:24px; height:24px" onerror="this.onerror=null;this.src=&#39;/Content/images/trans.png&#39;;" src="/Content/images/TV/tvc_000000-1.png"></img></div>
+                    
+			        <div class="info">
+				        <p>                
+                                <span class="overStar">
+		                            <span class="campeonato"> <a href="/esp/Sport/Competicion/951">USA MLB </a> </span>
+                                    <span class="star tooltipEve" title="Añadir a favoritos"><a class="fav" data-catId="429" data-id="951" data-tipo="2"></a></span>
+	                            </span>
+					        <br />
+					        <span class="partido">                                
+                                                <a href="/esp/Sport/Evento/807460">St. Louis Cardinals vs. Cincinnati Reds &lt;19:45&gt; <span>(+ 9)</span></a>
+
+                            </span>
+				        </p> 
+			        </div>
+            
+                </div>
+
+            </div>
+
+               
+			<div class="it_807460 apuestas_fut" sport-type="Eve" des="St. Louis Cardinals vs. Cincinnati Reds &lt;19:45&gt;">
+
+
+		<ul	class="it_807460_2915 houdini_apuesta" sport-type="Mkt" des="N&#186; Carreras (8,5) -incluye desempate" 				
+			il="0" ic="1" cg="0">
+
+				<li>
+					<a class="it_2915_1_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="- 8,5"><p class="tipe1"><span class="pronEvLst">- 8,5</span><br/><span class="coef">2,20</span></p></a>
+				</li>
+				<li>
+					<a class="it_2915_2_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="+ 8,5"><p class="tipe1"><span class="pronEvLst">+ 8,5</span><br/><span class="coef">1,60</span></p></a>
+				</li>
+		</ul>                                               
+		<ul 			   	  
+		class="it_807460_4332" sport-type="Mkt" des="Ganador" 
+		il="0" ic="1" cg="1"
+		>
+				
+				<li class="pronos2" >
+					<a class="it_4332_56169_E" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="St. Louis Cardinals"><p class="tipe1"><span class="pronEvLst">St. Lou...</span><br/><span class="coef">1,44</span></p></a>
+				</li>
+				<li class="pronos2" >
+					<a class="it_4332_56150_E" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="Cincinnati Reds"><p class="tipe1"><span class="pronEvLst">Cincinn...</span><br/><span class="coef">2,70</span></p></a>
+				</li>
+	    </ul>		
+                
+			</div>
+
+			<div class="clear fle" ks-fle='14/09/2017'></div>			
+		</li>
+		<li class="filtroCategoria filtroCat-429">
+			
+            <div class="infoEve">
+            
+                <div class="ico icoConExtra" style=margin-top:0;>
+                    <img Alt="USA MLB " onerror="this.onerror=null;this.src=&#39;/Content/images/trans.png&#39;;" src="/Content/images/SCT/sct_00000951.png"></img>            <span class="livetxt">LIVE</span>
+
+			    </div>
+
+                <div>
+    			
+                    <div class="date" style="margin-right:-20px;margin-left:-3px;">
+                        <div class="ico_tv_cont">        
+				            <p>         
+                                
+                         
+                           
+                                            <time class="dateFecha" datetime="2017-09-14 19:40:00Z" showToday="true" format="sd"></time>
+
+                                <br />
+				                <span title="2017-09-14 19:40:00Z" class="timeto tooltipEve" live="1" d-date="<h3>#date</h3><span>#time</span>">21:40</span>                            
+                    
+				            </p>
+                       </div>
+			        </div>
+                    <div style="margin-top:-5px;" class="ico"><img Style="width:24px; height:24px" onerror="this.onerror=null;this.src=&#39;/Content/images/trans.png&#39;;" src="/Content/images/TV/tvc_00000017.png"></img></div>
+                    
+			        <div class="info">
+				        <p>                
+                                <span class="overStar">
+		                            <span class="campeonato"> <a href="/esp/Sport/Competicion/951">USA MLB </a> </span>
+                                    <span class="star tooltipEve" title="Añadir a favoritos"><a class="fav" data-catId="429" data-id="951" data-tipo="2"></a></span>
+	                            </span>
+					        <br />
+					        <span class="partido">                                
+                                                <a href="/esp/Sport/Evento/807569">Arizona Diamondbacks vs. Colorado Rockies &lt;21:40&gt; <span>(+ 9)</span></a>
+
+                            </span>
+				        </p> 
+			        </div>
+            
+                </div>
+
+            </div>
+
+               
+			<div class="it_807569 apuestas_fut" sport-type="Eve" des="Arizona Diamondbacks vs. Colorado Rockies &lt;21:40&gt;">
+
+
+		<ul	class="it_807569_2916 houdini_apuesta" sport-type="Mkt" des="N&#186; Carreras (9,5) -incluye desempate" 				
+			il="0" ic="1" cg="0">
+
+				<li>
+					<a class="it_2916_1_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="- 9,5"><p class="tipe1"><span class="pronEvLst">- 9,5</span><br/><span class="coef">2,00</span></p></a>
+				</li>
+				<li>
+					<a class="it_2916_2_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="+ 9,5"><p class="tipe1"><span class="pronEvLst">+ 9,5</span><br/><span class="coef">1,75</span></p></a>
+				</li>
+		</ul>                                               
+		<ul 			   	  
+		class="it_807569_4332" sport-type="Mkt" des="Ganador" 
+		il="0" ic="1" cg="1"
+		>
+				
+				<li class="pronos2" >
+					<a class="it_4332_56144_E" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="Arizona Diamondbacks"><p class="tipe1"><span class="pronEvLst">Arizona...</span><br/><span class="coef">1,55</span></p></a>
+				</li>
+				<li class="pronos2" >
+					<a class="it_4332_56152_E" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="Colorado Rockies"><p class="tipe1"><span class="pronEvLst">Colorad...</span><br/><span class="coef">2,35</span></p></a>
+				</li>
+	    </ul>		
+                
+			</div>
+
+			<div class="clear fle" ks-fle='14/09/2017'></div>			
+		</li>
+    <li class="fecha_evento">
+		
+                    <time class="dateFecha" datetime="2017-09-14 23:05:00Z" showToday="false" format="dd"></time>
+
+	</li> 
+		<li class="filtroCategoria filtroCat-429">
+			
+            <div class="infoEve">
+            
+                <div class="ico icoConExtra" style=margin-top:0;>
+                    <img Alt="USA MLB " onerror="this.onerror=null;this.src=&#39;/Content/images/trans.png&#39;;" src="/Content/images/SCT/sct_00000951.png"></img>            <span class="livetxt">LIVE</span>
+
+			    </div>
+
+                <div>
+    			
+                    <div class="date" style="margin-right:-20px;margin-left:-3px;">
+                        <div class="ico_tv_cont">        
+				            <p>         
+                                
+                         
+                           
+                                            <time class="dateFecha" datetime="2017-09-14 23:05:00Z" showToday="true" format="sd"></time>
+
+                                <br />
+				                <span title="2017-09-14 23:05:00Z" class="timeto tooltipEve" live="1" d-date="<h3>#date</h3><span>#time</span>">1:05</span>                            
+                    
+				            </p>
+                       </div>
+			        </div>
+                    <div style="margin-top:-5px;" class="ico"><img Style="width:24px; height:24px" onerror="this.onerror=null;this.src=&#39;/Content/images/trans.png&#39;;" src="/Content/images/TV/tvc_00000017.png"></img></div>
+                    
+			        <div class="info">
+				        <p>                
+                                <span class="overStar">
+		                            <span class="campeonato"> <a href="/esp/Sport/Competicion/951">USA MLB </a> </span>
+                                    <span class="star tooltipEve" title="Añadir a favoritos"><a class="fav" data-catId="429" data-id="951" data-tipo="2"></a></span>
+	                            </span>
+					        <br />
+					        <span class="partido">                                
+                                                <a href="/esp/Sport/Evento/807464">New York Yankees vs. Baltimore Orioles &lt;01:05&gt; <span>(+ 9)</span></a>
+
+                            </span>
+				        </p> 
+			        </div>
+            
+                </div>
+
+            </div>
+
+               
+			<div class="it_807464 apuestas_fut" sport-type="Eve" des="New York Yankees vs. Baltimore Orioles &lt;01:05&gt;">
+
+
+		<ul	class="it_807464_2915 houdini_apuesta" sport-type="Mkt" des="N&#186; Carreras (8,5) -incluye desempate" 				
+			il="0" ic="1" cg="0">
+
+				<li>
+					<a class="it_2915_1_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="- 8,5"><p class="tipe1"><span class="pronEvLst">- 8,5</span><br/><span class="coef">2,20</span></p></a>
+				</li>
+				<li>
+					<a class="it_2915_2_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="+ 8,5"><p class="tipe1"><span class="pronEvLst">+ 8,5</span><br/><span class="coef">1,60</span></p></a>
+				</li>
+		</ul>                                               
+		<ul 			   	  
+		class="it_807464_4332" sport-type="Mkt" des="Ganador" 
+		il="0" ic="1" cg="1"
+		>
+				
+				<li class="pronos2" >
+					<a class="it_4332_56162_E" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="New York Yankees"><p class="tipe1"><span class="pronEvLst">New Yor...</span><br/><span class="coef">1,46</span></p></a>
+				</li>
+				<li class="pronos2" >
+					<a class="it_4332_56146_E" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="Baltimore Orioles"><p class="tipe1"><span class="pronEvLst">Baltimo...</span><br/><span class="coef">2,60</span></p></a>
+				</li>
+	    </ul>		
+                
+			</div>
+
+			<div class="clear fle" ks-fle='15/09/2017'></div>			
+		</li>
+		<li class="filtroCategoria filtroCat-429">
+			
+            <div class="infoEve">
+            
+                <div class="ico icoConExtra" style=margin-top:0;>
+                    <img Alt="USA MLB " onerror="this.onerror=null;this.src=&#39;/Content/images/trans.png&#39;;" src="/Content/images/SCT/sct_00000951.png"></img>
+			    </div>
+
+                <div>
+    			
+                    <div class="date" style="margin-right:-20px;margin-left:-3px;">
+                        <div class="ico_tv_cont">        
+				            <p>         
+                                
+                         
+                           
+                                            <time class="dateFecha" datetime="2017-09-14 23:05:00Z" showToday="true" format="sd"></time>
+
+                                <br />
+				                <span title="2017-09-14 23:05:00Z" class="timeto tooltipEve" live="0" d-date="<h3>#date</h3><span>#time</span>">1:05</span>                            
+                    
+				            </p>
+                       </div>
+			        </div>
+                    <div style="margin-top:-5px;" class="ico"><img Style="width:24px; height:24px" onerror="this.onerror=null;this.src=&#39;/Content/images/trans.png&#39;;" src="/Content/images/TV/tvc_000000-1.png"></img></div>
+                    
+			        <div class="info">
+				        <p>                
+                                <span class="overStar">
+		                            <span class="campeonato"> <a href="/esp/Sport/Competicion/951">USA MLB </a> </span>
+                                    <span class="star tooltipEve" title="Añadir a favoritos"><a class="fav" data-catId="429" data-id="951" data-tipo="2"></a></span>
+	                            </span>
+					        <br />
+					        <span class="partido">                                
+                                                <a href="/esp/Sport/Evento/807573">Philadelphia Phillies vs. Miami Marlins &lt;01:05&gt; <span>(+ 9)</span></a>
+
+                            </span>
+				        </p> 
+			        </div>
+            
+                </div>
+
+            </div>
+
+               
+			<div class="it_807573 apuestas_fut" sport-type="Eve" des="Philadelphia Phillies vs. Miami Marlins &lt;01:05&gt;">
+
+
+		<ul	class="it_807573_2916 houdini_apuesta" sport-type="Mkt" des="N&#186; Carreras (9,5) -incluye desempate" 				
+			il="0" ic="1" cg="0">
+
+				<li>
+					<a class="it_2916_1_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="- 9,5"><p class="tipe1"><span class="pronEvLst">- 9,5</span><br/><span class="coef">1,85</span></p></a>
+				</li>
+				<li>
+					<a class="it_2916_2_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="+ 9,5"><p class="tipe1"><span class="pronEvLst">+ 9,5</span><br/><span class="coef">1,85</span></p></a>
+				</li>
+		</ul>                                               
+		<ul 			   	  
+		class="it_807573_4332" sport-type="Mkt" des="Ganador" 
+		il="0" ic="1" cg="1"
+		>
+				
+				<li class="pronos2" >
+					<a class="it_4332_56164_E" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="Philadelphia Phillies"><p class="tipe1"><span class="pronEvLst">Philade...</span><br/><span class="coef">2,05</span></p></a>
+				</li>
+				<li class="pronos2" >
+					<a class="it_4332_56158_E" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="Miami Marlins"><p class="tipe1"><span class="pronEvLst">Miami M...</span><br/><span class="coef">1,75</span></p></a>
+				</li>
+	    </ul>		
+                
+			</div>
+
+			<div class="clear fle" ks-fle='15/09/2017'></div>			
+		</li>
+		<li class="filtroCategoria filtroCat-429">
+			
+            <div class="infoEve">
+            
+                <div class="ico icoConExtra" style=margin-top:0;>
+                    <img Alt="USA MLB " onerror="this.onerror=null;this.src=&#39;/Content/images/trans.png&#39;;" src="/Content/images/SCT/sct_00000951.png"></img>            <span class="livetxt">LIVE</span>
+
+			    </div>
+
+                <div>
+    			
+                    <div class="date" style="margin-right:-20px;margin-left:-3px;">
+                        <div class="ico_tv_cont">        
+				            <p>         
+                                
+                         
+                           
+                                            <time class="dateFecha" datetime="2017-09-14 23:05:00Z" showToday="true" format="sd"></time>
+
+                                <br />
+				                <span title="2017-09-14 23:05:00Z" class="timeto tooltipEve" live="1" d-date="<h3>#date</h3><span>#time</span>">1:05</span>                            
+                    
+				            </p>
+                       </div>
+			        </div>
+                    <div style="margin-top:-5px;" class="ico"><img Style="width:24px; height:24px" onerror="this.onerror=null;this.src=&#39;/Content/images/trans.png&#39;;" src="/Content/images/TV/tvc_00000017.png"></img></div>
+                    
+			        <div class="info">
+				        <p>                
+                                <span class="overStar">
+		                            <span class="campeonato"> <a href="/esp/Sport/Competicion/951">USA MLB </a> </span>
+                                    <span class="star tooltipEve" title="Añadir a favoritos"><a class="fav" data-catId="429" data-id="951" data-tipo="2"></a></span>
+	                            </span>
+					        <br />
+					        <span class="partido">                                
+                                                <a href="/esp/Sport/Evento/807350">Washington Nationals vs. Atlanta Braves &lt;01:05&gt; <span>(+ 9)</span></a>
+
+                            </span>
+				        </p> 
+			        </div>
+            
+                </div>
+
+            </div>
+
+               
+			<div class="it_807350 apuestas_fut" sport-type="Eve" des="Washington Nationals vs. Atlanta Braves &lt;01:05&gt;">
+
+
+		<ul	class="it_807350_2915 houdini_apuesta" sport-type="Mkt" des="N&#186; Carreras (8,5) -incluye desempate" 				
+			il="0" ic="1" cg="0">
+
+				<li>
+					<a class="it_2915_1_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="- 8,5"><p class="tipe1"><span class="pronEvLst">- 8,5</span><br/><span class="coef">2,00</span></p></a>
+				</li>
+				<li>
+					<a class="it_2915_2_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="+ 8,5"><p class="tipe1"><span class="pronEvLst">+ 8,5</span><br/><span class="coef">1,75</span></p></a>
+				</li>
+		</ul>                                               
+		<ul 			   	  
+		class="it_807350_4332" sport-type="Mkt" des="Ganador" 
+		il="0" ic="1" cg="1"
+		>
+				
+				<li class="pronos2" >
+					<a class="it_4332_56173_E" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="Washington Nationals"><p class="tipe1"><span class="pronEvLst">Washing...</span><br/><span class="coef">1,50</span></p></a>
+				</li>
+				<li class="pronos2" >
+					<a class="it_4332_56145_E" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="Atlanta Braves"><p class="tipe1"><span class="pronEvLst">Atlanta...</span><br/><span class="coef">2,50</span></p></a>
+				</li>
+	    </ul>		
+                
+			</div>
+
+			<div class="clear fle" ks-fle='15/09/2017'></div>			
+		</li>
+		<li class="filtroCategoria filtroCat-429">
+			
+            <div class="infoEve">
+            
+                <div class="ico icoConExtra" style=margin-top:0;>
+                    <img Alt="USA MLB " onerror="this.onerror=null;this.src=&#39;/Content/images/trans.png&#39;;" src="/Content/images/SCT/sct_00000951.png"></img>
+			    </div>
+
+                <div>
+    			
+                    <div class="date" style="margin-right:-20px;margin-left:-3px;">
+                        <div class="ico_tv_cont">        
+				            <p>         
+                                
+                         
+                           
+                                            <time class="dateFecha" datetime="2017-09-14 23:10:00Z" showToday="true" format="sd"></time>
+
+                                <br />
+				                <span title="2017-09-14 23:10:00Z" class="timeto tooltipEve" live="0" d-date="<h3>#date</h3><span>#time</span>">1:10</span>                            
+                    
+				            </p>
+                       </div>
+			        </div>
+                    <div style="margin-top:-5px;" class="ico"><img Style="width:24px; height:24px" onerror="this.onerror=null;this.src=&#39;/Content/images/trans.png&#39;;" src="/Content/images/TV/tvc_000000-1.png"></img></div>
+                    
+			        <div class="info">
+				        <p>                
+                                <span class="overStar">
+		                            <span class="campeonato"> <a href="/esp/Sport/Competicion/951">USA MLB </a> </span>
+                                    <span class="star tooltipEve" title="Añadir a favoritos"><a class="fav" data-catId="429" data-id="951" data-tipo="2"></a></span>
+	                            </span>
+					        <br />
+					        <span class="partido">                                
+                                                <a href="/esp/Sport/Evento/807352">Cleveland Indians vs. Kansas City Royals &lt;01:10&gt; <span>(+ 8)</span></a>
+
+                            </span>
+				        </p> 
+			        </div>
+            
+                </div>
+
+            </div>
+
+               
+			<div class="it_807352 apuestas_fut" sport-type="Eve" des="Cleveland Indians vs. Kansas City Royals &lt;01:10&gt;">
+
+
+		<ul	class="it_807352_2915 houdini_apuesta" sport-type="Mkt" des="N&#186; Carreras (8,5) -incluye desempate" 				
+			il="0" ic="1" cg="0">
+
+				<li>
+					<a class="it_2915_1_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="- 8,5"><p class="tipe1"><span class="pronEvLst">- 8,5</span><br/><span class="coef">2,20</span></p></a>
+				</li>
+				<li>
+					<a class="it_2915_2_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="+ 8,5"><p class="tipe1"><span class="pronEvLst">+ 8,5</span><br/><span class="coef">1,60</span></p></a>
+				</li>
+		</ul>                                               
+		<ul 			   	  
+		class="it_807352_4332" sport-type="Mkt" des="Ganador" 
+		il="0" ic="1" cg="1"
+		>
+				
+				<li class="pronos2" >
+					<a class="it_4332_56151_E" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="Cleveland Indians"><p class="tipe1"><span class="pronEvLst">Clevela...</span><br/><span class="coef">1,42</span></p></a>
+				</li>
+				<li class="pronos2" >
+					<a class="it_4332_56155_E" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="Kansas City Royals"><p class="tipe1"><span class="pronEvLst">Kansas ...</span><br/><span class="coef">2,80</span></p></a>
+				</li>
+	    </ul>		
+                
+			</div>
+
+			<div class="clear fle" ks-fle='15/09/2017'></div>			
+		</li>
+		<li class="filtroCategoria filtroCat-429">
+			
+            <div class="infoEve">
+            
+                <div class="ico icoConExtra" style=margin-top:0;>
+                    <img Alt="USA MLB " onerror="this.onerror=null;this.src=&#39;/Content/images/trans.png&#39;;" src="/Content/images/SCT/sct_00000951.png"></img>            <span class="livetxt">LIVE</span>
+
+			    </div>
+
+                <div>
+    			
+                    <div class="date" style="margin-right:-20px;margin-left:-3px;">
+                        <div class="ico_tv_cont">        
+				            <p>         
+                                
+                         
+                           
+                                            <time class="dateFecha" datetime="2017-09-15 00:05:00Z" showToday="true" format="sd"></time>
+
+                                <br />
+				                <span title="2017-09-15 00:05:00Z" class="timeto tooltipEve" live="1" d-date="<h3>#date</h3><span>#time</span>">2:05</span>                            
+                    
+				            </p>
+                       </div>
+			        </div>
+                    <div style="margin-top:-5px;" class="ico"><img Style="width:24px; height:24px" onerror="this.onerror=null;this.src=&#39;/Content/images/trans.png&#39;;" src="/Content/images/TV/tvc_00000017.png"></img></div>
+                    
+			        <div class="info">
+				        <p>                
+                                <span class="overStar">
+		                            <span class="campeonato"> <a href="/esp/Sport/Competicion/951">USA MLB </a> </span>
+                                    <span class="star tooltipEve" title="Añadir a favoritos"><a class="fav" data-catId="429" data-id="951" data-tipo="2"></a></span>
+	                            </span>
+					        <br />
+					        <span class="partido">                                
+                                                <a href="/esp/Sport/Evento/807576">Texas Rangers vs. Seattle Mariners &lt;02:05&gt; <span>(+ 9)</span></a>
+
+                            </span>
+				        </p> 
+			        </div>
+            
+                </div>
+
+            </div>
+
+               
+			<div class="it_807576 apuestas_fut" sport-type="Eve" des="Texas Rangers vs. Seattle Mariners &lt;02:05&gt;">
+
+
+		<ul	class="it_807576_2917 houdini_apuesta" sport-type="Mkt" des="N&#186; Carreras (10,5) -incluye desempate" 				
+			il="0" ic="1" cg="0">
+
+				<li>
+					<a class="it_2917_1_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="- 10,5"><p class="tipe1"><span class="pronEvLst">- 10,5</span><br/><span class="coef">1,85</span></p></a>
+				</li>
+				<li>
+					<a class="it_2917_2_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="+ 10,5"><p class="tipe1"><span class="pronEvLst">+ 10,5</span><br/><span class="coef">1,90</span></p></a>
+				</li>
+		</ul>                                               
+		<ul 			   	  
+		class="it_807576_4332" sport-type="Mkt" des="Ganador" 
+		il="0" ic="1" cg="1"
+		>
+				
+				<li class="pronos2" >
+					<a class="it_4332_56171_E" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="Texas Rangers"><p class="tipe1"><span class="pronEvLst">Texas R...</span><br/><span class="coef">1,85</span></p></a>
+				</li>
+				<li class="pronos2" >
+					<a class="it_4332_56168_E" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="Seattle Mariners"><p class="tipe1"><span class="pronEvLst">Seattle...</span><br/><span class="coef">1,95</span></p></a>
+				</li>
+	    </ul>		
+                
+			</div>
+
+			<div class="clear fle" ks-fle='15/09/2017'></div>			
+		</li>
+		<li class="filtroCategoria filtroCat-429">
+			
+            <div class="infoEve">
+            
+                <div class="ico icoConExtra" style=margin-top:0;>
+                    <img Alt="USA MLB " onerror="this.onerror=null;this.src=&#39;/Content/images/trans.png&#39;;" src="/Content/images/SCT/sct_00000951.png"></img>
+			    </div>
+
+                <div>
+    			
+                    <div class="date" style="margin-right:-20px;margin-left:-3px;">
+                        <div class="ico_tv_cont">        
+				            <p>         
+                                
+                         
+                           
+                                            <time class="dateFecha" datetime="2017-09-15 00:10:00Z" showToday="true" format="sd"></time>
+
+                                <br />
+				                <span title="2017-09-15 00:10:00Z" class="timeto tooltipEve" live="0" d-date="<h3>#date</h3><span>#time</span>">2:10</span>                            
+                    
+				            </p>
+                       </div>
+			        </div>
+                    <div style="margin-top:-5px;" class="ico"><img Style="width:24px; height:24px" onerror="this.onerror=null;this.src=&#39;/Content/images/trans.png&#39;;" src="/Content/images/TV/tvc_00000017.png"></img></div>
+                    
+			        <div class="info">
+				        <p>                
+                                <span class="overStar">
+		                            <span class="campeonato"> <a href="/esp/Sport/Competicion/951">USA MLB </a> </span>
+                                    <span class="star tooltipEve" title="Añadir a favoritos"><a class="fav" data-catId="429" data-id="951" data-tipo="2"></a></span>
+	                            </span>
+					        <br />
+					        <span class="partido">                                
+                                                <a href="/esp/Sport/Evento/807356">Minnesota Twins vs. Toronto Blue Jays &lt;02:10&gt; <span>(+ 9)</span></a>
+
+                            </span>
+				        </p> 
+			        </div>
+            
+                </div>
+
+            </div>
+
+               
+			<div class="it_807356 apuestas_fut" sport-type="Eve" des="Minnesota Twins vs. Toronto Blue Jays &lt;02:10&gt;">
+
+
+		<ul	class="it_807356_2916 houdini_apuesta" sport-type="Mkt" des="N&#186; Carreras (9,5) -incluye desempate" 				
+			il="0" ic="1" cg="0">
+
+				<li>
+					<a class="it_2916_1_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="- 9,5"><p class="tipe1"><span class="pronEvLst">- 9,5</span><br/><span class="coef">1,85</span></p></a>
+				</li>
+				<li>
+					<a class="it_2916_2_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="+ 9,5"><p class="tipe1"><span class="pronEvLst">+ 9,5</span><br/><span class="coef">1,90</span></p></a>
+				</li>
+		</ul>                                               
+		<ul 			   	  
+		class="it_807356_4332" sport-type="Mkt" des="Ganador" 
+		il="0" ic="1" cg="1"
+		>
+				
+				<li class="pronos2" >
+					<a class="it_4332_56160_E" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="Minnesota Twins"><p class="tipe1"><span class="pronEvLst">Minneso...</span><br/><span class="coef">1,55</span></p></a>
+				</li>
+				<li class="pronos2" >
+					<a class="it_4332_56172_E" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="Toronto Blue Jays"><p class="tipe1"><span class="pronEvLst">Toronto...</span><br/><span class="coef">2,40</span></p></a>
+				</li>
+	    </ul>		
+                
+			</div>
+
+			<div class="clear fle" ks-fle='15/09/2017'></div>			
+		</li>
+		<li class="filtroCategoria filtroCat-429">
+			
+            <div class="infoEve">
+            
+                <div class="ico icoConExtra" style=margin-top:0;>
+                    <img Alt="USA MLB " onerror="this.onerror=null;this.src=&#39;/Content/images/trans.png&#39;;" src="/Content/images/SCT/sct_00000951.png"></img>            <span class="livetxt">LIVE</span>
+
+			    </div>
+
+                <div>
+    			
+                    <div class="date" style="margin-right:-20px;margin-left:-3px;">
+                        <div class="ico_tv_cont">        
+				            <p>         
+                                
+                         
+                           
+                                            <time class="dateFecha" datetime="2017-09-15 02:07:00Z" showToday="true" format="sd"></time>
+
+                                <br />
+				                <span title="2017-09-15 02:07:00Z" class="timeto tooltipEve" live="1" d-date="<h3>#date</h3><span>#time</span>">4:07</span>                            
+                    
+				            </p>
+                       </div>
+			        </div>
+                    <div style="margin-top:-5px;" class="ico"><img Style="width:24px; height:24px" onerror="this.onerror=null;this.src=&#39;/Content/images/trans.png&#39;;" src="/Content/images/TV/tvc_00000017.png"></img></div>
+                    
+			        <div class="info">
+				        <p>                
+                                <span class="overStar">
+		                            <span class="campeonato"> <a href="/esp/Sport/Competicion/951">USA MLB </a> </span>
+                                    <span class="star tooltipEve" title="Añadir a favoritos"><a class="fav" data-catId="429" data-id="951" data-tipo="2"></a></span>
+	                            </span>
+					        <br />
+					        <span class="partido">                                
+                                                <a href="/esp/Sport/Evento/807468">Los &#193;ngeles Angels vs. Houston Astros &lt;04:07&gt; <span>(+ 9)</span></a>
+
+                            </span>
+				        </p> 
+			        </div>
+            
+                </div>
+
+            </div>
+
+               
+			<div class="it_807468 apuestas_fut" sport-type="Eve" des="Los &#193;ngeles Angels vs. Houston Astros &lt;04:07&gt;">
+
+
+		<ul	class="it_807468_2915 houdini_apuesta" sport-type="Mkt" des="N&#186; Carreras (8,5) -incluye desempate" 				
+			il="0" ic="1" cg="0">
+
+				<li>
+					<a class="it_2915_1_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="- 8,5"><p class="tipe1"><span class="pronEvLst">- 8,5</span><br/><span class="coef">2,05</span></p></a>
+				</li>
+				<li>
+					<a class="it_2915_2_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="+ 8,5"><p class="tipe1"><span class="pronEvLst">+ 8,5</span><br/><span class="coef">1,70</span></p></a>
+				</li>
+		</ul>                                               
+		<ul 			   	  
+		class="it_807468_4332" sport-type="Mkt" des="Ganador" 
+		il="0" ic="1" cg="1"
+		>
+				
+				<li class="pronos2" >
+					<a class="it_4332_56156_E" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="Los Ángeles Angels"><p class="tipe1"><span class="pronEvLst">Los Áng...</span><br/><span class="coef">2,10</span></p></a>
+				</li>
+				<li class="pronos2" >
+					<a class="it_4332_56154_E" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="Houston Astros"><p class="tipe1"><span class="pronEvLst">Houston...</span><br/><span class="coef">1,70</span></p></a>
+				</li>
+	    </ul>		
+                
+			</div>
+
+			<div class="clear fle" ks-fle='15/09/2017'></div>			
+		</li>
+</ul>
+
+
+    
+
+
+
+
+
+
+
+
+        
+
+        
+
+        
+
+        
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                </div>
+
+            </div>
+        </div>
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+    function setClickMod() {
+        $(document).on('click', '.modalidad li a', function () {
+            var el = $(this);
+            var idDiv = el.closest('.getSct').attr('id');
+            var parent = $('#' + idDiv);
+            var selectedClass = "selected";
+            $('.modalidad li a', parent).removeClass(selectedClass);
+            $(el, parent).addClass(selectedClass);
+        });
+    }
+    $(document).ready(setClickMod());
+</script>
+
+    </div>
+
+ 
+
+</div>
+
+	  
+		</div>	 
+			<div id="pagging"><a class="viewmore pagging" href="/esp/Sport/DeporteProximos/429" ks-div="#EveList">M&#225;s eventos</a></div>
+
+
+         		
+                        </div>
+					</div>
+					<!-- /column -->					
+					<div class="column last">	
+                        <div class="resizer resLast">					
+						    <!-- BOLETO -->
+						    <div class="blue">
+							    <div id="BetSlipParent">
+							       <div id="BetSlip">
+
+
+
+
+
+
+<h3>Mi Boleto</h3>
+						
+<div class="clear"></div>
+<ul class="nav_glob">
+    <li class="BetSlip"><a href="javascript: changeBetSlip('BetSlip'); void(0);">Deportes</a></li>
+</ul>
+
+
+
+ <!--- -->
+<script type="text/javascript">
+    window.bsMode = "BetSlip"; 		
+	$(function(){
+		bs.cache.setBsMode(bsMode);
+	});
+	
+	resetAllLines();
+	
+</script>
+    
+								    </div>
+							    </div>
+						    </div>
+						    <!-- /boleto -->                                                                                                                        
+  
+                            
+    <a id="registrate" class="ocultateLogueado destacados alargarExtended " href="/esp/Account/RegistroDeUsuario"><img src="/Customers/19/Content/images/DESTACADOS/txt_registrate_esp.png" alt="&#161;Reg&#237;strate!" onerror="this.onerror=null;this.src='/Content/img/onerror.png';" /></a>
+    <a id="casino" class="destacados alargarExtended" category="casino" href="/esp/Casino"><img src="/Customers/19/Content/images/DESTACADOS/txt_casino_esp.png" onerror="this.onerror=null;this.src='/Content/img/onerror.png';" /></a>
+    <a id="app" class="destacados alargarExtended" href="/esp/Sport/Mobile"><img src="/Customers/19/Content/images/DESTACADOS/txt_app_esp.png" alt="APP" onerror="this.onerror=null;this.src='/Content/img/onerror.png';" /></a>
+
+<script type="text/javascript">    window['chatClientCode'] = '324ox2SJGiZ9dyHUpXYhuOEd59pYcVHx';</script>
+<script type="text/javascript">kslib.ksUtil.loadjscssfile('/Scripts/others/chat.js?v=' + 309, 'js');</script>
+
+						    <div class="graphite liveAcordeon">
+							    <div>
+								    <h3 id="MenuLive" class="red"><a href="/esp/Live" style="color:#FFFFFF;">Live</a></h3>
+							    </div>
+							    <div class="clear"></div>
+							    <div id="menuDirectos">								    
+									
+
+
+<script type="text/javascript">
+	$(document).ready(function () {
+		$('#conEventosAccordion').hide();
+		$('#sinEventosAccordion').hide();
+	});
+</script>
+
+
+
+<div id="sinDatosAccordion" style="display: none;"></div>
+
+<div id="conDatosAccordion" style="display: none;">
+	<div id="liveAccordion">
+
+		
+		<div data-bind="controlDatosAccordion: $data.Matches().length" section="DatosAccordion"></div>
+
+		<ul class="accordion" id="accordion-live" data-bind="foreach: MbyCat">
+			<li class="dcjq-parent-li ksAccordion-li" data-bind="accordion: {}"><a href="#" class="ksAccordion-icon"><img data-bind="attr: {src: kslib.ksPaths.getImageSrc({parameterID: CategoryId, imageType: 'CAT'})}" onError="this.onerror=null;this.src='/Content/images/trans.png';" class="icoImg" alt="imagen de categoría" style="float:left;margin-top:3px;" /> <span class="maximo_deporte" data-bind="text: CategoryText.toUpperCase()"></span><div class="clear"></div></a>
+				<ul class="ksAccordion-toggle" data-bind="foreach: $data.Matches, attr: {id: 'accordion-live-'+CategoryId}">
+					<!-- ko if: $data.Score && $data.Score != null -->
+						<li>
+							<!-- ko with: $data.Score -->
+								<div class="seccion_live">
+                                    <p class="live-hora">
+                                        <!-- ko if: ($data.TipoMarcadorMulti != "Tenis" && $data.TipoMarcadorMulti != "PingPong" && $data.TipoMarcadorMulti != "Basket" && $data.TipoMarcadorMulti != "Beisbol" && $data.TipoMarcadorMulti != "Snooker") -->
+                                        <!-- ko if: $data.GameTime() && $data.GameTime() != "0" && $data.GameTime() != "" -->
+	<span class="ksNegrita">  M&#237;n.</span> <span class="ksNegrita" data-bind="text: GameTime"></span>
+<!-- /ko -->
+<!-- ko if: !$data.GameTime() || $data.GameTime() == "0" || $data.GameTime() == "" -->
+	<!-- ko if: $data.RemainingGameTime() && $data.RemainingGameTime() != "0" && $data.RemainingGameTime() != "" -->
+		<span class="ksNegrita">  Faltan</span> <span class="ksNegrita" data-bind="remainingTime: RemainingGameTime"></span>
+	<!-- /ko -->
+<!-- /ko -->
+<!-- ko if: (!$data.GameTime() || $data.GameTime() == "0" || $data.GameTime() == "") && (!$data.RemainingGameTime() || $data.RemainingGameTime() == "0" || $data.RemainingGameTime() == "") -->
+	<span class="ksNegrita">  Hora Inicio <span  data-bind="hora:$parent.StartDate, type: 'SHORT_TIME'"></span></span>
+<!-- /ko -->
+
+                                        <!-- /ko -->
+                                        <!-- ko if: ($data.TipoMarcadorMulti == "Tenis" || $data.TipoMarcadorMulti == "PingPong" || $data.TipoMarcadorMulti == "Basket" || $data.TipoMarcadorMulti == "Beisbol" || $data.TipoMarcadorMulti == "Snooker") -->
+										<span>
+                                        <!-- ko if: $data.Periods -->
+											
+                                            <!-- ko if: PeriodActive() > 0 -->
+                                                <!-- ko if: $data.TipoMarcadorMulti == "Basket" -->
+                                                    <span class="marcador_tenis" data-bind="highlightScore: PeriodActive"></span><span class="marcador_tenis">º cuarto</span>
+                                                <!-- /ko -->
+                                                <!-- ko if: ($data.TipoMarcadorMulti == "Tenis" || $data.TipoMarcadorMulti == "PingPong" || $data.TipoMarcadorMulti == "Beisbol") && ($data.TipoMarcador != "Dardos" && $data.TipoMarcador != "Snooker") -->
+												    <span class="marcador_tenis">Set</span> <span class="marcador_tenis" data-bind="highlightScore: PeriodActive"></span>
+                                                <!-- /ko -->
+                                                <!-- ko if: ($data.TipoMarcadorMulti == "Snooker") -->
+                                                    <!-- ko if: ($parent.CategoryId == "451") -->
+                                                    <span class="marcador_tenis">Frame</span>
+                                                    <!-- /ko -->
+                                                    <!-- ko if: ($parent.CategoryId == "449") -->
+                                                    <span class="marcador_tenis">Leg</span>
+                                                    <!-- /ko -->
+                                                     <span class="marcador_tenis" data-bind="highlightScore: PeriodActive"></span>
+                                                <!-- /ko -->
+											<!-- /ko -->
+                                        <!-- /ko -->
+                                        </span>
+                                        <!-- /ko -->
+                                    
+                                    
+                                    </p>
+									
+                                    <a href="#" class="sin dcjq-current" data-bind="attr: {'match-id': $parent.Id, 'href': '/esp/Live/Evento' + '/' + $parent.Id}">
+                                        <!-- ko if: ($data.TipoMarcadorMulti != "Ciclismo") -->
+                                        <p>
+                                            <span data-bind="text: TeamHome"></span>
+                                            <!-- ko if: $data.Service && $data.Service() == 1 -->
+                                            <b class="saque"></b>
+                                            <!-- /ko -->
+                                        </p>
+                                        <p>
+                                            <span data-bind="text: TeamAway"></span>
+                                            <!-- ko if: $data.Service && $data.Service() == 2 -->
+                                            <b class="saque"></b>
+                                            <!-- /ko -->
+                                        </p>
+                                        <!-- /ko -->
+                                        <!-- ko if: ($data.TipoMarcadorMulti == "Ciclismo") -->
+                                        <p>
+                                            <span data-bind="text: $parent.Text"></span>
+                                        </p>
+                                        <!-- /ko -->
+                                    </a>
+								</div>
+                                <div class="marcadorNoTenis">
+								    <!-- ko if: $data.TipoMarcadorMulti != "Tenis" && $data.TipoMarcadorMulti != "PingPong" && $data.TipoMarcadorMulti != "none" && $data.TipoMarcadorMulti != "Basket" && $data.TipoMarcadorMulti != "Beisbol" && $data.TipoMarcadorMulti != "Snooker" -->
+									    <!-- ko if: $data.Periods -->
+										    <div class="marcador" data-bind="foreach: Periods">
+											        <div class="fleft"><span data-bind="highlightScore: Home"></span></div>
+	<div class="fleft"><span data-bind="highlightScore: Away"></span></div>
+
+										    </div>
+									    <!-- /ko -->
+								    <!-- /ko -->
+                                </div>
+								
+                                    <!-- ko if: ($data.TipoMarcadorMulti == "Tenis" || $data.TipoMarcadorMulti == "PingPong" || $data.TipoMarcadorMulti == "Basket" || $data.TipoMarcadorMulti == "Beisbol" ) -->
+                                        <div class="marcadorTenis">
+                                        <!-- ko if: $data.Periods -->
+											
+                                            <ul>
+                                            <!-- ko foreach: $data.Periods -->
+												
+                                                <!-- ko if: $data.Id != 0 -->
+													<!-- ko if: $index() < $parent.PeriodActive()  -->
+														<li>    <div class=""><span data-bind="highlightScore: Home"></span></div>
+	<div class=""><span data-bind="highlightScore: Away"></span></div>
+</li>
+													<!-- /ko -->
+												<!-- /ko -->
+
+                                                <!-- ko if: $data.Id == $parent.PeriodActive()-->
+													<!-- ko if: $index() <= $parent.PeriodActive() -->
+														<li class="period-active">    <div class=""><span data-bind="highlightScore: Home"></span></div>
+	<div class=""><span data-bind="highlightScore: Away"></span></div>
+</li>
+                                                            
+													<!-- /ko -->
+												<!-- /ko -->
+                                                
+											<!-- /ko -->
+
+                                            <!-- ko if: $data.TipoMarcadorMulti == "Basket" || $data.TipoMarcadorMulti == "Beisbol" -->
+										        <li data-bind="foreach: Periods" class="totalResult">
+                                                    <!-- ko if: $data.Id == 0 -->
+                                                            <div class=""><span data-bind="highlightScore: Home"></span></div>
+	<div class=""><span data-bind="highlightScore: Away"></span></div>
+
+                                                    <!-- /ko -->
+                                                </li>
+                                            <!-- /ko -->
+
+                                            </ul>
+
+										<!-- /ko -->
+                                        </div>
+									<!-- /ko -->
+
+
+                                    <!-- ko if: ( $data.TipoMarcadorMulti == "Snooker" ) -->
+                                        <div class="marcadorTenis">
+                                        <!-- ko if: $data.Periods -->
+                                            <ul>
+                                                <!-- ko foreach: $data.Periods -->
+                                                    <!-- ko if: $data.Id == 1 -->
+												    <li>    <div class=""><span data-bind="highlightScore: Home"></span></div>
+	<div class=""><span data-bind="highlightScore: Away"></span></div>
+</li>
+                                                    <!-- /ko -->
+											    <!-- /ko -->
+										        <li data-bind="foreach: Periods" class="totalResult">
+                                                    <!-- ko if: $data.Id == 0 -->
+                                                            <div class=""><span data-bind="highlightScore: Home"></span></div>
+	<div class=""><span data-bind="highlightScore: Away"></span></div>
+
+                                                    <!-- /ko -->
+                                                </li>
+                                            </ul>
+										<!-- /ko -->
+                                        </div>
+									<!-- /ko -->
+
+
+
+
+							<!-- /ko -->
+						</li>
+					<!-- /ko -->
+				</ul>
+			</li>
+		</ul>		
+	</div>
+</div>
+
+							    </div>
+						    </div>
+						    <!-- /live-menuderecho -->
+                        </div>
+					</div>
+					<!-- /column last -->					
+					<div class="clear"></div>					
+				</div> 				
+			</div>
+			<!-- /principal -->		
+			<!-- footer -->
+			<div id="footer">
+				
+
+<div id="pie">
+
+	<div class="pie_centro">
+		 
+ 
+ <div class="pie_centro_inf">
+        
+        <div class="pie_centro_inf_4bloq">
+            <h1>Juegging</h1>
+            <ul>
+                <li><a href="https://www.juegging.es/quienes-somos" target="_blank">Conoce Juegging.es</a></li>
+                
+                <li><a href="https://www.juegging.es/sobre-juegging/atencion-al-cliente" target="_blank">Contacto</a></li>
+                <li><a href="https://www.juegging.es/juego-responsable" target="_blank">Juego responsable</a></li>
+                <li><a href="/esp/General/Reglamento">Terminos y condiciones</a></li>
+            </ul>
+        </div>
+        <div class="pie_centro_inf_4bloq">
+            <h1>Ayuda</h1>
+            <ul>
+                <li><a href="/esp/General/IngresosRetiradas">Ingresos y retiradas</a></li>
+                <li><a href="/esp/General/PreguntasFrecuentes">Preguntas frecuentes</a></li>
+                    <li><a href="/esp/General/ConsultaBoleto">Consulta de boletos</a></li>
+            </ul>
+        </div>
+  </div>
+	</div>
+
+	<div class="pie_derecho">
+		<div class="pie_derecho_sup">
+    		<p>Síguenos en:</p>
+			<a class="f" href="https://es-es.facebook.com/juegging" target="_blank"><span>Facebook</span></a>
+			<a class="t" href="https://twitter.com/JueggingES" target="_blank"><span>Twitter</span></a>
+			<a class="y" href="https://www.youtube.com/channel/UCZhi6VpfZxAySawPY2DM4VQ" target="_blank"><span>You Tube</span></a>
+		</div>
+	</div>
+    <div class="clear"></div>
+
+    <div class="pie_centro_sup">
+		<div class="pie_centro_sup_izq">
+			<h1>M&#233;todos de pago:</h1>
+		</div>
+		<div class="pie_centro_sup_cent">
+			<img src="/Content/img/mastercard.png" alt="Mastercard" onerror="this.onerror=null;this.src='/Content/img/onerror.png';" />
+			<img src="/Content/img/maestro.png" alt="Maestro" onerror="this.onerror=null;this.src='/Content/img/onerror.png';" />
+            <img src="/Content/img/visa.png" alt="Visa" onerror="this.onerror=null;this.src='/Content/img/onerror.png';" />
+			<img src="/Content/img/electron.png" alt="Visa Electrón" onerror="this.onerror=null;this.src='/Content/img/onerror.png';" />
+            <img src="/Content/img/halcash_mini.png" alt="Halcash" onerror="this.onerror=null;this.src='/Content/img/onerror.png';" />
+            
+		</div>
+        <div class="pie_derecho_inf">
+            <img src="/Customers/19/Content/img/at_cliente_esp.png" alt="Atenci&#243;n al Cliente" title="Atenci&#243;n al Cliente" onerror="this.onerror=null;this.src='/Content/img/onerror.png';" />
+        </div>
+	</div>
+    
+    <div class="clear"></div>
+    
+
+
+    <div id="blockicons">
+        <ul id="logos-juego">                          
+             <li class="logoSecure"><a target="_blank" href="http://www.juegoseguro.es"></a></li>
+             <li class="logoJugarBien"><a target="_blank" href="http://www.jugarbien.es/"></a></li>
+             <li class="logoAutoexclusion"><a target="_blank" href="http://www.ordenacionjuego.es/es/rgiaj"></a></li>
+             <li class="secure18"></li>  
+        </ul>
+        
+        <div class="pie_derecho_inf">
+            <img src="/Customers/19/Content/img/logo_gris.png" alt="Juegging" onerror="this.onerror=null;this.src='/Content/img/onerror.png';" />
+	    </div>
+        <div class="clear"></div>
+    </div>
+    
+</div>
+
+<div class="repie">
+    <p class="fleft">Copyright &#169; 2013-2017 Empresa Banegras Uni&#243;n S.A.</p>
+	<p class="fright"><span style="color:orange" class=hidden>Versi&#243;n Portal: Juegging Banegras - 3.5.2.6 - </span>Powered by <a href="http://www.kirolsoft.com/" target="_blank" title="Kirolsoft"><img style="margin-left:5px;" src="/Content/img/kirolsoft.png" alt="KirolSoft" /></a></p>
+    <div class="clear"></div>
+</div>
+
+           
+			</div>
+			<!-- /footer -->
+		</div>
+		<!-- cuerpo -->
+	</div>
+	<!-- /estructura -->
+		<div id="Error404dg" style="display:none">
+<p class="ks-message">&#191;No encuentras lo que buscas? Ponte en contacto con nosotros.</p>	</div>
+	<div id="Error500dg" style="display:none">
+<p class="ks-message">Lo sentimos ocurri&#243; un error, por favor vuelve a intentarlo o ponte en contacto con nosotros.</p>	</div>
+	<div class="problemasConexion naranja" style="display: none;">
+    	<p>Puede que haya problemas con la conexi&#243;n.</p>
+	</div>
+	<div class="errorConexion" style="display: none;">
+	  <p>En estos momentos la p&#225;gina no est&#225; disponible. Estamos trabajando para resolverlo lo antes posible. Disculpa las molestias..</p>
+    </div>
+	<div id="uiTimeout" style="display: none;">
+	  <p class="ks-message">Se ha detectado un periodo largo de inactividad</p>
+    </div>
+
+
+	
+            <script src="/Scripts/scriptsWebsync.js?v=309" type="text/javascript"></script>
+            <script src="/Scripts/scriptsKsLive.js?v=309" type="text/javascript"></script>
+	
+	<script type="text/javascript">
+        var fechaHoy = '14/09/2017';
+
+		var doTimeto = true;
+		if (modoPantalla == 'extended') kslib.ksUtil.loadjscssfile("" + '/Content/css/estilosExtendidos.css?v=' + 309, 'css');
+		
+		function displayMessages() {
+			if ($("#messagewrapper").children().length > 0) {
+				kslib.ksMessages.showMessageFromArea({
+					areaID: '#messagewrapper',
+					title: 'Operación No Autorizada',
+					dialogClass: 'ks-dialogError'
+				});
+				$(document).click(function () {
+					clearMessages();
+				});
+			}
+		}
+
+		function clearMessages() {
+			$("#messagewrapper").fadeOut(500, function () {
+				$("#messagewrapper").empty();
+			});
+		}
+
+		$(document).ready(function () {
+		    
+		    var galgos = ('False') == 'True' ? true : false;
+		    if (galgos) getGalgosNextRaceData();
+
+			displayMessages();
+
+			getLines(true);
+
+			// NOTIFICADOR
+			var notificaciones = ["fav_abs_cont"];
+			var notificador = new notifier(notificaciones, storage);
+			$(".fav_abs_cerrar, #fav_abs_cerrar_btn").on("click", function(){
+				notificador.closeNotify($(this).attr('data-key'));
+			});
+			notificador.notify();
+
+            // CARGA DE DIRECTOS: Hacemos la carga asíncrona para que el resto de datos no se queden a esperar.
+            setTimeout(function () {
+
+                var action = "deporte";
+                var elementId = (action == 'index') ? '#directosHome' : null;
+                var screenType = (action == 'index') ? 'LIVEHOME' : 'LIVEMENU';
+                var actionUrl = '/esp/Live/LiveData';
+
+                setLiveHomeDataByAjax ({
+                    elementId: elementId,
+                    screenType: 'LIVEHOME',
+                    actionUrl: actionUrl,
+                    renderMenuLive: true,
+                    renderLiveHome: true,
+                    afterUpdateModel: afterUpdateModelHome,
+                    koAc: window['koAc'] == undefined ? null : window['koAc'],
+                    koId: window['koId'] == undefined ? null : window['koId']
+                });
+
+                /*var oHome = new objLiveHome({
+                    elementId: elementId,
+                    elementIdAux: '#menuDirectos',
+                    language: 'esp',
+                    afterUpdateModel: afterUpdateModelHome,
+                    koAc: window['koAc'] == undefined ? null : window['koAc'],
+                    koId: window['koId'] == undefined ? null : window['koId']
+                });*/
+
+            }, 10);
+
+		});
+
+	</script>
+
+    
+<script type="text/javascript">
+
+	var $comptCont;
+	var eveLoader = new eventLoader(0, 7);
+		
+	var koAc = 'deporte';
+	if (koAc == '') {
+		koAc = 'competicion';
+		var koId = '0';
+	} else {
+		koAc = 'deporte';
+		var koId = '429';
+	}
+
+	koAc = (koAc == '') ? 'competicion' : koAc;
+
+	
+	paggerCtrl = new pagger();
+	
+
+
+	$(document).on("click", ".cmbbox", function(){
+        var selector = $(this).attr("data-div");
+        var flechita = $('.arrowRotate');
+		$(selector).slideToggle(200, function(){ eveLoader.stored.cmbModVState = $(this).is(":visible"); });
+        if (flechita.hasClass("invert")){
+            flechita.css('transform', 'rotate(0deg)');
+            flechita.removeClass('invert');
+        }
+        else{
+            flechita.css('transform', 'rotate(180deg');
+            flechita.addClass('invert');
+        }
+    });
+    $(document).on('click', '.comptSel', function(){
+        $(this).siblings('.cmbbox').click();
+    });
+
+	$(document).ready(function () {
+        
+        $('.setArrow').css('transform', 'rotate(180deg)').addClass('invert');
+
+		/*kslib.ksAccordion.setAccordion({
+			areaID: '#bloqueLiveDeporte',
+			toggleSpeed: 'fast',
+			autoExpand: false,
+			classIconOpen: 'ksIconOpen',
+			classIconClose: 'ksIconClose'
+		});*/
+
+        $comptCont = $("#comptCont");		
+
+		    
+		        $("a[ks-filterEvent=true]").click(function (evt) {
+			        evt.preventDefault();
+			        var filter = $(this);
+			        var field = filter.attr("filter-field");
+			        var value = filter.attr("filter-value");
+			        eveLoader.changeHiddenFieldSubmit(value, field);
+		        });
+		        setTabActive('group-', 7);
+		    
+        
+        eveLoader.paintWidgetResultados(true);
+	});
+
+</script>
+
+<script type="text/javascript">updateTipoSaldoLogin();</script>
+
+
+<script type="text/javascript">
+var google_tag_params = {
+dynx_itemid: 'REPLACE_WITH_VALUE',
+dynx_itemid2: 'REPLACE_WITH_VALUE',
+dynx_pagetype: 'REPLACE_WITH_VALUE',
+dynx_totalvalue: 'REPLACE_WITH_VALUE',
+};
+</script>
+<script type="text/javascript">
+/* <![CDATA[ /
+var google_conversion_id = 939509419;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/ ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/939509419/?value=0&guid=ON&script=0"/>
+</div>
+</noscript>
+
+<script type="text/javascript">
+/* <![CDATA[ /
+var google_conversion_id = 939509419;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "ffffff";
+var google_conversion_label = "sC4tCPntx2QQq43_vwM";
+var google_remarketing_only = false;
+/ ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/939509419/?label=sC4tCPntx2QQq43_vwM&guid=ON&script=0"/>
+</div>
+</noscript>
+
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1259432507409206');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none" 
+src="https://www.facebook.com/tr?id=1259432507409206&ev=PageView&noscript=1" 
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+
+
+<!-- Twitter universal website tag code -->
+<script>
+    !function (e, n, u, a) {
+        e.twq || (a = e.twq = function () {
+            a.exe ? a.exe.apply(a, arguments) :
+a.queue.push(arguments);
+        }, a.version = '1', a.queue = [], t = n.createElement(u),
+t.async = !0, t.src = '//static.ads-twitter.com/uwt.js', s = n.getElementsByTagName(u)[0],
+s.parentNode.insertBefore(t, s))
+    } (window, document, 'script');
+    // Insert Twitter Pixel ID and Standard Event data below
+    twq('init', 'nv51s');
+    twq('track', 'PageView');
+</script>
+<!-- End Twitter universal website tag code --></body>
+</html>    

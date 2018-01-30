@@ -1,0 +1,2748 @@
+<?xml version="1.0"?>
+<page generated="2017-09-14 14:39:52" title="Soccer &gt; Germany &gt; 3rd Liga  2017/18" GA="dimension10_1/dimension11_30/dimension19_1/dimension14_41808/dimension3_summary/dimension12_491/dimension7_74/dimension8_bet365"><n id="2563" c="view" cache="600"><s p="2" s="clientid" id="1"/><s p="2" s="test" id="14"/><s p="0" s="clientid" id="1"/><s p="0" s="test" id="14"/><s p="3" s="clientid" id="1"/><s p="0" s="search_ui_location" id="449"/><s p="2" s="logo_leftsolution" id="451"/><s p="2" s="treemenu" id="477"/><s p="4" s="treemenu" id="477"/><s p="4" s="test" id="14"/><s p="0" s="treemenu" id="477"/><s p="1" s="language_ui_location" id="553"/><n p="0" id="1233" c="view"/><n p="2" id="3605" c="logonew" data="1"><c cache="2592000" type="document"><![CDATA[<div id="node_logo_image" class="view"  >
+</div>]]></c></n><n p="3" id="1233" c="view"/><n p="4" id="2564" c="view"><p n="template" t="1" v="HBox"/><p n="divId" t="String" v="master-wrapper"/><s p="0" s="test" id="14"/><s p="0" s="clientid" id="1"/><s p="2" s="clientid" id="1"/><s p="0" s="leftmenu_type" id="455"/><n p="0" id="2565" c="view"><p n="template" t="1" v="VBox"/><p n="divId" t="String" v="left-side-menu-wrap"/><s p="2" s="menu_cornerbox_leftsolution" id="453"/><s p="2" s="clientid" id="1"/><s p="1" s="clientid" id="1"/><s p="1" s="test" id="14"/><s p="0" s="clientid" id="1"/><s p="3" s="clientid" id="1"/><s p="4" s="clientid" id="1"/><s p="1" s="search_ui_location" id="449"/><n p="0" id="1233" c="view"/><n p="1" id="2989" c="Search" data="1"><c cache="2592000"><![CDATA[
+        <div class="searchcontainer searchscope">
+            <div class="ui-widget">
+                <input aria-haspopup="true" aria-autocomplete="list" role="textbox" autocomplete="off" id="sphinx" class="ui-autocomplete-input" />
+                <span id="sphinx_search_button"></span>
+            </div>
+        </div>
+        ]]></c></n><n p="2" id="2997" c="view"><n p="0" id="2999" c="menu" data="1"><p n="lightweight_filters" t="intarray" v="97"/><p n="type" t="String" v="treelist"/><p n="lightweight" t="boolean" v="1"/><p n="menuid" t="int" v="74"/><c cache="86400"><![CDATA[<div class=""><ul class=""></ul></div>
+]]></c></n></n><n p="3" id="1233" c="view"/><n p="4" id="1233" c="view"/></n><n p="1" id="2299" c="view"><p n="template" t="1" v="VBox"/><p n="divId" t="String" v="main-wrap"/><s p="0" s="language_ui_location" id="553"/><s p="2" s="clientid" id="1"/><s p="5" s="clientid" id="1"/><s p="4" s="sportid" id="2"/><s p="4" s="clientid" id="1"/><n p="0" id="2861" c="view"><p n="class" t="String" v="language_select"/><s p="0" s="haslanguageselect" id="331"/><s p="0" s="clientid" id="1"/><n p="0" id="2863" c="menu" data="1"><p n="type" t="String" v="slickselect"/><p n="menuid" t="int" v="123"/><c cache="86400"><![CDATA[<div class=""><div class="sb-wrapper"><div class="sb-selectedbox"><div class="sb-current"><div class="label"><span class="icon_flag cc-gb lang-2"></span><span>English</span></div><div class="arrow"></div><div class="clearResponsive"></div></div></div><div style="clear: both;"></div><div class="sb-optionswrap" style="display: none;"><div class="sb-scrollbox"><ul class="slickselect"><li class="sb-option active icon_flag cc-gb lang-2"><a href="javascript:s4.setLanguage('en');"><span><span class="icon_flag cc-gb lang-2"></span>English</span></a></li><li class="sb-option icon_flag cc-de lang-3"><a href="javascript:s4.setLanguage('de');"><span><span class="icon_flag cc-de lang-3"></span>Deutsch</span></a></li><li class="sb-option icon_flag cc-fr lang-4"><a href="javascript:s4.setLanguage('fr');"><span><span class="icon_flag cc-fr lang-4"></span>Fran&ccedil;ais</span></a></li><li class="sb-option icon_flag cc-it lang-1"><a href="javascript:s4.setLanguage('it');"><span><span class="icon_flag cc-it lang-1"></span>Italiano</span></a></li><li class="sb-option icon_flag cc-tr lang-6"><a href="javascript:s4.setLanguage('tr');"><span><span class="icon_flag cc-tr lang-6"></span>T&uuml;rk&ccedil;e</span></a></li><li class="sb-option icon_flag cc-hr lang-7"><a href="javascript:s4.setLanguage('hr');"><span><span class="icon_flag cc-hr lang-7"></span>Hrvatski</span></a></li><li class="sb-option icon_flag cc-sk lang-8"><a href="javascript:s4.setLanguage('sk');"><span><span class="icon_flag cc-sk lang-8"></span>Sloven&#269;ina</span></a></li><li class="sb-option icon_flag cc-si lang-9"><a href="javascript:s4.setLanguage('sl');"><span><span class="icon_flag cc-si lang-9"></span>Sloven&scaron;&#269;ina</span></a></li><li class="sb-option icon_flag cc-no lang-10"><a href="javascript:s4.setLanguage('no');"><span><span class="icon_flag cc-no lang-10"></span>Norsk</span></a></li><li class="sb-option icon_flag cc-se lang-11"><a href="javascript:s4.setLanguage('se');"><span><span class="icon_flag cc-se lang-11"></span>Svenska</span></a></li><li class="sb-option icon_flag cc-dk lang-12"><a href="javascript:s4.setLanguage('da');"><span><span class="icon_flag cc-dk lang-12"></span>Dansk</span></a></li><li class="sb-option icon_flag cc-es lang-13"><a href="javascript:s4.setLanguage('es');"><span><span class="icon_flag cc-es lang-13"></span>Espa&ntilde;ol</span></a></li><li class="sb-option icon_flag cc-nl lang-14"><a href="javascript:s4.setLanguage('nl');"><span><span class="icon_flag cc-nl lang-14"></span>Nederlands</span></a></li><li class="sb-option icon_flag cc-pl lang-15"><a href="javascript:s4.setLanguage('pl');"><span><span class="icon_flag cc-pl lang-15"></span>Polski</span></a></li><li class="sb-option icon_flag cc-pt lang-16"><a href="javascript:s4.setLanguage('pt');"><span><span class="icon_flag cc-pt lang-16"></span>Portugu&ecirc;s</span></a></li><li class="sb-option icon_flag cc-cz lang-17"><a href="javascript:s4.setLanguage('cs');"><span><span class="icon_flag cc-cz lang-17"></span>&#268;esky</span></a></li><li class="sb-option icon_flag cc-lv lang-18"><a href="javascript:s4.setLanguage('lv');"><span><span class="icon_flag cc-lv lang-18"></span>Latvie&scaron;u</span></a></li><li class="sb-option icon_flag cc-fi lang-19"><a href="javascript:s4.setLanguage('fi');"><span><span class="icon_flag cc-fi lang-19"></span>Suomeksi</span></a></li><li class="sb-option icon_flag cc-ru lang-21"><a href="javascript:s4.setLanguage('ru');"><span><span class="icon_flag cc-ru lang-21"></span>&#1056;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081;</span></a></li><li class="sb-option icon_flag cc-th lang-29"><a href="javascript:s4.setLanguage('th');"><span><span class="icon_flag cc-th lang-29"></span>&#3652;&#3607;&#3618;</span></a></li><li class="sb-option icon_flag cc-cn lang-30"><a href="javascript:s4.setLanguage('zh');"><span><span class="icon_flag cc-cn lang-30"></span>&#31616;&#20307;&#20013;&#25991;</span></a></li><li class="sb-option icon_flag cc-ba lang-31"><a href="javascript:s4.setLanguage('bs');"><span><span class="icon_flag cc-ba lang-31"></span>Bosanski</span></a></li><li class="sb-option icon_flag cc-hu lang-32"><a href="javascript:s4.setLanguage('hu');"><span><span class="icon_flag cc-hu lang-32"></span>Magyar</span></a></li><li class="sb-option icon_flag cc-bg lang-33"><a href="javascript:s4.setLanguage('bg');"><span><span class="icon_flag cc-bg lang-33"></span>&#1041;&#1098;&#1083;&#1075;&#1072;&#1088;&#1089;&#1082;&#1080;</span></a></li><li class="sb-option icon_flag cc-rs lang-34"><a href="javascript:s4.setLanguage('sr');"><span><span class="icon_flag cc-rs lang-34"></span>C&#1088;&#1087;&#1089;&#1082;&#1080;</span></a></li><li class="sb-option icon_flag cc-gr lang-35"><a href="javascript:s4.setLanguage('el');"><span><span class="icon_flag cc-gr lang-35"></span>E&lambda;&lambda;&eta;&nu;&iota;&kappa;&#940;</span></a></li><li class="sb-option icon_flag cc-ro lang-36"><a href="javascript:s4.setLanguage('ro');"><span><span class="icon_flag cc-ro lang-36"></span>Rom&acirc;n&#259;</span></a></li><li class="sb-option icon_flag cc-ee lang-37"><a href="javascript:s4.setLanguage('et');"><span><span class="icon_flag cc-ee lang-37"></span>Eesti</span></a></li><li class="sb-option icon_flag cc-mk lang-38"><a href="javascript:s4.setLanguage('mk');"><span><span class="icon_flag cc-mk lang-38"></span>&#1052;&#1072;&#1082;&#1077;&#1076;&#1086;&#1085;&#1089;&#1082;&#1080;</span></a></li><li class="sb-option icon_flag cc-lt lang-39"><a href="javascript:s4.setLanguage('lt');"><span><span class="icon_flag cc-lt lang-39"></span>Lietuvi&#371; </span></a></li><li class="sb-option icon_flag cc-cn lang-40"><a href="javascript:s4.setLanguage('zht');"><span><span class="icon_flag cc-cn lang-40"></span>&#20013;&#25991;&#32321;&#39636;</span></a></li><li class="sb-option icon_flag cc-vn lang-42"><a href="javascript:s4.setLanguage('vi');"><span><span class="icon_flag cc-vn lang-42"></span>Ti&#7871;ng Vi&#7879;t</span></a></li><li class="sb-option icon_flag cc-id lang-41"><a href="javascript:s4.setLanguage('id');"><span><span class="icon_flag cc-id lang-41"></span>Bahasa</span></a></li><li class="sb-option icon_flag cc-jp lang-43"><a href="javascript:s4.setLanguage('ja');"><span><span class="icon_flag cc-jp lang-43"></span>&#26085;&#26412;&#35486;</span></a></li><li class="sb-option icon_flag cc-kr lang-44"><a href="javascript:s4.setLanguage('ko');"><span><span class="icon_flag cc-kr lang-44"></span>&#54620;&#44397;&#50612;</span></a></li><li class="sb-option icon_flag cc-ch lang-46"><a href="javascript:s4.setLanguage('ch');"><span><span class="icon_flag cc-ch lang-46"></span>Schweizerdeutsch</span></a></li><li class="sb-option icon_flag cc-ge lang-53"><a href="javascript:s4.setLanguage('ka');"><span><span class="icon_flag cc-ge lang-53"></span>&#4325;&#4304;&#4320;&#4311;&#4323;&#4314;&#4312;</span></a></li><li class="sb-option icon_flag cc-al lang-56"><a href="javascript:s4.setLanguage('sqi');"><span><span class="icon_flag cc-al lang-56"></span>Shqip</span></a></li><li class="sb-option icon_flag cc-ua lang-58"><a href="javascript:s4.setLanguage('ukr');"><span><span class="icon_flag cc-ua lang-58"></span>&#1059;&#1082;&#1088;&#1072;&#1111;&#1085;&#1089;&#1100;&#1082;&#1072;</span></a></li><li class="sb-option icon_flag cc-rs lang-60"><a href="javascript:s4.setLanguage('srl');"><span><span class="icon_flag cc-rs lang-60"></span>Srpski</span></a></li></ul></div></div></div></div>
+]]></c></n></n><n p="1" id="4215" c="view"><p n="class" t="String" v="timezone_select"/><n p="0" id="4217" c="menu" data="1"><p n="type" t="String" v="slickselect"/><p n="menuid" t="int" v="163"/><c cache="86400"><![CDATA[<div class=""><ul class=""></ul></div>
+]]></c></n></n><n p="2" id="1233" c="view"/><n p="3" id="2301" c="view"><p n="class" t="String" v="nav-wrapper"/><s p="0" s="haspartialdisplay" id="365"/><s p="1" s="sportid" id="2"/><s p="1" s="stageid" id="16"/><s p="1" s="viewtype" id="9"/><s p="1" s="seasonid" id="5"/><s p="0" s="clientid" id="1"/><s p="0" s="isvfl" id="409"/><s p="1" s="sportid2" id="309"/><s p="1" s="landingpage_stageid" id="262"/><s p="0" s="sportid" id="2"/><s p="0" s="vleague" id="527"/><n p="0" id="2014" c="view"><p n="class" t="String" v="breadcrumbs"/><s p="0" s="sportid" id="2"/><s p="2" s="continentid" id="22"/><s p="2" s="sportid" id="2"/><s p="2" s="test" id="14"/><s p="3" s="categoryid" id="3"/><s p="3" s="test" id="14"/><s p="7" s="seasonid" id="5"/><s p="9" s="tableorcup" id="239"/><s p="8" s="seasontypeid" id="242"/><s p="6" s="tournamentid" id="17"/><s p="5" s="weeklyevent_event" id="176"/><s p="5" s="tournamentid" id="17"/><s p="10" s="stageid" id="16"/><s p="4" s="category2id" id="33"/><s p="3" s="sportid" id="2"/><s p="12" s="clientid" id="1"/><s p="11" s="viewtype" id="9"/><s p="11" s="seasonid" id="5"/><s p="11" s="uniqueteamid" id="6"/><s p="2" s="mobile_client" id="554"/><s p="13" s="clientid" id="1"/><s p="1" s="sportid2" id="309"/><s p="1" s="landingpage_stageid" id="262"/><s p="1" s="stageid" id="16"/><s p="1" s="sportid" id="2"/><s p="1" s="categoryid" id="3"/><s p="11" s="clientid" id="1"/><s p="7" s="categoryid" id="3"/><s p="7" s="clientid" id="1"/><s p="10" s="clientid" id="1"/><s p="10" s="landingpage_stageid" id="262"/><s p="10" s="test" id="14"/><s p="2" s="sportid2" id="309"/><s p="2" s="stageid" id="16"/><s p="10" s="sportid" id="2"/><n p="0" id="2015" c="menu" data="1"><p n="br_levels" t="int" v="0"/><p n="class" t="String" v="breadcrumb"/><p n="type" t="String" v="br_menu"/><p n="menuid" t="int" v="79"/><c cache="86400"><![CDATA[<div class="breadcrumb"><ul class="jd_menu br_menustyle"><li class="topelem first icon_sport sport-1"><a href="javascript:s4.setState('2_1',false);" class="atopelem"><div><span class="icon_sport sport-1"></span><span>Soccer</span><span class="arrow_icon_space"></span><div class="clearResponsive"></div></div></a></li></ul></div>
+]]></c></n><n p="1" id="1233" c="view"/><n p="2" id="4113" c="breadcrumbdoc" data="1"><p n="hideForSportId" t="int" v="11"/><p n="type" t="String" v="continent"/><c cache="3600" type="document"><![CDATA[<div class="menu">
+    <div class="breadcrumb">
+            <ul class="jd_menu br_menustyle">
+            <li class="topelem first">
+                                <a href="javascript:s4.setState('2_1,22_1',false);" class="atopelem">
+                                    <div>
+                                                                                                    <span>Europe</span>
+                                                <span class="arrow_down_icon"></span>
+                        <div class="clearResponsive"></div>
+                    </div>
+                </a>
+                                <ul class="jdlvl_2">
+                                                                                        <li>
+                                <a href="javascript:s4.setState('2_1,22_2',false);"><span>North America</span></a>
+                                <div class="clearResponsive"></div>
+                            </li>
+                                                                                                                                    <li>
+                                <a href="javascript:s4.setState('2_1,22_3',false);"><span>South America</span></a>
+                                <div class="clearResponsive"></div>
+                            </li>
+                                                                                                                                    <li>
+                                <a href="javascript:s4.setState('2_1,22_4',false);"><span>Africa</span></a>
+                                <div class="clearResponsive"></div>
+                            </li>
+                                                                                                                                    <li>
+                                <a href="javascript:s4.setState('2_1,22_5',false);"><span>Asia</span></a>
+                                <div class="clearResponsive"></div>
+                            </li>
+                                                                            </ul>
+                        </ul>
+        </div>
+</div>]]></c></n><n p="3" id="4105" c="breadcrumbdoc" data="1"><p n="hideForSportId" t="int" v="11"/><p n="type" t="String" v="category"/><c cache="3600" type="document"><![CDATA[<div class="menu">
+    <div class="breadcrumb">
+            <ul class="jd_menu br_menustyle">
+            <li class="topelem first">
+                                <a href="javascript:s4.deeplink('categoryid','30','');" class="atopelem">
+                                    <div>
+                                                    <span class="icon_flag cc-de"></span>
+                                                                                                    <span>Germany</span>
+                                                <span class="arrow_down_icon"></span>
+                        <div class="clearResponsive"></div>
+                    </div>
+                </a>
+                                <ul class="jdlvl_2">
+                                                                                        <li>
+                                <a href="javascript:s4.deeplink('categoryid','1','');"><span>England</span></a>
+                                <div class="clearResponsive"></div>
+                            </li>
+                                                                                                                                    <li>
+                                <a href="javascript:s4.deeplink('categoryid','32','');"><span>Spain</span></a>
+                                <div class="clearResponsive"></div>
+                            </li>
+                                                                                                                                    <li>
+                                <a href="javascript:s4.deeplink('categoryid','31','');"><span>Italy</span></a>
+                                <div class="clearResponsive"></div>
+                            </li>
+                                                                                                                                    <li>
+                                <a href="javascript:s4.deeplink('categoryid','7','');"><span>France</span></a>
+                                <div class="clearResponsive"></div>
+                            </li>
+                                                                                                                                    <li>
+                                <a href="javascript:s4.deeplink('categoryid','46','');"><span>Turkey</span></a>
+                                <div class="clearResponsive"></div>
+                            </li>
+                                                                                                                                    <li>
+                                <a href="javascript:s4.deeplink('categoryid','22','');"><span>Scotland</span></a>
+                                <div class="clearResponsive"></div>
+                            </li>
+                                                                                                                                    <li>
+                                <a href="javascript:s4.deeplink('categoryid','17','');"><span>Austria</span></a>
+                                <div class="clearResponsive"></div>
+                            </li>
+                                                                                                                                    <li>
+                                <a href="javascript:s4.deeplink('categoryid','35','');"><span>Netherlands</span></a>
+                                <div class="clearResponsive"></div>
+                            </li>
+                                                                                                                                    <li>
+                                <a href="javascript:s4.deeplink('categoryid','14','');"><span>Croatia</span></a>
+                                <div class="clearResponsive"></div>
+                            </li>
+                                                                            </ul>
+                        </ul>
+        </div>
+</div>]]></c></n><n p="4" id="1233" c="view"/><n p="5" id="1233" c="view"/><n p="6" id="1233" c="view"/><n p="7" id="2032" c="menu" data="1"><p n="class" t="String" v="breadcrumb"/><p n="menuid" t="int" v="83"/><p n="type" t="String" v="br_menu"/><c cache="86400"><![CDATA[<div class="breadcrumb"><ul class="jd_menu br_menustyle"><li class="topelem first "><a href="javascript:s4.deeplink('seasonid','41808','');" class="atopelem"><div><span>3rd Liga 17/18</span><span class="arrow_down_icon"></span><div class="clearResponsive"></div></div></a><ul class=" jdlvl_2"><li class=""><a href="javascript:s4.deeplink('seasonid','41576','');"><span>Bundesliga 17/18</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','41578','');"><span>2nd Bundesliga 17/18</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','41808','');"><span>3rd Liga 17/18</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','40924','');"><span>DFB Pokal 17/18</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','40790','');"><span>Super Cup 2017</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','41258','');"><span>Telekom Cup 2017</span><div class="clearResponsive"></div></a></li><li class=""><a class="arrow_right"><span>Amateur</span><div class="clearResponsive"></div></a><div class="arrow_right_icon"></div><ul class=" jdlvl_3"><li class=""><a href="javascript:s4.deeplink('seasonid','41788','');"><span>Regionalliga Bavaria 17/18</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','42260','');"><span>Regionalliga North 17/18</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','41862','');"><span>Regionalliga Northeast 17/18</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','41814','');"><span>Regionalliga Southwest 17/18</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','41838','');"><span>Regionalliga West 17/18</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','41832','');"><span>Bayernliga North 17/18</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','41834','');"><span>Bayernliga South 17/18</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','41992','');"><span>Bremen-Liga 17/18</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','41866','');"><span>Hessenliga 17/18</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','42878','');"><span>Oberliga BW 17/18</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','42008','');"><span>Oberliga Hamburg 17/18</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','42984','');"><span>Oberliga Mittelrhein 17/18</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','42272','');"><span>Oberliga Niederrhein 17/18</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','41990','');"><span>Oberliga Niedersachsen 17/18</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','41826','');"><span>Oberliga NOFV North 17/18</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','41828','');"><span>Oberliga NOFV South 17/18</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','42264','');"><span>Oberliga Rheinland-Pfalz 17/18</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','42262','');"><span>Oberliga Westfalen 17/18</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','42880','');"><span>Schleswig-Holstein-Liga 17/18</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','41962','');"><span>A-Jun-BL N/N-E 17/18</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','41958','');"><span>A-Jun-BL S/S-W 17/18</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','41960','');"><span>A-Jun-BL West 17/18</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','42724','');"><span>Women Bundesliga 17/18</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','42256','');"><span>DFB Pokal Women 17/18</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','42726','');"><span>2. Bundesliga, Women 17/18</span><div class="clearResponsive"></div></a></li></ul></li></ul></li></ul></div>
+]]></c></n><n p="8" id="1233" c="view"/><n p="9" id="1233" c="view"/><n p="10" id="1233" c="view"/><n p="11" id="1233" c="view"/><n p="12" id="2675" c="view"><p n="class" t="String" v="right"/><s p="0" s="test" id="14"/><s p="0" s="clientid" id="1"/><s p="0" s="is_landing_page" id="560"/><n p="0" id="2685" c="Button" data="1"><p n="href" t="String" v="s4.goback()"/><p n="value" t="String" v="Back"/><p n="innertagname" t="String" v="span"/><p n="tagname" t="String" v="a"/><c cache="86400"><![CDATA[<a class=" button" onclick="s4.goback()"><span>Back</span></a>
+]]></c></n></n><n p="13" id="1233" c="view"/><n p="14" id="2729" c="view"><p n="class" t="String" v="clear"/></n></n><n p="1" id="1833" c="view"><s p="1" s="seasonid" id="5"/><s p="1" s="mobile_client" id="554"/><s p="0" s="isvfl" id="409"/><n p="0" id="1233" c="view"/><n p="1" id="956" c="menu" data="1"><p n="menuid" t="int" v="15"/><p n="type" t="String" v="dropdown"/><p n="divId" t="String" v="nav-wrap-inner-2"/><p n="class" t="String" v="nav-wrap-class-2"/><c cache="86400"><![CDATA[<div class="nav-wrap-class-2"><ul class="dropdown"><li class="expandable type_9_summary active"><span class="underlevel-expandable-1-last"></span><a href="javascript:s4.setState('9_summary',false);" class="selected"><span>Overview</span></a></li><li class="expandable type_9_overview"><span class="underlevel-expandable-1-last"></span><a href="javascript:s4.setState('9_overview',false);"><span>Tables</span></a></li><li class="expandable type_9_players"><span class="underlevel-expandable-1-last"></span><a href="javascript:s4.setState('9_players',false);"><span>Players</span></a></li><li class="expandable type_9_teampage"><span class="underlevel-expandable-1-last"></span><a href="javascript:s4.setState('9_teampage',false);"><span>Teams</span></a></li><li class="expandable type_9_headtohead"><span class="underlevel-expandable-1-last"></span><a href="javascript:s4.setState('9_headtohead',false);"><span>Head to Head</span></a></li><li class="expandable type_9_statistics"><span class="underlevel-expandable-1-last"></span><a href="javascript:s4.setState('9_statistics',false);"><span>Statistics</span></a></li><li class="expandable type_9_fixtures"><span class="underlevel-expandable-1-last"></span><a href="javascript:s4.setState('9_fixtures',false);"><span>Fixtures</span></a></li><li class="expandable type_9_archive last"><span class="underlevel-expandable-1-last"></span><a href="javascript:s4.setState('9_archive',false);"><span>Archive</span></a></li><div class="clearResponsive"></div></ul></div>
+]]></c></n></n><n p="2" id="1233" c="view"/></n><n p="4" id="2302" c="view"><p n="class" t="String" v="under-main"/><s p="0" s="sportid" id="2"/><s p="0" s="seasonid" id="5"/><s p="0" s="tournamentid" id="17"/><s p="1" s="clientid" id="1"/><s p="0" s="search_string" id="327"/><s p="3" s="viewtype" id="9"/><s p="0" s="test" id="14"/><n p="0" id="2310" c="view"><s p="0" s="viewtype" id="9"/><s p="0" s="hasmultipleinfo" id="196"/><s p="0" s="seasontypeid" id="242"/><s p="0" s="tableorcup" id="239"/><s p="0" s="haspartialdisplay" id="365"/><s p="0" s="matchid" id="8"/><s p="0" s="sportid" id="2"/><s p="0" s="seasonid" id="5"/><s p="0" s="uniqueteamid" id="6"/><s p="0" s="test" id="14"/><s p="0" s="clientid" id="1"/><n p="0" id="3675" c="view"><p n="class" t="String" v="viewtypesummary"/><s p="3" s="loadinbackground" id="200"/><n p="0" id="5264" c="button_print" data="0"/><n p="1" id="3723" c="view"><p n="class" t="String" v="with_border tables bidi_container"/><p n="template" t="1" v="cornerbox"/><n p="1" id="3677" c="view"><p n="template" t="1" v="HBox"/><p n="template" t="1" v="Full"/><s p="0" s="hasformtable" id="271"/><s p="2" s="hasformtable" id="271"/><n p="0" id="3679" c="view"><p n="template" t="1" v="HBox"/><p n="template" t="1" v="Half"/><p n="class" t="String" v="summaryleaguetablewrap bidi"/><n p="0" id="6001" c="view"><p n="template" t="1" v="component"/><s p="1" s="clientid" id="1"/><n p="0" id="3685" c="leaguetable" data="1"><p n="mergegoals" t="boolean" v="1"/><c cache="600"><![CDATA[<div class="multiview"><div class="  template_Full template_First template_Last" builder="multiview"><div class="multiview_wrap"><h2 class="title "><a href="javascript:s4.deeplink('tableid','26676','');">3rd Liga</a></h2><table class="normaltable"><thead><tr class="header0"><th title="Position" class="positiontotal  position first">PO</th><th class="changetotal  change"></th><th class="teamname  team">Team</th><th title="Played" class="{sorter: 'desc'} matchestotal  matches">P</th><th title="win" class="{sorter: 'desc'} wintotal  wins">W</th><th title="Draw" class="{sorter: 'desc'} drawtotal  draws">D</th><th title="loss" class="losstotal  losses">L</th><th class="{sorter: 'desc'} goals  goals">Goals</th><th title="DIFF" class="{sorter: 'desc'} goaldifftotal  diff unsigned difftotal">DI</th><th title="Points" class="{sorter: 'desc'} pointstotal  points pointstotal last">PO</th></tr></thead><tbody><tr class="firstingroup promotioncolor_promotion firstingroup even"><td class="position first">1</td><td class="change stay"><span class="stay">0</span></td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','2561','5_41808');"><span><img src="//ls.betradar.com/ls/crest/small/2561.png" onLoad="s4.resizeIframe()">SC Paderborn 07</span></a></td><td class="matches">7</td><td class="wins">6</td><td class="draws">1</td><td class="losses">0</td><td class="goals">19:9</td><td class="diff unsigned difftotal">10</td><td class="points pointstotal last">19</td></tr><tr class="promotioncolor_promotion"><td class="position first">2</td><td class="change stay"><span class="stay">0</span></td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','2591','5_41808');"><span><img src="//ls.betradar.com/ls/crest/small/2591.png" onLoad="s4.resizeIframe()">1. FC Magdeburg</span></a></td><td class="matches">7</td><td class="wins">6</td><td class="draws">0</td><td class="losses">1</td><td class="goals">15:7</td><td class="diff unsigned difftotal">8</td><td class="points pointstotal last">18</td></tr><tr class="promotioncolor_promotionplayoff firstingroup even"><td class="position first">3</td><td class="change stay"><span class="stay">0</span></td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','2683','5_41808');"><span><img src="//ls.betradar.com/ls/crest/small/2683.png" onLoad="s4.resizeIframe()">Fortuna Cologne</span></a></td><td class="matches">7</td><td class="wins">5</td><td class="draws">2</td><td class="losses">0</td><td class="goals">15:4</td><td class="diff unsigned difftotal">11</td><td class="points pointstotal last">17</td></tr><tr><td class="position first">4</td><td class="change stay"><span class="stay">0</span></td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','2550','5_41808');"><span><img src="//ls.betradar.com/ls/crest/small/2550.png" onLoad="s4.resizeIframe()">VfR Aalen</span></a></td><td class="matches">7</td><td class="wins">3</td><td class="draws">3</td><td class="losses">1</td><td class="goals">11:6</td><td class="diff unsigned difftotal">5</td><td class="points pointstotal last">12</td></tr><tr class="even"><td class="position first">5</td><td class="change stay"><span class="stay">0</span></td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','2597','5_41808');"><span><img src="//ls.betradar.com/ls/crest/small/2597.png" onLoad="s4.resizeIframe()">Wehen Wiesbaden</span></a></td><td class="matches">7</td><td class="wins">3</td><td class="draws">2</td><td class="losses">2</td><td class="goals">9:5</td><td class="diff unsigned difftotal">4</td><td class="points pointstotal last">11</td></tr><tr><td class="position first">6</td><td class="change down"><span class="down">1</span></td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','2533','5_41808');"><span><img src="//ls.betradar.com/ls/crest/small/2533.png" onLoad="s4.resizeIframe()">Hansa Rostock</span></a></td><td class="matches">7</td><td class="wins">3</td><td class="draws">2</td><td class="losses">2</td><td class="goals">8:5</td><td class="diff unsigned difftotal">3</td><td class="points pointstotal last">11</td></tr><tr class="even"><td class="position first">7</td><td class="change stay"><span class="stay">0</span></td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','2577','5_41808');"><span><img src="//ls.betradar.com/ls/crest/small/2577.png" onLoad="s4.resizeIframe()">Werder Bremen II</span></a></td><td class="matches">7</td><td class="wins">3</td><td class="draws">2</td><td class="losses">2</td><td class="goals">9:7</td><td class="diff unsigned difftotal">2</td><td class="points pointstotal last">11</td></tr><tr><td class="position first">8</td><td class="change stay"><span class="stay">0</span></td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','2555','5_41808');"><span><img src="//ls.betradar.com/ls/crest/small/2555.png" onLoad="s4.resizeIframe()">Unterhaching</span></a></td><td class="matches">7</td><td class="wins">3</td><td class="draws">1</td><td class="losses">3</td><td class="goals">12:13</td><td class="diff unsigned difftotal">-1</td><td class="points pointstotal last">10</td></tr><tr class="even"><td class="position first">9</td><td class="change stay"><span class="stay">0</span></td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','5894','5_41808');"><span><img src="//ls.betradar.com/ls/crest/small/5894.png" onLoad="s4.resizeIframe()">Sonnenhof Gro&szlig;aspach</span></a></td><td class="matches">7</td><td class="wins">2</td><td class="draws">3</td><td class="losses">2</td><td class="goals">6:7</td><td class="diff unsigned difftotal">-1</td><td class="points pointstotal last">9</td></tr><tr><td class="position first">10</td><td class="change up"><span class="up">-1</span></td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','2581','5_41808');"><span><img src="//ls.betradar.com/ls/crest/small/2581.png" onLoad="s4.resizeIframe()">VfL Osnabruck</span></a></td><td class="matches">7</td><td class="wins">2</td><td class="draws">3</td><td class="losses">2</td><td class="goals">7:12</td><td class="diff unsigned difftotal">-5</td><td class="points pointstotal last">9</td></tr><tr class="even"><td class="position first">11</td><td class="change stay"><span class="stay">0</span></td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','5804','5_41808');"><span><img src="//ls.betradar.com/ls/crest/small/5804.png" onLoad="s4.resizeIframe()">SV Meppen</span></a></td><td class="matches">7</td><td class="wins">2</td><td class="draws">2</td><td class="losses">3</td><td class="goals">10:10</td><td class="diff unsigned difftotal">0</td><td class="points pointstotal last">8</td></tr><tr><td class="position first">12</td><td class="change down"><span class="down">1</span></td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','2590','5_41808');"><span><img src="//ls.betradar.com/ls/crest/small/2590.png" onLoad="s4.resizeIframe()">Preu&szlig;en Munster</span></a></td><td class="matches">7</td><td class="wins">2</td><td class="draws">2</td><td class="losses">3</td><td class="goals">6:6</td><td class="diff unsigned difftotal">0</td><td class="points pointstotal last">8</td></tr><tr class="even"><td class="position first">13</td><td class="change up"><span class="up">-1</span></td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','5844','5_41808');"><span><img src="//ls.betradar.com/ls/crest/small/5844.png" onLoad="s4.resizeIframe()">Sportfreunde Lotte</span></a></td><td class="matches">7</td><td class="wins">2</td><td class="draws">1</td><td class="losses">4</td><td class="goals">8:10</td><td class="diff unsigned difftotal">-2</td><td class="points pointstotal last">7</td></tr><tr><td class="position first">14</td><td class="change up"><span class="up">-1</span></td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','2582','5_41808');"><span><img src="//ls.betradar.com/ls/crest/small/2582.png" onLoad="s4.resizeIframe()">Hallescher FC</span></a></td><td class="matches">7</td><td class="wins">1</td><td class="draws">3</td><td class="losses">3</td><td class="goals">12:15</td><td class="diff unsigned difftotal">-3</td><td class="points pointstotal last">6</td></tr><tr class="even"><td class="position first">15</td><td class="change down"><span class="down">1</span></td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','2592','5_41808');"><span><img src="//ls.betradar.com/ls/crest/small/2592.png" onLoad="s4.resizeIframe()">Chemnitzer FC</span></a></td><td class="matches">7</td><td class="wins">1</td><td class="draws">3</td><td class="losses">3</td><td class="goals">8:12</td><td class="diff unsigned difftotal">-4</td><td class="points pointstotal last">6</td></tr><tr><td class="position first">16</td><td class="change up"><span class="up">-1</span></td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','2578','5_41808');"><span><img src="//ls.betradar.com/ls/crest/small/2578.png" onLoad="s4.resizeIframe()">Rot-Wei&szlig; Erfurt</span></a></td><td class="matches">7</td><td class="wins">1</td><td class="draws">3</td><td class="losses">3</td><td class="goals">4:8</td><td class="diff unsigned difftotal">-4</td><td class="points pointstotal last">6</td></tr><tr class="even"><td class="position first">17</td><td class="change down"><span class="down">1</span></td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','2553','5_41808');"><span><img src="//ls.betradar.com/ls/crest/small/2553.png" onLoad="s4.resizeIframe()">Karlsruher SC</span></a></td><td class="matches">7</td><td class="wins">1</td><td class="draws">3</td><td class="losses">3</td><td class="goals">7:13</td><td class="diff unsigned difftotal">-6</td><td class="points pointstotal last">6</td></tr><tr class="promotioncolor_relegation firstingroup"><td class="position first">18</td><td class="change down"><span class="down">1</span></td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','23947','5_41808');"><span><img src="//ls.betradar.com/ls/crest/small/23947.png" onLoad="s4.resizeIframe()">Wurzburger Kickers</span></a></td><td class="matches">7</td><td class="wins">1</td><td class="draws">2</td><td class="losses">4</td><td class="goals">7:12</td><td class="diff unsigned difftotal">-5</td><td class="points pointstotal last">5</td></tr><tr class="promotioncolor_relegation even"><td class="position first">19</td><td class="change up"><span class="up">-1</span></td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','2620','5_41808');"><span><img src="//ls.betradar.com/ls/crest/small/2620.png" onLoad="s4.resizeIframe()">FSV Zwickau</span></a></td><td class="matches">7</td><td class="wins">1</td><td class="draws">2</td><td class="losses">4</td><td class="goals">4:10</td><td class="diff unsigned difftotal">-6</td><td class="points pointstotal last">5</td></tr><tr class="promotioncolor_relegation"><td class="position first">20</td><td class="change down"><span class="down">1</span></td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','2614','5_41808');"><span><img src="//ls.betradar.com/ls/crest/small/2614.png" onLoad="s4.resizeIframe()">Carl Zeiss Jena</span></a></td><td class="matches">7</td><td class="wins">1</td><td class="draws">2</td><td class="losses">4</td><td class="goals">3:9</td><td class="diff unsigned difftotal">-6</td><td class="points pointstotal last">5</td></tr></tbody></table><div hidden="1" class="choosecolumntext">Choose columns</div>
+</div></div></div>]]></c></n></n></n><n p="1" id="3731" c="view"><p n="class" t="String" v="border_short"/></n><n p="2" id="3681" c="view"><p n="class" t="String" v="summaryformtablewrap bidi"/><p n="template" t="1" v="HBox"/><p n="template" t="1" v="Half"/><p n="template" t="1" v="Last"/><n p="0" id="5999" c="view"><p n="template" t="1" v="component"/><n p="0" id="3683" c="formtable_graphical" data="1"><p n="showtitle" t="int" v="1"/><c cache="900" type="document"><![CDATA[<h2 class="title"><a href="javascript:s4.deeplink('seasonid','41808','9_overview,25_3');">Form</a></h2>
+    
+
+
+
+
+
+    <table  class="normaltable formtable_graphical">
+    
+        <thead>
+        
+    <tr class="header0">
+        
+        <th class="first position" title="Position"><abbr title="Pos">PO</abbr></th>
+        
+        <th class="teamname">Team</th>
+        
+        <th class="" colspan="2">Points</th>        
+        <th class="last">
+            
+            <div class="win" title="win">W%</div>
+            
+            <div class="draw" title="Draw">D%</div>            
+            <div class="loss" title="loss">L%</div>
+
+        </th>
+        
+    </tr>
+
+        </thead>
+    
+    
+    
+        <tbody>
+        
+    
+    <tr class="even">
+
+        <td class="">1</td>
+
+        <td class="team">
+             <a href="javascript:s4.deeplink('uniqueteamid','2591','5_41808');">
+                 <span>
+                                                                        <img src="//ls.betradar.com/ls/crest/small/2591.png" onload="s4.resizeIframe()">
+                                                                1. FC Magdeburg
+                 </span>
+             </a>
+        </td>
+        
+        <td class="positionpercent">
+
+              
+
+    <div class="tinyhbarwrap" style="width:100%; display: block; background: transparent; min-width: 12px">
+        <div class="tinyhbar pos_right" style="
+        width: 7px;
+        background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=808080&amp;d=0);
+        ">
+        </div>
+        <div class="tinyhbar pos_left margin" style="
+        width: auto; min-width: 5px;
+        background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=808080&amp;d=0);
+        ">
+        </div>
+    </div>
+
+        </td>
+        
+        <td class="">18</td>
+
+        <td class="formpercentages" title="6 win, 0 Draw, 0 loss">
+                                                                                    <div class="tinyhbarwrap_tendency">
+ 
+          
+
+    
+    
+            <div class="tinyhbar left pos_left" 
+             style="width: 50%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=4CB849&amp;d=0);
+             ">
+        </div>
+        <div class="tinyhbar left pos_right" 
+             style="width: 50%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=4CB849&amp;d=0);
+             ">
+        </div>
+    
+
+
+                                                  
+
+    
+    
+            <div class="tinyhbar left  pos_right" 
+             style="width: 0%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=FBD10B&amp;d=0);
+             ">
+        </div>
+    
+
+    
+
+          
+
+    
+    
+            <div class="tinyhbar left  pos_right 0" 
+             style="width: 0%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=E33532&amp;d=0);
+             ">
+        </div>
+    
+
+</div>
+
+
+        </td>
+
+    </tr>
+    
+    <tr class="odd">
+
+        <td class="">2</td>
+
+        <td class="team">
+             <a href="javascript:s4.deeplink('uniqueteamid','2561','5_41808');">
+                 <span>
+                                                                        <img src="//ls.betradar.com/ls/crest/small/2561.png" onload="s4.resizeIframe()">
+                                                                SC Paderborn 07
+                 </span>
+             </a>
+        </td>
+        
+        <td class="positionpercent">
+
+              
+
+    <div class="tinyhbarwrap" style="width:100%; display: block; background: transparent; min-width: 12px">
+        <div class="tinyhbar pos_right" style="
+        width: 7px;
+        background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=808080&amp;d=0);
+        ">
+        </div>
+        <div class="tinyhbar pos_left margin" style="
+        width: auto; min-width: 5px;
+        background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=808080&amp;d=0);
+        ">
+        </div>
+    </div>
+
+        </td>
+        
+        <td class="">18</td>
+
+        <td class="formpercentages" title="6 win, 0 Draw, 0 loss">
+                                                                                    <div class="tinyhbarwrap_tendency">
+ 
+          
+
+    
+    
+            <div class="tinyhbar left pos_left" 
+             style="width: 50%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=4CB849&amp;d=0);
+             ">
+        </div>
+        <div class="tinyhbar left pos_right" 
+             style="width: 50%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=4CB849&amp;d=0);
+             ">
+        </div>
+    
+
+
+                                                  
+
+    
+    
+            <div class="tinyhbar left  pos_right" 
+             style="width: 0%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=FBD10B&amp;d=0);
+             ">
+        </div>
+    
+
+    
+
+          
+
+    
+    
+            <div class="tinyhbar left  pos_right 0" 
+             style="width: 0%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=E33532&amp;d=0);
+             ">
+        </div>
+    
+
+</div>
+
+
+        </td>
+
+    </tr>
+    
+    <tr class="even">
+
+        <td class="">3</td>
+
+        <td class="team">
+             <a href="javascript:s4.deeplink('uniqueteamid','2683','5_41808');">
+                 <span>
+                                                                        <img src="//ls.betradar.com/ls/crest/small/2683.png" onload="s4.resizeIframe()">
+                                                                Fortuna Cologne
+                 </span>
+             </a>
+        </td>
+        
+        <td class="positionpercent">
+
+              
+
+    <div class="tinyhbarwrap" style="width:78%; display: block; background: transparent; min-width: 12px">
+        <div class="tinyhbar pos_right" style="
+        width: 7px;
+        background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=808080&amp;d=0);
+        ">
+        </div>
+        <div class="tinyhbar pos_left margin" style="
+        width: auto; min-width: 5px;
+        background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=808080&amp;d=0);
+        ">
+        </div>
+    </div>
+
+        </td>
+        
+        <td class="">14</td>
+
+        <td class="formpercentages" title="4 win, 2 Draw, 0 loss">
+                                                                                    <div class="tinyhbarwrap_tendency">
+ 
+          
+
+    
+    
+            <div class="tinyhbar left  pos_left 0" 
+             style="width: 67%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=4CB849&amp;d=0);
+             ">
+        </div>
+    
+
+
+                                                  
+
+    
+    
+            <div class="tinyhbar left  pos_right" 
+             style="width: 33%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=FBD10B&amp;d=0);
+             ">
+        </div>
+    
+
+    
+
+          
+
+    
+    
+            <div class="tinyhbar left  pos_right 0" 
+             style="width: 0%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=E33532&amp;d=0);
+             ">
+        </div>
+    
+
+</div>
+
+
+        </td>
+
+    </tr>
+    
+    <tr class="odd">
+
+        <td class="">4</td>
+
+        <td class="team">
+             <a href="javascript:s4.deeplink('uniqueteamid','2550','5_41808');">
+                 <span>
+                                                                        <img src="//ls.betradar.com/ls/crest/small/2550.png" onload="s4.resizeIframe()">
+                                                                VfR Aalen
+                 </span>
+             </a>
+        </td>
+        
+        <td class="positionpercent">
+
+              
+
+    <div class="tinyhbarwrap" style="width:67%; display: block; background: transparent; min-width: 12px">
+        <div class="tinyhbar pos_right" style="
+        width: 7px;
+        background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=808080&amp;d=0);
+        ">
+        </div>
+        <div class="tinyhbar pos_left margin" style="
+        width: auto; min-width: 5px;
+        background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=808080&amp;d=0);
+        ">
+        </div>
+    </div>
+
+        </td>
+        
+        <td class="">12</td>
+
+        <td class="formpercentages" title="3 win, 3 Draw, 0 loss">
+                                                                                    <div class="tinyhbarwrap_tendency">
+ 
+          
+
+    
+    
+            <div class="tinyhbar left  pos_left 0" 
+             style="width: 50%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=4CB849&amp;d=0);
+             ">
+        </div>
+    
+
+
+                                                  
+
+    
+    
+            <div class="tinyhbar left  pos_right" 
+             style="width: 50%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=FBD10B&amp;d=0);
+             ">
+        </div>
+    
+
+    
+
+          
+
+    
+    
+            <div class="tinyhbar left  pos_right 0" 
+             style="width: 0%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=E33532&amp;d=0);
+             ">
+        </div>
+    
+
+</div>
+
+
+        </td>
+
+    </tr>
+    
+    <tr class="even">
+
+        <td class="">5</td>
+
+        <td class="team">
+             <a href="javascript:s4.deeplink('uniqueteamid','2555','5_41808');">
+                 <span>
+                                                                        <img src="//ls.betradar.com/ls/crest/small/2555.png" onload="s4.resizeIframe()">
+                                                                Unterhaching
+                 </span>
+             </a>
+        </td>
+        
+        <td class="positionpercent">
+
+              
+
+    <div class="tinyhbarwrap" style="width:56%; display: block; background: transparent; min-width: 12px">
+        <div class="tinyhbar pos_right" style="
+        width: 7px;
+        background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=808080&amp;d=0);
+        ">
+        </div>
+        <div class="tinyhbar pos_left margin" style="
+        width: auto; min-width: 5px;
+        background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=808080&amp;d=0);
+        ">
+        </div>
+    </div>
+
+        </td>
+        
+        <td class="">10</td>
+
+        <td class="formpercentages" title="3 win, 1 Draw, 2 loss">
+                                                                                    <div class="tinyhbarwrap_tendency">
+ 
+          
+
+    
+    
+            <div class="tinyhbar left  pos_left 0" 
+             style="width: 50%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=4CB849&amp;d=0);
+             ">
+        </div>
+    
+
+
+                                                  
+
+    
+    
+            <div class="tinyhbar left  pos_center" 
+             style="width: 17%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=FBD10B&amp;d=0);
+             ">
+        </div>
+    
+
+    
+
+          
+
+    
+    
+            <div class="tinyhbar left  pos_right 0" 
+             style="width: 33%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=E33532&amp;d=0);
+             ">
+        </div>
+    
+
+</div>
+
+
+        </td>
+
+    </tr>
+    
+    <tr class="odd">
+
+        <td class="">6</td>
+
+        <td class="team">
+             <a href="javascript:s4.deeplink('uniqueteamid','2597','5_41808');">
+                 <span>
+                                                                        <img src="//ls.betradar.com/ls/crest/small/2597.png" onload="s4.resizeIframe()">
+                                                                Wehen Wiesbaden
+                 </span>
+             </a>
+        </td>
+        
+        <td class="positionpercent">
+
+              
+
+    <div class="tinyhbarwrap" style="width:44%; display: block; background: transparent; min-width: 12px">
+        <div class="tinyhbar pos_right" style="
+        width: 7px;
+        background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=808080&amp;d=0);
+        ">
+        </div>
+        <div class="tinyhbar pos_left margin" style="
+        width: auto; min-width: 5px;
+        background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=808080&amp;d=0);
+        ">
+        </div>
+    </div>
+
+        </td>
+        
+        <td class="">8</td>
+
+        <td class="formpercentages" title="2 win, 2 Draw, 2 loss">
+                                                                                    <div class="tinyhbarwrap_tendency">
+ 
+          
+
+    
+    
+            <div class="tinyhbar left  pos_left 0" 
+             style="width: 33%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=4CB849&amp;d=0);
+             ">
+        </div>
+    
+
+
+                                                  
+
+    
+    
+            <div class="tinyhbar left  pos_center" 
+             style="width: 33%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=FBD10B&amp;d=0);
+             ">
+        </div>
+    
+
+    
+
+          
+
+    
+    
+            <div class="tinyhbar left  pos_right 0" 
+             style="width: 33%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=E33532&amp;d=0);
+             ">
+        </div>
+    
+
+</div>
+
+
+        </td>
+
+    </tr>
+    
+    <tr class="even">
+
+        <td class="">7</td>
+
+        <td class="team">
+             <a href="javascript:s4.deeplink('uniqueteamid','2533','5_41808');">
+                 <span>
+                                                                        <img src="//ls.betradar.com/ls/crest/small/2533.png" onload="s4.resizeIframe()">
+                                                                Hansa Rostock
+                 </span>
+             </a>
+        </td>
+        
+        <td class="positionpercent">
+
+              
+
+    <div class="tinyhbarwrap" style="width:44%; display: block; background: transparent; min-width: 12px">
+        <div class="tinyhbar pos_right" style="
+        width: 7px;
+        background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=808080&amp;d=0);
+        ">
+        </div>
+        <div class="tinyhbar pos_left margin" style="
+        width: auto; min-width: 5px;
+        background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=808080&amp;d=0);
+        ">
+        </div>
+    </div>
+
+        </td>
+        
+        <td class="">8</td>
+
+        <td class="formpercentages" title="2 win, 2 Draw, 2 loss">
+                                                                                    <div class="tinyhbarwrap_tendency">
+ 
+          
+
+    
+    
+            <div class="tinyhbar left  pos_left 0" 
+             style="width: 33%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=4CB849&amp;d=0);
+             ">
+        </div>
+    
+
+
+                                                  
+
+    
+    
+            <div class="tinyhbar left  pos_center" 
+             style="width: 33%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=FBD10B&amp;d=0);
+             ">
+        </div>
+    
+
+    
+
+          
+
+    
+    
+            <div class="tinyhbar left  pos_right 0" 
+             style="width: 33%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=E33532&amp;d=0);
+             ">
+        </div>
+    
+
+</div>
+
+
+        </td>
+
+    </tr>
+    
+    <tr class="odd">
+
+        <td class="">8</td>
+
+        <td class="team">
+             <a href="javascript:s4.deeplink('uniqueteamid','2577','5_41808');">
+                 <span>
+                                                                        <img src="//ls.betradar.com/ls/crest/small/2577.png" onload="s4.resizeIframe()">
+                                                                Werder Bremen II
+                 </span>
+             </a>
+        </td>
+        
+        <td class="positionpercent">
+
+              
+
+    <div class="tinyhbarwrap" style="width:44%; display: block; background: transparent; min-width: 12px">
+        <div class="tinyhbar pos_right" style="
+        width: 7px;
+        background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=808080&amp;d=0);
+        ">
+        </div>
+        <div class="tinyhbar pos_left margin" style="
+        width: auto; min-width: 5px;
+        background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=808080&amp;d=0);
+        ">
+        </div>
+    </div>
+
+        </td>
+        
+        <td class="">8</td>
+
+        <td class="formpercentages" title="2 win, 2 Draw, 2 loss">
+                                                                                    <div class="tinyhbarwrap_tendency">
+ 
+          
+
+    
+    
+            <div class="tinyhbar left  pos_left 0" 
+             style="width: 33%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=4CB849&amp;d=0);
+             ">
+        </div>
+    
+
+
+                                                  
+
+    
+    
+            <div class="tinyhbar left  pos_center" 
+             style="width: 33%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=FBD10B&amp;d=0);
+             ">
+        </div>
+    
+
+    
+
+          
+
+    
+    
+            <div class="tinyhbar left  pos_right 0" 
+             style="width: 33%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=E33532&amp;d=0);
+             ">
+        </div>
+    
+
+</div>
+
+
+        </td>
+
+    </tr>
+    
+    <tr class="even">
+
+        <td class="">9</td>
+
+        <td class="team">
+             <a href="javascript:s4.deeplink('uniqueteamid','2581','5_41808');">
+                 <span>
+                                                                        <img src="//ls.betradar.com/ls/crest/small/2581.png" onload="s4.resizeIframe()">
+                                                                VfL Osnabruck
+                 </span>
+             </a>
+        </td>
+        
+        <td class="positionpercent">
+
+              
+
+    <div class="tinyhbarwrap" style="width:44%; display: block; background: transparent; min-width: 12px">
+        <div class="tinyhbar pos_right" style="
+        width: 7px;
+        background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=808080&amp;d=0);
+        ">
+        </div>
+        <div class="tinyhbar pos_left margin" style="
+        width: auto; min-width: 5px;
+        background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=808080&amp;d=0);
+        ">
+        </div>
+    </div>
+
+        </td>
+        
+        <td class="">8</td>
+
+        <td class="formpercentages" title="2 win, 2 Draw, 2 loss">
+                                                                                    <div class="tinyhbarwrap_tendency">
+ 
+          
+
+    
+    
+            <div class="tinyhbar left  pos_left 0" 
+             style="width: 33%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=4CB849&amp;d=0);
+             ">
+        </div>
+    
+
+
+                                                  
+
+    
+    
+            <div class="tinyhbar left  pos_center" 
+             style="width: 33%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=FBD10B&amp;d=0);
+             ">
+        </div>
+    
+
+    
+
+          
+
+    
+    
+            <div class="tinyhbar left  pos_right 0" 
+             style="width: 33%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=E33532&amp;d=0);
+             ">
+        </div>
+    
+
+</div>
+
+
+        </td>
+
+    </tr>
+    
+    <tr class="odd">
+
+        <td class="">10</td>
+
+        <td class="team">
+             <a href="javascript:s4.deeplink('uniqueteamid','5804','5_41808');">
+                 <span>
+                                                                        <img src="//ls.betradar.com/ls/crest/small/5804.png" onload="s4.resizeIframe()">
+                                                                SV Meppen
+                 </span>
+             </a>
+        </td>
+        
+        <td class="positionpercent">
+
+              
+
+    <div class="tinyhbarwrap" style="width:39%; display: block; background: transparent; min-width: 12px">
+        <div class="tinyhbar pos_right" style="
+        width: 7px;
+        background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=808080&amp;d=0);
+        ">
+        </div>
+        <div class="tinyhbar pos_left margin" style="
+        width: auto; min-width: 5px;
+        background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=808080&amp;d=0);
+        ">
+        </div>
+    </div>
+
+        </td>
+        
+        <td class="">7</td>
+
+        <td class="formpercentages" title="2 win, 1 Draw, 3 loss">
+                                                                                    <div class="tinyhbarwrap_tendency">
+ 
+          
+
+    
+    
+            <div class="tinyhbar left  pos_left 0" 
+             style="width: 33%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=4CB849&amp;d=0);
+             ">
+        </div>
+    
+
+
+                                                  
+
+    
+    
+            <div class="tinyhbar left  pos_center" 
+             style="width: 17%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=FBD10B&amp;d=0);
+             ">
+        </div>
+    
+
+    
+
+          
+
+    
+    
+            <div class="tinyhbar left  pos_right 0" 
+             style="width: 50%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=E33532&amp;d=0);
+             ">
+        </div>
+    
+
+</div>
+
+
+        </td>
+
+    </tr>
+    
+    <tr class="even">
+
+        <td class="">11</td>
+
+        <td class="team">
+             <a href="javascript:s4.deeplink('uniqueteamid','5844','5_41808');">
+                 <span>
+                                                                        <img src="//ls.betradar.com/ls/crest/small/5844.png" onload="s4.resizeIframe()">
+                                                                Sportfreunde Lotte
+                 </span>
+             </a>
+        </td>
+        
+        <td class="positionpercent">
+
+              
+
+    <div class="tinyhbarwrap" style="width:39%; display: block; background: transparent; min-width: 12px">
+        <div class="tinyhbar pos_right" style="
+        width: 7px;
+        background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=808080&amp;d=0);
+        ">
+        </div>
+        <div class="tinyhbar pos_left margin" style="
+        width: auto; min-width: 5px;
+        background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=808080&amp;d=0);
+        ">
+        </div>
+    </div>
+
+        </td>
+        
+        <td class="">7</td>
+
+        <td class="formpercentages" title="2 win, 1 Draw, 3 loss">
+                                                                                    <div class="tinyhbarwrap_tendency">
+ 
+          
+
+    
+    
+            <div class="tinyhbar left  pos_left 0" 
+             style="width: 33%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=4CB849&amp;d=0);
+             ">
+        </div>
+    
+
+
+                                                  
+
+    
+    
+            <div class="tinyhbar left  pos_center" 
+             style="width: 17%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=FBD10B&amp;d=0);
+             ">
+        </div>
+    
+
+    
+
+          
+
+    
+    
+            <div class="tinyhbar left  pos_right 0" 
+             style="width: 50%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=E33532&amp;d=0);
+             ">
+        </div>
+    
+
+</div>
+
+
+        </td>
+
+    </tr>
+    
+    <tr class="odd">
+
+        <td class="">12</td>
+
+        <td class="team">
+             <a href="javascript:s4.deeplink('uniqueteamid','2590','5_41808');">
+                 <span>
+                                                                        <img src="//ls.betradar.com/ls/crest/small/2590.png" onload="s4.resizeIframe()">
+                                                                Preußen Munster
+                 </span>
+             </a>
+        </td>
+        
+        <td class="positionpercent">
+
+              
+
+    <div class="tinyhbarwrap" style="width:39%; display: block; background: transparent; min-width: 12px">
+        <div class="tinyhbar pos_right" style="
+        width: 7px;
+        background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=808080&amp;d=0);
+        ">
+        </div>
+        <div class="tinyhbar pos_left margin" style="
+        width: auto; min-width: 5px;
+        background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=808080&amp;d=0);
+        ">
+        </div>
+    </div>
+
+        </td>
+        
+        <td class="">7</td>
+
+        <td class="formpercentages" title="2 win, 1 Draw, 3 loss">
+                                                                                    <div class="tinyhbarwrap_tendency">
+ 
+          
+
+    
+    
+            <div class="tinyhbar left  pos_left 0" 
+             style="width: 33%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=4CB849&amp;d=0);
+             ">
+        </div>
+    
+
+
+                                                  
+
+    
+    
+            <div class="tinyhbar left  pos_center" 
+             style="width: 17%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=FBD10B&amp;d=0);
+             ">
+        </div>
+    
+
+    
+
+          
+
+    
+    
+            <div class="tinyhbar left  pos_right 0" 
+             style="width: 50%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=E33532&amp;d=0);
+             ">
+        </div>
+    
+
+</div>
+
+
+        </td>
+
+    </tr>
+    
+    <tr class="even">
+
+        <td class="">13</td>
+
+        <td class="team">
+             <a href="javascript:s4.deeplink('uniqueteamid','5894','5_41808');">
+                 <span>
+                                                                        <img src="//ls.betradar.com/ls/crest/small/5894.png" onload="s4.resizeIframe()">
+                                                                Sonnenhof Großaspach
+                 </span>
+             </a>
+        </td>
+        
+        <td class="positionpercent">
+
+              
+
+    <div class="tinyhbarwrap" style="width:33%; display: block; background: transparent; min-width: 12px">
+        <div class="tinyhbar pos_right" style="
+        width: 7px;
+        background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=808080&amp;d=0);
+        ">
+        </div>
+        <div class="tinyhbar pos_left margin" style="
+        width: auto; min-width: 5px;
+        background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=808080&amp;d=0);
+        ">
+        </div>
+    </div>
+
+        </td>
+        
+        <td class="">6</td>
+
+        <td class="formpercentages" title="1 win, 3 Draw, 2 loss">
+                                                                                    <div class="tinyhbarwrap_tendency">
+ 
+          
+
+    
+    
+            <div class="tinyhbar left  pos_left 0" 
+             style="width: 17%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=4CB849&amp;d=0);
+             ">
+        </div>
+    
+
+
+                                                  
+
+    
+    
+            <div class="tinyhbar left  pos_center" 
+             style="width: 50%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=FBD10B&amp;d=0);
+             ">
+        </div>
+    
+
+    
+
+          
+
+    
+    
+            <div class="tinyhbar left  pos_right 0" 
+             style="width: 33%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=E33532&amp;d=0);
+             ">
+        </div>
+    
+
+</div>
+
+
+        </td>
+
+    </tr>
+    
+    <tr class="odd">
+
+        <td class="">14</td>
+
+        <td class="team">
+             <a href="javascript:s4.deeplink('uniqueteamid','2582','5_41808');">
+                 <span>
+                                                                        <img src="//ls.betradar.com/ls/crest/small/2582.png" onload="s4.resizeIframe()">
+                                                                Hallescher FC
+                 </span>
+             </a>
+        </td>
+        
+        <td class="positionpercent">
+
+              
+
+    <div class="tinyhbarwrap" style="width:28%; display: block; background: transparent; min-width: 12px">
+        <div class="tinyhbar pos_right" style="
+        width: 7px;
+        background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=808080&amp;d=0);
+        ">
+        </div>
+        <div class="tinyhbar pos_left margin" style="
+        width: auto; min-width: 5px;
+        background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=808080&amp;d=0);
+        ">
+        </div>
+    </div>
+
+        </td>
+        
+        <td class="">5</td>
+
+        <td class="formpercentages" title="1 win, 2 Draw, 3 loss">
+                                                                                    <div class="tinyhbarwrap_tendency">
+ 
+          
+
+    
+    
+            <div class="tinyhbar left  pos_left 0" 
+             style="width: 17%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=4CB849&amp;d=0);
+             ">
+        </div>
+    
+
+
+                                                  
+
+    
+    
+            <div class="tinyhbar left  pos_center" 
+             style="width: 33%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=FBD10B&amp;d=0);
+             ">
+        </div>
+    
+
+    
+
+          
+
+    
+    
+            <div class="tinyhbar left  pos_right 0" 
+             style="width: 50%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=E33532&amp;d=0);
+             ">
+        </div>
+    
+
+</div>
+
+
+        </td>
+
+    </tr>
+    
+    <tr class="even">
+
+        <td class="">15</td>
+
+        <td class="team">
+             <a href="javascript:s4.deeplink('uniqueteamid','2578','5_41808');">
+                 <span>
+                                                                        <img src="//ls.betradar.com/ls/crest/small/2578.png" onload="s4.resizeIframe()">
+                                                                Rot-Weiß Erfurt
+                 </span>
+             </a>
+        </td>
+        
+        <td class="positionpercent">
+
+              
+
+    <div class="tinyhbarwrap" style="width:28%; display: block; background: transparent; min-width: 12px">
+        <div class="tinyhbar pos_right" style="
+        width: 7px;
+        background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=808080&amp;d=0);
+        ">
+        </div>
+        <div class="tinyhbar pos_left margin" style="
+        width: auto; min-width: 5px;
+        background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=808080&amp;d=0);
+        ">
+        </div>
+    </div>
+
+        </td>
+        
+        <td class="">5</td>
+
+        <td class="formpercentages" title="1 win, 2 Draw, 3 loss">
+                                                                                    <div class="tinyhbarwrap_tendency">
+ 
+          
+
+    
+    
+            <div class="tinyhbar left  pos_left 0" 
+             style="width: 17%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=4CB849&amp;d=0);
+             ">
+        </div>
+    
+
+
+                                                  
+
+    
+    
+            <div class="tinyhbar left  pos_center" 
+             style="width: 33%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=FBD10B&amp;d=0);
+             ">
+        </div>
+    
+
+    
+
+          
+
+    
+    
+            <div class="tinyhbar left  pos_right 0" 
+             style="width: 50%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=E33532&amp;d=0);
+             ">
+        </div>
+    
+
+</div>
+
+
+        </td>
+
+    </tr>
+    
+    <tr class="odd">
+
+        <td class="">16</td>
+
+        <td class="team">
+             <a href="javascript:s4.deeplink('uniqueteamid','2620','5_41808');">
+                 <span>
+                                                                        <img src="//ls.betradar.com/ls/crest/small/2620.png" onload="s4.resizeIframe()">
+                                                                FSV Zwickau
+                 </span>
+             </a>
+        </td>
+        
+        <td class="positionpercent">
+
+              
+
+    <div class="tinyhbarwrap" style="width:28%; display: block; background: transparent; min-width: 12px">
+        <div class="tinyhbar pos_right" style="
+        width: 7px;
+        background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=808080&amp;d=0);
+        ">
+        </div>
+        <div class="tinyhbar pos_left margin" style="
+        width: auto; min-width: 5px;
+        background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=808080&amp;d=0);
+        ">
+        </div>
+    </div>
+
+        </td>
+        
+        <td class="">5</td>
+
+        <td class="formpercentages" title="1 win, 2 Draw, 3 loss">
+                                                                                    <div class="tinyhbarwrap_tendency">
+ 
+          
+
+    
+    
+            <div class="tinyhbar left  pos_left 0" 
+             style="width: 17%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=4CB849&amp;d=0);
+             ">
+        </div>
+    
+
+
+                                                  
+
+    
+    
+            <div class="tinyhbar left  pos_center" 
+             style="width: 33%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=FBD10B&amp;d=0);
+             ">
+        </div>
+    
+
+    
+
+          
+
+    
+    
+            <div class="tinyhbar left  pos_right 0" 
+             style="width: 50%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=E33532&amp;d=0);
+             ">
+        </div>
+    
+
+</div>
+
+
+        </td>
+
+    </tr>
+    
+    <tr class="even">
+
+        <td class="">17</td>
+
+        <td class="team">
+             <a href="javascript:s4.deeplink('uniqueteamid','2614','5_41808');">
+                 <span>
+                                                                        <img src="//ls.betradar.com/ls/crest/small/2614.png" onload="s4.resizeIframe()">
+                                                                Carl Zeiss Jena
+                 </span>
+             </a>
+        </td>
+        
+        <td class="positionpercent">
+
+              
+
+    <div class="tinyhbarwrap" style="width:28%; display: block; background: transparent; min-width: 12px">
+        <div class="tinyhbar pos_right" style="
+        width: 7px;
+        background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=808080&amp;d=0);
+        ">
+        </div>
+        <div class="tinyhbar pos_left margin" style="
+        width: auto; min-width: 5px;
+        background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=808080&amp;d=0);
+        ">
+        </div>
+    </div>
+
+        </td>
+        
+        <td class="">5</td>
+
+        <td class="formpercentages" title="1 win, 2 Draw, 3 loss">
+                                                                                    <div class="tinyhbarwrap_tendency">
+ 
+          
+
+    
+    
+            <div class="tinyhbar left  pos_left 0" 
+             style="width: 17%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=4CB849&amp;d=0);
+             ">
+        </div>
+    
+
+
+                                                  
+
+    
+    
+            <div class="tinyhbar left  pos_center" 
+             style="width: 33%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=FBD10B&amp;d=0);
+             ">
+        </div>
+    
+
+    
+
+          
+
+    
+    
+            <div class="tinyhbar left  pos_right 0" 
+             style="width: 50%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=E33532&amp;d=0);
+             ">
+        </div>
+    
+
+</div>
+
+
+        </td>
+
+    </tr>
+    
+    <tr class="odd">
+
+        <td class="">18</td>
+
+        <td class="team">
+             <a href="javascript:s4.deeplink('uniqueteamid','2553','5_41808');">
+                 <span>
+                                                                        <img src="//ls.betradar.com/ls/crest/small/2553.png" onload="s4.resizeIframe()">
+                                                                Karlsruher SC
+                 </span>
+             </a>
+        </td>
+        
+        <td class="positionpercent">
+
+              
+
+    <div class="tinyhbarwrap" style="width:28%; display: block; background: transparent; min-width: 12px">
+        <div class="tinyhbar pos_right" style="
+        width: 7px;
+        background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=808080&amp;d=0);
+        ">
+        </div>
+        <div class="tinyhbar pos_left margin" style="
+        width: auto; min-width: 5px;
+        background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=808080&amp;d=0);
+        ">
+        </div>
+    </div>
+
+        </td>
+        
+        <td class="">5</td>
+
+        <td class="formpercentages" title="1 win, 2 Draw, 3 loss">
+                                                                                    <div class="tinyhbarwrap_tendency">
+ 
+          
+
+    
+    
+            <div class="tinyhbar left  pos_left 0" 
+             style="width: 17%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=4CB849&amp;d=0);
+             ">
+        </div>
+    
+
+
+                                                  
+
+    
+    
+            <div class="tinyhbar left  pos_center" 
+             style="width: 33%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=FBD10B&amp;d=0);
+             ">
+        </div>
+    
+
+    
+
+          
+
+    
+    
+            <div class="tinyhbar left  pos_right 0" 
+             style="width: 50%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=E33532&amp;d=0);
+             ">
+        </div>
+    
+
+</div>
+
+
+        </td>
+
+    </tr>
+    
+    <tr class="even">
+
+        <td class="">19</td>
+
+        <td class="team">
+             <a href="javascript:s4.deeplink('uniqueteamid','23947','5_41808');">
+                 <span>
+                                                                        <img src="//ls.betradar.com/ls/crest/small/23947.png" onload="s4.resizeIframe()">
+                                                                Wurzburger Kickers
+                 </span>
+             </a>
+        </td>
+        
+        <td class="positionpercent">
+
+              
+
+    <div class="tinyhbarwrap" style="width:22%; display: block; background: transparent; min-width: 12px">
+        <div class="tinyhbar pos_right" style="
+        width: 7px;
+        background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=808080&amp;d=0);
+        ">
+        </div>
+        <div class="tinyhbar pos_left margin" style="
+        width: auto; min-width: 5px;
+        background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=808080&amp;d=0);
+        ">
+        </div>
+    </div>
+
+        </td>
+        
+        <td class="">4</td>
+
+        <td class="formpercentages" title="1 win, 1 Draw, 4 loss">
+                                                                                    <div class="tinyhbarwrap_tendency">
+ 
+          
+
+    
+    
+            <div class="tinyhbar left  pos_left 0" 
+             style="width: 17%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=4CB849&amp;d=0);
+             ">
+        </div>
+    
+
+
+                                                  
+
+    
+    
+            <div class="tinyhbar left  pos_center" 
+             style="width: 17%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=FBD10B&amp;d=0);
+             ">
+        </div>
+    
+
+    
+
+          
+
+    
+    
+            <div class="tinyhbar left  pos_right 0" 
+             style="width: 66%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=E33532&amp;d=0);
+             ">
+        </div>
+    
+
+</div>
+
+
+        </td>
+
+    </tr>
+    
+    <tr class="odd">
+
+        <td class="">20</td>
+
+        <td class="team">
+             <a href="javascript:s4.deeplink('uniqueteamid','2592','5_41808');">
+                 <span>
+                                                                        <img src="//ls.betradar.com/ls/crest/small/2592.png" onload="s4.resizeIframe()">
+                                                                Chemnitzer FC
+                 </span>
+             </a>
+        </td>
+        
+        <td class="positionpercent">
+
+              
+
+    <div class="tinyhbarwrap" style="width:17%; display: block; background: transparent; min-width: 12px">
+        <div class="tinyhbar pos_right" style="
+        width: 7px;
+        background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=808080&amp;d=0);
+        ">
+        </div>
+        <div class="tinyhbar pos_left margin" style="
+        width: auto; min-width: 5px;
+        background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=808080&amp;d=0);
+        ">
+        </div>
+    </div>
+
+        </td>
+        
+        <td class="">3</td>
+
+        <td class="formpercentages" title="0 win, 3 Draw, 3 loss">
+                                                                                    <div class="tinyhbarwrap_tendency">
+ 
+          
+
+    
+    
+            <div class="tinyhbar left  pos_left 0" 
+             style="width: 0%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=4CB849&amp;d=0);
+             ">
+        </div>
+    
+
+
+                                                  
+
+    
+    
+            <div class="tinyhbar left  pos_left" 
+             style="width: 50%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=FBD10B&amp;d=0);
+             ">
+        </div>
+    
+
+    
+
+          
+
+    
+    
+            <div class="tinyhbar left  pos_right 0" 
+             style="width: 50%; 
+             background-image: url(svg2.php?type=tinyhbar&amp;svg=0&amp;style=bet365&amp;c=E33532&amp;d=0);
+             ">
+        </div>
+    
+
+</div>
+
+
+        </td>
+
+    </tr>
+    
+        </tbody>
+    
+
+    
+    </table>]]></c></n></n></n></n></n><n p="2" id="3725" c="view"><p n="class" t="String" v="with_border fixtures bidi_container"/><p n="template" t="1" v="cornerbox"/><n p="0" id="3687" c="view"><p n="template" t="1" v="HBox"/><p n="template" t="1" v="Full"/><n p="0" id="3707" c="view"><p n="class" t="String" v="bidi"/><p n="template" t="1" v="HBox"/><p n="template" t="1" v="Half"/><n p="0" id="6003" c="view"><p n="template" t="1" v="component"/><s p="2" s="oddstype_last" id="413"/><n p="0" id="3777" c="Heading (Summary page)" name="Results" data="1"><p n="viewtypelink" t="String" v="fixtures"/><c cache="86400" type="document"><![CDATA[<h2 class="title ">
+    <a href="javascript:s4.deeplink('seasonid','41808','9_fixtures');">        Results
+    </a></h2>]]></c></n><n p="1" id="1233" c="view"/><n p="2" id="3711" c="couch_lastx" data="1"><p n="showtitle" t="int" v="0"/><c cache="900" type="document" name="Last 10"><![CDATA[<table  class="normaltable lastx">
+    
+        <thead>
+        <tr class="header0"><th class="datetime first"><abbr title="Date">DA</abbr></th><th class="match">Match</th><th class="homeodds">1</th><th class="drawodds">X</th><th class="awayodds">2</th><th class="nt">FT</th><th class="round last"><abbr title="Round">RO</abbr></th></tr>        </thead>
+    
+    
+    
+        <tbody>
+        <tr class="odd"><td class="datetime">10/09/17</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 11947416, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/5804.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/2550.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                SV Meppen
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                VfR Aalen
+                                        </span>
+            </span>
+</a>
+</td>        <td class="homeodds">
+    2.45
+
+
+</td>            
+                            
+            <td class="drawodds winner">
+    3.3
+
+
+</td>            
+                            
+            <td class="awayodds">
+    2.8
+
+
+</td>            
+
+                            
+            <td class="nt ftx ">
+                                                                                        <span class="score">1</span>:<span class="score">1</span>
+                                                                                                    </td>
+            
+
+                                            <td class="round">
+                
+                                                                                                                                                    7
+                                                                                                        </td>
+                                </tr>
+    <tr class="even"><td class="datetime">09/09/17</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 11947414, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/23947.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/2561.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                <abbr title="Wurzburger Kickers">Wurzburger Kick…</abbr>
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away winner                  ">
+                                                SC Paderborn 07
+                                        </span>
+            </span>
+</a>
+</td>        <td class="homeodds">
+    2.1
+
+
+</td>            
+                            
+            <td class="drawodds">
+    3.4
+
+
+</td>            
+                            
+            <td class="awayodds winner">
+    3.4
+
+
+</td>            
+
+                            
+            <td class="nt ftx ">
+                                                                                        <span class="score">2</span>:<span class="score">3</span>
+                                                                                                    </td>
+            
+
+                                            <td class="round">
+                
+                                                                                                                                                    7
+                                                                                                        </td>
+                                </tr>
+    <tr class="odd"><td class="datetime">09/09/17</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 11947410, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/2591.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/2533.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home winner">
+                                                1. FC Magdeburg
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                Hansa Rostock
+                                        </span>
+            </span>
+</a>
+</td>        <td class="homeodds winner">
+    1.7
+
+
+</td>            
+                            
+            <td class="drawodds">
+    3.5
+
+
+</td>            
+                            
+            <td class="awayodds">
+    5.25
+
+
+</td>            
+
+                            
+            <td class="nt ftx ">
+                                                                                        <span class="score">2</span>:<span class="score">0</span>
+                                                                                                    </td>
+            
+
+                                            <td class="round">
+                
+                                                                                                                                                    7
+                                                                                                        </td>
+                                </tr>
+    <tr class="even"><td class="datetime">09/09/17</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 11947408, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/2582.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/2597.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home winner">
+                                                Hallescher FC
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                Wehen Wiesbaden
+                                        </span>
+            </span>
+</a>
+</td>        <td class="homeodds winner">
+    2.63
+
+
+</td>            
+                            
+            <td class="drawodds">
+    3.4
+
+
+</td>            
+                            
+            <td class="awayodds">
+    2.55
+
+
+</td>            
+
+                            
+            <td class="nt ftx ">
+                                                                                        <span class="score">2</span>:<span class="score">1</span>
+                                                                                                    </td>
+            
+
+                                            <td class="round">
+                
+                                                                                                                                                    7
+                                                                                                        </td>
+                                </tr>
+    <tr class="odd"><td class="datetime">09/09/17</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 11947406, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/2592.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/2553.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                Chemnitzer FC
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                Karlsruher SC
+                                        </span>
+            </span>
+</a>
+</td>        <td class="homeodds">
+    3.0
+
+
+</td>            
+                            
+            <td class="drawodds winner">
+    3.25
+
+
+</td>            
+                            
+            <td class="awayodds">
+    2.38
+
+
+</td>            
+
+                            
+            <td class="nt ftx ">
+                                                                                        <span class="score">0</span>:<span class="score">0</span>
+                                                                                                    </td>
+            
+
+                                            <td class="round">
+                
+                                                                                                                                                    7
+                                                                                                        </td>
+                                </tr>
+    <tr class="even"><td class="datetime">09/09/17</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 11947404, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/5844.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/2555.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home winner">
+                                                <abbr title="Sportfreunde Lotte">Sportfreunde Lo…</abbr>
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                Unterhaching
+                                        </span>
+            </span>
+</a>
+</td>        <td class="homeodds winner">
+    2.55
+
+
+</td>            
+                            
+            <td class="drawodds">
+    3.3
+
+
+</td>            
+                            
+            <td class="awayodds">
+    2.7
+
+
+</td>            
+
+                            
+            <td class="nt ftx ">
+                                                                                        <span class="score">2</span>:<span class="score">1</span>
+                                                                                                    </td>
+            
+
+                                            <td class="round">
+                
+                                                                                                                                                    7
+                                                                                                        </td>
+                                </tr>
+    <tr class="odd"><td class="datetime">09/09/17</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 11947402, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/5894.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/2581.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                <abbr title="Sonnenhof Großaspach">Sonnenhof Großa…</abbr>
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away winner                  ">
+                                                VfL Osnabruck
+                                        </span>
+            </span>
+</a>
+</td>        <td class="homeodds">
+    2.5
+
+
+</td>            
+                            
+            <td class="drawodds">
+    3.2
+
+
+</td>            
+                            
+            <td class="awayodds winner">
+    2.88
+
+
+</td>            
+
+                            
+            <td class="nt ftx ">
+                                                                                        <span class="score">0</span>:<span class="score">1</span>
+                                                                                                    </td>
+            
+
+                                            <td class="round">
+                
+                                                                                                                                                    7
+                                                                                                        </td>
+                                </tr>
+    <tr class="even"><td class="datetime">09/09/17</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 11947400, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/2578.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/2614.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home winner">
+                                                Rot-Weiß Erfurt
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                Carl Zeiss Jena
+                                        </span>
+            </span>
+</a>
+</td>        <td class="homeodds winner">
+    2.5
+
+
+</td>            
+                            
+            <td class="drawodds">
+    3.1
+
+
+</td>            
+                            
+            <td class="awayodds">
+    2.9
+
+
+</td>            
+
+                            
+            <td class="nt ftx ">
+                                                                                        <span class="score">1</span>:<span class="score">0</span>
+                                                                                                    </td>
+            
+
+                                            <td class="round">
+                
+                                                                                                                                                    7
+                                                                                                        </td>
+                                </tr>
+    <tr class="odd"><td class="datetime">08/09/17</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 11947412, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/2590.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/2620.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                Preußen Munster
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away winner                  ">
+                                                FSV Zwickau
+                                        </span>
+            </span>
+</a>
+</td>        <td class="homeodds">
+    1.95
+
+
+</td>            
+                            
+            <td class="drawodds">
+    3.6
+
+
+</td>            
+                            
+            <td class="awayodds winner">
+    3.6
+
+
+</td>            
+
+                            
+            <td class="nt ftx ">
+                                                                                        <span class="score">0</span>:<span class="score">2</span>
+                                                                                                    </td>
+            
+
+                                            <td class="round">
+                
+                                                                                                                                                    7
+                                                                                                        </td>
+                                </tr>
+    <tr class="even"><td class="datetime">08/09/17</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 11947398, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/2577.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/2683.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                Werder Bremen II
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away winner                  ">
+                                                Fortuna Cologne
+                                        </span>
+            </span>
+</a>
+</td>        <td class="homeodds">
+    2.4
+
+
+</td>            
+                            
+            <td class="drawodds">
+    3.4
+
+
+</td>            
+                            
+            <td class="awayodds winner">
+    2.8
+
+
+</td>            
+
+                            
+            <td class="nt ftx ">
+                                                                                        <span class="score">1</span>:<span class="score">2</span>
+                                                                                                    </td>
+            
+
+                                            <td class="round">
+                
+                                                                                                                                                    7
+                                                                                                        </td>
+                                </tr>
+    
+
+        </tbody>
+    
+
+    
+    </table>]]></c></n></n></n><n p="1" id="3733" c="view"><p n="class" t="String" v="border_short "/></n><n p="2" id="3709" c="view"><p n="class" t="String" v="bidi"/><p n="template" t="1" v="HBox"/><p n="template" t="1" v="Half"/><p n="template" t="1" v="Last"/><n p="0" id="6005" c="view"><p n="template" t="1" v="component"/><s p="2" s="oddstype_next" id="415"/><s p="1" s="oddstype_next" id="415"/><s p="1" s="showoddsmenu" id="417"/><s p="1" s="sportid" id="2"/><n p="0" id="3775" c="Heading (Summary page)" name="Fixtures" data="1"><p n="viewtypelink" t="String" v="fixtures"/><c cache="86400" type="document"><![CDATA[<h2 class="title ">
+    <a href="javascript:s4.deeplink('seasonid','41808','9_fixtures');">        Fixtures
+    </a></h2>]]></c></n><n p="1" id="4257" c="menu" data="1"><p n="type" t="String" v="gismo"/><p n="menuid" t="int" v="167"/><c cache="86400"><![CDATA[<div class=""><div class="table_selector"><div class="tabs navtabs"><ul class="navtabs gismo"><li class="active first"><a href="javascript:s4.setState('415_1',true);"><div class="htab"><span>3Way</span></div></a></li><li class="followingSelected"><a href="javascript:s4.setState('415_9',true);"><div class="htab"><span>AHC</span></div></a></li><li class=""><a href="javascript:s4.setState('415_5',true);"><div class="htab"><span>Handicap</span></div></a></li><li class="last"><a href="javascript:s4.setState('415_4',true);"><div class="htab"><span>Over/Under</span></div></a></li><div class="clearResponsive"></div></ul></div></div></div>
+]]></c></n><n p="2" id="3713" c="couch_nextx" data="1"><p n="showtitle" t="int" v="0"/><c cache="900" type="document" name="Next 10"><![CDATA[<table  class="normaltable nextx">
+    
+        <thead>
+        <tr class="header0"><th class="datetime first"><abbr title="Date">DA</abbr></th><th class="match">Match</th><th class="homeodds">1</th><th class="drawodds">X</th><th class="awayodds">2</th><th class="round last"><abbr title="Round">RO</abbr></th></tr>        </thead>
+    
+    
+    
+        <tbody>
+        <tr class="odd"><td class="datetime">15/09/17 18:00</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 11947418, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/2581.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/2578.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                VfL Osnabruck
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                Rot-Weiß Erfurt
+                                        </span>
+            </span>
+</a>
+</td>        <td class="homeodds fixture">
+  
+    
+    <a class="odds_button" target="_top" href="http://stats.betradar.com/tb.php?type=iscreenFromId&id=6235906758&language=en">
+        1.91
+    </a>
+
+
+</td>
+                            
+<td class="drawodds fixture">
+  
+    
+    <a class="odds_button" target="_top" href="http://stats.betradar.com/tb.php?type=iscreenFromId&id=6235906760&language=en">
+        3.20
+    </a>
+
+
+</td>        <td class="awayodds fixture">
+  
+    
+    <a class="odds_button" target="_top" href="http://stats.betradar.com/tb.php?type=iscreenFromId&id=6235906762&language=en">
+        4.33
+    </a>
+
+
+</td>
+
+                                            <td class="round">
+                
+                                                                                                                                                    8
+                                                                                                        </td>
+                                </tr>
+    <tr class="even"><td class="datetime">15/09/17 18:00</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 11947426, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/2620.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/2591.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                FSV Zwickau
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                1. FC Magdeburg
+                                        </span>
+            </span>
+</a>
+</td>        <td class="homeodds fixture">
+  
+    
+    <a class="odds_button" target="_top" href="http://stats.betradar.com/tb.php?type=iscreenFromId&id=6235906782&language=en">
+        3.25
+    </a>
+
+
+</td>
+                            
+<td class="drawodds fixture">
+  
+    
+    <a class="odds_button" target="_top" href="http://stats.betradar.com/tb.php?type=iscreenFromId&id=6235906784&language=en">
+        3.10
+    </a>
+
+
+</td>        <td class="awayodds fixture">
+  
+    
+    <a class="odds_button" target="_top" href="http://stats.betradar.com/tb.php?type=iscreenFromId&id=6235906786&language=en">
+        2.30
+    </a>
+
+
+</td>
+
+                                            <td class="round">
+                
+                                                                                                                                                    8
+                                                                                                        </td>
+                                </tr>
+    <tr class="odd"><td class="datetime">15/09/17 18:00</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 11947432, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/2597.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/2592.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                Wehen Wiesbaden
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                Chemnitzer FC
+                                        </span>
+            </span>
+</a>
+</td>        <td class="homeodds fixture">
+  
+    
+    <a class="odds_button" target="_top" href="http://stats.betradar.com/tb.php?type=iscreenFromId&id=6235906776&language=en">
+        1.57
+    </a>
+
+
+</td>
+                            
+<td class="drawodds fixture">
+  
+    
+    <a class="odds_button" target="_top" href="http://stats.betradar.com/tb.php?type=iscreenFromId&id=6235906778&language=en">
+        3.75
+    </a>
+
+
+</td>        <td class="awayodds fixture">
+  
+    
+    <a class="odds_button" target="_top" href="http://stats.betradar.com/tb.php?type=iscreenFromId&id=6235906780&language=en">
+        6.25
+    </a>
+
+
+</td>
+
+                                            <td class="round">
+                
+                                                                                                                                                    8
+                                                                                                        </td>
+                                </tr>
+    <tr class="even"><td class="datetime">16/09/17 13:00</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 11947420, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/2614.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/5804.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                Carl Zeiss Jena
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                SV Meppen
+                                        </span>
+            </span>
+</a>
+</td>        <td class="homeodds fixture">
+  
+    
+    <a class="odds_button" target="_top" href="http://stats.betradar.com/tb.php?type=iscreenFromId&id=6235946010&language=en">
+        2.25
+    </a>
+
+
+</td>
+                            
+<td class="drawodds fixture">
+  
+    
+    <a class="odds_button" target="_top" href="http://stats.betradar.com/tb.php?type=iscreenFromId&id=6235946012&language=en">
+        3.20
+    </a>
+
+
+</td>        <td class="awayodds fixture">
+  
+    
+    <a class="odds_button" target="_top" href="http://stats.betradar.com/tb.php?type=iscreenFromId&id=6235946014&language=en">
+        3.20
+    </a>
+
+
+</td>
+
+                                            <td class="round">
+                
+                                                                                                                                                    8
+                                                                                                        </td>
+                                </tr>
+    <tr class="odd"><td class="datetime">16/09/17 13:00</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 11947422, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/2550.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/23947.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                VfR Aalen
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                <abbr title="Wurzburger Kickers">Wurzburger Kick…</abbr>
+                                        </span>
+            </span>
+</a>
+</td>        <td class="homeodds fixture">
+  
+    
+    <a class="odds_button" target="_top" href="http://stats.betradar.com/tb.php?type=iscreenFromId&id=6235945884&language=en">
+        2.30
+    </a>
+
+
+</td>
+                            
+<td class="drawodds fixture">
+  
+    
+    <a class="odds_button" target="_top" href="http://stats.betradar.com/tb.php?type=iscreenFromId&id=6235945888&language=en">
+        3.30
+    </a>
+
+
+</td>        <td class="awayodds fixture">
+  
+    
+    <a class="odds_button" target="_top" href="http://stats.betradar.com/tb.php?type=iscreenFromId&id=6235945890&language=en">
+        3.10
+    </a>
+
+
+</td>
+
+                                            <td class="round">
+                
+                                                                                                                                                    8
+                                                                                                        </td>
+                                </tr>
+    <tr class="even"><td class="datetime">16/09/17 13:00</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 11947424, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/2561.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/2590.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                SC Paderborn 07
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                Preußen Munster
+                                        </span>
+            </span>
+</a>
+</td>        <td class="homeodds fixture">
+  
+    
+    <a class="odds_button" target="_top" href="http://stats.betradar.com/tb.php?type=iscreenFromId&id=6235945712&language=en">
+        1.83
+    </a>
+
+
+</td>
+                            
+<td class="drawodds fixture">
+  
+    
+    <a class="odds_button" target="_top" href="http://stats.betradar.com/tb.php?type=iscreenFromId&id=6235945714&language=en">
+        3.30
+    </a>
+
+
+</td>        <td class="awayodds fixture">
+  
+    
+    <a class="odds_button" target="_top" href="http://stats.betradar.com/tb.php?type=iscreenFromId&id=6235945716&language=en">
+        4.60
+    </a>
+
+
+</td>
+
+                                            <td class="round">
+                
+                                                                                                                                                    8
+                                                                                                        </td>
+                                </tr>
+    <tr class="odd"><td class="datetime">16/09/17 13:00</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 11947428, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/2533.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/2577.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                Hansa Rostock
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                Werder Bremen II
+                                        </span>
+            </span>
+</a>
+</td>        <td class="homeodds fixture">
+  
+    
+    <a class="odds_button" target="_top" href="http://stats.betradar.com/tb.php?type=iscreenFromId&id=6235945914&language=en">
+        2.05
+    </a>
+
+
+</td>
+                            
+<td class="drawodds fixture">
+  
+    
+    <a class="odds_button" target="_top" href="http://stats.betradar.com/tb.php?type=iscreenFromId&id=6235945916&language=en">
+        3.20
+    </a>
+
+
+</td>        <td class="awayodds fixture">
+  
+    
+    <a class="odds_button" target="_top" href="http://stats.betradar.com/tb.php?type=iscreenFromId&id=6235945918&language=en">
+        3.80
+    </a>
+
+
+</td>
+
+                                            <td class="round">
+                
+                                                                                                                                                    8
+                                                                                                        </td>
+                                </tr>
+    <tr class="even"><td class="datetime">16/09/17 13:00</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 11947430, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/2683.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/2582.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                Fortuna Cologne
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                Hallescher FC
+                                        </span>
+            </span>
+</a>
+</td>        <td class="homeodds fixture">
+  
+    
+    <a class="odds_button" target="_top" href="http://stats.betradar.com/tb.php?type=iscreenFromId&id=6235945550&language=en">
+        2.05
+    </a>
+
+
+</td>
+                            
+<td class="drawodds fixture">
+  
+    
+    <a class="odds_button" target="_top" href="http://stats.betradar.com/tb.php?type=iscreenFromId&id=6235945552&language=en">
+        3.30
+    </a>
+
+
+</td>        <td class="awayodds fixture">
+  
+    
+    <a class="odds_button" target="_top" href="http://stats.betradar.com/tb.php?type=iscreenFromId&id=6235945554&language=en">
+        3.60
+    </a>
+
+
+</td>
+
+                                            <td class="round">
+                
+                                                                                                                                                    8
+                                                                                                        </td>
+                                </tr>
+    <tr class="odd"><td class="datetime">16/09/17 13:00</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 11947434, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/2553.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/5844.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                Karlsruher SC
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                <abbr title="Sportfreunde Lotte">Sportfreunde Lo…</abbr>
+                                        </span>
+            </span>
+</a>
+</td>        <td class="homeodds fixture">
+  
+    
+    <a class="odds_button" target="_top" href="http://stats.betradar.com/tb.php?type=iscreenFromId&id=6235945822&language=en">
+        1.67
+    </a>
+
+
+</td>
+                            
+<td class="drawodds fixture">
+  
+    
+    <a class="odds_button" target="_top" href="http://stats.betradar.com/tb.php?type=iscreenFromId&id=6235945824&language=en">
+        3.50
+    </a>
+
+
+</td>        <td class="awayodds fixture">
+  
+    
+    <a class="odds_button" target="_top" href="http://stats.betradar.com/tb.php?type=iscreenFromId&id=6235945826&language=en">
+        5.50
+    </a>
+
+
+</td>
+
+                                            <td class="round">
+                
+                                                                                                                                                    8
+                                                                                                        </td>
+                                </tr>
+    <tr class="even"><td class="datetime">16/09/17 13:00</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 11947436, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/2555.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/5894.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                Unterhaching
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                <abbr title="Sonnenhof Großaspach">Sonnenhof Großa…</abbr>
+                                        </span>
+            </span>
+</a>
+</td>        <td class="homeodds fixture">
+  
+    
+    <a class="odds_button" target="_top" href="http://stats.betradar.com/tb.php?type=iscreenFromId&id=6235945582&language=en">
+        1.75
+    </a>
+
+
+</td>
+                            
+<td class="drawodds fixture">
+  
+    
+    <a class="odds_button" target="_top" href="http://stats.betradar.com/tb.php?type=iscreenFromId&id=6235945584&language=en">
+        3.40
+    </a>
+
+
+</td>        <td class="awayodds fixture">
+  
+    
+    <a class="odds_button" target="_top" href="http://stats.betradar.com/tb.php?type=iscreenFromId&id=6235945586&language=en">
+        5.00
+    </a>
+
+
+</td>
+
+                                            <td class="round">
+                
+                                                                                                                                                    8
+                                                                                                        </td>
+                                </tr>
+    
+
+        </tbody>
+    
+
+    
+    </table>]]></c></n></n></n></n></n><n p="3" id="1233" c="view"/></n></n><n p="1" id="1233" c="view"/><n p="2" id="3147" c="view"><s p="0" s="clientid" id="1"/><n p="0" id="1233" c="view"/></n><n p="3" id="1233" c="view"/></n><n p="5" id="4049" c="socialmedia" data="1"><c cache="86400" type="document"><![CDATA[<div id="socialmedia">
+
+
+<div class="clear"></div>
+</div>]]></c></n></n></n><n p="5" id="2522" c="view"><p n="class" t="String" v="clear"/><p n="template" t="1" v="VBox"/></n></n></page>

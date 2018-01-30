@@ -1,0 +1,660 @@
+<?xml version="1.0"?>
+<page generated="2017-09-14 14:40:02" title="Soccer &gt; International &gt; WC Qualification, CAF  2015/17" GA="dimension10_1/dimension11_4/dimension19_4/dimension14_10878/dimension3_overview/dimension12_13/dimension7_74/dimension8_bet365"><n id="2563" c="view" cache="600"><s p="2" s="clientid" id="1"/><s p="2" s="test" id="14"/><s p="0" s="clientid" id="1"/><s p="0" s="test" id="14"/><s p="3" s="clientid" id="1"/><s p="0" s="search_ui_location" id="449"/><s p="2" s="logo_leftsolution" id="451"/><s p="2" s="treemenu" id="477"/><s p="4" s="treemenu" id="477"/><s p="4" s="test" id="14"/><s p="0" s="treemenu" id="477"/><s p="1" s="language_ui_location" id="553"/><n p="0" id="1233" c="view"/><n p="2" id="3605" c="logonew" data="1"><c cache="2592000" type="document"><![CDATA[<div id="node_logo_image" class="view"  >
+</div>]]></c></n><n p="3" id="1233" c="view"/><n p="4" id="2564" c="view"><p n="template" t="1" v="HBox"/><p n="divId" t="String" v="master-wrapper"/><s p="0" s="test" id="14"/><s p="0" s="clientid" id="1"/><s p="2" s="clientid" id="1"/><s p="0" s="leftmenu_type" id="455"/><n p="0" id="2565" c="view"><p n="template" t="1" v="VBox"/><p n="divId" t="String" v="left-side-menu-wrap"/><s p="2" s="menu_cornerbox_leftsolution" id="453"/><s p="2" s="clientid" id="1"/><s p="1" s="clientid" id="1"/><s p="1" s="test" id="14"/><s p="0" s="clientid" id="1"/><s p="3" s="clientid" id="1"/><s p="4" s="clientid" id="1"/><s p="1" s="search_ui_location" id="449"/><n p="0" id="1233" c="view"/><n p="1" id="2989" c="Search" data="1"><c cache="2592000"><![CDATA[
+        <div class="searchcontainer searchscope">
+            <div class="ui-widget">
+                <input aria-haspopup="true" aria-autocomplete="list" role="textbox" autocomplete="off" id="sphinx" class="ui-autocomplete-input" />
+                <span id="sphinx_search_button"></span>
+            </div>
+        </div>
+        ]]></c></n><n p="2" id="2997" c="view"><n p="0" id="2999" c="menu" data="1"><p n="lightweight_filters" t="intarray" v="97"/><p n="type" t="String" v="treelist"/><p n="lightweight" t="boolean" v="1"/><p n="menuid" t="int" v="74"/><c cache="86400"><![CDATA[<div class=""><ul class=""></ul></div>
+]]></c></n></n><n p="3" id="1233" c="view"/><n p="4" id="1233" c="view"/></n><n p="1" id="2299" c="view"><p n="template" t="1" v="VBox"/><p n="divId" t="String" v="main-wrap"/><s p="0" s="language_ui_location" id="553"/><s p="2" s="clientid" id="1"/><s p="5" s="clientid" id="1"/><s p="4" s="sportid" id="2"/><s p="4" s="clientid" id="1"/><n p="0" id="2861" c="view"><p n="class" t="String" v="language_select"/><s p="0" s="haslanguageselect" id="331"/><s p="0" s="clientid" id="1"/><n p="0" id="2863" c="menu" data="1"><p n="type" t="String" v="slickselect"/><p n="menuid" t="int" v="123"/><c cache="86400"><![CDATA[<div class=""><div class="sb-wrapper"><div class="sb-selectedbox"><div class="sb-current"><div class="label"><span class="icon_flag cc-gb lang-2"></span><span>English</span></div><div class="arrow"></div><div class="clearResponsive"></div></div></div><div style="clear: both;"></div><div class="sb-optionswrap" style="display: none;"><div class="sb-scrollbox"><ul class="slickselect"><li class="sb-option active icon_flag cc-gb lang-2"><a href="javascript:s4.setLanguage('en');"><span><span class="icon_flag cc-gb lang-2"></span>English</span></a></li><li class="sb-option icon_flag cc-de lang-3"><a href="javascript:s4.setLanguage('de');"><span><span class="icon_flag cc-de lang-3"></span>Deutsch</span></a></li><li class="sb-option icon_flag cc-fr lang-4"><a href="javascript:s4.setLanguage('fr');"><span><span class="icon_flag cc-fr lang-4"></span>Fran&ccedil;ais</span></a></li><li class="sb-option icon_flag cc-it lang-1"><a href="javascript:s4.setLanguage('it');"><span><span class="icon_flag cc-it lang-1"></span>Italiano</span></a></li><li class="sb-option icon_flag cc-tr lang-6"><a href="javascript:s4.setLanguage('tr');"><span><span class="icon_flag cc-tr lang-6"></span>T&uuml;rk&ccedil;e</span></a></li><li class="sb-option icon_flag cc-hr lang-7"><a href="javascript:s4.setLanguage('hr');"><span><span class="icon_flag cc-hr lang-7"></span>Hrvatski</span></a></li><li class="sb-option icon_flag cc-sk lang-8"><a href="javascript:s4.setLanguage('sk');"><span><span class="icon_flag cc-sk lang-8"></span>Sloven&#269;ina</span></a></li><li class="sb-option icon_flag cc-si lang-9"><a href="javascript:s4.setLanguage('sl');"><span><span class="icon_flag cc-si lang-9"></span>Sloven&scaron;&#269;ina</span></a></li><li class="sb-option icon_flag cc-no lang-10"><a href="javascript:s4.setLanguage('no');"><span><span class="icon_flag cc-no lang-10"></span>Norsk</span></a></li><li class="sb-option icon_flag cc-se lang-11"><a href="javascript:s4.setLanguage('se');"><span><span class="icon_flag cc-se lang-11"></span>Svenska</span></a></li><li class="sb-option icon_flag cc-dk lang-12"><a href="javascript:s4.setLanguage('da');"><span><span class="icon_flag cc-dk lang-12"></span>Dansk</span></a></li><li class="sb-option icon_flag cc-es lang-13"><a href="javascript:s4.setLanguage('es');"><span><span class="icon_flag cc-es lang-13"></span>Espa&ntilde;ol</span></a></li><li class="sb-option icon_flag cc-nl lang-14"><a href="javascript:s4.setLanguage('nl');"><span><span class="icon_flag cc-nl lang-14"></span>Nederlands</span></a></li><li class="sb-option icon_flag cc-pl lang-15"><a href="javascript:s4.setLanguage('pl');"><span><span class="icon_flag cc-pl lang-15"></span>Polski</span></a></li><li class="sb-option icon_flag cc-pt lang-16"><a href="javascript:s4.setLanguage('pt');"><span><span class="icon_flag cc-pt lang-16"></span>Portugu&ecirc;s</span></a></li><li class="sb-option icon_flag cc-cz lang-17"><a href="javascript:s4.setLanguage('cs');"><span><span class="icon_flag cc-cz lang-17"></span>&#268;esky</span></a></li><li class="sb-option icon_flag cc-lv lang-18"><a href="javascript:s4.setLanguage('lv');"><span><span class="icon_flag cc-lv lang-18"></span>Latvie&scaron;u</span></a></li><li class="sb-option icon_flag cc-fi lang-19"><a href="javascript:s4.setLanguage('fi');"><span><span class="icon_flag cc-fi lang-19"></span>Suomeksi</span></a></li><li class="sb-option icon_flag cc-ru lang-21"><a href="javascript:s4.setLanguage('ru');"><span><span class="icon_flag cc-ru lang-21"></span>&#1056;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081;</span></a></li><li class="sb-option icon_flag cc-th lang-29"><a href="javascript:s4.setLanguage('th');"><span><span class="icon_flag cc-th lang-29"></span>&#3652;&#3607;&#3618;</span></a></li><li class="sb-option icon_flag cc-cn lang-30"><a href="javascript:s4.setLanguage('zh');"><span><span class="icon_flag cc-cn lang-30"></span>&#31616;&#20307;&#20013;&#25991;</span></a></li><li class="sb-option icon_flag cc-ba lang-31"><a href="javascript:s4.setLanguage('bs');"><span><span class="icon_flag cc-ba lang-31"></span>Bosanski</span></a></li><li class="sb-option icon_flag cc-hu lang-32"><a href="javascript:s4.setLanguage('hu');"><span><span class="icon_flag cc-hu lang-32"></span>Magyar</span></a></li><li class="sb-option icon_flag cc-bg lang-33"><a href="javascript:s4.setLanguage('bg');"><span><span class="icon_flag cc-bg lang-33"></span>&#1041;&#1098;&#1083;&#1075;&#1072;&#1088;&#1089;&#1082;&#1080;</span></a></li><li class="sb-option icon_flag cc-rs lang-34"><a href="javascript:s4.setLanguage('sr');"><span><span class="icon_flag cc-rs lang-34"></span>C&#1088;&#1087;&#1089;&#1082;&#1080;</span></a></li><li class="sb-option icon_flag cc-gr lang-35"><a href="javascript:s4.setLanguage('el');"><span><span class="icon_flag cc-gr lang-35"></span>E&lambda;&lambda;&eta;&nu;&iota;&kappa;&#940;</span></a></li><li class="sb-option icon_flag cc-ro lang-36"><a href="javascript:s4.setLanguage('ro');"><span><span class="icon_flag cc-ro lang-36"></span>Rom&acirc;n&#259;</span></a></li><li class="sb-option icon_flag cc-ee lang-37"><a href="javascript:s4.setLanguage('et');"><span><span class="icon_flag cc-ee lang-37"></span>Eesti</span></a></li><li class="sb-option icon_flag cc-mk lang-38"><a href="javascript:s4.setLanguage('mk');"><span><span class="icon_flag cc-mk lang-38"></span>&#1052;&#1072;&#1082;&#1077;&#1076;&#1086;&#1085;&#1089;&#1082;&#1080;</span></a></li><li class="sb-option icon_flag cc-lt lang-39"><a href="javascript:s4.setLanguage('lt');"><span><span class="icon_flag cc-lt lang-39"></span>Lietuvi&#371; </span></a></li><li class="sb-option icon_flag cc-cn lang-40"><a href="javascript:s4.setLanguage('zht');"><span><span class="icon_flag cc-cn lang-40"></span>&#20013;&#25991;&#32321;&#39636;</span></a></li><li class="sb-option icon_flag cc-vn lang-42"><a href="javascript:s4.setLanguage('vi');"><span><span class="icon_flag cc-vn lang-42"></span>Ti&#7871;ng Vi&#7879;t</span></a></li><li class="sb-option icon_flag cc-id lang-41"><a href="javascript:s4.setLanguage('id');"><span><span class="icon_flag cc-id lang-41"></span>Bahasa</span></a></li><li class="sb-option icon_flag cc-jp lang-43"><a href="javascript:s4.setLanguage('ja');"><span><span class="icon_flag cc-jp lang-43"></span>&#26085;&#26412;&#35486;</span></a></li><li class="sb-option icon_flag cc-kr lang-44"><a href="javascript:s4.setLanguage('ko');"><span><span class="icon_flag cc-kr lang-44"></span>&#54620;&#44397;&#50612;</span></a></li><li class="sb-option icon_flag cc-ch lang-46"><a href="javascript:s4.setLanguage('ch');"><span><span class="icon_flag cc-ch lang-46"></span>Schweizerdeutsch</span></a></li><li class="sb-option icon_flag cc-ge lang-53"><a href="javascript:s4.setLanguage('ka');"><span><span class="icon_flag cc-ge lang-53"></span>&#4325;&#4304;&#4320;&#4311;&#4323;&#4314;&#4312;</span></a></li><li class="sb-option icon_flag cc-al lang-56"><a href="javascript:s4.setLanguage('sqi');"><span><span class="icon_flag cc-al lang-56"></span>Shqip</span></a></li><li class="sb-option icon_flag cc-ua lang-58"><a href="javascript:s4.setLanguage('ukr');"><span><span class="icon_flag cc-ua lang-58"></span>&#1059;&#1082;&#1088;&#1072;&#1111;&#1085;&#1089;&#1100;&#1082;&#1072;</span></a></li><li class="sb-option icon_flag cc-rs lang-60"><a href="javascript:s4.setLanguage('srl');"><span><span class="icon_flag cc-rs lang-60"></span>Srpski</span></a></li></ul></div></div></div></div>
+]]></c></n></n><n p="1" id="4215" c="view"><p n="class" t="String" v="timezone_select"/><n p="0" id="4217" c="menu" data="1"><p n="type" t="String" v="slickselect"/><p n="menuid" t="int" v="163"/><c cache="86400"><![CDATA[<div class=""><ul class=""></ul></div>
+]]></c></n></n><n p="2" id="1233" c="view"/><n p="3" id="2301" c="view"><p n="class" t="String" v="nav-wrapper"/><s p="0" s="haspartialdisplay" id="365"/><s p="1" s="sportid" id="2"/><s p="1" s="stageid" id="16"/><s p="1" s="viewtype" id="9"/><s p="1" s="seasonid" id="5"/><s p="0" s="clientid" id="1"/><s p="0" s="isvfl" id="409"/><s p="1" s="sportid2" id="309"/><s p="1" s="landingpage_stageid" id="262"/><s p="0" s="sportid" id="2"/><s p="0" s="vleague" id="527"/><n p="0" id="2014" c="view"><p n="class" t="String" v="breadcrumbs"/><s p="0" s="sportid" id="2"/><s p="2" s="continentid" id="22"/><s p="2" s="sportid" id="2"/><s p="2" s="test" id="14"/><s p="3" s="categoryid" id="3"/><s p="3" s="test" id="14"/><s p="7" s="seasonid" id="5"/><s p="9" s="tableorcup" id="239"/><s p="8" s="seasontypeid" id="242"/><s p="6" s="tournamentid" id="17"/><s p="5" s="weeklyevent_event" id="176"/><s p="5" s="tournamentid" id="17"/><s p="10" s="stageid" id="16"/><s p="4" s="category2id" id="33"/><s p="3" s="sportid" id="2"/><s p="12" s="clientid" id="1"/><s p="11" s="viewtype" id="9"/><s p="11" s="seasonid" id="5"/><s p="11" s="uniqueteamid" id="6"/><s p="2" s="mobile_client" id="554"/><s p="13" s="clientid" id="1"/><s p="1" s="sportid2" id="309"/><s p="1" s="landingpage_stageid" id="262"/><s p="1" s="stageid" id="16"/><s p="1" s="sportid" id="2"/><s p="1" s="categoryid" id="3"/><s p="11" s="clientid" id="1"/><s p="7" s="categoryid" id="3"/><s p="7" s="clientid" id="1"/><s p="10" s="clientid" id="1"/><s p="10" s="landingpage_stageid" id="262"/><s p="10" s="test" id="14"/><s p="2" s="sportid2" id="309"/><s p="2" s="stageid" id="16"/><s p="10" s="sportid" id="2"/><n p="0" id="2015" c="menu" data="1"><p n="br_levels" t="int" v="0"/><p n="class" t="String" v="breadcrumb"/><p n="type" t="String" v="br_menu"/><p n="menuid" t="int" v="79"/><c cache="86400"><![CDATA[<div class="breadcrumb"><ul class="jd_menu br_menustyle"><li class="topelem first icon_sport sport-1"><a href="javascript:s4.setState('2_1',false);" class="atopelem"><div><span class="icon_sport sport-1"></span><span>Soccer</span><span class="arrow_icon_space"></span><div class="clearResponsive"></div></div></a></li></ul></div>
+]]></c></n><n p="1" id="1233" c="view"/><n p="2" id="4113" c="breadcrumbdoc" data="1"><p n="hideForSportId" t="int" v="11"/><p n="type" t="String" v="continent"/><c cache="3600" type="document"><![CDATA[<div class="menu">
+    <div class="breadcrumb">
+            <ul class="jd_menu br_menustyle">
+            <li class="topelem first">
+                                <a href="javascript:s4.setState('2_1,22_4',false);" class="atopelem">
+                                    <div>
+                                                                                                    <span>Africa</span>
+                                                <span class="arrow_down_icon"></span>
+                        <div class="clearResponsive"></div>
+                    </div>
+                </a>
+                                <ul class="jdlvl_2">
+                                                                                        <li>
+                                <a href="javascript:s4.setState('2_1,22_1',false);"><span>Europe</span></a>
+                                <div class="clearResponsive"></div>
+                            </li>
+                                                                                                                                    <li>
+                                <a href="javascript:s4.setState('2_1,22_2',false);"><span>North America</span></a>
+                                <div class="clearResponsive"></div>
+                            </li>
+                                                                                                                                    <li>
+                                <a href="javascript:s4.setState('2_1,22_3',false);"><span>South America</span></a>
+                                <div class="clearResponsive"></div>
+                            </li>
+                                                                                                                                    <li>
+                                <a href="javascript:s4.setState('2_1,22_5',false);"><span>Asia</span></a>
+                                <div class="clearResponsive"></div>
+                            </li>
+                                                                            </ul>
+                        </ul>
+        </div>
+</div>]]></c></n><n p="3" id="4105" c="breadcrumbdoc" data="1"><p n="hideForSportId" t="int" v="11"/><p n="type" t="String" v="category"/><c cache="3600" type="document"><![CDATA[<div class="menu">
+    <div class="breadcrumb">
+            <ul class="jd_menu br_menustyle">
+            <li class="topelem first">
+                                <a href="javascript:s4.deeplink('categoryid','4','');" class="atopelem">
+                                    <div>
+                                                                                                    <span>International</span>
+                                                <span class="arrow_down_icon"></span>
+                        <div class="clearResponsive"></div>
+                    </div>
+                </a>
+                                <ul class="jdlvl_2">
+                                                                                        <li>
+                                <a href="javascript:s4.deeplink('categoryid','305','');"><span>Egypt</span></a>
+                                <div class="clearResponsive"></div>
+                            </li>
+                                                                                                                                    <li>
+                                <a href="javascript:s4.deeplink('categoryid','322','');"><span>South Africa</span></a>
+                                <div class="clearResponsive"></div>
+                            </li>
+                                                                                                                                    <li>
+                                <a href="javascript:s4.deeplink('categoryid','886','');"><span>Senegal</span></a>
+                                <div class="clearResponsive"></div>
+                            </li>
+                                                                                                                                    <li>
+                                <a href="javascript:s4.deeplink('categoryid','304','');"><span>Algeria</span></a>
+                                <div class="clearResponsive"></div>
+                            </li>
+                                                                                                                                    <li>
+                                <a href="javascript:s4.deeplink('categoryid','805','');"><span>Kenya</span></a>
+                                <div class="clearResponsive"></div>
+                            </li>
+                                                                                                                                    <li>
+                                <a href="javascript:s4.deeplink('categoryid','303','');"><span>Morocco</span></a>
+                                <div class="clearResponsive"></div>
+                            </li>
+                                                                                                                                    <li>
+                                <a href="javascript:s4.deeplink('categoryid','378','');"><span>Tunisia</span></a>
+                                <div class="clearResponsive"></div>
+                            </li>
+                                                                                                                                    <li>
+                                <a href="javascript:s4.deeplink('categoryid','532','');"><span>Nigeria</span></a>
+                                <div class="clearResponsive"></div>
+                            </li>
+                                                                                                                                    <li>
+                                <a href="javascript:s4.deeplink('categoryid','391','');"><span>Cameroon</span></a>
+                                <div class="clearResponsive"></div>
+                            </li>
+                                                                                                                                    <li>
+                                <a href="javascript:s4.deeplink('categoryid','390','');"><span>Ivory Coast</span></a>
+                                <div class="clearResponsive"></div>
+                            </li>
+                                                                            </ul>
+                        </ul>
+        </div>
+</div>]]></c></n><n p="4" id="1233" c="view"/><n p="5" id="1233" c="view"/><n p="6" id="1233" c="view"/><n p="7" id="2032" c="menu" data="1"><p n="class" t="String" v="breadcrumb"/><p n="menuid" t="int" v="83"/><p n="type" t="String" v="br_menu"/><c cache="86400"><![CDATA[<div class="breadcrumb"><ul class="jd_menu br_menustyle"><li class="topelem first "><a href="javascript:s4.deeplink('seasonid','10878','');" class="atopelem"><div><span>WC Qualification, CAF 2018</span><span class="arrow_down_icon"></span><div class="clearResponsive"></div></div></a><ul class=" jdlvl_2"><li class=""><a href="javascript:s4.deeplink('seasonid','10876','');"><span>WC Qualification, UEFA 2018</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','40373','');"><span>WC Qualification Women 2019</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','12170','');"><span>European Championship 2016</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','36178','');"><span>European Ch.ship Women 2017</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','10080','');"><span>WC Qual, CONCACAF 2018</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','40459','');"><span>Gold Cup 2017</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','10872','');"><span>WC Qual, CONMEBOL 2018</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','10878','');"><span>WC Qualification, CAF 2018</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','40265','');"><span>Africa Cup of Nations, Q 2019</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','40679','');"><span>COSAFA Cup 2017</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','10060','');"><span>WC Qualification, AFC 2018</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','32505','');"><span>AFC Asian Cup QF 2019</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','43030','');"><span>East Asian Ch.ship Women 2017</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','10874','');"><span>WC Qualification, OFC 2018</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','12867','');"><span>Olympic Games 2016</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','12869','');"><span>Olympic Games Women 2016</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','11184','');"><span>Confederations Cup 2017</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','7528','');"><span>World Cup 2014</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','38624','');"><span>Int. Friendly Games 2017</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','38987','');"><span>Int. Friendly Games W 2017</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','42280','');"><span>King&acute;s Cup 2017</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','42728','');"><span>Tournament of Nations, Women 2017</span><div class="clearResponsive"></div></a></li></ul></li></ul></div>
+]]></c></n><n p="8" id="1233" c="view"/><n p="9" id="1233" c="view"/><n p="10" id="1233" c="view"/><n p="11" id="1233" c="view"/><n p="12" id="2675" c="view"><p n="class" t="String" v="right"/><s p="0" s="test" id="14"/><s p="0" s="clientid" id="1"/><s p="0" s="is_landing_page" id="560"/><n p="0" id="2685" c="Button" data="1"><p n="href" t="String" v="s4.goback()"/><p n="value" t="String" v="Back"/><p n="innertagname" t="String" v="span"/><p n="tagname" t="String" v="a"/><c cache="86400"><![CDATA[<a class=" button" onclick="s4.goback()"><span>Back</span></a>
+]]></c></n></n><n p="13" id="1233" c="view"/><n p="14" id="2729" c="view"><p n="class" t="String" v="clear"/></n></n><n p="1" id="1833" c="view"><s p="1" s="seasonid" id="5"/><s p="1" s="mobile_client" id="554"/><s p="0" s="isvfl" id="409"/><n p="0" id="1233" c="view"/><n p="1" id="956" c="menu" data="1"><p n="menuid" t="int" v="15"/><p n="type" t="String" v="dropdown"/><p n="divId" t="String" v="nav-wrap-inner-2"/><p n="class" t="String" v="nav-wrap-class-2"/><c cache="86400"><![CDATA[<div class="nav-wrap-class-2"><ul class="dropdown"><li class="expandable type_9_overview active"><span class="underlevel-expandable-1-last"></span><a href="javascript:s4.setState('9_overview',false);" class="selected"><span>Overview</span></a></li><li class="expandable type_9_teampage"><span class="underlevel-expandable-1-last"></span><a href="javascript:s4.setState('9_teampage',false);"><span>Teams</span></a></li><li class="expandable type_9_headtohead"><span class="underlevel-expandable-1-last"></span><a href="javascript:s4.setState('9_headtohead',false);"><span>Head to Head</span></a></li><li class="expandable type_9_statistics"><span class="underlevel-expandable-1-last"></span><a href="javascript:s4.setState('9_statistics',false);"><span>Statistics</span></a></li><li class="expandable type_9_fixtures"><span class="underlevel-expandable-1-last"></span><a href="javascript:s4.setState('9_fixtures',false);"><span>Fixtures</span></a></li><li class="expandable type_9_archive last"><span class="underlevel-expandable-1-last"></span><a href="javascript:s4.setState('9_archive',false);"><span>Archive</span></a></li><div class="clearResponsive"></div></ul></div>
+]]></c></n></n><n p="2" id="1233" c="view"/></n><n p="4" id="2302" c="view"><p n="class" t="String" v="under-main"/><s p="0" s="sportid" id="2"/><s p="0" s="seasonid" id="5"/><s p="0" s="tournamentid" id="17"/><s p="1" s="clientid" id="1"/><s p="0" s="search_string" id="327"/><s p="3" s="viewtype" id="9"/><s p="0" s="test" id="14"/><n p="0" id="2310" c="view"><s p="0" s="viewtype" id="9"/><s p="0" s="hasmultipleinfo" id="196"/><s p="0" s="seasontypeid" id="242"/><s p="0" s="tableorcup" id="239"/><s p="0" s="haspartialdisplay" id="365"/><s p="0" s="matchid" id="8"/><s p="0" s="sportid" id="2"/><s p="0" s="seasonid" id="5"/><s p="0" s="uniqueteamid" id="6"/><s p="0" s="test" id="14"/><s p="0" s="clientid" id="1"/><n p="0" id="1393" c="view"><n p="0" id="1496" c="view"><p n="template" t="1" v="VBox"/><p n="template" t="1" v="Full"/><s p="3" s="matchtype" id="26"/><s p="3" s="tabletype" id="25"/><s p="3" s="fulltimeorhalftime" id="72"/><s p="3" s="round" id="24"/><s p="0" s="iscupandtable" id="247"/><n p="0" id="5264" c="button_print" data="0"/><n p="1" id="2144" c="view"><p n="template" t="1" v="cornerbox"/><s p="0" s="isresponsive" id="569"/><n p="0" id="2146" c="view"><n p="0" id="3125" c="view"><p n="class" t="String" v="season_dropdown"/><s p="0" s="vleague" id="527"/><s p="1" s="clientid" id="1"/><n p="0" id="995" c="menu" data="1"><p n="type" t="String" v="slickselect"/><p n="template" t="1" v="HBox"/><p n="menuid" t="int" v="19"/><c cache="86400"><![CDATA[<div class=""><div class="sb-wrapper"><div class="sb-selectedbox"><div class="sb-current"><div class="label">2018</div><div class="arrow"></div><div class="clearResponsive"></div></div></div><div style="clear: both;"></div><div class="sb-optionswrap" style="display: none;"><div class="sb-scrollbox"><ul class="slickselect"><li class="sb-option active " onclick="javascript:s4.deeplink('seasonid','10878','');">2018</li><li class="sb-option " onclick="javascript:s4.deeplink('seasonid','3877','');">2014</li><li class="sb-option " onclick="javascript:s4.deeplink('seasonid','1002','');">2010</li></ul></div></div></div></div>
+]]></c></n><n p="1" id="1233" c="view"/></n><n p="1" id="2149" c="menu" data="1"><p n="class" t="String" v="gismo_invert gismo_left"/><p n="menuid" t="int" v="97"/><p n="type" t="String" v="gismo"/><c cache="86400"><![CDATA[<div class="gismo_invert gismo_left"><div class="table_selector"><div class="tabs navtabs"><ul class="navtabs gismo"><li class="active first"><a href="javascript:s4.setState('5_10878,9_overview',false);"><div class="htab"><span>Overview</span></div></a></li><li class="followingSelected"><a href="javascript:s4.deeplink('seasontypeid','21','5_10878');"><div class="htab"><span>Group Stage</span></div></a></li><li class="last"><a href="javascript:s4.deeplink('seasontypeid','26','5_10878');"><div class="htab"><span>Playoffs</span></div></a></li><div class="clearResponsive"></div></ul></div></div></div>
+]]></c></n><n p="2" id="2150" c="Hr" data="1"><c cache="2592000"><![CDATA[<div class="horizontal_ruler"></div>]]></c></n></n><n p="1" id="2151" c="view"><s p="0" s="seasontypeid" id="242"/><s p="0" s="tableorcup" id="239"/><s p="1" s="seasonold" id="259"/><s p="1" s="tableorcup" id="239"/><s p="1" s="vleague" id="527"/><s p="1" s="sportid" id="2"/><s p="1" s="categoryid" id="3"/><n p="0" id="1233" c="view"/><n p="1" id="3655" c="view"><p n="class" t="String" v="with_border"/><s p="3" s="isresponsive" id="569"/><n p="0" id="2257" c="view"><p n="template" t="1" v="HBox"/><p n="template" t="1" v="Half"/><n p="0" id="2259" c="view"><p n="template" t="1" v="component"/><p n="class" t="String" v="landingpage"/><s p="0" s="landingpage_seasonid" id="260"/><s p="0" s="test" id="14"/><s p="0" s="clientid" id="1"/><n p="0" id="3285" c="couch_lastx" data="1"><p n="useabbr" t="boolean" v="1"/><p n="defaultFromToplist" t="boolean" v="1"/><p n="titletext" t="String" v="Results"/><c cache="900" type="document" name="Last 10"><![CDATA[<h2 class="title">Results</h2>
+
+
+
+
+    <table  class="normaltable lastx">
+    
+        <thead>
+        <tr class="header0"><th class="datetime first"><abbr title="Date">DA</abbr></th><th class="match">Match</th><th class="nt">FT</th><th class="round last"><abbr title="Round">RO</abbr></th></tr>        </thead>
+    
+    
+    
+        <tbody>
+        <tr class="odd"><td class="datetime">05/09/17</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 9684319, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/dz.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/zm.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                Algeria
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away winner                  ">
+                                                Zambia
+                                        </span>
+            </span>
+</a>
+</td>                    
+            <td class="nt ftx ">
+                                                                                        <span class="score">0</span>:<span class="score">1</span>
+                                                                                                    </td>
+            
+
+                                            <td class="round">
+                
+                                                                                                                                                    4
+                                                                                                        </td>
+                                </tr>
+    <tr class="even"><td class="datetime">05/09/17</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 9684377, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/ml.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/ma.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                Mali
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                Morocco
+                                        </span>
+            </span>
+</a>
+</td>                    
+            <td class="nt ftx ">
+                                                                                        <span class="score">0</span>:<span class="score">0</span>
+                                                                                                    </td>
+            
+
+                                            <td class="round">
+                
+                                                                                                                                                    4
+                                                                                                        </td>
+                                </tr>
+    <tr class="odd"><td class="datetime">05/09/17</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 9684493, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/eg.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/ug.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home winner">
+                                                Egypt
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                Uganda
+                                        </span>
+            </span>
+</a>
+</td>                    
+            <td class="nt ftx ">
+                                                                                        <span class="score">1</span>:<span class="score">0</span>
+                                                                                                    </td>
+            
+
+                                            <td class="round">
+                
+                                                                                                                                                    4
+                                                                                                        </td>
+                                </tr>
+    <tr class="even"><td class="datetime">05/09/17</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 9684445, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/bf.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/sn.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                Burkina Faso
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                Senegal
+                                        </span>
+            </span>
+</a>
+</td>                    
+            <td class="nt ftx ">
+                                                                                        <span class="score">2</span>:<span class="score">2</span>
+                                                                                                    </td>
+            
+
+                                            <td class="round">
+                
+                                                                                                                                                    4
+                                                                                                        </td>
+                                </tr>
+    <tr class="odd"><td class="datetime">05/09/17</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 9684371, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/ci.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/ga.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                Ivory Coast
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away winner                  ">
+                                                Gabon
+                                        </span>
+            </span>
+</a>
+</td>                    
+            <td class="nt ftx ">
+                                                                                        <span class="score">1</span>:<span class="score">2</span>
+                                                                                                    </td>
+            
+
+                                            <td class="round">
+                
+                                                                                                                                                    4
+                                                                                                        </td>
+                                </tr>
+    <tr class="even"><td class="datetime">05/09/17</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 9684235, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/cd.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/tn.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                DR Congo
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                Tunisia
+                                        </span>
+            </span>
+</a>
+</td>                    
+            <td class="nt ftx ">
+                                                                                        <span class="score">2</span>:<span class="score">2</span>
+                                                                                                    </td>
+            
+
+                                            <td class="round">
+                
+                                                                                                                                                    4
+                                                                                                        </td>
+                                </tr>
+    <tr class="odd"><td class="datetime">05/09/17</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 9684447, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/za.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/cv.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                South Africa
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away winner                  ">
+                                                Cape Verde
+                                        </span>
+            </span>
+</a>
+</td>                    
+            <td class="nt ftx ">
+                                                                                        <span class="score">1</span>:<span class="score">2</span>
+                                                                                                    </td>
+            
+
+                                            <td class="round">
+                
+                                                                                                                                                    4
+                                                                                                        </td>
+                                </tr>
+    <tr class="even"><td class="datetime">05/09/17</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 9684495, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/cg.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/gh.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                Republic Congo
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away winner                  ">
+                                                Ghana
+                                        </span>
+            </span>
+</a>
+</td>                    
+            <td class="nt ftx ">
+                                                                                        <span class="score">1</span>:<span class="score">5</span>
+                                                                                                    </td>
+            
+
+                                            <td class="round">
+                
+                                                                                                                                                    4
+                                                                                                        </td>
+                                </tr>
+    <tr class="odd"><td class="datetime">04/09/17</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 9684237, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/ly.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/gn.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home winner">
+                                                Libya
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                Guinea
+                                        </span>
+            </span>
+</a>
+</td>                    
+            <td class="nt ftx ">
+                                                                                        <span class="score">1</span>:<span class="score">0</span>
+                                                                                                    </td>
+            
+
+                                            <td class="round">
+                
+                                                                                                                                                    4
+                                                                                                        </td>
+                                </tr>
+    <tr class="even"><td class="datetime">04/09/17</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 9684321, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/cm.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/ng.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                Cameroon
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                Nigeria
+                                        </span>
+            </span>
+</a>
+</td>                    
+            <td class="nt ftx ">
+                                                                                        <span class="score">1</span>:<span class="score">1</span>
+                                                                                                    </td>
+            
+
+                                            <td class="round">
+                
+                                                                                                                                                    4
+                                                                                                        </td>
+                                </tr>
+    
+
+        </tbody>
+    
+
+    
+    </table>]]></c></n></n></n><n p="1" id="3661" c="view"><p n="class" t="String" v="border_normal"/></n><n p="2" id="2258" c="view"><p n="template" t="1" v="HBox"/><p n="template" t="1" v="Half"/><p n="template" t="1" v="Last"/><n p="0" id="2260" c="view"><p n="template" t="1" v="component"/><p n="class" t="String" v="landingpage"/><s p="1" s="clientid" id="1"/><s p="1" s="landingpage_seasonid" id="260"/><s p="1" s="test" id="14"/><s p="1" s="oddstype_next" id="415"/><s p="0" s="oddstype_next" id="415"/><s p="0" s="showoddsmenu" id="417"/><s p="0" s="sportid" id="2"/><n p="0" id="4347" c="menu" data="1"><p n="type" t="String" v="gismo"/><p n="menuid" t="int" v="167"/><c cache="86400"><![CDATA[<div class=""><ul class=""></ul></div>
+]]></c></n><n p="1" id="3297" c="couch_nextx" data="1"><p n="useabbr" t="boolean" v="1"/><p n="defaultFromToplist" t="boolean" v="1"/><p n="titletext" t="String" v="Fixtures"/><c cache="900" type="document" name="Next 10"><![CDATA[<h2 class="title">Fixtures</h2>
+
+
+
+
+    <table  class="normaltable nextx">
+    
+        <thead>
+        <tr class="header0"><th class="datetime first"><abbr title="Date">DA</abbr></th><th class="match">Match</th><th class="round last"><abbr title="Round">RO</abbr></th></tr>        </thead>
+    
+    
+    
+        <tbody>
+        <tr class="odd"><td class="datetime">06/10/17 20:00</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 9684381, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/ml.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/ci.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                Mali
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                Ivory Coast
+                                        </span>
+            </span>
+</a>
+</td>                                    <td class="round">
+                
+                                                                                                                                                    5
+                                                                                                        </td>
+                                </tr>
+    <tr class="even"><td class="datetime">07/10/17 14:00</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 9684449, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/za.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/bf.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                South Africa
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                Burkina Faso
+                                        </span>
+            </span>
+</a>
+</td>                                    <td class="round">
+                
+                                                                                                                                                    5
+                                                                                                        </td>
+                                </tr>
+    <tr class="odd"><td class="datetime">07/10/17 14:00</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 9684499, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/ug.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/gh.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                Uganda
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                Ghana
+                                        </span>
+            </span>
+</a>
+</td>                                    <td class="round">
+                
+                                                                                                                                                    5
+                                                                                                        </td>
+                                </tr>
+    <tr class="even"><td class="datetime">07/10/17 17:00</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 9684243, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/ly.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/cd.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                Libya
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                DR Congo
+                                        </span>
+            </span>
+</a>
+</td>                                    <td class="round">
+                
+                                                                                                                                                    5
+                                                                                                        </td>
+                                </tr>
+    <tr class="odd"><td class="datetime">07/10/17 17:00</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 9684323, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/ng.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/zm.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                Nigeria
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                Zambia
+                                        </span>
+            </span>
+</a>
+</td>                                    <td class="round">
+                
+                                                                                                                                                    5
+                                                                                                        </td>
+                                </tr>
+    <tr class="even"><td class="datetime">07/10/17 17:00</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 9684329, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/cm.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/dz.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                Cameroon
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                Algeria
+                                        </span>
+            </span>
+</a>
+</td>                                    <td class="round">
+                
+                                                                                                                                                    5
+                                                                                                        </td>
+                                </tr>
+    <tr class="odd"><td class="datetime">07/10/17 18:00</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 9684241, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/gn.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/tn.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                Guinea
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                Tunisia
+                                        </span>
+            </span>
+</a>
+</td>                                    <td class="round">
+                
+                                                                                                                                                    5
+                                                                                                        </td>
+                                </tr>
+    <tr class="even"><td class="datetime">07/10/17 18:30</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 9684451, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/cv.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/sn.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                Cape Verde
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                Senegal
+                                        </span>
+            </span>
+</a>
+</td>                                    <td class="round">
+                
+                                                                                                                                                    5
+                                                                                                        </td>
+                                </tr>
+    <tr class="odd"><td class="datetime">07/10/17 20:00</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 9684387, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/ma.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/ga.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                Morocco
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                Gabon
+                                        </span>
+            </span>
+</a>
+</td>                                    <td class="round">
+                
+                                                                                                                                                    5
+                                                                                                        </td>
+                                </tr>
+    <tr class="even"><td class="datetime">08/10/17 18:00</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 9684497, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/eg.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/cg.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                Egypt
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                Republic Congo
+                                        </span>
+            </span>
+</a>
+</td>                                    <td class="round">
+                
+                                                                                                                                                    5
+                                                                                                        </td>
+                                </tr>
+    
+
+        </tbody>
+    
+
+    
+    </table>]]></c></n></n></n><n p="3" id="1233" c="view"/></n></n></n><n p="2" id="2145" c="view"><p n="class" t="String" v="motorsport_playoffs_view"/><p n="template" t="1" v="cornerbox"/><s p="0" s="clientid" id="1"/><s p="0" s="seasonid" id="5"/><s p="0" s="test" id="14"/><s p="0" s="cupsection" id="323"/><s p="0" s="cupid" id="28"/><n p="0" id="2905" c="view"><p n="template" t="1" v="component"/><p n="class" t="String" v="cuprostertabsview"/><s p="1" s="clientid" id="1"/><s p="1" s="isdoubles" id="299"/><s p="1" s="cupsection" id="323"/><s p="1" s="cupid" id="28"/><s p="1" s="showplacementmatches" id="322"/><s p="1" s="new_cup_tree" id="427"/><s p="0" s="new_cup_tree" id="427"/><s p="1" s="tournamentid" id="17"/><s p="0" s="clientid" id="1"/><n p="0" id="2907" c="menu" data="1"><p n="menuid" t="int" v="112"/><p n="type" t="String" v="gismo"/><p n="class" t="String" v="gismo_invert "/><c cache="86400"><![CDATA[<div class="gismo_invert "><ul class=""></ul></div>
+]]></c></n><n p="1" id="1280" c="Cuptree" data="1"><p n="team_translationlength" t="String" v="SHORT"/><p n="maxRounds" t="int" v="3"/><c cache="1800"><![CDATA[<div class="multiview"><div class=" cuptreemulti template_First template_Last" builder="multiview"><div class="multiview_wrap"><h2 class="title"><a href="javascript:s4.setState('2_1,3_4,5_10878,9_overview,242_26',false);">Qualification</a></h2><table class="cuptree" snr="1"><thead><tr><th class="roundheading" colspan="2">Round 1</th><th class="arrows" colspan="2"></th><th class="roundheading" colspan="2">Round 2</th><th class="arrows" colspan="2"></th></tr></thead><tbody><tr nr="0"></tr><tr nr="1"><td round="1" rowspan="12" colspan="4"></td><td round="2" rowspan="3" colspan="2"></td></tr><tr nr="2"></tr><tr nr="3"></tr><tr nr="4"><td round="2" rowspan="2" colspan="2" class="date">11/11/15 and 15/11/15</td></tr><tr nr="5"></tr><tr nr="6"><td round="2" rowspan="2" class="match team1 odd" onclick="javascript:s4.deeplink('matchid','7673736','')"><div><span>Sudan</span> - <span class="cwinner chighlight">Zambia</span></div><div class="hoverstate" style="display:none"></div></td><td round="2" rowspan="2" class="match result team1 odd">0:1</td></tr><tr nr="7"></tr><tr nr="8"><td round="2" class="match team2 odd" onclick="javascript:s4.deeplink('matchid','7673750','')" rowspan="2"><div><span class="cwinner chighlight">Zambia</span> - <span>Sudan</span></div><div class="hoverstate" style="display:none"></div></td><td round="2" rowspan="2" class="match result team2 odd">2:0</td></tr><tr nr="9"></tr><tr nr="10"><td round="2" rowspan="3" colspan="2"></td></tr><tr nr="11"></tr><tr nr="12"></tr><tr nr="13"><td round="1" rowspan="12" colspan="4"></td><td round="2" rowspan="3" colspan="2"></td></tr><tr nr="14"></tr><tr nr="15"></tr><tr nr="16"><td round="2" rowspan="2" colspan="2" class="date">11/11/15 and 14/11/15</td></tr><tr nr="17"></tr><tr nr="18"><td round="2" rowspan="2" class="match team1 odd" onclick="javascript:s4.deeplink('matchid','7673742','')"><div><span class="cwinner">Mozambique</span> - <span class=" chighlight">Gabon</span></div><div class="hoverstate" style="display:none"></div></td><td round="2" rowspan="2" class="match result team1 odd">1:0</td></tr><tr nr="19"></tr><tr nr="20"><td round="2" class="match team2 odd" onclick="javascript:s4.deeplink('matchid','7673756','')" rowspan="2"><div><span class="cwinner chighlight">Gabon</span> - <span>Mozambique</span></div><div class="hoverstate" style="display:none"></div></td><td round="2" rowspan="2" class="match result team2 odd">5:3 AP</td></tr><tr nr="21"></tr><tr nr="22"><td round="2" rowspan="3" colspan="2"></td></tr><tr nr="23"></tr><tr nr="24"></tr><tr nr="25"><td round="1" rowspan="3" colspan="2"></td><td rowspan="7" round="1" upper="top"></td><td round="1" rowspan="7" rightarrow="top"></td><td round="2" rowspan="3" colspan="2"></td></tr><tr nr="26"></tr><tr nr="27"></tr><tr nr="28"><td round="1" rowspan="2" colspan="2" class="date">07/10/15 and 13/10/15</td><td round="2" rowspan="2" colspan="2" class="date">12/11/15 and 15/11/15</td></tr><tr nr="29"></tr><tr nr="30"><td round="1" rowspan="2" class="match team1 odd" onclick="javascript:s4.deeplink('matchid','7673536','')"><div><span>Seychelles</span> - <span class="cwinner chighlight">Burundi</span></div><div class="hoverstate" style="display:none"></div></td><td round="1" rowspan="2" class="match result team1 odd">0:1</td><td round="2" rowspan="2" class="match team1 odd" onclick="javascript:s4.deeplink('matchid','8240958','')"><div><span>Burundi</span> - <span class="cwinner chighlight">DR Congo</span></div><div class="hoverstate" style="display:none"></div></td><td round="2" rowspan="2" class="match result team1 odd">2:3</td></tr><tr nr="31"></tr><tr nr="32"><td round="1" class="match team2 odd" onclick="javascript:s4.deeplink('matchid','7673566','')" rowspan="2"><div><span class="cwinner chighlight">Burundi</span> - <span>Seychelles</span></div><div class="hoverstate" style="display:none"></div></td><td round="1" rowspan="2" class="match result team2 odd">2:0</td><td rowspan="5" round="1" upper="bottom" class="border_right centralArrow id_8038_4750"></td><td round="1" rowspan="5" rightarrow="low" class=" border_right border-top "></td><td round="2" class="match team2 odd" onclick="javascript:s4.deeplink('matchid','8240960','')" rowspan="2"><div><span class=" chighlight">DR Congo</span> - <span>Burundi</span></div><div class="hoverstate" style="display:none"></div></td><td round="2" rowspan="2" class="match result team2 odd">2:2</td></tr><tr nr="33"></tr><tr nr="34"><td round="1" rowspan="3" colspan="2"></td><td round="2" rowspan="3" colspan="2"></td></tr><tr nr="35"></tr><tr nr="36"></tr><tr nr="37"><td round="1" rowspan="3" colspan="2"></td><td rowspan="7" round="1" upper="top"></td><td round="1" rowspan="7" rightarrow="top"></td><td round="2" rowspan="3" colspan="2"></td></tr><tr nr="38"></tr><tr nr="39"></tr><tr nr="40"><td round="1" rowspan="2" colspan="2" class="date">09/10/15 and 13/10/15</td><td round="2" rowspan="2" colspan="2" class="date">12/11/15 and 15/11/15</td></tr><tr nr="41"></tr><tr nr="42"><td round="1" rowspan="2" class="match team1 odd" onclick="javascript:s4.deeplink('matchid','7673530','')"><div><span>Gambia</span> - <span class=" chighlight">Namibia</span></div><div class="hoverstate" style="display:none"></div></td><td round="1" rowspan="2" class="match result team1 odd">1:1</td><td round="2" rowspan="2" class="match team1 odd" onclick="javascript:s4.deeplink('matchid','8240934','')"><div><span>Namibia</span> - <span class="cwinner chighlight">Guinea</span></div><div class="hoverstate" style="display:none"></div></td><td round="2" rowspan="2" class="match result team1 odd">0:1</td></tr><tr nr="43"></tr><tr nr="44"><td round="1" class="match team2 odd" onclick="javascript:s4.deeplink('matchid','7673560','')" rowspan="2"><div><span class="cwinner chighlight">Namibia</span> - <span>Gambia</span></div><div class="hoverstate" style="display:none"></div></td><td round="1" rowspan="2" class="match result team2 odd">2:1</td><td rowspan="5" round="1" upper="bottom" class="border_right centralArrow id_4832_4762"></td><td round="1" rowspan="5" rightarrow="low" class=" border_right border-top "></td><td round="2" class="match team2 odd" onclick="javascript:s4.deeplink('matchid','8240936','')" rowspan="2"><div><span class="cwinner chighlight">Guinea</span> - <span>Namibia</span></div><div class="hoverstate" style="display:none"></div></td><td round="2" rowspan="2" class="match result team2 odd">2:0</td></tr><tr nr="45"></tr><tr nr="46"><td round="1" rowspan="3" colspan="2"></td><td round="2" rowspan="3" colspan="2"></td></tr><tr nr="47"></tr><tr nr="48"></tr><tr nr="49"><td round="1" rowspan="12" colspan="4"></td><td round="2" rowspan="3" colspan="2"></td></tr><tr nr="50"></tr><tr nr="51"></tr><tr nr="52"><td round="2" rowspan="2" colspan="2" class="date">12/11/15 and 17/11/15</td></tr><tr nr="53"></tr><tr nr="54"><td round="2" rowspan="2" class="match team1 odd" onclick="javascript:s4.deeplink('matchid','7673746','')"><div><span class="cwinner">Benin</span> - <span class=" chighlight">Burkina Faso</span></div><div class="hoverstate" style="display:none"></div></td><td round="2" rowspan="2" class="match result team1 odd">2:1</td></tr><tr nr="55"></tr><tr nr="56"><td round="2" class="match team2 odd" onclick="javascript:s4.deeplink('matchid','7673760','')" rowspan="2"><div><span class="cwinner chighlight">Burkina Faso</span> - <span>Benin</span></div><div class="hoverstate" style="display:none"></div></td><td round="2" rowspan="2" class="match result team2 odd">2:0</td></tr><tr nr="57"></tr><tr nr="58"><td round="2" rowspan="3" colspan="2"></td></tr><tr nr="59"></tr><tr nr="60"></tr><tr nr="61"><td round="1" rowspan="12" colspan="4"></td><td round="2" rowspan="3" colspan="2"></td></tr><tr nr="62"></tr><tr nr="63"></tr><tr nr="64"><td round="2" rowspan="2" colspan="2" class="date">12/11/15 and 15/11/15</td></tr><tr nr="65"></tr><tr nr="66"><td round="2" rowspan="2" class="match team1 odd" onclick="javascript:s4.deeplink('matchid','7673744','')"><div><span>Togo</span> - <span class="cwinner chighlight">Uganda</span></div><div class="hoverstate" style="display:none"></div></td><td round="2" rowspan="2" class="match result team1 odd">0:1</td></tr><tr nr="67"></tr><tr nr="68"><td round="2" class="match team2 odd" onclick="javascript:s4.deeplink('matchid','7673762','')" rowspan="2"><div><span class="cwinner chighlight">Uganda</span> - <span>Togo</span></div><div class="hoverstate" style="display:none"></div></td><td round="2" rowspan="2" class="match result team2 odd">3:0</td></tr><tr nr="69"></tr><tr nr="70"><td round="2" rowspan="3" colspan="2"></td></tr><tr nr="71"></tr><tr nr="72"></tr><tr nr="73"><td round="1" rowspan="12" colspan="4"></td><td round="2" rowspan="3" colspan="2"></td></tr><tr nr="74"></tr><tr nr="75"></tr><tr nr="76"><td round="2" rowspan="2" colspan="2" class="date">12/11/15 and 15/11/15</td></tr><tr nr="77"></tr><tr nr="78"><td round="2" rowspan="2" class="match team1 odd" onclick="javascript:s4.deeplink('matchid','7673740','')"><div><span class="cwinner chighlight">Morocco</span> - <span>Equatorial Guinea</span></div><div class="hoverstate" style="display:none"></div></td><td round="2" rowspan="2" class="match result team1 odd">2:0</td></tr><tr nr="79"></tr><tr nr="80"><td round="2" class="match team2 odd" onclick="javascript:s4.deeplink('matchid','7673754','')" rowspan="2"><div><span class="cwinner">Equatorial Guinea</span> - <span class=" chighlight">Morocco</span></div><div class="hoverstate" style="display:none"></div></td><td round="2" rowspan="2" class="match result team2 odd">1:0</td></tr><tr nr="81"></tr><tr nr="82"><td round="2" rowspan="3" colspan="2"></td></tr><tr nr="83"></tr><tr nr="84"></tr><tr nr="85"><td round="1" rowspan="3" colspan="2"></td><td rowspan="7" round="1" upper="top"></td><td round="1" rowspan="7" rightarrow="top"></td><td round="2" rowspan="3" colspan="2"></td></tr><tr nr="86"></tr><tr nr="87"></tr><tr nr="88"><td round="1" rowspan="2" colspan="2" class="date">10/10/15 and 13/10/15</td><td round="2" rowspan="2" colspan="2" class="date">13/11/15 and 17/11/15</td></tr><tr nr="89"></tr><tr nr="90"><td round="1" rowspan="2" class="match team1 odd" onclick="javascript:s4.deeplink('matchid','7673538','')"><div><span>Central African Republic</span> - <span class="cwinner chighlight">Madagascar</span></div><div class="hoverstate" style="display:none"></div></td><td round="1" rowspan="2" class="match result team1 odd">0:3</td><td round="2" rowspan="2" class="match team1 odd" onclick="javascript:s4.deeplink('matchid','8240968','')"><div><span>Madagascar</span> - <span class=" chighlight">Senegal</span></div><div class="hoverstate" style="display:none"></div></td><td round="2" rowspan="2" class="match result team1 odd">2:2</td></tr><tr nr="91"></tr><tr nr="92"><td round="1" class="match team2 odd" onclick="javascript:s4.deeplink('matchid','7673568','')" rowspan="2"><div><span class=" chighlight">Madagascar</span> - <span>Central African Republic</span></div><div class="hoverstate" style="display:none"></div></td><td round="1" rowspan="2" class="match result team2 odd">2:2</td><td rowspan="5" round="1" upper="bottom" class="border_right centralArrow id_23470_8035"></td><td round="1" rowspan="5" rightarrow="low" class=" border_right border-top "></td><td round="2" class="match team2 odd" onclick="javascript:s4.deeplink('matchid','8240970','')" rowspan="2"><div><span class="cwinner chighlight">Senegal</span> - <span>Madagascar</span></div><div class="hoverstate" style="display:none"></div></td><td round="2" rowspan="2" class="match result team2 odd">3:0</td></tr><tr nr="93"></tr><tr nr="94"><td round="1" rowspan="3" colspan="2"></td><td round="2" rowspan="3" colspan="2"></td></tr><tr nr="95"></tr><tr nr="96"></tr><tr nr="97"><td round="1" rowspan="3" colspan="2"></td><td rowspan="7" round="1" upper="top"></td><td round="1" rowspan="7" rightarrow="top"></td><td round="2" rowspan="3" colspan="2"></td></tr><tr nr="98"></tr><tr nr="99"></tr><tr nr="100"><td round="1" rowspan="2" colspan="2" class="date">07/10/15 and 13/10/15</td><td round="2" rowspan="2" colspan="2" class="date">13/11/15 and 17/11/15</td></tr><tr nr="101"></tr><tr nr="102"><td round="1" rowspan="2" class="match team1 odd" onclick="javascript:s4.deeplink('matchid','7673550','')"><div><span class=" chighlight">Comoros</span> - <span>Lesotho</span></div><div class="hoverstate" style="display:none"></div></td><td round="1" rowspan="2" class="match result team1 odd">0:0</td><td round="2" rowspan="2" class="match team1 odd" onclick="javascript:s4.deeplink('matchid','8240946','')"><div><span>Comoros</span> - <span class=" chighlight">Ghana</span></div><div class="hoverstate" style="display:none"></div></td><td round="2" rowspan="2" class="match result team1 odd">0:0</td></tr><tr nr="103"></tr><tr nr="104"><td round="1" class="match team2 odd" onclick="javascript:s4.deeplink('matchid','7673576','')" rowspan="2"><div><span>Lesotho</span> - <span class=" chighlight">Comoros</span></div><div class="hoverstate" style="display:none"></div></td><td round="1" rowspan="2" class="match result team2 odd">1:1</td><td rowspan="5" round="1" upper="bottom" class="border_right centralArrow id_23494_8033"></td><td round="1" rowspan="5" rightarrow="low" class=" border_right border-top "></td><td round="2" class="match team2 odd" onclick="javascript:s4.deeplink('matchid','8240948','')" rowspan="2"><div><span class="cwinner chighlight">Ghana</span> - <span>Comoros</span></div><div class="hoverstate" style="display:none"></div></td><td round="2" rowspan="2" class="match result team2 odd">2:0</td></tr><tr nr="105"></tr><tr nr="106"><td round="1" rowspan="3" colspan="2"></td><td round="2" rowspan="3" colspan="2"></td></tr><tr nr="107"></tr><tr nr="108"></tr><tr nr="109"><td round="1" rowspan="3" colspan="2"></td><td rowspan="7" round="1" upper="top"></td><td round="1" rowspan="7" rightarrow="top"></td><td round="2" rowspan="3" colspan="2"></td></tr><tr nr="110"></tr><tr nr="111"></tr><tr nr="112"><td round="1" rowspan="2" colspan="2" class="date">07/10/15 and 11/10/15</td><td round="2" rowspan="2" colspan="2" class="date">13/11/15 and 17/11/15</td></tr><tr nr="113"></tr><tr nr="114"><td round="1" rowspan="2" class="match team1 odd" onclick="javascript:s4.deeplink('matchid','7673556','')"><div><span>Mauritius</span> - <span class="cwinner chighlight">Kenya</span></div><div class="hoverstate" style="display:none"></div></td><td round="1" rowspan="2" class="match result team1 odd">2:5</td><td round="2" rowspan="2" class="match team1 odd" onclick="javascript:s4.deeplink('matchid','8240974','')"><div><span class="cwinner">Kenya</span> - <span class=" chighlight">Cape Verde</span></div><div class="hoverstate" style="display:none"></div></td><td round="2" rowspan="2" class="match result team1 odd">1:0</td></tr><tr nr="115"></tr><tr nr="116"><td round="1" class="match team2 odd" onclick="javascript:s4.deeplink('matchid','7673582','')" rowspan="2"><div><span class=" chighlight">Kenya</span> - <span>Mauritius</span></div><div class="hoverstate" style="display:none"></div></td><td round="1" rowspan="2" class="match result team2 odd">0:0</td><td rowspan="5" round="1" upper="bottom" class="border_right centralArrow id_4780_4773"></td><td round="1" rowspan="5" rightarrow="low" class=" border_right border-top "></td><td round="2" class="match team2 odd" onclick="javascript:s4.deeplink('matchid','8240976','')" rowspan="2"><div><span class="cwinner chighlight">Cape Verde</span> - <span>Kenya</span></div><div class="hoverstate" style="display:none"></div></td><td round="2" rowspan="2" class="match result team2 odd">2:0</td></tr><tr nr="117"></tr><tr nr="118"><td round="1" rowspan="3" colspan="2"></td><td round="2" rowspan="3" colspan="2"></td></tr><tr nr="119"></tr><tr nr="120"></tr><tr nr="121"><td round="1" rowspan="12" colspan="4"></td><td round="2" rowspan="3" colspan="2"></td></tr><tr nr="122"></tr><tr nr="123"></tr><tr nr="124"><td round="2" rowspan="2" colspan="2" class="date">13/11/15 and 17/11/15</td></tr><tr nr="125"></tr><tr nr="126"><td round="2" rowspan="2" class="match team1 odd" onclick="javascript:s4.deeplink('matchid','7673738','')"><div><span class="cwinner chighlight">Libya</span> - <span>Rwanda</span></div><div class="hoverstate" style="display:none"></div></td><td round="2" rowspan="2" class="match result team1 odd">1:0</td></tr><tr nr="127"></tr><tr nr="128"><td round="2" class="match team2 odd" onclick="javascript:s4.deeplink('matchid','7673752','')" rowspan="2"><div><span>Rwanda</span> - <span class="cwinner chighlight">Libya</span></div><div class="hoverstate" style="display:none"></div></td><td round="2" rowspan="2" class="match result team2 odd">1:3</td></tr><tr nr="129"></tr><tr nr="130"><td round="2" rowspan="3" colspan="2"></td></tr><tr nr="131"></tr><tr nr="132"></tr><tr nr="133"><td round="1" rowspan="12" colspan="4"></td><td round="2" rowspan="3" colspan="2"></td></tr><tr nr="134"></tr><tr nr="135"></tr><tr nr="136"><td round="2" rowspan="2" colspan="2" class="date">13/11/15 and 17/11/15</td></tr><tr nr="137"></tr><tr nr="138"><td round="2" rowspan="2" class="match team1 odd" onclick="javascript:s4.deeplink('matchid','7673748','')"><div><span>Angola</span> - <span class="cwinner chighlight">South Africa</span></div><div class="hoverstate" style="display:none"></div></td><td round="2" rowspan="2" class="match result team1 odd">1:3</td></tr><tr nr="139"></tr><tr nr="140"><td round="2" class="match team2 odd" onclick="javascript:s4.deeplink('matchid','7673764','')" rowspan="2"><div><span class="cwinner chighlight">South Africa</span> - <span>Angola</span></div><div class="hoverstate" style="display:none"></div></td><td round="2" rowspan="2" class="match result team2 odd">1:0</td></tr><tr nr="141"></tr><tr nr="142"><td round="2" rowspan="3" colspan="2"></td></tr><tr nr="143"></tr><tr nr="144"></tr><tr nr="145"><td round="1" rowspan="3" colspan="2"></td><td rowspan="7" round="1" upper="top"></td><td round="1" rowspan="7" rightarrow="top"></td><td round="2" rowspan="3" colspan="2"></td></tr><tr nr="146"></tr><tr nr="147"></tr><tr nr="148"><td round="1" rowspan="2" colspan="2" class="date">09/10/15 and 13/10/15</td><td round="2" rowspan="2" colspan="2" class="date">13/11/15 and 17/11/15</td></tr><tr nr="149"></tr><tr nr="150"><td round="1" rowspan="2" class="match team1 odd" onclick="javascript:s4.deeplink('matchid','7673528','')"><div><span>Somalia</span> - <span class="cwinner chighlight">Niger</span></div><div class="hoverstate" style="display:none"></div></td><td round="1" rowspan="2" class="match result team1 odd">0:2</td><td round="2" rowspan="2" class="match team1 odd" onclick="javascript:s4.deeplink('matchid','8240896','')"><div><span>Niger</span> - <span class="cwinner chighlight">Cameroon</span></div><div class="hoverstate" style="display:none"></div></td><td round="2" rowspan="2" class="match result team1 odd">0:3</td></tr><tr nr="151"></tr><tr nr="152"><td round="1" class="match team2 odd" onclick="javascript:s4.deeplink('matchid','7673558','')" rowspan="2"><div><span class="cwinner chighlight">Niger</span> - <span>Somalia</span></div><div class="hoverstate" style="display:none"></div></td><td round="1" rowspan="2" class="match result team2 odd">4:0</td><td rowspan="5" round="1" upper="bottom" class="border_right centralArrow id_23472_8031"></td><td round="1" rowspan="5" rightarrow="low" class=" border_right border-top "></td><td round="2" class="match team2 odd" onclick="javascript:s4.deeplink('matchid','8240898','')" rowspan="2"><div><span class=" chighlight">Cameroon</span> - <span>Niger</span></div><div class="hoverstate" style="display:none"></div></td><td round="2" rowspan="2" class="match result team2 odd">0:0</td></tr><tr nr="153"></tr><tr nr="154"><td round="1" rowspan="3" colspan="2"></td><td round="2" rowspan="3" colspan="2"></td></tr><tr nr="155"></tr><tr nr="156"></tr><tr nr="157"><td round="1" rowspan="3" colspan="2"></td><td rowspan="7" round="1" upper="top"></td><td round="1" rowspan="7" rightarrow="top"></td><td round="2" rowspan="3" colspan="2"></td></tr><tr nr="158"></tr><tr nr="159"></tr><tr nr="160"><td round="1" rowspan="2" colspan="2" class="date">08/10/15 and 13/10/15</td><td round="2" rowspan="2" colspan="2" class="date">13/11/15 and 17/11/15</td></tr><tr nr="161"></tr><tr nr="162"><td round="1" rowspan="2" class="match team1 odd" onclick="javascript:s4.deeplink('matchid','7673554','')"><div><span class=" chighlight">Liberia</span> - <span>Guinea-Bissau</span></div><div class="hoverstate" style="display:none"></div></td><td round="1" rowspan="2" class="match result team1 odd">1:1</td><td round="2" rowspan="2" class="match team1 odd" onclick="javascript:s4.deeplink('matchid','8240964','')"><div><span>Liberia</span> - <span class="cwinner chighlight">Ivory Coast</span></div><div class="hoverstate" style="display:none"></div></td><td round="2" rowspan="2" class="match result team1 odd">0:1</td></tr><tr nr="163"></tr><tr nr="164"><td round="1" class="match team2 odd" onclick="javascript:s4.deeplink('matchid','7673580','')" rowspan="2"><div><span>Guinea-Bissau</span> - <span class="cwinner chighlight">Liberia</span></div><div class="hoverstate" style="display:none"></div></td><td round="1" rowspan="2" class="match result team2 odd">1:3</td><td rowspan="5" round="1" upper="bottom" class="border_right centralArrow id_23478_8034"></td><td round="1" rowspan="5" rightarrow="low" class=" border_right border-top "></td><td round="2" class="match team2 odd" onclick="javascript:s4.deeplink('matchid','8240966','')" rowspan="2"><div><span class="cwinner chighlight">Ivory Coast</span> - <span>Liberia</span></div><div class="hoverstate" style="display:none"></div></td><td round="2" rowspan="2" class="match result team2 odd">3:0</td></tr><tr nr="165"></tr><tr nr="166"><td round="1" rowspan="3" colspan="2"></td><td round="2" rowspan="3" colspan="2"></td></tr><tr nr="167"></tr><tr nr="168"></tr><tr nr="169"><td round="1" rowspan="3" colspan="2"></td><td rowspan="7" round="1" upper="top"></td><td round="1" rowspan="7" rightarrow="top"></td><td round="2" rowspan="3" colspan="2"></td></tr><tr nr="170"></tr><tr nr="171"></tr><tr nr="172"><td round="1" rowspan="2" colspan="2" class="date">07/10/15 and 13/10/15</td><td round="2" rowspan="2" colspan="2" class="date">13/11/15 and 17/11/15</td></tr><tr nr="173"></tr><tr nr="174"><td round="1" rowspan="2" class="match team1 odd" onclick="javascript:s4.deeplink('matchid','7673546','')"><div><span>South Sudan</span> - <span class=" chighlight">Mauritania</span></div><div class="hoverstate" style="display:none"></div></td><td round="1" rowspan="2" class="match result team1 odd">1:1</td><td round="2" rowspan="2" class="match team1 odd" onclick="javascript:s4.deeplink('matchid','8240902','')"><div><span>Mauritania</span> - <span class="cwinner chighlight">Tunisia</span></div><div class="hoverstate" style="display:none"></div></td><td round="2" rowspan="2" class="match result team1 odd">1:2</td></tr><tr nr="175"></tr><tr nr="176"><td round="1" class="match team2 odd" onclick="javascript:s4.deeplink('matchid','7673572','')" rowspan="2"><div><span class="cwinner chighlight">Mauritania</span> - <span>South Sudan</span></div><div class="hoverstate" style="display:none"></div></td><td round="1" rowspan="2" class="match result team2 odd">4:0</td><td rowspan="5" round="1" upper="bottom" class="border_right centralArrow id_88508_4779"></td><td round="1" rowspan="5" rightarrow="low" class=" border_right border-top "></td><td round="2" class="match team2 odd" onclick="javascript:s4.deeplink('matchid','8240900','')" rowspan="2"><div><span class="cwinner chighlight">Tunisia</span> - <span>Mauritania</span></div><div class="hoverstate" style="display:none"></div></td><td round="2" rowspan="2" class="match result team2 odd">2:1</td></tr><tr nr="177"></tr><tr nr="178"><td round="1" rowspan="3" colspan="2"></td><td round="2" rowspan="3" colspan="2"></td></tr><tr nr="179"></tr><tr nr="180"></tr><tr nr="181"><td round="1" rowspan="3" colspan="2"></td><td rowspan="7" round="1" upper="top"></td><td round="1" rowspan="7" rightarrow="top"></td><td round="2" rowspan="3" colspan="2"></td></tr><tr nr="182"></tr><tr nr="183"></tr><tr nr="184"><td round="1" rowspan="2" colspan="2" class="date">09/10/15 and 17/10/15</td><td round="2" rowspan="2" colspan="2" class="date">13/11/15 and 17/11/15</td></tr><tr nr="185"></tr><tr nr="186"><td round="1" rowspan="2" class="match team1 odd" onclick="javascript:s4.deeplink('matchid','7673534','')"><div><span>Djibouti</span> - <span class="cwinner chighlight">Swaziland</span></div><div class="hoverstate" style="display:none"></div></td><td round="1" rowspan="2" class="match result team1 odd">0:6</td><td round="2" rowspan="2" class="match team1 odd" onclick="javascript:s4.deeplink('matchid','8240950','')"><div><span>Swaziland</span> - <span class=" chighlight">Nigeria</span></div><div class="hoverstate" style="display:none"></div></td><td round="2" rowspan="2" class="match result team1 odd">0:0</td></tr><tr nr="187"></tr><tr nr="188"><td round="1" class="match team2 odd" onclick="javascript:s4.deeplink('matchid','8231988','')" rowspan="2"><div><span class="cwinner chighlight">Swaziland</span> - <span>Djibouti</span></div><div class="hoverstate" style="display:none"></div></td><td round="1" rowspan="2" class="match result team2 odd">2:1</td><td rowspan="5" round="1" upper="bottom" class="border_right centralArrow id_8042_4733"></td><td round="1" rowspan="5" rightarrow="low" class=" border_right border-top "></td><td round="2" class="match team2 odd" onclick="javascript:s4.deeplink('matchid','8240952','')" rowspan="2"><div><span class="cwinner chighlight">Nigeria</span> - <span>Swaziland</span></div><div class="hoverstate" style="display:none"></div></td><td round="2" rowspan="2" class="match result team2 odd">2:0</td></tr><tr nr="189"></tr><tr nr="190"><td round="1" rowspan="3" colspan="2"></td><td round="2" rowspan="3" colspan="2"></td></tr><tr nr="191"></tr><tr nr="192"></tr><tr nr="193"><td round="1" rowspan="3" colspan="2"></td><td rowspan="7" round="1" upper="top"></td><td round="1" rowspan="7" rightarrow="top"></td><td round="2" rowspan="3" colspan="2"></td></tr><tr nr="194"></tr><tr nr="195"></tr><tr nr="196"><td round="1" rowspan="2" colspan="2" class="date">08/10/15 and 11/10/15</td><td round="2" rowspan="2" colspan="2" class="date">14/11/15 and 17/11/15</td></tr><tr nr="197"></tr><tr nr="198"><td round="1" rowspan="2" class="match team1 odd" onclick="javascript:s4.deeplink('matchid','7673548','')"><div><span class="cwinner">Sao Tome and Principe</span> - <span class=" chighlight">Ethiopia</span></div><div class="hoverstate" style="display:none"></div></td><td round="1" rowspan="2" class="match result team1 odd">1:0</td><td round="2" rowspan="2" class="match team1 odd" onclick="javascript:s4.deeplink('matchid','8240938','')"><div><span>Ethiopia</span> - <span class="cwinner chighlight">Republic Congo</span></div><div class="hoverstate" style="display:none"></div></td><td round="2" rowspan="2" class="match result team1 odd">3:4</td></tr><tr nr="199"></tr><tr nr="200"><td round="1" class="match team2 odd" onclick="javascript:s4.deeplink('matchid','7673574','')" rowspan="2"><div><span class="cwinner chighlight">Ethiopia</span> - <span>Sao Tome and Principe</span></div><div class="hoverstate" style="display:none"></div></td><td round="1" rowspan="2" class="match result team2 odd">3:0</td><td rowspan="5" round="1" upper="bottom" class="border_right centralArrow id_33813_8036"></td><td round="1" rowspan="5" rightarrow="low" class=" border_right border-top "></td><td round="2" class="match team2 odd" onclick="javascript:s4.deeplink('matchid','8240940','')" rowspan="2"><div><span class="cwinner chighlight">Republic Congo</span> - <span>Ethiopia</span></div><div class="hoverstate" style="display:none"></div></td><td round="2" rowspan="2" class="match result team2 odd">2:1</td></tr><tr nr="201"></tr><tr nr="202"><td round="1" rowspan="3" colspan="2"></td><td round="2" rowspan="3" colspan="2"></td></tr><tr nr="203"></tr><tr nr="204"></tr><tr nr="205"><td round="1" rowspan="3" colspan="2"></td><td rowspan="7" round="1" upper="top"></td><td round="1" rowspan="7" rightarrow="top"></td><td round="2" rowspan="3" colspan="2"></td></tr><tr nr="206"></tr><tr nr="207"></tr><tr nr="208"><td round="1" rowspan="2" colspan="2" class="date">07/10/15 and 11/10/15</td><td round="2" rowspan="2" colspan="2" class="date">14/11/15 and 17/11/15</td></tr><tr nr="209"></tr><tr nr="210"><td round="1" rowspan="2" class="match team1 odd" onclick="javascript:s4.deeplink('matchid','7673540','')"><div><span class="cwinner chighlight">Tanzania</span> - <span>Malawi</span></div><div class="hoverstate" style="display:none"></div></td><td round="1" rowspan="2" class="match result team1 odd">2:0</td><td round="2" rowspan="2" class="match team1 odd" onclick="javascript:s4.deeplink('matchid','8240978','')"><div><span>Tanzania</span> - <span class=" chighlight">Algeria</span></div><div class="hoverstate" style="display:none"></div></td><td round="2" rowspan="2" class="match result team1 odd">2:2</td></tr><tr nr="211"></tr><tr nr="212"><td round="1" class="match team2 odd" onclick="javascript:s4.deeplink('matchid','7673570','')" rowspan="2"><div><span class="cwinner">Malawi</span> - <span class=" chighlight">Tanzania</span></div><div class="hoverstate" style="display:none"></div></td><td round="1" rowspan="2" class="match result team2 odd">1:0</td><td rowspan="5" round="1" upper="bottom" class="border_right centralArrow id_8043_4835"></td><td round="1" rowspan="5" rightarrow="low" class=" border_right border-top "></td><td round="2" class="match team2 odd" onclick="javascript:s4.deeplink('matchid','8240980','')" rowspan="2"><div><span class="cwinner chighlight">Algeria</span> - <span>Tanzania</span></div><div class="hoverstate" style="display:none"></div></td><td round="2" rowspan="2" class="match result team2 odd">7:0</td></tr><tr nr="213"></tr><tr nr="214"><td round="1" rowspan="3" colspan="2"></td><td round="2" rowspan="3" colspan="2"></td></tr><tr nr="215"></tr><tr nr="216"></tr><tr nr="217"><td round="1" rowspan="3" colspan="2"></td><td rowspan="7" round="1" upper="top"></td><td round="1" rowspan="7" rightarrow="top"></td><td round="2" rowspan="3" colspan="2"></td></tr><tr nr="218"></tr><tr nr="219"></tr><tr nr="220"><td round="1" rowspan="2" colspan="2" class="date">10/10/15 and 13/10/15</td><td round="2" rowspan="2" colspan="2" class="date">14/11/15 and 17/11/15</td></tr><tr nr="221"></tr><tr nr="222"><td round="1" rowspan="2" class="match team1 odd" onclick="javascript:s4.deeplink('matchid','7673532','')"><div><span class="cwinner chighlight">Chad</span> - <span>Sierra Leone</span></div><div class="hoverstate" style="display:none"></div></td><td round="1" rowspan="2" class="match result team1 odd">1:0</td><td round="2" rowspan="2" class="match team1 odd" onclick="javascript:s4.deeplink('matchid','8240942','')"><div><span class="cwinner">Chad</span> - <span class=" chighlight">Egypt</span></div><div class="hoverstate" style="display:none"></div></td><td round="2" rowspan="2" class="match result team1 odd">1:0</td></tr><tr nr="223"></tr><tr nr="224"><td round="1" class="match team2 odd" onclick="javascript:s4.deeplink('matchid','7673562','')" rowspan="2"><div><span class="cwinner">Sierra Leone</span> - <span class=" chighlight">Chad</span></div><div class="hoverstate" style="display:none"></div></td><td round="1" rowspan="2" class="match result team2 odd">2:1</td><td rowspan="5" round="1" upper="bottom" class="border_right centralArrow id_8039_4737"></td><td round="1" rowspan="5" rightarrow="low" class=" border_right border-top "></td><td round="2" class="match team2 odd" onclick="javascript:s4.deeplink('matchid','8240944','')" rowspan="2"><div><span class="cwinner chighlight">Egypt</span> - <span>Chad</span></div><div class="hoverstate" style="display:none"></div></td><td round="2" rowspan="2" class="match result team2 odd">4:0</td></tr><tr nr="225"></tr><tr nr="226"><td round="1" rowspan="3" colspan="2"></td><td round="2" rowspan="3" colspan="2"></td></tr><tr nr="227"></tr><tr nr="228"></tr><tr nr="229"><td round="1" rowspan="3" colspan="2"></td><td rowspan="7" round="1" upper="top"></td><td round="1" rowspan="7" rightarrow="top"></td><td round="2" rowspan="3" colspan="2"></td></tr><tr nr="230"></tr><tr nr="231"></tr><tr nr="232"><td round="1" rowspan="2" colspan="2" class="date">10/10/15 and 13/10/15</td><td round="2" rowspan="2" colspan="2" class="date">14/11/15 and 17/11/15</td></tr><tr nr="233"></tr><tr nr="234"><td round="1" rowspan="2" class="match team1 odd" onclick="javascript:s4.deeplink('matchid','7673552','')"><div><span>Eritrea</span> - <span class="cwinner chighlight">Botswana</span></div><div class="hoverstate" style="display:none"></div></td><td round="1" rowspan="2" class="match result team1 odd">0:2</td><td round="2" rowspan="2" class="match team1 odd" onclick="javascript:s4.deeplink('matchid','8240954','')"><div><span class="cwinner">Botswana</span> - <span class=" chighlight">Mali</span></div><div class="hoverstate" style="display:none"></div></td><td round="2" rowspan="2" class="match result team1 odd">2:1</td></tr><tr nr="235"></tr><tr nr="236"><td round="1" class="match team2 odd" onclick="javascript:s4.deeplink('matchid','7673578','')" rowspan="2"><div><span class="cwinner chighlight">Botswana</span> - <span>Eritrea</span></div><div class="hoverstate" style="display:none"></div></td><td round="1" rowspan="2" class="match result team2 odd">3:1</td><td rowspan="5" round="1" upper="bottom" class="border_right centralArrow id_8041_4747"></td><td round="1" rowspan="5" rightarrow="low" class=" border_right border-top "></td><td round="2" class="match team2 odd" onclick="javascript:s4.deeplink('matchid','8240956','')" rowspan="2"><div><span class="cwinner chighlight">Mali</span> - <span>Botswana</span></div><div class="hoverstate" style="display:none"></div></td><td round="2" rowspan="2" class="match result team2 odd">2:0</td></tr><tr nr="237"></tr><tr nr="238"><td round="1" rowspan="3" colspan="2"></td><td round="2" rowspan="3" colspan="2"></td></tr><tr nr="239"></tr><tr nr="240"></tr></tbody></table>
+</div></div></div>]]></c></n></n></n><n p="3" id="2147" c="view"><p n="template" t="1" v="component"/><p n="class" t="String" v="motorsport_leaguetable_view"/><s p="0" s="seasontypeid" id="242"/><n p="0" id="2159" c="view"><s p="0" s="sportid" id="2"/><s p="3" s="seasontypeid" id="242"/><s p="2" s="seasontypeid" id="242"/><s p="1" s="clientid" id="1"/><s p="1" s="seasontypeid" id="242"/><s p="0" s="hasmultipleinfo" id="196"/><s p="0" s="test" id="14"/><n p="0" id="1397" c="leaguetable" data="1"><p n="settype" t="int" v="23"/><p n="childtemplates" t="intarray" v="13"/><p n="tablesorter" t="int" v="1"/><p n="display" t="int" v="0"/><p n="tabletype" t="String" v="normal"/><p n="hover" t="int" v="1"/><c cache="600"><![CDATA[<div class="multiview"><div class=" template_cornerbox template_First" builder="multiview"><div class="multiview_wrap"><h2 class="title "><a href="javascript:s4.deeplink('tableid','22115','');">Group A</a></h2><table class="normaltable"><thead><tr class="header0"><th title="Position" class="positiontotal  position first">Pos</th><th class="teamname  team">Team</th><th title="Played" class="{sorter: 'desc'} matchestotal  matches">P</th><th title="win" class="{sorter: 'desc'} wintotal  wins">W</th><th title="Draw" class="{sorter: 'desc'} drawtotal  draws">D</th><th title="loss" class="losstotal  losses">L</th><th title="DIFF" class="{sorter: 'desc'} goaldifftotal  diff unsigned difftotal">DI</th><th title="Points" class="{sorter: 'desc'} pointstotal  points pointstotal last">Points</th></tr></thead><tbody><tr class="firstingroup promotioncolor_promotion firstingroup even"><td class="position first">1</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','4729','5_10878');"><span><img src="//ls.betradar.com/ls/crest/small/tn.png" onLoad="s4.resizeIframe()">Tunisia</span></a></td><td class="matches">4</td><td class="wins">3</td><td class="draws">1</td><td class="losses">0</td><td class="diff unsigned difftotal">4</td><td class="points pointstotal last">10</td></tr><tr><td class="position first">2</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','4823','5_10878');"><span><img src="//ls.betradar.com/ls/crest/small/cd.png" onLoad="s4.resizeIframe()">DR Congo</span></a></td><td class="matches">4</td><td class="wins">2</td><td class="draws">1</td><td class="losses">1</td><td class="diff unsigned difftotal">4</td><td class="points pointstotal last">7</td></tr><tr class="even"><td class="position first">3</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','4826','5_10878');"><span><img src="//ls.betradar.com/ls/crest/small/gn.png" onLoad="s4.resizeIframe()">Guinea</span></a></td><td class="matches">4</td><td class="wins">1</td><td class="draws">0</td><td class="losses">3</td><td class="diff unsigned difftotal">-3</td><td class="points pointstotal last">3</td></tr><tr><td class="position first">4</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','4775','5_10878');"><span><img src="//ls.betradar.com/ls/crest/small/ly.png" onLoad="s4.resizeIframe()">Libya</span></a></td><td class="matches">4</td><td class="wins">1</td><td class="draws">0</td><td class="losses">3</td><td class="diff unsigned difftotal">-5</td><td class="points pointstotal last">3</td></tr></tbody></table><div hidden="1" class="choosecolumntext">Choose columns</div>
+</div></div><div class=" template_cornerbox" builder="multiview"><div class="multiview_wrap"><h2 class="title "><a href="javascript:s4.deeplink('tableid','22117','');">Group B</a></h2><table class="normaltable"><thead><tr class="header0"><th title="Position" class="positiontotal  position first">Pos</th><th class="teamname  team">Team</th><th title="Played" class="{sorter: 'desc'} matchestotal  matches">P</th><th title="win" class="{sorter: 'desc'} wintotal  wins">W</th><th title="Draw" class="{sorter: 'desc'} drawtotal  draws">D</th><th title="loss" class="losstotal  losses">L</th><th title="DIFF" class="{sorter: 'desc'} goaldifftotal  diff unsigned difftotal">DI</th><th title="Points" class="{sorter: 'desc'} pointstotal  points pointstotal last">Points</th></tr></thead><tbody><tr class="firstingroup promotioncolor_promotion firstingroup even"><td class="position first">1</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','4785','5_10878');"><span><img src="//ls.betradar.com/ls/crest/small/ng.png" onLoad="s4.resizeIframe()">Nigeria</span></a></td><td class="matches">4</td><td class="wins">3</td><td class="draws">1</td><td class="losses">0</td><td class="diff unsigned difftotal">7</td><td class="points pointstotal last">10</td></tr><tr><td class="position first">2</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','4720','5_10878');"><span><img src="//ls.betradar.com/ls/crest/small/zm.png" onLoad="s4.resizeIframe()">Zambia</span></a></td><td class="matches">4</td><td class="wins">2</td><td class="draws">1</td><td class="losses">1</td><td class="diff unsigned difftotal">2</td><td class="points pointstotal last">7</td></tr><tr class="even"><td class="position first">3</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','4751','5_10878');"><span><img src="//ls.betradar.com/ls/crest/small/cm.png" onLoad="s4.resizeIframe()">Cameroon</span></a></td><td class="matches">4</td><td class="wins">0</td><td class="draws">3</td><td class="losses">1</td><td class="diff unsigned difftotal">-4</td><td class="points pointstotal last">3</td></tr><tr><td class="position first">4</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','4691','5_10878');"><span><img src="//ls.betradar.com/ls/crest/small/dz.png" onLoad="s4.resizeIframe()">Algeria</span></a></td><td class="matches">4</td><td class="wins">0</td><td class="draws">1</td><td class="losses">3</td><td class="diff unsigned difftotal">-5</td><td class="points pointstotal last">1</td></tr></tbody></table><div hidden="1" class="choosecolumntext">Choose columns</div>
+</div></div><div class=" template_cornerbox" builder="multiview"><div class="multiview_wrap"><h2 class="title "><a href="javascript:s4.deeplink('tableid','22119','');">Group C</a></h2><table class="normaltable"><thead><tr class="header0"><th title="Position" class="positiontotal  position first">Pos</th><th class="teamname  team">Team</th><th title="Played" class="{sorter: 'desc'} matchestotal  matches">P</th><th title="win" class="{sorter: 'desc'} wintotal  wins">W</th><th title="Draw" class="{sorter: 'desc'} drawtotal  draws">D</th><th title="loss" class="losstotal  losses">L</th><th title="DIFF" class="{sorter: 'desc'} goaldifftotal  diff unsigned difftotal">DI</th><th title="Points" class="{sorter: 'desc'} pointstotal  points pointstotal last">Points</th></tr></thead><tbody><tr class="firstingroup promotioncolor_promotion firstingroup even"><td class="position first">1</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','4768','5_10878');"><span><img src="//ls.betradar.com/ls/crest/small/ci.png" onLoad="s4.resizeIframe()">Ivory Coast</span></a></td><td class="matches">4</td><td class="wins">2</td><td class="draws">1</td><td class="losses">1</td><td class="diff unsigned difftotal">4</td><td class="points pointstotal last">7</td></tr><tr><td class="position first">2</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','4778','5_10878');"><span><img src="//ls.betradar.com/ls/crest/small/ma.png" onLoad="s4.resizeIframe()">Morocco</span></a></td><td class="matches">4</td><td class="wins">1</td><td class="draws">3</td><td class="losses">0</td><td class="diff unsigned difftotal">6</td><td class="points pointstotal last">6</td></tr><tr class="even"><td class="position first">3</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','4761','5_10878');"><span><img src="//ls.betradar.com/ls/crest/small/ga.png" onLoad="s4.resizeIframe()">Gabon</span></a></td><td class="matches">4</td><td class="wins">1</td><td class="draws">2</td><td class="losses">1</td><td class="diff unsigned difftotal">-2</td><td class="points pointstotal last">5</td></tr><tr><td class="position first">4</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','4831','5_10878');"><span><img src="//ls.betradar.com/ls/crest/small/ml.png" onLoad="s4.resizeIframe()">Mali</span></a></td><td class="matches">4</td><td class="wins">0</td><td class="draws">2</td><td class="losses">2</td><td class="diff unsigned difftotal">-8</td><td class="points pointstotal last">2</td></tr></tbody></table><div hidden="1" class="choosecolumntext">Choose columns</div>
+</div></div><div class=" template_cornerbox" builder="multiview"><div class="multiview_wrap"><h2 class="title "><a href="javascript:s4.deeplink('tableid','22121','');">Group D</a></h2><table class="normaltable"><thead><tr class="header0"><th title="Position" class="positiontotal  position first">Pos</th><th class="teamname  team">Team</th><th title="Played" class="{sorter: 'desc'} matchestotal  matches">P</th><th title="win" class="{sorter: 'desc'} wintotal  wins">W</th><th title="Draw" class="{sorter: 'desc'} drawtotal  draws">D</th><th title="loss" class="losstotal  losses">L</th><th title="DIFF" class="{sorter: 'desc'} goaldifftotal  diff unsigned difftotal">DI</th><th title="Points" class="{sorter: 'desc'} pointstotal  points pointstotal last">Points</th></tr></thead><tbody><tr class="firstingroup promotioncolor_promotion firstingroup even"><td class="position first">1</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','4749','5_10878');"><span><img src="//ls.betradar.com/ls/crest/small/bf.png" onLoad="s4.resizeIframe()">Burkina Faso</span></a></td><td class="matches">4</td><td class="wins">1</td><td class="draws">3</td><td class="losses">0</td><td class="diff unsigned difftotal">2</td><td class="points pointstotal last">6</td></tr><tr><td class="position first">2</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','4753','5_10878');"><span><img src="//ls.betradar.com/ls/crest/small/cv.png" onLoad="s4.resizeIframe()">Cape Verde</span></a></td><td class="matches">4</td><td class="wins">2</td><td class="draws">0</td><td class="losses">2</td><td class="diff unsigned difftotal">-2</td><td class="points pointstotal last">6</td></tr><tr class="even"><td class="position first">3</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','4739','5_10878');"><span><img src="//ls.betradar.com/ls/crest/small/sn.png" onLoad="s4.resizeIframe()">Senegal</span></a></td><td class="matches">3</td><td class="wins">1</td><td class="draws">2</td><td class="losses">0</td><td class="diff unsigned difftotal">2</td><td class="points pointstotal last">5</td></tr><tr><td class="position first">4</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','4736','5_10878');"><span><img src="//ls.betradar.com/ls/crest/small/za.png" onLoad="s4.resizeIframe()">South Africa</span></a></td><td class="matches">3</td><td class="wins">0</td><td class="draws">1</td><td class="losses">2</td><td class="diff unsigned difftotal">-2</td><td class="points pointstotal last">1</td></tr></tbody></table><div hidden="1" class="choosecolumntext">Choose columns</div>
+</div></div><div class=" template_cornerbox template_Last" builder="multiview"><div class="multiview_wrap"><h2 class="title "><a href="javascript:s4.deeplink('tableid','22123','');">Group E</a></h2><table class="normaltable"><thead><tr class="header0"><th title="Position" class="positiontotal  position first">Pos</th><th class="teamname  team">Team</th><th title="Played" class="{sorter: 'desc'} matchestotal  matches">P</th><th title="win" class="{sorter: 'desc'} wintotal  wins">W</th><th title="Draw" class="{sorter: 'desc'} drawtotal  draws">D</th><th title="loss" class="losstotal  losses">L</th><th title="DIFF" class="{sorter: 'desc'} goaldifftotal  diff unsigned difftotal">DI</th><th title="Points" class="{sorter: 'desc'} pointstotal  points pointstotal last">Points</th></tr></thead><tbody><tr class="firstingroup promotioncolor_promotion firstingroup even"><td class="position first">1</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','4758','5_10878');"><span><img src="//ls.betradar.com/ls/crest/small/eg.png" onLoad="s4.resizeIframe()">Egypt</span></a></td><td class="matches">4</td><td class="wins">3</td><td class="draws">0</td><td class="losses">1</td><td class="diff unsigned difftotal">3</td><td class="points pointstotal last">9</td></tr><tr><td class="position first">2</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','4726','5_10878');"><span><img src="//ls.betradar.com/ls/crest/small/ug.png" onLoad="s4.resizeIframe()">Uganda</span></a></td><td class="matches">4</td><td class="wins">2</td><td class="draws">1</td><td class="losses">1</td><td class="diff unsigned difftotal">1</td><td class="points pointstotal last">7</td></tr><tr class="even"><td class="position first">3</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','4764','5_10878');"><span><img src="//ls.betradar.com/ls/crest/small/gh.png" onLoad="s4.resizeIframe()">Ghana</span></a></td><td class="matches">4</td><td class="wins">1</td><td class="draws">2</td><td class="losses">1</td><td class="diff unsigned difftotal">2</td><td class="points pointstotal last">5</td></tr><tr><td class="position first">4</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','8040','5_10878');"><span><img src="//ls.betradar.com/ls/crest/small/cg.png" onLoad="s4.resizeIframe()">Republic Congo</span></a></td><td class="matches">4</td><td class="wins">0</td><td class="draws">1</td><td class="losses">3</td><td class="diff unsigned difftotal">-6</td><td class="points pointstotal last">1</td></tr></tbody></table><div hidden="1" class="choosecolumntext">Choose columns</div>
+</div></div></div>]]></c></n></n><n p="1" id="2222" c="Leaguetablecomments" data="1"><p n="wordwrap" t="int" v="120"/><c cache="86400"><![CDATA[
+]]></c></n><n p="2" id="2221" c="rankingrule" data="1"><c cache="86400"><![CDATA[<div class="rankingrule comment"><table><tr><td>In the event that two (or more) teams finish with an equal number of points, the following rules break the tie:</td></tr><tr><td>
+1. Goal difference</td></tr><tr><td>
+2. Goals scored</td></tr><tr><td>
+3. Head-to-head</td></tr></table></div>
+]]></c></n></n></n></n></n><n p="1" id="1233" c="view"/><n p="2" id="3147" c="view"><s p="0" s="clientid" id="1"/><n p="0" id="1233" c="view"/></n><n p="3" id="4687" c="view"><p n="class" t="String" v="smartclear"/></n></n><n p="5" id="4049" c="socialmedia" data="1"><c cache="86400" type="document"><![CDATA[<div id="socialmedia">
+
+
+<div class="clear"></div>
+</div>]]></c></n></n></n><n p="5" id="2522" c="view"><p n="class" t="String" v="clear"/><p n="template" t="1" v="VBox"/></n></n></page>

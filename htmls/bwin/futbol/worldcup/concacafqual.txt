@@ -1,0 +1,559 @@
+<?xml version="1.0"?>
+<page generated="2017-09-14 14:37:54" title="Soccer &gt; International &gt; WC Qual, CONCACAF  2015/17" GA="dimension10_1/dimension11_4/dimension19_2/dimension14_10080/dimension3_overview/dimension12_14/dimension7_74/dimension8_bet365"><n id="1827" c="view" cache="600"><p n="divId" t="String" v="page-wrap"/><s p="2" s="sportid" id="2"/><s p="2" s="test" id="14"/><s p="1" s="clientid" id="1"/><s p="0" s="isvfl" id="409"/><s p="0" s="disable_topmenu" id="534"/><n p="0" id="1828" c="view"><p n="divId" t="String" v="menu-wrap"/><s p="2" s="test" id="14"/><s p="1" s="clientid" id="1"/><s p="2" s="clientid" id="1"/><s p="2" s="sportid" id="2"/><s p="3" s="clientid" id="1"/><s p="3" s="test" id="14"/><s p="0" s="clientid" id="1"/><s p="5" s="clientid" id="1"/><s p="3" s="search_ui_location" id="449"/><s p="1" s="test" id="14"/><s p="4" s="language_ui_location" id="553"/><n p="0" id="3605" c="logonew" data="1"><c cache="2592000" type="document"><![CDATA[<div id="node_logo_image" class="view"  >
+</div>]]></c></n><n p="1" id="2993" c="view"><s p="0" s="clientid" id="1"/><n p="0" id="2995" c="menu" data="1"><p n="limit" t="int" v="3"/><p n="jsfunction" t="String" v="enlargeSearchBox"/><p n="type" t="String" v="jd_menu"/><p n="usecache" t="boolean" v="1"/><p n="lightweight" t="boolean" v="1"/><p n="class" t="String" v="topmenu"/><p n="menuid" t="int" v="74"/><c cache="86400"><![CDATA[<div class="topmenu"><div><ul class="jd_menu jd_menustyle" data-notification="Touch and move to navigate the menu"><li class="topelem first home"><a href="javascript:s4.setState('',false);" class="atopelem"><div>Home<div class="clearResponsive"></div></div></a></li></ul></div></div>
+]]></c></n></n><n p="2" id="1233" c="view"/><n p="3" id="1233" c="view"/></n><n p="1" id="1233" c="view"/><n p="2" id="1829" c="view"><p n="divId" t="String" v="main-wrap"/><s p="3" s="clientid" id="1"/><s p="0" s="language_ui_location" id="553"/><s p="4" s="search_string" id="327"/><s p="0" s="clientid" id="1"/><s p="2" s="sportid" id="2"/><n p="0" id="2861" c="view"><p n="class" t="String" v="language_select"/><s p="0" s="haslanguageselect" id="331"/><s p="0" s="clientid" id="1"/><n p="0" id="2863" c="menu" data="1"><p n="type" t="String" v="slickselect"/><p n="menuid" t="int" v="123"/><c cache="86400"><![CDATA[<div class=""><div class="sb-wrapper"><div class="sb-selectedbox"><div class="sb-current"><div class="label"><span class="icon_flag cc-gb lang-2"></span><span>English</span></div><div class="arrow"></div><div class="clearResponsive"></div></div></div><div style="clear: both;"></div><div class="sb-optionswrap" style="display: none;"><div class="sb-scrollbox"><ul class="slickselect"><li class="sb-option active icon_flag cc-gb lang-2"><a href="javascript:s4.setLanguage('en');"><span><span class="icon_flag cc-gb lang-2"></span>English</span></a></li><li class="sb-option icon_flag cc-de lang-3"><a href="javascript:s4.setLanguage('de');"><span><span class="icon_flag cc-de lang-3"></span>Deutsch</span></a></li><li class="sb-option icon_flag cc-fr lang-4"><a href="javascript:s4.setLanguage('fr');"><span><span class="icon_flag cc-fr lang-4"></span>Fran&ccedil;ais</span></a></li><li class="sb-option icon_flag cc-it lang-1"><a href="javascript:s4.setLanguage('it');"><span><span class="icon_flag cc-it lang-1"></span>Italiano</span></a></li><li class="sb-option icon_flag cc-tr lang-6"><a href="javascript:s4.setLanguage('tr');"><span><span class="icon_flag cc-tr lang-6"></span>T&uuml;rk&ccedil;e</span></a></li><li class="sb-option icon_flag cc-hr lang-7"><a href="javascript:s4.setLanguage('hr');"><span><span class="icon_flag cc-hr lang-7"></span>Hrvatski</span></a></li><li class="sb-option icon_flag cc-sk lang-8"><a href="javascript:s4.setLanguage('sk');"><span><span class="icon_flag cc-sk lang-8"></span>Sloven&#269;ina</span></a></li><li class="sb-option icon_flag cc-si lang-9"><a href="javascript:s4.setLanguage('sl');"><span><span class="icon_flag cc-si lang-9"></span>Sloven&scaron;&#269;ina</span></a></li><li class="sb-option icon_flag cc-no lang-10"><a href="javascript:s4.setLanguage('no');"><span><span class="icon_flag cc-no lang-10"></span>Norsk</span></a></li><li class="sb-option icon_flag cc-se lang-11"><a href="javascript:s4.setLanguage('se');"><span><span class="icon_flag cc-se lang-11"></span>Svenska</span></a></li><li class="sb-option icon_flag cc-dk lang-12"><a href="javascript:s4.setLanguage('da');"><span><span class="icon_flag cc-dk lang-12"></span>Dansk</span></a></li><li class="sb-option icon_flag cc-es lang-13"><a href="javascript:s4.setLanguage('es');"><span><span class="icon_flag cc-es lang-13"></span>Espa&ntilde;ol</span></a></li><li class="sb-option icon_flag cc-nl lang-14"><a href="javascript:s4.setLanguage('nl');"><span><span class="icon_flag cc-nl lang-14"></span>Nederlands</span></a></li><li class="sb-option icon_flag cc-pl lang-15"><a href="javascript:s4.setLanguage('pl');"><span><span class="icon_flag cc-pl lang-15"></span>Polski</span></a></li><li class="sb-option icon_flag cc-pt lang-16"><a href="javascript:s4.setLanguage('pt');"><span><span class="icon_flag cc-pt lang-16"></span>Portugu&ecirc;s</span></a></li><li class="sb-option icon_flag cc-cz lang-17"><a href="javascript:s4.setLanguage('cs');"><span><span class="icon_flag cc-cz lang-17"></span>&#268;esky</span></a></li><li class="sb-option icon_flag cc-lv lang-18"><a href="javascript:s4.setLanguage('lv');"><span><span class="icon_flag cc-lv lang-18"></span>Latvie&scaron;u</span></a></li><li class="sb-option icon_flag cc-fi lang-19"><a href="javascript:s4.setLanguage('fi');"><span><span class="icon_flag cc-fi lang-19"></span>Suomeksi</span></a></li><li class="sb-option icon_flag cc-ru lang-21"><a href="javascript:s4.setLanguage('ru');"><span><span class="icon_flag cc-ru lang-21"></span>&#1056;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081;</span></a></li><li class="sb-option icon_flag cc-th lang-29"><a href="javascript:s4.setLanguage('th');"><span><span class="icon_flag cc-th lang-29"></span>&#3652;&#3607;&#3618;</span></a></li><li class="sb-option icon_flag cc-cn lang-30"><a href="javascript:s4.setLanguage('zh');"><span><span class="icon_flag cc-cn lang-30"></span>&#31616;&#20307;&#20013;&#25991;</span></a></li><li class="sb-option icon_flag cc-ba lang-31"><a href="javascript:s4.setLanguage('bs');"><span><span class="icon_flag cc-ba lang-31"></span>Bosanski</span></a></li><li class="sb-option icon_flag cc-hu lang-32"><a href="javascript:s4.setLanguage('hu');"><span><span class="icon_flag cc-hu lang-32"></span>Magyar</span></a></li><li class="sb-option icon_flag cc-bg lang-33"><a href="javascript:s4.setLanguage('bg');"><span><span class="icon_flag cc-bg lang-33"></span>&#1041;&#1098;&#1083;&#1075;&#1072;&#1088;&#1089;&#1082;&#1080;</span></a></li><li class="sb-option icon_flag cc-rs lang-34"><a href="javascript:s4.setLanguage('sr');"><span><span class="icon_flag cc-rs lang-34"></span>C&#1088;&#1087;&#1089;&#1082;&#1080;</span></a></li><li class="sb-option icon_flag cc-gr lang-35"><a href="javascript:s4.setLanguage('el');"><span><span class="icon_flag cc-gr lang-35"></span>E&lambda;&lambda;&eta;&nu;&iota;&kappa;&#940;</span></a></li><li class="sb-option icon_flag cc-ro lang-36"><a href="javascript:s4.setLanguage('ro');"><span><span class="icon_flag cc-ro lang-36"></span>Rom&acirc;n&#259;</span></a></li><li class="sb-option icon_flag cc-ee lang-37"><a href="javascript:s4.setLanguage('et');"><span><span class="icon_flag cc-ee lang-37"></span>Eesti</span></a></li><li class="sb-option icon_flag cc-mk lang-38"><a href="javascript:s4.setLanguage('mk');"><span><span class="icon_flag cc-mk lang-38"></span>&#1052;&#1072;&#1082;&#1077;&#1076;&#1086;&#1085;&#1089;&#1082;&#1080;</span></a></li><li class="sb-option icon_flag cc-lt lang-39"><a href="javascript:s4.setLanguage('lt');"><span><span class="icon_flag cc-lt lang-39"></span>Lietuvi&#371; </span></a></li><li class="sb-option icon_flag cc-cn lang-40"><a href="javascript:s4.setLanguage('zht');"><span><span class="icon_flag cc-cn lang-40"></span>&#20013;&#25991;&#32321;&#39636;</span></a></li><li class="sb-option icon_flag cc-vn lang-42"><a href="javascript:s4.setLanguage('vi');"><span><span class="icon_flag cc-vn lang-42"></span>Ti&#7871;ng Vi&#7879;t</span></a></li><li class="sb-option icon_flag cc-id lang-41"><a href="javascript:s4.setLanguage('id');"><span><span class="icon_flag cc-id lang-41"></span>Bahasa</span></a></li><li class="sb-option icon_flag cc-jp lang-43"><a href="javascript:s4.setLanguage('ja');"><span><span class="icon_flag cc-jp lang-43"></span>&#26085;&#26412;&#35486;</span></a></li><li class="sb-option icon_flag cc-kr lang-44"><a href="javascript:s4.setLanguage('ko');"><span><span class="icon_flag cc-kr lang-44"></span>&#54620;&#44397;&#50612;</span></a></li><li class="sb-option icon_flag cc-ch lang-46"><a href="javascript:s4.setLanguage('ch');"><span><span class="icon_flag cc-ch lang-46"></span>Schweizerdeutsch</span></a></li><li class="sb-option icon_flag cc-ge lang-53"><a href="javascript:s4.setLanguage('ka');"><span><span class="icon_flag cc-ge lang-53"></span>&#4325;&#4304;&#4320;&#4311;&#4323;&#4314;&#4312;</span></a></li><li class="sb-option icon_flag cc-al lang-56"><a href="javascript:s4.setLanguage('sqi');"><span><span class="icon_flag cc-al lang-56"></span>Shqip</span></a></li><li class="sb-option icon_flag cc-ua lang-58"><a href="javascript:s4.setLanguage('ukr');"><span><span class="icon_flag cc-ua lang-58"></span>&#1059;&#1082;&#1088;&#1072;&#1111;&#1085;&#1089;&#1100;&#1082;&#1072;</span></a></li><li class="sb-option icon_flag cc-rs lang-60"><a href="javascript:s4.setLanguage('srl');"><span><span class="icon_flag cc-rs lang-60"></span>Srpski</span></a></li></ul></div></div></div></div>
+]]></c></n></n><n p="1" id="4207" c="view"><p n="class" t="String" v="timezone_select"/><n p="0" id="4209" c="menu" data="1"><p n="type" t="String" v="slickselect"/><p n="menuid" t="int" v="163"/><c cache="86400"><![CDATA[<div class=""><ul class=""></ul></div>
+]]></c></n></n><n p="2" id="1830" c="view"><s p="4" s="stageid" id="16"/><s p="4" s="viewtype" id="9"/><s p="4" s="seasonid" id="5"/><s p="4" s="sportid" id="2"/><s p="0" s="sportid" id="2"/><s p="0" s="clientid" id="1"/><s p="4" s="sportid2" id="309"/><s p="3" s="clientid" id="1"/><s p="3" s="sportid" id="2"/><s p="2" s="clientid" id="1"/><s p="2" s="seasonid" id="5"/><s p="1" s="clientid" id="1"/><s p="4" s="clientid" id="1"/><s p="4" s="landingpage_stageid" id="262"/><s p="0" s="isvfl" id="409"/><s p="0" s="disable_breadcrumbs" id="536"/><n p="0" id="2014" c="view"><p n="class" t="String" v="breadcrumbs"/><s p="0" s="sportid" id="2"/><s p="2" s="continentid" id="22"/><s p="2" s="sportid" id="2"/><s p="2" s="test" id="14"/><s p="3" s="categoryid" id="3"/><s p="3" s="test" id="14"/><s p="7" s="seasonid" id="5"/><s p="9" s="tableorcup" id="239"/><s p="8" s="seasontypeid" id="242"/><s p="6" s="tournamentid" id="17"/><s p="5" s="weeklyevent_event" id="176"/><s p="5" s="tournamentid" id="17"/><s p="10" s="stageid" id="16"/><s p="4" s="category2id" id="33"/><s p="3" s="sportid" id="2"/><s p="12" s="clientid" id="1"/><s p="11" s="viewtype" id="9"/><s p="11" s="seasonid" id="5"/><s p="11" s="uniqueteamid" id="6"/><s p="2" s="mobile_client" id="554"/><s p="13" s="clientid" id="1"/><s p="1" s="sportid2" id="309"/><s p="1" s="landingpage_stageid" id="262"/><s p="1" s="stageid" id="16"/><s p="1" s="sportid" id="2"/><s p="1" s="categoryid" id="3"/><s p="11" s="clientid" id="1"/><s p="7" s="categoryid" id="3"/><s p="7" s="clientid" id="1"/><s p="10" s="clientid" id="1"/><s p="10" s="landingpage_stageid" id="262"/><s p="10" s="test" id="14"/><s p="2" s="sportid2" id="309"/><s p="2" s="stageid" id="16"/><s p="10" s="sportid" id="2"/><n p="0" id="2015" c="menu" data="1"><p n="br_levels" t="int" v="0"/><p n="class" t="String" v="breadcrumb"/><p n="type" t="String" v="br_menu"/><p n="menuid" t="int" v="79"/><c cache="86400"><![CDATA[<div class="breadcrumb"><ul class="jd_menu br_menustyle"><li class="topelem first icon_sport sport-1"><a href="javascript:s4.setState('2_1',false);" class="atopelem"><div><span class="icon_sport sport-1"></span><span>Soccer</span><span class="arrow_icon_space"></span><div class="clearResponsive"></div></div></a></li></ul></div>
+]]></c></n><n p="1" id="1233" c="view"/><n p="2" id="4113" c="breadcrumbdoc" data="1"><p n="hideForSportId" t="int" v="11"/><p n="type" t="String" v="continent"/><c cache="3600" type="document"><![CDATA[<div class="menu">
+    <div class="breadcrumb">
+            <ul class="jd_menu br_menustyle">
+            <li class="topelem first">
+                                <a href="javascript:s4.setState('2_1,22_2',false);" class="atopelem">
+                                    <div>
+                                                                                                    <span>North America</span>
+                                                <span class="arrow_down_icon"></span>
+                        <div class="clearResponsive"></div>
+                    </div>
+                </a>
+                                <ul class="jdlvl_2">
+                                                                                        <li>
+                                <a href="javascript:s4.setState('2_1,22_1',false);"><span>Europe</span></a>
+                                <div class="clearResponsive"></div>
+                            </li>
+                                                                                                                                    <li>
+                                <a href="javascript:s4.setState('2_1,22_3',false);"><span>South America</span></a>
+                                <div class="clearResponsive"></div>
+                            </li>
+                                                                                                                                    <li>
+                                <a href="javascript:s4.setState('2_1,22_4',false);"><span>Africa</span></a>
+                                <div class="clearResponsive"></div>
+                            </li>
+                                                                                                                                    <li>
+                                <a href="javascript:s4.setState('2_1,22_5',false);"><span>Asia</span></a>
+                                <div class="clearResponsive"></div>
+                            </li>
+                                                                            </ul>
+                        </ul>
+        </div>
+</div>]]></c></n><n p="3" id="4105" c="breadcrumbdoc" data="1"><p n="hideForSportId" t="int" v="11"/><p n="type" t="String" v="category"/><c cache="3600" type="document"><![CDATA[<div class="menu">
+    <div class="breadcrumb">
+            <ul class="jd_menu br_menustyle">
+            <li class="topelem first">
+                                <a href="javascript:s4.deeplink('categoryid','4','');" class="atopelem">
+                                    <div>
+                                                                                                    <span>International</span>
+                                                <span class="arrow_down_icon"></span>
+                        <div class="clearResponsive"></div>
+                    </div>
+                </a>
+                                <ul class="jdlvl_2">
+                                                                                        <li>
+                                <a href="javascript:s4.deeplink('categoryid','12','');"><span>Mexico</span></a>
+                                <div class="clearResponsive"></div>
+                            </li>
+                                                                                                                                    <li>
+                                <a href="javascript:s4.deeplink('categoryid','502','');"><span>Jamaica</span></a>
+                                <div class="clearResponsive"></div>
+                            </li>
+                                                                                                                                    <li>
+                                <a href="javascript:s4.deeplink('categoryid','26','');"><span>USA</span></a>
+                                <div class="clearResponsive"></div>
+                            </li>
+                                                                                                                                    <li>
+                                <a href="javascript:s4.deeplink('categoryid','289','');"><span>Costa Rica</span></a>
+                                <div class="clearResponsive"></div>
+                            </li>
+                                                                                                                                    <li>
+                                <a href="javascript:s4.deeplink('categoryid','437','');"><span>Honduras</span></a>
+                                <div class="clearResponsive"></div>
+                            </li>
+                                                                                                                                    <li>
+                                <a href="javascript:s4.deeplink('categoryid','388','');"><span>Canada</span></a>
+                                <div class="clearResponsive"></div>
+                            </li>
+                                                                                                                                    <li>
+                                <a href="javascript:s4.deeplink('categoryid','367','');"><span>El Salvador</span></a>
+                                <div class="clearResponsive"></div>
+                            </li>
+                                                                                                                                    <li>
+                                <a href="javascript:s4.deeplink('categoryid','526','');"><span>Panama</span></a>
+                                <div class="clearResponsive"></div>
+                            </li>
+                                                                                                                                    <li>
+                                <a href="javascript:s4.deeplink('categoryid','365','');"><span>Guatemala</span></a>
+                                <div class="clearResponsive"></div>
+                            </li>
+                                                                            </ul>
+                        </ul>
+        </div>
+</div>]]></c></n><n p="4" id="1233" c="view"/><n p="5" id="1233" c="view"/><n p="6" id="1233" c="view"/><n p="7" id="2032" c="menu" data="1"><p n="class" t="String" v="breadcrumb"/><p n="menuid" t="int" v="83"/><p n="type" t="String" v="br_menu"/><c cache="86400"><![CDATA[<div class="breadcrumb"><ul class="jd_menu br_menustyle"><li class="topelem first "><a href="javascript:s4.deeplink('seasonid','10080','');" class="atopelem"><div><span>WC Qual, CONCACAF 2018</span><span class="arrow_down_icon"></span><div class="clearResponsive"></div></div></a><ul class=" jdlvl_2"><li class=""><a href="javascript:s4.deeplink('seasonid','10876','');"><span>WC Qualification, UEFA 2018</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','40373','');"><span>WC Qualification Women 2019</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','12170','');"><span>European Championship 2016</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','36178','');"><span>European Ch.ship Women 2017</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','10080','');"><span>WC Qual, CONCACAF 2018</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','40459','');"><span>Gold Cup 2017</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','10872','');"><span>WC Qual, CONMEBOL 2018</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','10878','');"><span>WC Qualification, CAF 2018</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','40265','');"><span>Africa Cup of Nations, Q 2019</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','40679','');"><span>COSAFA Cup 2017</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','10060','');"><span>WC Qualification, AFC 2018</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','32505','');"><span>AFC Asian Cup QF 2019</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','43030','');"><span>East Asian Ch.ship Women 2017</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','10874','');"><span>WC Qualification, OFC 2018</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','12867','');"><span>Olympic Games 2016</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','12869','');"><span>Olympic Games Women 2016</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','11184','');"><span>Confederations Cup 2017</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','7528','');"><span>World Cup 2014</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','38624','');"><span>Int. Friendly Games 2017</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','38987','');"><span>Int. Friendly Games W 2017</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','42280','');"><span>King&acute;s Cup 2017</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','42728','');"><span>Tournament of Nations, Women 2017</span><div class="clearResponsive"></div></a></li></ul></li></ul></div>
+]]></c></n><n p="8" id="1233" c="view"/><n p="9" id="1233" c="view"/><n p="10" id="1233" c="view"/><n p="11" id="1233" c="view"/><n p="12" id="2675" c="view"><p n="class" t="String" v="right"/><s p="0" s="test" id="14"/><s p="0" s="clientid" id="1"/><s p="0" s="is_landing_page" id="560"/><n p="0" id="2685" c="Button" data="1"><p n="href" t="String" v="s4.goback()"/><p n="value" t="String" v="Back"/><p n="innertagname" t="String" v="span"/><p n="tagname" t="String" v="a"/><c cache="86400"><![CDATA[<a class=" button" onclick="s4.goback()"><span>Back</span></a>
+]]></c></n></n><n p="13" id="1233" c="view"/><n p="14" id="2729" c="view"><p n="class" t="String" v="clear"/></n></n><n p="1" id="1233" c="view"/><n p="2" id="1233" c="view"/><n p="3" id="1233" c="view"/><n p="4" id="1833" c="view"><s p="1" s="seasonid" id="5"/><s p="1" s="mobile_client" id="554"/><s p="0" s="isvfl" id="409"/><n p="0" id="1233" c="view"/><n p="1" id="956" c="menu" data="1"><p n="menuid" t="int" v="15"/><p n="type" t="String" v="dropdown"/><p n="divId" t="String" v="nav-wrap-inner-2"/><p n="class" t="String" v="nav-wrap-class-2"/><c cache="86400"><![CDATA[<div class="nav-wrap-class-2"><ul class="dropdown"><li class="expandable type_9_overview active"><span class="underlevel-expandable-1-last"></span><a href="javascript:s4.setState('9_overview',false);" class="selected"><span>Overview</span></a></li><li class="expandable type_9_teampage"><span class="underlevel-expandable-1-last"></span><a href="javascript:s4.setState('9_teampage',false);"><span>Teams</span></a></li><li class="expandable type_9_headtohead"><span class="underlevel-expandable-1-last"></span><a href="javascript:s4.setState('9_headtohead',false);"><span>Head to Head</span></a></li><li class="expandable type_9_statistics"><span class="underlevel-expandable-1-last"></span><a href="javascript:s4.setState('9_statistics',false);"><span>Statistics</span></a></li><li class="expandable type_9_fixtures"><span class="underlevel-expandable-1-last"></span><a href="javascript:s4.setState('9_fixtures',false);"><span>Fixtures</span></a></li><li class="expandable type_9_archive last"><span class="underlevel-expandable-1-last"></span><a href="javascript:s4.setState('9_archive',false);"><span>Archive</span></a></li><div class="clearResponsive"></div></ul></div>
+]]></c></n></n><n p="5" id="1233" c="view"/></n><n p="3" id="2727" c="view"><p n="class" t="String" v="clear"/></n><n p="4" id="1831" c="view"><p n="class" t="String" v="under-main"/><s p="0" s="sportid" id="2"/><s p="0" s="categoryid" id="3"/><s p="0" s="tournamentid" id="17"/><s p="0" s="seasonid" id="5"/><s p="0" s="viewtype" id="9"/><s p="1" s="clientid" id="1"/><s p="3" s="clientid" id="1"/><n p="0" id="1424" c="view"><s p="0" s="viewtype" id="9"/><s p="0" s="haspartialdisplay" id="365"/><s p="0" s="matchid" id="8"/><s p="0" s="hasplayerservice" id="276"/><s p="0" s="hasmultipleinfo" id="196"/><s p="0" s="seasontypeid" id="242"/><s p="0" s="tableorcup" id="239"/><s p="0" s="internalh2h" id="381"/><s p="0" s="test" id="14"/><n p="0" id="1393" c="view"><n p="0" id="1496" c="view"><p n="template" t="1" v="VBox"/><p n="template" t="1" v="Full"/><s p="3" s="matchtype" id="26"/><s p="3" s="tabletype" id="25"/><s p="3" s="fulltimeorhalftime" id="72"/><s p="3" s="round" id="24"/><s p="0" s="iscupandtable" id="247"/><n p="0" id="5264" c="button_print" data="0"/><n p="1" id="2144" c="view"><p n="template" t="1" v="cornerbox"/><s p="0" s="isresponsive" id="569"/><n p="0" id="2146" c="view"><n p="0" id="3125" c="view"><p n="class" t="String" v="season_dropdown"/><s p="0" s="vleague" id="527"/><s p="1" s="clientid" id="1"/><n p="0" id="995" c="menu" data="1"><p n="type" t="String" v="slickselect"/><p n="template" t="1" v="HBox"/><p n="menuid" t="int" v="19"/><c cache="86400"><![CDATA[<div class=""><div class="sb-wrapper"><div class="sb-selectedbox"><div class="sb-current"><div class="label">2018</div><div class="arrow"></div><div class="clearResponsive"></div></div></div><div style="clear: both;"></div><div class="sb-optionswrap" style="display: none;"><div class="sb-scrollbox"><ul class="slickselect"><li class="sb-option active " onclick="javascript:s4.deeplink('seasonid','10080','');">2018</li><li class="sb-option " onclick="javascript:s4.deeplink('seasonid','3358','');">2014</li><li class="sb-option " onclick="javascript:s4.deeplink('seasonid','1154','');">2010</li><li class="sb-option " onclick="javascript:s4.deeplink('seasonid','2437','');">2006</li></ul></div></div></div></div>
+]]></c></n><n p="1" id="1233" c="view"/></n><n p="1" id="2149" c="menu" data="1"><p n="class" t="String" v="gismo_invert gismo_left"/><p n="menuid" t="int" v="97"/><p n="type" t="String" v="gismo"/><c cache="86400"><![CDATA[<div class="gismo_invert gismo_left"><div class="table_selector"><div class="tabs navtabs"><ul class="navtabs gismo"><li class="active first"><a href="javascript:s4.setState('5_10080,9_overview',false);"><div class="htab"><span>Overview</span></div></a></li><li class="followingSelected"><a href="javascript:s4.deeplink('seasontypeid','16','5_10080');"><div class="htab"><span>Qualification</span></div></a></li><li class="last"><a href="javascript:s4.deeplink('seasontypeid','21','5_10080');"><div class="htab"><span>Group Stage</span></div></a></li><div class="clearResponsive"></div></ul></div></div></div>
+]]></c></n><n p="2" id="2150" c="Hr" data="1"><c cache="2592000"><![CDATA[<div class="horizontal_ruler"></div>]]></c></n></n><n p="1" id="2151" c="view"><s p="0" s="seasontypeid" id="242"/><s p="0" s="tableorcup" id="239"/><s p="1" s="seasonold" id="259"/><s p="1" s="tableorcup" id="239"/><s p="1" s="vleague" id="527"/><s p="1" s="sportid" id="2"/><s p="1" s="categoryid" id="3"/><n p="0" id="1233" c="view"/><n p="1" id="3655" c="view"><p n="class" t="String" v="with_border"/><s p="3" s="isresponsive" id="569"/><n p="0" id="2257" c="view"><p n="template" t="1" v="HBox"/><p n="template" t="1" v="Half"/><n p="0" id="2259" c="view"><p n="template" t="1" v="component"/><p n="class" t="String" v="landingpage"/><s p="0" s="landingpage_seasonid" id="260"/><s p="0" s="test" id="14"/><s p="0" s="clientid" id="1"/><n p="0" id="3285" c="couch_lastx" data="1"><p n="useabbr" t="boolean" v="1"/><p n="defaultFromToplist" t="boolean" v="1"/><p n="titletext" t="String" v="Results"/><c cache="900" type="document" name="Last 10"><![CDATA[<h2 class="title">Results</h2>
+
+
+
+
+    <table  class="normaltable lastx">
+    
+        <thead>
+        <tr class="header0"><th class="datetime first"><abbr title="Date">DA</abbr></th><th class="match">Match</th><th class="nt">FT</th><th class="round last"><abbr title="Round">RO</abbr></th></tr>        </thead>
+    
+    
+    
+        <tbody>
+        <tr class="odd"><td class="datetime">06/09/17</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 10160907, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/cr.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/mx.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                Costa Rica
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                Mexico
+                                        </span>
+            </span>
+</a>
+</td>                    
+            <td class="nt ftx ">
+                                                                                        <span class="score">1</span>:<span class="score">1</span>
+                                                                                                    </td>
+            
+
+                                            <td class="round">
+                
+                                                                                                                                                    8
+                                                                                                        </td>
+                                </tr>
+    <tr class="even"><td class="datetime">06/09/17</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 10160905, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/pa.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/tt.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home winner">
+                                                Panama
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                <abbr title="Trinidad & Tobago">Trinidad & Toba…</abbr>
+                                        </span>
+            </span>
+</a>
+</td>                    
+            <td class="nt ftx ">
+                                                                                        <span class="score">3</span>:<span class="score">0</span>
+                                                                                                    </td>
+            
+
+                                            <td class="round">
+                
+                                                                                                                                                    8
+                                                                                                        </td>
+                                </tr>
+    <tr class="odd"><td class="datetime">05/09/17</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 10160903, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/hn.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/us.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                Honduras
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                USA
+                                        </span>
+            </span>
+</a>
+</td>                    
+            <td class="nt ftx ">
+                                                                                        <span class="score">1</span>:<span class="score">1</span>
+                                                                                                    </td>
+            
+
+                                            <td class="round">
+                
+                                                                                                                                                    8
+                                                                                                        </td>
+                                </tr>
+    <tr class="even"><td class="datetime">02/09/17</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 10160899, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/mx.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/pa.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home winner">
+                                                Mexico
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                Panama
+                                        </span>
+            </span>
+</a>
+</td>                    
+            <td class="nt ftx ">
+                                                                                        <span class="score">1</span>:<span class="score">0</span>
+                                                                                                    </td>
+            
+
+                                            <td class="round">
+                
+                                                                                                                                                    7
+                                                                                                        </td>
+                                </tr>
+    <tr class="odd"><td class="datetime">02/09/17</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 10160901, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/tt.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/hn.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                <abbr title="Trinidad & Tobago">Trinidad & Toba…</abbr>
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away winner                  ">
+                                                Honduras
+                                        </span>
+            </span>
+</a>
+</td>                    
+            <td class="nt ftx ">
+                                                                                        <span class="score">1</span>:<span class="score">2</span>
+                                                                                                    </td>
+            
+
+                                            <td class="round">
+                
+                                                                                                                                                    7
+                                                                                                        </td>
+                                </tr>
+    <tr class="even"><td class="datetime">01/09/17</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 10160897, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/us.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/cr.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                USA
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away winner                  ">
+                                                Costa Rica
+                                        </span>
+            </span>
+</a>
+</td>                    
+            <td class="nt ftx ">
+                                                                                        <span class="score">0</span>:<span class="score">2</span>
+                                                                                                    </td>
+            
+
+                                            <td class="round">
+                
+                                                                                                                                                    7
+                                                                                                        </td>
+                                </tr>
+    <tr class="odd"><td class="datetime">14/06/17</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 10160895, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/cr.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/tt.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home winner">
+                                                Costa Rica
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                <abbr title="Trinidad & Tobago">Trinidad & Toba…</abbr>
+                                        </span>
+            </span>
+</a>
+</td>                    
+            <td class="nt ftx ">
+                                                                                        <span class="score">2</span>:<span class="score">1</span>
+                                                                                                    </td>
+            
+
+                                            <td class="round">
+                
+                                                                                                                                                    6
+                                                                                                        </td>
+                                </tr>
+    <tr class="even"><td class="datetime">14/06/17</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 10160893, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/pa.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/hn.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                Panama
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                Honduras
+                                        </span>
+            </span>
+</a>
+</td>                    
+            <td class="nt ftx ">
+                                                                                        <span class="score">2</span>:<span class="score">2</span>
+                                                                                                    </td>
+            
+
+                                            <td class="round">
+                
+                                                                                                                                                    6
+                                                                                                        </td>
+                                </tr>
+    <tr class="odd"><td class="datetime">12/06/17</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 10160891, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/mx.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/us.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                Mexico
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                USA
+                                        </span>
+            </span>
+</a>
+</td>                    
+            <td class="nt ftx ">
+                                                                                        <span class="score">1</span>:<span class="score">1</span>
+                                                                                                    </td>
+            
+
+                                            <td class="round">
+                
+                                                                                                                                                    6
+                                                                                                        </td>
+                                </tr>
+    <tr class="even"><td class="datetime">09/06/17</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 10160889, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/mx.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/hn.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home winner">
+                                                Mexico
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                Honduras
+                                        </span>
+            </span>
+</a>
+</td>                    
+            <td class="nt ftx ">
+                                                                                        <span class="score">3</span>:<span class="score">0</span>
+                                                                                                    </td>
+            
+
+                                            <td class="round">
+                
+                                                                                                                                                    5
+                                                                                                        </td>
+                                </tr>
+    
+
+        </tbody>
+    
+
+    
+    </table>]]></c></n></n></n><n p="1" id="3661" c="view"><p n="class" t="String" v="border_normal"/></n><n p="2" id="2258" c="view"><p n="template" t="1" v="HBox"/><p n="template" t="1" v="Half"/><p n="template" t="1" v="Last"/><n p="0" id="2260" c="view"><p n="template" t="1" v="component"/><p n="class" t="String" v="landingpage"/><s p="1" s="clientid" id="1"/><s p="1" s="landingpage_seasonid" id="260"/><s p="1" s="test" id="14"/><s p="1" s="oddstype_next" id="415"/><s p="0" s="oddstype_next" id="415"/><s p="0" s="showoddsmenu" id="417"/><s p="0" s="sportid" id="2"/><n p="0" id="4347" c="menu" data="1"><p n="type" t="String" v="gismo"/><p n="menuid" t="int" v="167"/><c cache="86400"><![CDATA[<div class=""><ul class=""></ul></div>
+]]></c></n><n p="1" id="3297" c="couch_nextx" data="1"><p n="useabbr" t="boolean" v="1"/><p n="defaultFromToplist" t="boolean" v="1"/><p n="titletext" t="String" v="Fixtures"/><c cache="900" type="document" name="Next 10"><![CDATA[<h2 class="title">Fixtures</h2>
+
+
+
+
+    <table  class="normaltable nextx">
+    
+        <thead>
+        <tr class="header0"><th class="datetime first"><abbr title="Date">DA</abbr></th><th class="match">Match</th><th class="round last"><abbr title="Round">RO</abbr></th></tr>        </thead>
+    
+    
+    
+        <tbody>
+        <tr class="odd"><td class="datetime">06/10/17 <abbr title="To be announced">(TBA)</abbr></td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 10160909, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/us.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/pa.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                USA
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                Panama
+                                        </span>
+            </span>
+</a>
+</td>                                    <td class="round">
+                
+                                                                                                                                                    9
+                                                                                                        </td>
+                                </tr>
+    <tr class="even"><td class="datetime">06/10/17 <abbr title="To be announced">(TBA)</abbr></td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 10160911, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/cr.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/hn.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                Costa Rica
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                Honduras
+                                        </span>
+            </span>
+</a>
+</td>                                    <td class="round">
+                
+                                                                                                                                                    9
+                                                                                                        </td>
+                                </tr>
+    <tr class="odd"><td class="datetime">06/10/17 <abbr title="To be announced">(TBA)</abbr></td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 10160913, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/mx.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/tt.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                Mexico
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                <abbr title="Trinidad & Tobago">Trinidad & Toba…</abbr>
+                                        </span>
+            </span>
+</a>
+</td>                                    <td class="round">
+                
+                                                                                                                                                    9
+                                                                                                        </td>
+                                </tr>
+    <tr class="even"><td class="datetime">10/10/17 <abbr title="To be announced">(TBA)</abbr></td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 10160915, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/tt.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/us.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                <abbr title="Trinidad & Tobago">Trinidad & Toba…</abbr>
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                USA
+                                        </span>
+            </span>
+</a>
+</td>                                    <td class="round">
+                
+                                                                                                                                                    10
+                                                                                                        </td>
+                                </tr>
+    <tr class="odd"><td class="datetime">10/10/17 <abbr title="To be announced">(TBA)</abbr></td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 10160917, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/pa.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/cr.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                Panama
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                Costa Rica
+                                        </span>
+            </span>
+</a>
+</td>                                    <td class="round">
+                
+                                                                                                                                                    10
+                                                                                                        </td>
+                                </tr>
+    <tr class="even"><td class="datetime">10/10/17 <abbr title="To be announced">(TBA)</abbr></td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 10160919, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/hn.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/mx.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                Honduras
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                Mexico
+                                        </span>
+            </span>
+</a>
+</td>                                    <td class="round">
+                
+                                                                                                                                                    10
+                                                                                                        </td>
+                                </tr>
+    
+
+        </tbody>
+    
+
+    
+    </table>]]></c></n></n></n><n p="3" id="1233" c="view"/></n></n></n><n p="2" id="2145" c="view"><p n="class" t="String" v="motorsport_playoffs_view"/><p n="template" t="1" v="cornerbox"/><s p="0" s="clientid" id="1"/><s p="0" s="seasonid" id="5"/><s p="0" s="test" id="14"/><s p="0" s="cupsection" id="323"/><s p="0" s="cupid" id="28"/><n p="0" id="2905" c="view"><p n="template" t="1" v="component"/><p n="class" t="String" v="cuprostertabsview"/><s p="1" s="clientid" id="1"/><s p="1" s="isdoubles" id="299"/><s p="1" s="cupsection" id="323"/><s p="1" s="cupid" id="28"/><s p="1" s="showplacementmatches" id="322"/><s p="1" s="new_cup_tree" id="427"/><s p="0" s="new_cup_tree" id="427"/><s p="1" s="tournamentid" id="17"/><s p="0" s="clientid" id="1"/><n p="0" id="2907" c="menu" data="1"><p n="menuid" t="int" v="112"/><p n="type" t="String" v="gismo"/><p n="class" t="String" v="gismo_invert "/><c cache="86400"><![CDATA[<div class="gismo_invert "><ul class=""></ul></div>
+]]></c></n><n p="1" id="1280" c="Cuptree" data="0"><p n="team_translationlength" t="String" v="SHORT"/><p n="maxRounds" t="int" v="3"/></n></n></n><n p="3" id="2147" c="view"><p n="template" t="1" v="component"/><p n="class" t="String" v="motorsport_leaguetable_view"/><s p="0" s="seasontypeid" id="242"/><n p="0" id="2159" c="view"><s p="0" s="sportid" id="2"/><s p="3" s="seasontypeid" id="242"/><s p="2" s="seasontypeid" id="242"/><s p="1" s="clientid" id="1"/><s p="1" s="seasontypeid" id="242"/><s p="0" s="hasmultipleinfo" id="196"/><s p="0" s="test" id="14"/><n p="0" id="1397" c="leaguetable" data="1"><p n="settype" t="int" v="23"/><p n="childtemplates" t="intarray" v="13"/><p n="tablesorter" t="int" v="1"/><p n="display" t="int" v="0"/><p n="tabletype" t="String" v="normal"/><p n="hover" t="int" v="1"/><c cache="600"><![CDATA[<div class="multiview"><div class=" template_cornerbox template_First" builder="multiview"><div class="multiview_wrap"><h2 class="title "><a href="javascript:s4.deeplink('tableid','23399','');">World Cup Qualification 2018, CONCACAF 5th round</a></h2><table class="normaltable"><thead><tr class="header0"><th title="Position" class="positiontotal  position first">Pos</th><th class="teamname  team">Team</th><th title="Played" class="{sorter: 'desc'} matchestotal  matches">P</th><th title="win" class="{sorter: 'desc'} wintotal  wins">W</th><th title="Draw" class="{sorter: 'desc'} drawtotal  draws">D</th><th title="loss" class="losstotal  losses">L</th><th title="DIFF" class="{sorter: 'desc'} goaldifftotal  diff unsigned difftotal">DI</th><th title="Points" class="{sorter: 'desc'} pointstotal  points pointstotal last">Points</th></tr></thead><tbody><tr class="firstingroup promotioncolor_promotion firstingroup even"><td class="position first">1</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','4781','5_10080');"><span><img src="//ls.betradar.com/ls/crest/small/mx.png" onLoad="s4.resizeIframe()">Mexico</span></a></td><td class="matches">8</td><td class="wins">5</td><td class="draws">3</td><td class="losses">0</td><td class="diff unsigned difftotal">8</td><td class="points pointstotal last">18</td></tr><tr class="promotioncolor_promotion"><td class="position first">2</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','4756','5_10080');"><span><img src="//ls.betradar.com/ls/crest/small/cr.png" onLoad="s4.resizeIframe()">Costa Rica</span></a></td><td class="matches">8</td><td class="wins">4</td><td class="draws">3</td><td class="losses">1</td><td class="diff unsigned difftotal">7</td><td class="points pointstotal last">15</td></tr><tr class="promotioncolor_promotion even"><td class="position first">3</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','5164','5_10080');"><span><img src="//ls.betradar.com/ls/crest/small/pa.png" onLoad="s4.resizeIframe()">Panama</span></a></td><td class="matches">8</td><td class="wins">2</td><td class="draws">4</td><td class="losses">2</td><td class="diff unsigned difftotal">2</td><td class="points pointstotal last">10</td></tr><tr class="promotioncolor_promotionplayoff firstingroup"><td class="position first">4</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','4724','5_10080');"><span><img src="//ls.betradar.com/ls/crest/small/us.png" onLoad="s4.resizeIframe()">USA</span></a></td><td class="matches">8</td><td class="wins">2</td><td class="draws">3</td><td class="losses">3</td><td class="diff unsigned difftotal">1</td><td class="points pointstotal last">9</td></tr><tr class="even"><td class="position first">5</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','4827','5_10080');"><span><img src="//ls.betradar.com/ls/crest/small/hn.png" onLoad="s4.resizeIframe()">Honduras</span></a></td><td class="matches">8</td><td class="wins">2</td><td class="draws">3</td><td class="losses">3</td><td class="diff unsigned difftotal">-7</td><td class="points pointstotal last">9</td></tr><tr><td class="position first">6</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','5162','5_10080');"><span><img src="//ls.betradar.com/ls/crest/small/tt.png" onLoad="s4.resizeIframe()">Trinidad &amp; Tobago</span></a></td><td class="matches">8</td><td class="wins">1</td><td class="draws">0</td><td class="losses">7</td><td class="diff unsigned difftotal">-11</td><td class="points pointstotal last">3</td></tr></tbody></table><div hidden="1" class="choosecolumntext">Choose columns</div>
+</div></div><div class=" template_cornerbox" builder="multiview"><div class="multiview_wrap"><h2 class="title "><a href="javascript:s4.deeplink('tableid','19986','');">4th round, Gr. 1</a></h2><table class="normaltable"><thead><tr class="header0"><th title="Position" class="positiontotal  position first">Pos</th><th class="teamname  team">Team</th><th title="Played" class="{sorter: 'desc'} matchestotal  matches">P</th><th title="win" class="{sorter: 'desc'} wintotal  wins">W</th><th title="Draw" class="{sorter: 'desc'} drawtotal  draws">D</th><th title="loss" class="losstotal  losses">L</th><th title="DIFF" class="{sorter: 'desc'} goaldifftotal  diff unsigned difftotal">DI</th><th title="Points" class="{sorter: 'desc'} pointstotal  points pointstotal last">Points</th></tr></thead><tbody><tr class="firstingroup promotioncolor_playoff firstingroup even"><td class="position first">1</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','4781','5_10080');"><span><img src="//ls.betradar.com/ls/crest/small/mx.png" onLoad="s4.resizeIframe()">Mexico</span></a></td><td class="matches">6</td><td class="wins">5</td><td class="draws">1</td><td class="losses">0</td><td class="diff unsigned difftotal">12</td><td class="points pointstotal last">16</td></tr><tr class="promotioncolor_playoff"><td class="position first">2</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','4827','5_10080');"><span><img src="//ls.betradar.com/ls/crest/small/hn.png" onLoad="s4.resizeIframe()">Honduras</span></a></td><td class="matches">6</td><td class="wins">2</td><td class="draws">2</td><td class="losses">2</td><td class="diff unsigned difftotal">0</td><td class="points pointstotal last">8</td></tr><tr class="even"><td class="position first">3</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','4752','5_10080');"><span><img src="//ls.betradar.com/ls/crest/small/ca.png" onLoad="s4.resizeIframe()">Canada</span></a></td><td class="matches">6</td><td class="wins">2</td><td class="draws">1</td><td class="losses">3</td><td class="diff unsigned difftotal">-3</td><td class="points pointstotal last">7</td></tr><tr><td class="position first">4</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','4825','5_10080');"><span><img src="//ls.betradar.com/ls/crest/small/sv.png" onLoad="s4.resizeIframe()">El Salvador</span></a></td><td class="matches">6</td><td class="wins">0</td><td class="draws">2</td><td class="losses">4</td><td class="diff unsigned difftotal">-9</td><td class="points pointstotal last">2</td></tr></tbody></table><div hidden="1" class="choosecolumntext">Choose columns</div>
+</div></div><div class=" template_cornerbox" builder="multiview"><div class="multiview_wrap"><h2 class="title "><a href="javascript:s4.deeplink('tableid','19988','');">4th round, Gr. 2</a></h2><table class="normaltable"><thead><tr class="header0"><th title="Position" class="positiontotal  position first">Pos</th><th class="teamname  team">Team</th><th title="Played" class="{sorter: 'desc'} matchestotal  matches">P</th><th title="win" class="{sorter: 'desc'} wintotal  wins">W</th><th title="Draw" class="{sorter: 'desc'} drawtotal  draws">D</th><th title="loss" class="losstotal  losses">L</th><th title="DIFF" class="{sorter: 'desc'} goaldifftotal  diff unsigned difftotal">DI</th><th title="Points" class="{sorter: 'desc'} pointstotal  points pointstotal last">Points</th></tr></thead><tbody><tr class="firstingroup promotioncolor_playoff firstingroup even"><td class="position first">1</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','4756','5_10080');"><span><img src="//ls.betradar.com/ls/crest/small/cr.png" onLoad="s4.resizeIframe()">Costa Rica</span></a></td><td class="matches">6</td><td class="wins">5</td><td class="draws">1</td><td class="losses">0</td><td class="diff unsigned difftotal">8</td><td class="points pointstotal last">16</td></tr><tr class="promotioncolor_playoff"><td class="position first">2</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','5164','5_10080');"><span><img src="//ls.betradar.com/ls/crest/small/pa.png" onLoad="s4.resizeIframe()">Panama</span></a></td><td class="matches">6</td><td class="wins">3</td><td class="draws">1</td><td class="losses">2</td><td class="diff unsigned difftotal">2</td><td class="points pointstotal last">10</td></tr><tr class="even"><td class="position first">3</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','7229','5_10080');"><span><img src="//ls.betradar.com/ls/crest/small/ht.png" onLoad="s4.resizeIframe()">Haiti</span></a></td><td class="matches">6</td><td class="wins">1</td><td class="draws">1</td><td class="losses">4</td><td class="diff unsigned difftotal">-2</td><td class="points pointstotal last">4</td></tr><tr><td class="position first">4</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','4769','5_10080');"><span><img src="//ls.betradar.com/ls/crest/small/jm.png" onLoad="s4.resizeIframe()">Jamaica</span></a></td><td class="matches">6</td><td class="wins">1</td><td class="draws">1</td><td class="losses">4</td><td class="diff unsigned difftotal">-8</td><td class="points pointstotal last">4</td></tr></tbody></table><div hidden="1" class="choosecolumntext">Choose columns</div>
+</div></div><div class=" template_cornerbox template_Last" builder="multiview"><div class="multiview_wrap"><h2 class="title "><a href="javascript:s4.deeplink('tableid','19990','');">4th round, Gr. 3</a></h2><table class="normaltable"><thead><tr class="header0"><th title="Position" class="positiontotal  position first">Pos</th><th class="teamname  team">Team</th><th title="Played" class="{sorter: 'desc'} matchestotal  matches">P</th><th title="win" class="{sorter: 'desc'} wintotal  wins">W</th><th title="Draw" class="{sorter: 'desc'} drawtotal  draws">D</th><th title="loss" class="losstotal  losses">L</th><th title="DIFF" class="{sorter: 'desc'} goaldifftotal  diff unsigned difftotal">DI</th><th title="Points" class="{sorter: 'desc'} pointstotal  points pointstotal last">Points</th></tr></thead><tbody><tr class="firstingroup promotioncolor_playoff firstingroup even"><td class="position first">1</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','4724','5_10080');"><span><img src="//ls.betradar.com/ls/crest/small/us.png" onLoad="s4.resizeIframe()">USA</span></a></td><td class="matches">6</td><td class="wins">4</td><td class="draws">1</td><td class="losses">1</td><td class="diff unsigned difftotal">17</td><td class="points pointstotal last">13</td></tr><tr class="promotioncolor_playoff"><td class="position first">2</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','5162','5_10080');"><span><img src="//ls.betradar.com/ls/crest/small/tt.png" onLoad="s4.resizeIframe()">Trinidad &amp; Tobago</span></a></td><td class="matches">6</td><td class="wins">3</td><td class="draws">2</td><td class="losses">1</td><td class="diff unsigned difftotal">4</td><td class="points pointstotal last">11</td></tr><tr class="even"><td class="position first">3</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','5163','5_10080');"><span><img src="//ls.betradar.com/ls/crest/small/gt.png" onLoad="s4.resizeIframe()">Guatemala</span></a></td><td class="matches">6</td><td class="wins">3</td><td class="draws">1</td><td class="losses">2</td><td class="diff unsigned difftotal">7</td><td class="points pointstotal last">10</td></tr><tr><td class="position first">4</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','21821','5_10080');"><span><img src="//ls.betradar.com/ls/crest/small/vc.png" onLoad="s4.resizeIframe()">Saint Vincent and the Grenadines</span></a></td><td class="matches">6</td><td class="wins">0</td><td class="draws">0</td><td class="losses">6</td><td class="diff unsigned difftotal">-28</td><td class="points pointstotal last">0</td></tr></tbody></table><div hidden="1" class="choosecolumntext">Choose columns</div>
+</div></div></div>]]></c></n></n><n p="1" id="2222" c="Leaguetablecomments" data="1"><p n="wordwrap" t="int" v="120"/><c cache="86400"><![CDATA[
+]]></c></n><n p="2" id="2221" c="rankingrule" data="1"><c cache="86400"><![CDATA[<div class="rankingrule comment"><table><tr><td>In the event that two (or more) teams finish with an equal number of points, the following rules break the tie:</td></tr><tr><td>
+1. Goal difference</td></tr><tr><td>
+2. Goals scored</td></tr><tr><td>
+3. Head-to-head</td></tr></table></div>
+]]></c></n></n></n></n></n><n p="1" id="1233" c="view"/><n p="2" id="2106" c="view"><p n="template" t="1" v="VBox"/></n><n p="3" id="1233" c="view"/><n p="4" id="4049" c="socialmedia" data="1"><c cache="86400" type="document"><![CDATA[<div id="socialmedia">
+
+
+<div class="clear"></div>
+</div>]]></c></n></n></n><n p="3" id="2106" c="view"><p n="template" t="1" v="VBox"/></n></n></page>

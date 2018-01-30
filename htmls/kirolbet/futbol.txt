@@ -1,0 +1,3625 @@
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es">
+
+<head>
+	<meta name="description" content="F&#218;TBOL" />
+    <meta name="keywords" content="Kirolbet,Kirol Bet, Kirolsoft, Apuestas deportivas, Apuestas deportivas online, Apuestas por Internet, Apuestas F&#250;tbol, Kirol Apustuak, online Kirol apustuak, internet apustuak, futbol apustuak, apuesta Mutua, Apuesta Cruzada, Apuesta simple ,apuesta combinadate en directo, F&#250;tbol en directo, Galgos en Directo, Diversi&#243;n, Entretenimiento, Ocio, Pron&#243;stico, Modalidad, Pronostikoa, Apuesta m&#243;vil, Apuesta con el tel&#233;fono m&#243;vil, Kirolbet Mobile, apuesta smartphone" />
+    <meta name="author" content="KIROLSOFT" />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />	
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+	<link rel="shortcut icon" href="/Customers/7/favicon.ico" />
+    <meta property="og:image" content="/Customers/7/Content/img/mini_sport.jpg" />
+
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://cdn.kirolbet.es/web/7/Customers/7/Content/images/apple/apple-touch-icon-114x114.png" />
+		<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://cdn.kirolbet.es/web/7/Customers/7/Content/images/apple/apple-touch-icon-72x72.png" />
+		<link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://cdn.kirolbet.es/web/7/Customers/7/Content/images/apple/apple-touch-icon-57x57.png" />
+        <link rel="shortcut icon" sizes="196x196" href="https://cdn.kirolbet.es/web/7/Customers/7/Content/images/android/icon-highres.png" />
+
+	<title>F&#218;TBOL</title>		
+
+   <link type="text/css" href="https://cdn.kirolbet.es/web/7/Content/themes/kirolsoft/jqueryUI.css?v=344" rel="stylesheet" />    
+   <link type="text/css" href="https://cdn.kirolbet.es/web/7/Content/css/styles.css?v=344" rel="stylesheet" />
+            <script src="https://cdn.kirolbet.es/web/7/Scripts/scriptsJQueryLayoutSport.js?v=344" type="text/javascript"></script>
+            <script src="/Scripts/scriptsKsSettings_esp.js?v=344" type="text/javascript"></script>
+            <script src="https://cdn.kirolbet.es/web/7/Scripts/scriptsKsBase.js?v=344" type="text/javascript"></script>
+            <script src="https://cdn.kirolbet.es/web/7/Scripts/scriptsKnockout.js?v=344" type="text/javascript"></script>
+
+	<!--[if IE 8]> <link rel="stylesheet" type="text/css" href="/Content/css/ie8.css" media="screen" /> <![endif]-->
+	<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="/Content/css/ie7.css" media="screen" /> <![endif]-->		
+
+		
+	            <script src="https://cdn.kirolbet.es/web/7/Scripts/google/googleAnalytics.js" type="text/javascript"></script>
+
+            
+    
+                <script src="https://cdn.kirolbet.es/web/7/Scripts/mkt/heatMap.js" type="text/javascript"></script>
+
+
+        <script type="text/javascript" src="https://lsdev.betradar.com/ls/livescore/?/kiroljokoa/es/widgetloader/sportcenter16"></script>
+
+</head>
+
+<body>
+	
+    
+
+
+
+<script type="text/javascript">
+
+    var storageKey = 'ocultarPopup';
+
+    // guardar storage cuando
+//    $('#noMostrarPopup').on('click', function () {
+//        // Si checkeado añadimos al storage
+//        if ($(this).is(':checked')) {
+//            storage.write(storageKey, true);
+//        } else {
+//            storage.write(storageKey, false);
+//        }
+//    });
+
+    $('.advOver').on('click', function () {
+        $(this).fadeOut(200);
+    });
+
+    if (storage.read(storageKey)) {
+        $('.advOver').hide();
+    }
+
+</script>
+	<!-- estructura -->
+    
+    
+
+        <div class="popfav" style="display: none;">
+        <div>
+            <span class="popfavClose"></span>
+            <img src="https://cdn.kirolbet.es/web/7/Customers/7/Content/images/android/icon-highres.png" width="44px" onError="this.style.visibility='hidden';" />
+            <p>Añade <a href="#" class="popFavAdd">apuestas.kirolbet.es</a> a tus favoritos y evita pasar de nuevo por este proceso. <b>¡Hazlo Grande!</b></p>
+        </div>
+    </div>
+    <script type="text/javascript">
+
+        var favouriteCookieName = 'PopFav';
+        var popFavoritosValue = kslib.ksCookies.getCookie(favouriteCookieName);
+
+        if (popFavoritosValue == '1') $('.popfav').show();
+
+        var deletePopFavCookie = function () {
+            kslib.ksCookies.deleteCookie(favouriteCookieName);
+        };
+
+        $('.popFavAdd').on('click', function (evt) {
+            // Añadir a favoritos
+            evt.preventDefault();
+            addBookmark('apuestas.kirolbet.es', 'apuestas.kirolbet.es')
+
+            // Eliminar la cookie "popFav"
+            deletePopFavCookie();
+        });
+
+        $('.popfavClose').on('click', function () {
+            $('.popfav').fadeOut('slow');
+            deletePopFavCookie();
+        });
+
+        
+
+    </script>
+
+    
+    <style>
+.fragment {
+    position: relative;
+    display:none;
+    background: #e9e9e9;
+    -webkit-box-shadow: 0px 5px 10px 0px rgba(173, 166, 166, 0.18);
+    -moz-box-shadow: 0px 5px 10px 0px rgba(173, 166, 166, 0.18);
+    box-shadow: 0px 5px 10px 0px rgba(173, 166, 166, 0.18);
+    z-index: 999;
+    border-bottom: 1px solid #e5e5e5;
+    width: 100%;
+	height:100px;
+	}
+    .fragment a{
+		overflow: hidden;
+		margin: 0 auto;
+		display: table;
+		padding: 10px 0;
+		min-width: 960px;
+		max-width: 1224px;
+		width: 100%;
+		position:relative;
+	}
+    .fragment .icon-mobile {
+        display: inline-block; 
+        margin:0 20px;
+    }
+
+    .fragment .icon-cerrar {
+        position: absolute;
+		top: 25px;
+		right: 20px;
+		cursor: pointer;
+		border: #FFF;
+		border-radius: 50%;
+		display: inline-block;
+		background: #FFF;
+		padding: 10px;
+		box-shadow: 1px 1px 1px 1px rgba(0,0,0,.2);
+    }
+    .fragment .title {
+        font-size: 3em;
+		display: inline-block;
+		color: #373737;
+		position: absolute;
+		bottom: 43%;
+		}
+        .fragment .title span {
+        	font-family: 'Black';
+        }
+</style>
+
+<!-- ir a version mobile -->
+
+<div class="fragment"> 
+        <a href='/Mobile/Sport/Deporte/40'>
+            <img class="icon-mobile" src="https://cdn.kirolbet.es/web/7/Customers/7/Content/img/IconMobile.png" onError="this.onerror=null;this.src='https://cdn.kirolbet.es/web/7/Content/images/trans.png';" />
+            <p class="title">IR A <span>VERSIÓN MÓVIL</span></p>
+            <img class="icon-cerrar" id="closeFragment" src="https://cdn.kirolbet.es/web/7/Customers/7/Content/img/Cerrar.png" onError="this.onerror=null;this.src='https://cdn.kirolbet.es/web/7/Content/images/trans.png';" />
+        </a>
+</div>
+
+
+<script type="text/javascript">
+    var getActionAreaFromJs = function () {
+        var url = window.location.href.toLowerCase();
+        if (url.indexOf('/android/') > 0) return 'Android';
+        if (url.indexOf('/mobile/1.0/') > 0) return 'Mobile/1.0';
+        if (url.indexOf('/mobile/') > 0) return 'Mobile';
+        return '';
+    }
+
+    $(document).on('ready', function () {
+        $("#closeFragment").click(function () {
+            $('.fragment').remove();
+            return false;
+        });
+
+        setToolTips({ elementId: '.cambiarCom', extraClass: 'toolTipPorDebajo' });
+       
+        var area = getActionAreaFromJs();
+        var irAMobile = ('True' == 'True') ? true : false;
+        var isMobileDevice = isMobile.any() ? true : false;
+
+        if (area != 'android' && irAMobile && isMobileDevice) {
+            $('.fragment').show();
+        }
+
+    });
+</script>
+
+	<div id="container">
+
+		<div id="messagewrapper" style="display: none">
+			
+		</div>
+		
+		<div id="header-wrap">
+			
+
+
+
+<!-- cabecera -->
+<div id="headerCont">
+    <div id="header">
+        <h1>KIROLBET</h1>
+        <a href="/" title="KIROLBET">
+            <img src="https://cdn.kirolbet.es/web/7/Customers/7/Content/img/logo_empresa.png" onError="this.onerror=null;this.src='https://cdn.kirolbet.es/web/7/Content/images/trans.png';" class="fleft" alt="KIROLBET" />
+        </a>
+    </div>
+    <div class="header_right">
+        <div id="acceso">
+
+            <img class="grayscale" src="https://cdn.kirolbet.es/web/7/Customers/7/Content/img/menores_esp.png" onError="this.onerror=null;this.src='https://cdn.kirolbet.es/web/7/Content/images/trans.png';" alt="Prohibido menores de 18 aÃ±os" />
+            <div class="clear"></div>
+            <div class="timeLanguaje">
+
+
+                <span class="hora_ico">
+                    <span id="Time"></span>
+                </span>
+                <span class="tiempo_ico">
+                    <span id="loggedTime"></span>
+                </span>
+
+                
+                    <ul id="idiomas" class="menu">
+                            <li><a href="/esp/Sport/Deporte/40" style="font-weight:bold!important">ES</a></li>
+                            <li><a href="/eng/Sport/Deporte/40">EN</a></li>
+                    </ul>
+            </div>
+
+            <span class="at_cl">Servicio de Atenci&#243;n al Cliente</span>
+
+        </div>
+
+        <div id="header_nav">
+
+            
+<ul id="navbar">
+    
+    <li><h2><a category="apuestas" class="menutop active" href="/">Apuestas</a></h2></li>
+    <li><h2><a category="live" class="menutop " href="/esp/Live">Live</a></h2></li>
+            <li><h2><a class="menutop " href="/esp/Casino">Casino</a></h2></li>
+        <li><h2><a class="menutop " href="/esp/Casino/Slots">Slots</a></h2></li>
+</ul>
+<ul class="navbar navsport" style="display:block">
+    <li><h2><a category="apuestas-calendario" class="menutop " href="/esp/Sport/Hoy">Calendario</a></h2></li>
+    
+        <li><h2><a category="apuestas-consultaboleto" class="menutop " href="/esp/General/ConsultaBoleto">Consulta boletos</a></h2></li>
+                <li><h2><a category="apuestas-porras" class="menutop " href="/esp/Mutuas">Porras</a></h2></li>
+    <li><h2><a href="/esp/Sport/Mobile" class = "menutop " category="apuestas-mobile">Mobile</a></h2></li>
+</ul>
+<ul class="navbar navlive navcalendario" style="display:none">
+    <li><h2><a category="live-destacadas" class="menutop" href="/esp/Live#proxlive">Pr&#243;ximos</a></h2></li>
+    <li><h2><a category="live-calendario" class="menutop " href="/esp/Live/Calendario">Calendario Live</a></h2></li>
+    
+    <li><h2><a href="/esp/Sport/Mobile" class = "menutop " category="live-mobile">Mobile</a></h2></li>
+</ul>
+    <ul class="navbar navcasino" style="display:none">
+        
+             <li><h2><a class="menutop JRU " href="/esp/Casino/JRU">Ruletas</a></h2></li> 
+
+            <li><h2><a class="menutop JBJ " href="/esp/Casino/JBJ">Blackjack</a></h2></li> 
+
+            <li><h2><a class="menutop JPB " href="/esp/Casino/JPB">Punto y banca</a></h2></li>
+
+            <li><h2><a class="menutop " href="/esp/Casino/Slots">Slots</a></h2></li> 
+            <li><h2><a class="menutop JM " href="/esp/Casino/JM">M&#243;vil</a></h2></li>
+
+    </ul>
+
+
+            <div id="userData">
+                <div id="LoginHeader">
+                    
+
+
+<ul id='cuenta' class='menu'><li class='last'><form action="/esp/Account/login/40" data-ajax="true" data-ajax-begin="showWaitingMessage(&#39;#headerCont&#39;)" data-ajax-complete="closeWaitingMessage(&#39;#headerCont&#39;)" data-ajax-method="Post" data-ajax-mode="replace" data-ajax-success="onSuccessLogin" data-ajax-update="#LoginHeader" id="form1" method="post"><input id="UserName" maxlength="15" name="UserName" placeholder="Usuario" style="width:55px" type="text" value="" /><input id="Password" name="Password" placeholder="Contraseña" style="width:55px" type="password" />        <input type="hidden" id="TipoSaldoLogin" name="TipoSaldoLogin" value="1" />
+		<input type="submit" value="Entrar" class="btnLogin" />
+</form></li></ul>	<ul id="cuenta2" class=menu>
+		<li>
+			<a category="registrate" class="accountlogin " href="/esp/Account/RegistroDeUsuario">&#161;Reg&#237;strate!</a>
+		</li>
+		<li class="last">
+			<a category="olvidosucontrasena" class="accountlogin " href="/esp/Account/OlvidoSuContrasena">&#191;Olvidaste tu contrase&#241;a?</a>
+		</li>
+	</ul>
+	<script type="text/javascript">
+		userID = -1;
+		realTime = "2017-09-14 12:38:35Z";
+		if($.timeto) $.timeto.settings.realTime(realTime);
+
+		if ($('.loginError1').exists()) {
+			kslib.ksMessages.showMessageFromArea({ areaID: '.loginError1', height: 'auto', width: 350, dialogClass: 'ks-dialogError', removeArea: true });
+		}
+
+		if ($('.loginError2').exists()) {
+			kslib.ksMessages.showMessageFromArea({ areaID: '.loginError2', width: 700, dialogClass: 'ks-dialogError', removeArea: true });
+		}
+
+		if ($('.loginPendientes').exists()) {
+			kslib.ksMessages.showMessageFromAreaNoCloseButton({ areaID: '.loginPendientes', width: 600, removeArea: true });
+		}
+
+        if ($('.controlIdentidad').exists()) {
+			kslib.ksMessages.showMessageFromArea({ areaID: '.controlIdentidad', dialogClass: 'ks-dialogAviso', width: 600, removeArea: true });
+		}
+
+        actionArea = '';
+
+	</script>			
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <div class="contentPreAviso" style="display: none;"></div>
+        <div class="avisoCNJ CNJ setclick">
+            <p>apuestas.kirolbet.es opera en Espa&#241;a bajo las correspondientes licencias otorgadas por la Direcci&#243;n General de Ordenaci&#243;n del Juego</p>
+                
+                <select data-role="none" class="selectorComunidad">
+                    <option value="0">otros portales KIROLBET</option>
+                    
+                            <option value="1">KIROLBET Euskadi</option>
+                            <option value="2">KIROLBET Navarra</option>
+                            <option value="5">KIROLBET La Rioja</option>
+                            <option value="9">KIROLBET Canarias</option>
+
+
+                </select>
+
+        </div>
+        <script type="text/javascript">
+            $('.avisoCNJ').on('change', function () {
+                var userEmp = $(this).find('option:selected').val();
+                var isLanding = redireccionamientoURLs;            
+                if (7 != userEmp || isLanding) {
+                    setCambioComunidad(userEmp, null, null, '');
+                }
+            });  
+        </script>
+<!--/cabecera -->
+		</div>
+		  
+		<!-- cuerpo -->
+		<div id="main-wrap">
+			<!-- principal -->
+			<div id="main">
+				<div class="grid3col">				
+					<div class="column first">
+                        <div class="resizer resFirst">
+						    
+ <div id="Menu">
+   
+
+
+
+
+
+
+
+
+<div class="listado_menu_izquierdo graphite" id="contBuscador">
+<span id="bloqueBuscador">
+
+<form action="/esp/Sport/Search" data-ajax="true" data-ajax-begin="showWaitingMessage(&#39;.column.center&#39;)" data-ajax-complete="closeWaitingMessage(&#39;.column.center&#39;)" data-ajax-method="POST" data-ajax-success="buscadorMgr.busquedaCompletada" id="buscadorForm" method="post">        <input name="termino" id="terminoBusqueda" value="B&#250;squeda" type="text" /> 
+		<a style="border:none;" href="#" title="Buscar términos" id="buscadorLink"><img src="https://cdn.kirolbet.es/web/7/Content/img/icoBuscador.png" onError="this.onerror=null;this.src='https://cdn.kirolbet.es/web/7/Content/images/trans.png';" /></a>
+        <div class="clear"></div>
+</form>
+</span>
+</div>
+
+<script type="text/javascript">
+
+    var buscadorMgr;
+
+    $(document).ready(function () {
+
+
+        var imgBusquedaHeader = new Image();
+        imgBusquedaHeader.src = $.img('busquedaHeader');
+
+        var input = $('#terminoBusqueda');
+        var updateTarget = ".column.center";
+        var default_value = "Búsqueda";
+
+        function getBusquedaTarget() {
+
+            var targetId = 'busquedaResult';
+
+            if ($('#headerBuscador', updateTarget).length == 0) {
+                var imgHeader = "<img onError='this.style.visibility=hidden;' class='img_resize' id='headerBuscador' style='border:1px solid #333333;' src='" + imgBusquedaHeader.src + "'/>";
+
+                var $updateTarget = $(updateTarget).empty();
+                $updateTarget.append(imgHeader);
+                $updateTarget.append("<div id='" + targetId + "'></div>");
+            }
+            return "#" + targetId;
+        }
+
+        buscadorMgr = new busquedaMgr(input, default_value, "buscadorForm", "buscadorLink", getBusquedaTarget, 'Por favor ampl&#237;a la b&#250;squeda, es demasiado corta.', 4,
+            function () {
+                eventLoaderOptions.onEventsLoad(updateTarget, null);
+                paggerCtrl.reset();
+
+            }
+        );
+
+    });
+
+</script>
+
+
+<div id="bannerLinks">
+  <div class="listado_menu_izquierdo graphite ">
+
+
+<ul>
+	
+        <li class="hlt"><span><a href="/esp/Sport/Hoy/ProximosEventos">HOY</a></span><span class="border"><a href="/esp/Live">LIVE</a></span><span><a href="/esp/Sport/Hoy/TopApostados">TOP</a></span><div class="clear"></div></li>
+    <li class="mnuStats">
+            <a href="//stats.betradar.com/s4/?clientid=487" target="_stats" stats-type="generic" class="betradar-stats" >
+		        Estad&#237;sticas
+            </a>
+    </li>
+</ul>
+    </div>
+</div>
+
+<div id="seccionFavoritos">
+    
+
+
+</div>
+
+    <div id="seccionCategoriasDestacadas">
+            <div id="bloqueFavoritos" data-class="favoritosDestacados" class="graphite destacados">
+        <h3>DESTACADOS</h3>
+        <ul class="favoritos">
+                <li>
+                    <div id="Subcategoria_2842" class="seccion">
+                        <a href="/esp/Sport/Competicion/2842" title="Subcategoria: SuperKuota">
+                            <img src="https://cdn.kirolbet.es/mrk/7/Content/images/SCT/sct_00002842.png" onerror="this.onerror=null;this.src='https://cdn.kirolbet.es/mrk/7/Content/images/CAT/cat_00000444.png'" width="18" height="18" />&nbsp;SuperKuota
+                        </a>
+                    </div>
+                    <div class="clear"></div>
+                </li>
+                <li>
+                    <div id="Subcategoria_210" class="seccion">
+                        <a href="/esp/Sport/Competicion/210" title="Subcategoria: UEFA Europa League">
+                            <img src="https://cdn.kirolbet.es/mrk/7/Content/images/SCT/sct_00000210.png" onerror="this.onerror=null;this.src='https://cdn.kirolbet.es/mrk/7/Content/images/CAT/cat_00000040.png'" width="18" height="18" />&nbsp;UEFA Europa League
+                        </a>
+                    </div>
+                    <div class="clear"></div>
+                </li>
+                <li>
+                    <div id="Subcategoria_1" class="seccion">
+                        <a href="/esp/Sport/Competicion/1" title="Subcategoria: 1&#170; Divisi&#243;n">
+                            <img src="https://cdn.kirolbet.es/mrk/7/Content/images/SCT/sct_00000001.png" onerror="this.onerror=null;this.src='https://cdn.kirolbet.es/mrk/7/Content/images/CAT/cat_00000040.png'" width="18" height="18" />&nbsp;1&#170; Divisi&#243;n
+                        </a>
+                    </div>
+                    <div class="clear"></div>
+                </li>
+                <li>
+                    <div id="Subcategoria_248" class="seccion">
+                        <a href="/esp/Sport/Competicion/248" title="Subcategoria: Eurobasket">
+                            <img src="https://cdn.kirolbet.es/mrk/7/Content/images/SCT/sct_00000248.png" onerror="this.onerror=null;this.src='https://cdn.kirolbet.es/mrk/7/Content/images/CAT/cat_00000050.png'" width="18" height="18" />&nbsp;Eurobasket
+                        </a>
+                    </div>
+                    <div class="clear"></div>
+                </li>
+                <li>
+                    <div id="Subcategoria_759" class="seccion">
+                        <a href="/esp/Sport/Competicion/759" title="Subcategoria: WTA Quebec">
+                            <img src="https://cdn.kirolbet.es/mrk/7/Content/images/SCT/sct_00000759.png" onerror="this.onerror=null;this.src='https://cdn.kirolbet.es/mrk/7/Content/images/CAT/cat_00000285.png'" width="18" height="18" />&nbsp;WTA Quebec
+                        </a>
+                    </div>
+                    <div class="clear"></div>
+                </li>
+                <li>
+                    <div id="Subcategoria_1922" class="seccion">
+                        <a href="/esp/Sport/Competicion/1922" title="Subcategoria: Challenger Cary">
+                            <img src="https://cdn.kirolbet.es/mrk/7/Content/images/SCT/sct_00001922.png" onerror="this.onerror=null;this.src='https://cdn.kirolbet.es/mrk/7/Content/images/CAT/cat_00000285.png'" width="18" height="18" />&nbsp;Challenger Cary
+                        </a>
+                    </div>
+                    <div class="clear"></div>
+                </li>
+                <li>
+                    <div id="Subcategoria_19" class="seccion">
+                        <a href="/esp/Sport/Competicion/19" title="Subcategoria: Formula 1">
+                            <img src="https://cdn.kirolbet.es/mrk/7/Content/images/SCT/sct_00000019.png" onerror="this.onerror=null;this.src='https://cdn.kirolbet.es/mrk/7/Content/images/CAT/cat_00000080.png'" width="18" height="18" />&nbsp;Formula 1
+                        </a>
+                    </div>
+                    <div class="clear"></div>
+                </li>
+        </ul>
+    </div>
+
+    </div>
+
+<div id="bloqueDeportes" class="graphite">
+    
+
+<script type="text/javascript">
+
+    var SportPre = "#sport-";
+    var ComptPre = "#compt-";
+
+    $(document).ready(function () {
+
+        var sportId = '40';
+        var toggleElement = null;
+        if (sportId != '') {
+            toggleElement = $('#menu-deportes').children().children('ul' + ComptPre + sportId);
+        }
+
+        kslib.ksAccordion.setAccordion({
+            areaID: '#menu-deportes',
+            urlAjax: $.url('compList'),
+            ajaxSuccess: compListLoaded,
+            toggleElement: toggleElement,
+            classActive: 'active',
+            toggleSpeed: 'fast'
+        });
+    });
+
+</script>
+    
+    <h3>
+		<span style="float: left;">Deportes</span>		
+		
+	</h3>
+							   
+	<ul class="accordion" id="menu-deportes">
+
+        <li class="dcjq-parent-li ksAccordion-li">
+            <a href="" class="dcjq-parent ksAccordion-icon">				
+                <img src="https://cdn.kirolbet.es/mrk/7/Content/images/CAT/cat_00000444.png" alt="SuperKuota" class="icoCatMenu" id="icofch-444" onError="this.onerror=null;this.src='https://cdn.kirolbet.es/web/7/Content/images/trans.png';" />				
+				<span class="maximo_deporte">SUPERKUOTA</span>		
+                <div class="clear"></div>					
+            </a>
+                                                                 
+         
+			
+
+            <div class="hidden ksAccordion-ajax-data">id=444 </div>
+            <ul class="ksAccordion-toggle" id="compt-444" style="display: none"></ul>
+
+        </li>
+        <li class="dcjq-parent-li ksAccordion-li">
+            <a href="" class="dcjq-parent ksAccordion-icon">				
+                <img src="https://cdn.kirolbet.es/mrk/7/Content/images/CAT/cat_00000040.png" alt="F&#218;TBOL" class="icoCatMenu" id="icofch-40" onError="this.onerror=null;this.src='https://cdn.kirolbet.es/web/7/Content/images/trans.png';" />				
+				<span class="maximo_deporte">F&#218;TBOL</span>		
+                <div class="clear"></div>					
+            </a>
+                                                                 
+         
+			
+
+            <div class="hidden ksAccordion-ajax-data">id=40 </div>
+            <ul class="ksAccordion-toggle" id="compt-40" style="display: none"></ul>
+
+        </li>
+        <li class="dcjq-parent-li ksAccordion-li">
+            <a href="" class="dcjq-parent ksAccordion-icon">				
+                <img src="https://cdn.kirolbet.es/mrk/7/Content/images/CAT/cat_00000050.png" alt="BASKET" class="icoCatMenu" id="icofch-50" onError="this.onerror=null;this.src='https://cdn.kirolbet.es/web/7/Content/images/trans.png';" />				
+				<span class="maximo_deporte">BASKET</span>		
+                <div class="clear"></div>					
+            </a>
+                                                                 
+         
+			
+
+            <div class="hidden ksAccordion-ajax-data">id=50 </div>
+            <ul class="ksAccordion-toggle" id="compt-50" style="display: none"></ul>
+
+        </li>
+        <li class="dcjq-parent-li ksAccordion-li">
+            <a href="" class="dcjq-parent ksAccordion-icon">				
+                <img src="https://cdn.kirolbet.es/mrk/7/Content/images/CAT/cat_00000285.png" alt="TENIS" class="icoCatMenu" id="icofch-285" onError="this.onerror=null;this.src='https://cdn.kirolbet.es/web/7/Content/images/trans.png';" />				
+				<span class="maximo_deporte">TENIS</span>		
+                <div class="clear"></div>					
+            </a>
+                                                                 
+         
+			
+
+            <div class="hidden ksAccordion-ajax-data">id=285 </div>
+            <ul class="ksAccordion-toggle" id="compt-285" style="display: none"></ul>
+
+        </li>
+        <li class="dcjq-parent-li ksAccordion-li">
+            <a href="" class="dcjq-parent ksAccordion-icon">				
+                <img src="https://cdn.kirolbet.es/mrk/7/Content/images/CAT/cat_00000010.png" alt="PELOTA" class="icoCatMenu" id="icofch-10" onError="this.onerror=null;this.src='https://cdn.kirolbet.es/web/7/Content/images/trans.png';" />				
+				<span class="maximo_deporte">PELOTA</span>		
+                <div class="clear"></div>					
+            </a>
+                                                                 
+         
+			
+
+            <div class="hidden ksAccordion-ajax-data">id=10 </div>
+            <ul class="ksAccordion-toggle" id="compt-10" style="display: none"></ul>
+
+        </li>
+        <li class="dcjq-parent-li ksAccordion-li">
+            <a href="" class="dcjq-parent ksAccordion-icon">				
+                <img src="https://cdn.kirolbet.es/mrk/7/Content/images/CAT/cat_00000080.png" alt="MOTOR" class="icoCatMenu" id="icofch-80" onError="this.onerror=null;this.src='https://cdn.kirolbet.es/web/7/Content/images/trans.png';" />				
+				<span class="maximo_deporte">MOTOR</span>		
+                <div class="clear"></div>					
+            </a>
+                                                                 
+         
+			
+
+            <div class="hidden ksAccordion-ajax-data">id=80 </div>
+            <ul class="ksAccordion-toggle" id="compt-80" style="display: none"></ul>
+
+        </li>
+        <li class="dcjq-parent-li ksAccordion-li">
+            <a href="" class="dcjq-parent ksAccordion-icon">				
+                <img src="https://cdn.kirolbet.es/mrk/7/Content/images/CAT/cat_00000422.png" alt="SORTEOS" class="icoCatMenu" id="icofch-422" onError="this.onerror=null;this.src='https://cdn.kirolbet.es/web/7/Content/images/trans.png';" />				
+				<span class="maximo_deporte">SORTEOS</span>		
+                <div class="clear"></div>					
+            </a>
+                                                                 
+         
+			
+
+            <div class="hidden ksAccordion-ajax-data">id=422 </div>
+            <ul class="ksAccordion-toggle" id="compt-422" style="display: none"></ul>
+
+        </li>
+        <li class="dcjq-parent-li ksAccordion-li">
+            <a href="" class="dcjq-parent ksAccordion-icon">				
+                <img src="https://cdn.kirolbet.es/mrk/7/Content/images/CAT/cat_00000130.png" alt="CICLISMO" class="icoCatMenu" id="icofch-130" onError="this.onerror=null;this.src='https://cdn.kirolbet.es/web/7/Content/images/trans.png';" />				
+				<span class="maximo_deporte">CICLISMO</span>		
+                <div class="clear"></div>					
+            </a>
+                                                                 
+         
+			
+
+            <div class="hidden ksAccordion-ajax-data">id=130 </div>
+            <ul class="ksAccordion-toggle" id="compt-130" style="display: none"></ul>
+
+        </li>
+        <li class="dcjq-parent-li ksAccordion-li">
+            <a href="" class="dcjq-parent ksAccordion-icon">				
+                <img src="https://cdn.kirolbet.es/mrk/7/Content/images/CAT/cat_00000417.png" alt="VOLEIBOL" class="icoCatMenu" id="icofch-417" onError="this.onerror=null;this.src='https://cdn.kirolbet.es/web/7/Content/images/trans.png';" />				
+				<span class="maximo_deporte">VOLEIBOL</span>		
+                <div class="clear"></div>					
+            </a>
+                                                                 
+         
+			
+
+            <div class="hidden ksAccordion-ajax-data">id=417 </div>
+            <ul class="ksAccordion-toggle" id="compt-417" style="display: none"></ul>
+
+        </li>
+        <li class="dcjq-parent-li ksAccordion-li">
+            <a href="" class="dcjq-parent ksAccordion-icon">				
+                <img src="https://cdn.kirolbet.es/mrk/7/Content/images/CAT/cat_00000060.png" alt="BALONMANO" class="icoCatMenu" id="icofch-60" onError="this.onerror=null;this.src='https://cdn.kirolbet.es/web/7/Content/images/trans.png';" />				
+				<span class="maximo_deporte">BALONMANO</span>		
+                <div class="clear"></div>					
+            </a>
+                                                                 
+         
+			
+
+            <div class="hidden ksAccordion-ajax-data">id=60 </div>
+            <ul class="ksAccordion-toggle" id="compt-60" style="display: none"></ul>
+
+        </li>
+        <li class="dcjq-parent-li ksAccordion-li">
+            <a href="" class="dcjq-parent ksAccordion-icon">				
+                <img src="https://cdn.kirolbet.es/mrk/7/Content/images/CAT/cat_00000020.png" alt="REMO" class="icoCatMenu" id="icofch-20" onError="this.onerror=null;this.src='https://cdn.kirolbet.es/web/7/Content/images/trans.png';" />				
+				<span class="maximo_deporte">REMO</span>		
+                <div class="clear"></div>					
+            </a>
+                                                                 
+         
+			
+
+            <div class="hidden ksAccordion-ajax-data">id=20 </div>
+            <ul class="ksAccordion-toggle" id="compt-20" style="display: none"></ul>
+
+        </li>
+        <li class="dcjq-parent-li ksAccordion-li">
+            <a href="" class="dcjq-parent ksAccordion-icon">				
+                <img src="https://cdn.kirolbet.es/mrk/7/Content/images/CAT/cat_00000418.png" alt="HOCKEY" class="icoCatMenu" id="icofch-418" onError="this.onerror=null;this.src='https://cdn.kirolbet.es/web/7/Content/images/trans.png';" />				
+				<span class="maximo_deporte">HOCKEY</span>		
+                <div class="clear"></div>					
+            </a>
+                                                                 
+         
+			
+
+            <div class="hidden ksAccordion-ajax-data">id=418 </div>
+            <ul class="ksAccordion-toggle" id="compt-418" style="display: none"></ul>
+
+        </li>
+        <li class="dcjq-parent-li ksAccordion-li">
+            <a href="" class="dcjq-parent ksAccordion-icon">				
+                <img src="https://cdn.kirolbet.es/mrk/7/Content/images/CAT/cat_00000429.png" alt="B&#201;ISBOL" class="icoCatMenu" id="icofch-429" onError="this.onerror=null;this.src='https://cdn.kirolbet.es/web/7/Content/images/trans.png';" />				
+				<span class="maximo_deporte">B&#201;ISBOL</span>		
+                <div class="clear"></div>					
+            </a>
+                                                                 
+         
+			
+
+            <div class="hidden ksAccordion-ajax-data">id=429 </div>
+            <ul class="ksAccordion-toggle" id="compt-429" style="display: none"></ul>
+
+        </li>
+        <li class="dcjq-parent-li ksAccordion-li">
+            <a href="" class="dcjq-parent ksAccordion-icon">				
+                <img src="https://cdn.kirolbet.es/mrk/7/Content/images/CAT/cat_00000413.png" alt="BOXEO / MMA" class="icoCatMenu" id="icofch-413" onError="this.onerror=null;this.src='https://cdn.kirolbet.es/web/7/Content/images/trans.png';" />				
+				<span class="maximo_deporte">BOXEO / MMA</span>		
+                <div class="clear"></div>					
+            </a>
+                                                                 
+         
+			
+
+            <div class="hidden ksAccordion-ajax-data">id=413 </div>
+            <ul class="ksAccordion-toggle" id="compt-413" style="display: none"></ul>
+
+        </li>
+        <li class="dcjq-parent-li ksAccordion-li">
+            <a href="" class="dcjq-parent ksAccordion-icon">				
+                <img src="https://cdn.kirolbet.es/mrk/7/Content/images/CAT/cat_00000430.png" alt="F&#218;TBOL AMERICANO" class="icoCatMenu" id="icofch-430" onError="this.onerror=null;this.src='https://cdn.kirolbet.es/web/7/Content/images/trans.png';" />				
+				<span class="maximo_deporte">F&#218;TBOL AMERICANO</span>		
+                <div class="clear"></div>					
+            </a>
+                                                                 
+         
+			
+
+            <div class="hidden ksAccordion-ajax-data">id=430 </div>
+            <ul class="ksAccordion-toggle" id="compt-430" style="display: none"></ul>
+
+        </li>
+        <li class="dcjq-parent-li ksAccordion-li">
+            <a href="" class="dcjq-parent ksAccordion-icon">				
+                <img src="https://cdn.kirolbet.es/mrk/7/Content/images/CAT/cat_00000406.png" alt="GOLF" class="icoCatMenu" id="icofch-406" onError="this.onerror=null;this.src='https://cdn.kirolbet.es/web/7/Content/images/trans.png';" />				
+				<span class="maximo_deporte">GOLF</span>		
+                <div class="clear"></div>					
+            </a>
+                                                                 
+         
+			
+
+            <div class="hidden ksAccordion-ajax-data">id=406 </div>
+            <ul class="ksAccordion-toggle" id="compt-406" style="display: none"></ul>
+
+        </li>
+        <li class="dcjq-parent-li ksAccordion-li">
+            <a href="" class="dcjq-parent ksAccordion-icon">				
+                <img src="https://cdn.kirolbet.es/mrk/7/Content/images/CAT/cat_00000359.png" alt="RUGBY" class="icoCatMenu" id="icofch-359" onError="this.onerror=null;this.src='https://cdn.kirolbet.es/web/7/Content/images/trans.png';" />				
+				<span class="maximo_deporte">RUGBY</span>		
+                <div class="clear"></div>					
+            </a>
+                                                                 
+         
+			
+
+            <div class="hidden ksAccordion-ajax-data">id=359 </div>
+            <ul class="ksAccordion-toggle" id="compt-359" style="display: none"></ul>
+
+        </li>
+        <li class="dcjq-parent-li ksAccordion-li">
+            <a href="" class="dcjq-parent ksAccordion-icon">				
+                <img src="https://cdn.kirolbet.es/mrk/7/Content/images/CAT/cat_00000374.png" alt="SURF" class="icoCatMenu" id="icofch-374" onError="this.onerror=null;this.src='https://cdn.kirolbet.es/web/7/Content/images/trans.png';" />				
+				<span class="maximo_deporte">SURF</span>		
+                <div class="clear"></div>					
+            </a>
+                                                                 
+         
+			
+
+            <div class="hidden ksAccordion-ajax-data">id=374 </div>
+            <ul class="ksAccordion-toggle" id="compt-374" style="display: none"></ul>
+
+        </li>
+        <li class="dcjq-parent-li ksAccordion-li">
+            <a href="" class="dcjq-parent ksAccordion-icon">				
+                <img src="https://cdn.kirolbet.es/mrk/7/Content/images/CAT/cat_00000487.png" alt="TRIATL&#211;N" class="icoCatMenu" id="icofch-487" onError="this.onerror=null;this.src='https://cdn.kirolbet.es/web/7/Content/images/trans.png';" />				
+				<span class="maximo_deporte">TRIATL&#211;N</span>		
+                <div class="clear"></div>					
+            </a>
+                                                                 
+         
+			
+
+            <div class="hidden ksAccordion-ajax-data">id=487 </div>
+            <ul class="ksAccordion-toggle" id="compt-487" style="display: none"></ul>
+
+        </li>
+        <li class="dcjq-parent-li ksAccordion-li">
+            <a href="" class="dcjq-parent ksAccordion-icon">				
+                <img src="https://cdn.kirolbet.es/mrk/7/Content/images/CAT/cat_00000451.png" alt="SNOOKER" class="icoCatMenu" id="icofch-451" onError="this.onerror=null;this.src='https://cdn.kirolbet.es/web/7/Content/images/trans.png';" />				
+				<span class="maximo_deporte">SNOOKER</span>		
+                <div class="clear"></div>					
+            </a>
+                                                                 
+         
+			
+
+            <div class="hidden ksAccordion-ajax-data">id=451 </div>
+            <ul class="ksAccordion-toggle" id="compt-451" style="display: none"></ul>
+
+        </li>
+        <li class="dcjq-parent-li ksAccordion-li">
+            <a href="" class="dcjq-parent ksAccordion-icon">				
+                <img src="https://cdn.kirolbet.es/mrk/7/Content/images/CAT/cat_00000449.png" alt="DARDOS" class="icoCatMenu" id="icofch-449" onError="this.onerror=null;this.src='https://cdn.kirolbet.es/web/7/Content/images/trans.png';" />				
+				<span class="maximo_deporte">DARDOS</span>		
+                <div class="clear"></div>					
+            </a>
+                                                                 
+         
+			
+
+            <div class="hidden ksAccordion-ajax-data">id=449 </div>
+            <ul class="ksAccordion-toggle" id="compt-449" style="display: none"></ul>
+
+        </li>
+        <li class="dcjq-parent-li ksAccordion-li">
+            <a href="" class="dcjq-parent ksAccordion-icon">				
+                <img src="https://cdn.kirolbet.es/mrk/7/Content/images/CAT/cat_00000465.png" alt="E-SPORTS" class="icoCatMenu" id="icofch-465" onError="this.onerror=null;this.src='https://cdn.kirolbet.es/web/7/Content/images/trans.png';" />				
+				<span class="maximo_deporte">E-SPORTS</span>		
+                <div class="clear"></div>					
+            </a>
+                                                                 
+         
+			
+
+            <div class="hidden ksAccordion-ajax-data">id=465 </div>
+            <ul class="ksAccordion-toggle" id="compt-465" style="display: none"></ul>
+
+        </li>
+	</ul>
+</div>
+
+<div id="bloqueServicios" class="servicios">
+    
+
+<h3>Accesos directos</h3>
+<ul>
+	<li><a href="/esp/General/IngresosRetiradas">Ingresos y Retiradas</a></li>
+        <li><a href="/esp/General/RedTerrestreMapas">Red Terrestre</a></li>
+    	    <li><a href="/esp/General/ConsultaBoleto">Consulta boletos</a></li>
+            <li><a href="/esp/General/Tutoriales">Tutoriales</a></li>
+</ul>
+</div>
+
+ </div>
+					   						
+                        </div>
+					</div>
+					<!-- /column left -->
+					<div class="column center">
+                        <div class="resizer resCenter">
+						    
+
+           
+
+
+	<div class="breadcrumb">
+		<ul>
+			<li><a href="/">Inicio</a></li>
+					<li><a href="#">F&#218;TBOL</a></li>
+		</ul>
+	</div>
+  	<div class="clear"></div>
+<form action="/esp/Sport/EventosCompeticiones" data-ajax="true" data-ajax-begin="eveLoader.marketChanging(&#39;divCat&#39;)" data-ajax-complete="eveLoader.marketChangedComplete(&#39;EveList&#39;);" data-ajax-failure="eveLoader.errorSubmitFilters();" data-ajax-method="POST" data-ajax-success="eveLoader.marketChanged(data, &#39;EveList&#39;,&#39;divCat&#39;);" id="frmEveFilter" method="post"><input id="tipo" name="tipo" type="hidden" value="0" /><input id="g" name="g" type="hidden" value="7" /><input id="codCat" name="codCat" type="hidden" value="40" /></form>		<div id="divFiltrosMarketsEvePrin" class="ksAccordion-toggle"> 
+	  <div class="graphite" style="margin-bottom:0">        	
+			<h3 class="titulo_seccion cmbbox flecha_graph" data-div=".modalidad" >
+				<span class="arrowRotate setArrow"></span>F&#218;TBOL
+			</h3>
+			
+          
+			<div class="clear"></div>            
+       </div>   
+			<div class="prox_eventos">
+  
+
+        
+    <div id="divMarketsEvePrin">                
+        
+
+
+ 
+ 
+    <input type="hidden" id="inputBetRadarWidget" data-category="40" value="" />
+   
+    <div class="getSct" id="divCat">  
+            <div class="clear"></div>
+        
+             <!--market-->
+                 <div class="modalidad SportMod">
+        <ul>
+                <li>                    
+                    <a data-ajax="true" data-ajax-begin="eveLoader.collectValues([&#39;g&#39;,&#39;tipo&#39;]);eveLoader.marketChanging(&#39;divCat&#39;); eveLoader.marketChangeArgs([{&quot;Key&quot;:&quot;ID&quot;,&quot;Value&quot;:40},{&quot;Key&quot;:&quot;cm&quot;,&quot;Value&quot;:2551},{&quot;Key&quot;:&quot;pv&quot;,&quot;Value&quot;:1},{&quot;Key&quot;:&quot;v&quot;,&quot;Value&quot;:true},{&quot;Key&quot;:&quot;dm&quot;,&quot;Value&quot;:&quot;1X2&quot;},{&quot;Key&quot;:&quot;nvp&quot;,&quot;Value&quot;:3}])" data-ajax-complete="eveLoader.marketChangedComplete(&#39;EveList&#39;);" data-ajax-method="POST" data-ajax-success="eveLoader.marketChanged(data, &#39;EveList&#39;, &#39;divCat&#39;);" href="/esp/Sport/EventosModDeporte/40?cm=2551&amp;pv=1&amp;v=True&amp;dm=1X2&amp;nvp=3">1X2</a>                                                                                                                
+                </li>
+                <li>                    
+                    <a data-ajax="true" data-ajax-begin="eveLoader.collectValues([&#39;g&#39;,&#39;tipo&#39;]);eveLoader.marketChanging(&#39;divCat&#39;); eveLoader.marketChangeArgs([{&quot;Key&quot;:&quot;ID&quot;,&quot;Value&quot;:40},{&quot;Key&quot;:&quot;cm&quot;,&quot;Value&quot;:2552},{&quot;Key&quot;:&quot;pv&quot;,&quot;Value&quot;:2},{&quot;Key&quot;:&quot;v&quot;,&quot;Value&quot;:true},{&quot;Key&quot;:&quot;dm&quot;,&quot;Value&quot;:&quot;Nº Goles&quot;},{&quot;Key&quot;:&quot;nvp&quot;,&quot;Value&quot;:2}])" data-ajax-complete="eveLoader.marketChangedComplete(&#39;EveList&#39;);" data-ajax-method="POST" data-ajax-success="eveLoader.marketChanged(data, &#39;EveList&#39;, &#39;divCat&#39;);" href="/esp/Sport/EventosModDeporte/40?cm=2552&amp;pv=2&amp;v=True&amp;dm=N%C2%BA%20Goles&amp;nvp=2">N&#186; Goles</a>                                                                                                                
+                </li>
+                <li>                    
+                    <a data-ajax="true" data-ajax-begin="eveLoader.collectValues([&#39;g&#39;,&#39;tipo&#39;]);eveLoader.marketChanging(&#39;divCat&#39;); eveLoader.marketChangeArgs([{&quot;Key&quot;:&quot;ID&quot;,&quot;Value&quot;:40},{&quot;Key&quot;:&quot;cm&quot;,&quot;Value&quot;:26073},{&quot;Key&quot;:&quot;pv&quot;,&quot;Value&quot;:2},{&quot;Key&quot;:&quot;v&quot;,&quot;Value&quot;:true},{&quot;Key&quot;:&quot;dm&quot;,&quot;Value&quot;:&quot;Ganador (sin empate)&quot;},{&quot;Key&quot;:&quot;nvp&quot;,&quot;Value&quot;:2}])" data-ajax-complete="eveLoader.marketChangedComplete(&#39;EveList&#39;);" data-ajax-method="POST" data-ajax-success="eveLoader.marketChanged(data, &#39;EveList&#39;, &#39;divCat&#39;);" href="/esp/Sport/EventosModDeporte/40?cm=26073&amp;pv=2&amp;v=True&amp;dm=Ganador%20(sin%20empate)&amp;nvp=2">Ganador (sin empate)</a>                                                                                                                
+                </li>
+                <li>                    
+                    <a data-ajax="true" data-ajax-begin="eveLoader.collectValues([&#39;g&#39;,&#39;tipo&#39;]);eveLoader.marketChanging(&#39;divCat&#39;); eveLoader.marketChangeArgs([{&quot;Key&quot;:&quot;ID&quot;,&quot;Value&quot;:40},{&quot;Key&quot;:&quot;cm&quot;,&quot;Value&quot;:26074},{&quot;Key&quot;:&quot;pv&quot;,&quot;Value&quot;:2},{&quot;Key&quot;:&quot;v&quot;,&quot;Value&quot;:true},{&quot;Key&quot;:&quot;dm&quot;,&quot;Value&quot;:&quot;Nº Goles Exacto&quot;},{&quot;Key&quot;:&quot;nvp&quot;,&quot;Value&quot;:2}])" data-ajax-complete="eveLoader.marketChangedComplete(&#39;EveList&#39;);" data-ajax-method="POST" data-ajax-success="eveLoader.marketChanged(data, &#39;EveList&#39;, &#39;divCat&#39;);" href="/esp/Sport/EventosModDeporte/40?cm=26074&amp;pv=2&amp;v=True&amp;dm=N%C2%BA%20Goles%20Exacto&amp;nvp=2">N&#186; Goles Exacto</a>                                                                                                                
+                </li>
+                <li>                    
+                    <a data-ajax="true" data-ajax-begin="eveLoader.collectValues([&#39;g&#39;,&#39;tipo&#39;]);eveLoader.marketChanging(&#39;divCat&#39;); eveLoader.marketChangeArgs([{&quot;Key&quot;:&quot;ID&quot;,&quot;Value&quot;:40},{&quot;Key&quot;:&quot;cm&quot;,&quot;Value&quot;:26077},{&quot;Key&quot;:&quot;pv&quot;,&quot;Value&quot;:2},{&quot;Key&quot;:&quot;v&quot;,&quot;Value&quot;:true},{&quot;Key&quot;:&quot;dm&quot;,&quot;Value&quot;:&quot;HANDICAP 2&quot;},{&quot;Key&quot;:&quot;nvp&quot;,&quot;Value&quot;:2}])" data-ajax-complete="eveLoader.marketChangedComplete(&#39;EveList&#39;);" data-ajax-method="POST" data-ajax-success="eveLoader.marketChanged(data, &#39;EveList&#39;, &#39;divCat&#39;);" href="/esp/Sport/EventosModDeporte/40?cm=26077&amp;pv=2&amp;v=True&amp;dm=HANDICAP%202&amp;nvp=2">HANDICAP 2</a>                                                                                                                
+                </li>
+                <li>                    
+                    <a data-ajax="true" data-ajax-begin="eveLoader.collectValues([&#39;g&#39;,&#39;tipo&#39;]);eveLoader.marketChanging(&#39;divCat&#39;); eveLoader.marketChangeArgs([{&quot;Key&quot;:&quot;ID&quot;,&quot;Value&quot;:40},{&quot;Key&quot;:&quot;cm&quot;,&quot;Value&quot;:26078},{&quot;Key&quot;:&quot;pv&quot;,&quot;Value&quot;:2},{&quot;Key&quot;:&quot;v&quot;,&quot;Value&quot;:true},{&quot;Key&quot;:&quot;dm&quot;,&quot;Value&quot;:&quot;HANDICAP 3&quot;},{&quot;Key&quot;:&quot;nvp&quot;,&quot;Value&quot;:2}])" data-ajax-complete="eveLoader.marketChangedComplete(&#39;EveList&#39;);" data-ajax-method="POST" data-ajax-success="eveLoader.marketChanged(data, &#39;EveList&#39;, &#39;divCat&#39;);" href="/esp/Sport/EventosModDeporte/40?cm=26078&amp;pv=2&amp;v=True&amp;dm=HANDICAP%203&amp;nvp=2">HANDICAP 3</a>                                                                                                                
+                </li>
+        </ul>
+    <div class="clear"></div>
+    </div>
+
+
+			<!-- Orden -->
+			<div style="padding-top:10px">
+				<ul class="orden" style="padding-top:5px">
+					<li>Ordenar por:</li> 
+					    <li>   
+		<a filter-field="g" filter-value="7" id="group-7" ks-filterEvent="true">Fecha</a>	
+    </li>
+	           
+					<li>/</li> 
+					    <li>   
+		<a filter-field="g" filter-value="4" id="group-4" ks-filterEvent="true">Fecha-Competición</a>	
+    </li>
+	            
+				</ul>
+						
+				        <ul class="nav_glob">
+            <li id="proximoseventos-hoy" class="selected">
+                <a filter-field="tipo" filter-value="0" ks-filterEvent="true">HOY</a>
+             </li>
+            <li id="proximoseventos-live">
+                <a filter-field="tipo" filter-value="1" ks-filterEvent="true">LIVE</a>
+             </li>
+            <li id="proximoseventos-top">
+                <a filter-field="tipo" filter-value="2" ks-filterEvent="true">TOP</a>
+            </li>
+        </ul>
+         
+<div class="clear"></div>  
+
+        
+	
+		<div style="/*margin:10px 6px 15px 0;float:right*/">
+				<div class="FavRisk">
+        <a class="addAcum acumTo" container="#EveList" href="/esp/BetSlip/AddAcum" lower="1">Favoritos<br /></a>
+	    <a class="addAcum acumTo" container="#EveList" href="/esp/BetSlip/AddAcum" lower="0">Riesgo<br /></a>
+    </div>
+
+		</div>
+	    <div class="clear"></div>
+
+				<div id="EveList" style="padding-top:0px">  
+
+
+
+
+    <div style="position:relative" class="btn_houdini_container">
+    <a class="btn_houdini" data-type="normal" data-column=".houdini_apuesta" data-container=".apuestas">
+        <img src="https://cdn.kirolbet.es/web/7/Content/img/ico_abrirHoudini.png" alt="Mostrar dos columnas" onerror="this.onerror=null;this.src='https://cdn.kirolbet.es/web/7/Content/img/onerror.png';" />
+    </a>
+    </div>    
+
+
+<ul class="apuestas">
+    <li class="fecha_evento">
+		
+                    <time class="dateFecha" datetime="2017-09-14 14:00:00Z" showToday="false" format="dd"></time>
+
+     <div class="modalidades">
+
+
+	        <div class="tit_modalidad modalidad_dos  houdini_apuesta">N&#186; Goles (2,5) </div>
+
+
+            <div class="tit_modalidad modalidad_tres  ">1X2</div>
+        
+	</div>
+					
+	</li> 
+		<li class="filtroCategoria filtroCat-40">
+			
+            <div class="infoEve">
+            
+                <div class="ico icoConExtra" style=margin-top:0;>
+                    <img Alt="Jordan League" onerror="this.onerror=null;this.src=&#39;https://cdn.kirolbet.es/web/7/Content/images/trans.png&#39;;" src="https://cdn.kirolbet.es/mrk/7/Content/images/SCT/sct_00002339.png"></img>            <span class="livetxt">LIVE</span>
+
+			    </div>
+
+                <div>
+    			
+                    <div class="date" style="margin-right:-20px;margin-left:-3px;">
+                        <div class="ico_tv_cont">        
+				            <p>         
+                                
+                         
+    
+                           
+                                            <time class="dateFecha" datetime="2017-09-14 14:00:00Z" showToday="true" format="sd"></time>
+
+                                <br />
+				                <span title="2017-09-14 14:00:00Z" class="timeto tooltipEve" live="1" d-date="<h3>#date</h3><span>#time</span>">16:00</span>                            
+                    
+				            </p>
+                       </div>
+			        </div>
+                    <div style="margin-top:-5px;" class="ico"><img Style="width:24px; height:24px" onerror="this.onerror=null;this.src=&#39;https://cdn.kirolbet.es/web/7/Content/images/trans.png&#39;;" src="https://cdn.kirolbet.es/mrk/7/Content/images/TV/tvc_00000017.png"></img></div>
+                    
+			        <div class="info">
+				        <p>                
+                                                            <span class="overStar">
+		                            <span class="campeonato"> <a href="/esp/Sport/Competicion/2339">Jordan League</a> </span>
+                                    <span class="star tooltipEve" title="Añadir a favoritos"><a class="fav" data-catId="40" data-id="2339" data-tipo="2"></a></span>
+	                            </span>
+					        <br />
+					        <span class="partido">                                
+                                                <a href="/esp/Sport/Evento/900064">Manshia Bani vs. Al Baqaa <span>(+ 8)</span></a>
+
+                            </span>
+				        </p> 
+			        </div>
+            
+                </div>
+
+            </div>
+
+         
+               
+			<div class="it_900064 apuestas_fut" sport-type="Eve" des="Manshia Bani vs. Al Baqaa">
+
+
+		<ul	class="it_900064_842 houdini_apuesta" sport-type="Mkt" des="N&#186; Goles (2,5)" 				
+			il="0" ic="1" cg="0">
+
+				<li>
+
+					<a class="it_842_1_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="- 2,5"><p class="tipe1"><span class="pronEvLst">- 2,5</span><br/><span class="coef">1,50</span></p></a>
+				</li>
+				<li>
+
+					<a class="it_842_2_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="+ 2,5"><p class="tipe1"><span class="pronEvLst">+ 2,5</span><br/><span class="coef">2,25</span></p></a>
+				</li>
+		</ul>                                               
+		<ul 			   	  
+						class="it_900064_66" sport-type="Mkt" des="1X2" 
+		il="0" ic="1" cg="0"
+		>
+				
+				<li >
+					
+					<a class="it_66_1_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="1"><p class="tipe1"><span class="pronEvLst">1</span><br/><span class="coef">1,90</span></p></a>
+				</li>
+				<li >
+					
+					<a class="it_66_2_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="X"><p class="tipe1"><span class="pronEvLst">X</span><br/><span class="coef">3,10</span></p></a>
+				</li>
+				<li >
+					
+					<a class="it_66_3_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="2"><p class="tipe1"><span class="pronEvLst">2</span><br/><span class="coef">3,90</span></p></a>
+				</li>
+				    </ul>		
+                
+			</div>
+
+			<div class="clear fle" ks-fle='14/09/2017'></div>			
+		</li>
+		<li class="filtroCategoria filtroCat-40">
+			
+            <div class="infoEve">
+            
+                <div class="ico icoConExtra" style=margin-top:0;>
+                    <img Alt="Lituania A Lyga" onerror="this.onerror=null;this.src=&#39;https://cdn.kirolbet.es/web/7/Content/images/trans.png&#39;;" src="https://cdn.kirolbet.es/mrk/7/Content/images/SCT/sct_00002358.png"></img>            <span class="livetxt">LIVE</span>
+
+			    </div>
+
+                <div>
+    			
+                    <div class="date" style="margin-right:-20px;margin-left:-3px;">
+                        <div class="ico_tv_cont">        
+				            <p>         
+                                
+                         
+    
+                           
+                                            <time class="dateFecha" datetime="2017-09-14 15:00:00Z" showToday="true" format="sd"></time>
+
+                                <br />
+				                <span title="2017-09-14 15:00:00Z" class="timeto tooltipEve" live="1" d-date="<h3>#date</h3><span>#time</span>">17:00</span>                            
+                    
+				            </p>
+                       </div>
+			        </div>
+                    <div style="margin-top:-5px;" class="ico"><img Style="width:24px; height:24px" onerror="this.onerror=null;this.src=&#39;https://cdn.kirolbet.es/web/7/Content/images/trans.png&#39;;" src="https://cdn.kirolbet.es/mrk/7/Content/images/TV/tvc_00000058.png"></img></div>
+                    
+			        <div class="info">
+				        <p>                
+                                                            <span class="overStar">
+		                            <span class="campeonato"> <a href="/esp/Sport/Competicion/2358">Lituania A Lyga</a> </span>
+                                    <span class="star tooltipEve" title="Añadir a favoritos"><a class="fav" data-catId="40" data-id="2358" data-tipo="2"></a></span>
+	                            </span>
+					        <br />
+					        <span class="partido">                                
+                                                <a href="/esp/Sport/Evento/891131">FK Atlantas Klaipeda vs. Utenis Utena <span>(+ 8)</span></a>
+
+                            </span>
+				        </p> 
+			        </div>
+            
+                </div>
+
+            </div>
+
+         
+               
+			<div class="it_891131 apuestas_fut" sport-type="Eve" des="FK Atlantas Klaipeda vs. Utenis Utena">
+
+
+		<ul	class="it_891131_842 houdini_apuesta" sport-type="Mkt" des="N&#186; Goles (2,5)" 				
+			il="0" ic="1" cg="0">
+
+				<li>
+
+					<a class="it_842_1_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="- 2,5"><p class="tipe1"><span class="pronEvLst">- 2,5</span><br/><span class="coef">1,65</span></p></a>
+				</li>
+				<li>
+
+					<a class="it_842_2_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="+ 2,5"><p class="tipe1"><span class="pronEvLst">+ 2,5</span><br/><span class="coef">1,95</span></p></a>
+				</li>
+		</ul>                                               
+		<ul 			   	  
+						class="it_891131_66" sport-type="Mkt" des="1X2" 
+		il="0" ic="1" cg="0"
+		>
+				
+				<li >
+					
+					<a class="it_66_1_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="1"><p class="tipe1"><span class="pronEvLst">1</span><br/><span class="coef">1,75</span></p></a>
+				</li>
+				<li >
+					
+					<a class="it_66_2_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="X"><p class="tipe1"><span class="pronEvLst">X</span><br/><span class="coef">3,40</span></p></a>
+				</li>
+				<li >
+					
+					<a class="it_66_3_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="2"><p class="tipe1"><span class="pronEvLst">2</span><br/><span class="coef">4,20</span></p></a>
+				</li>
+				    </ul>		
+                
+			</div>
+
+			<div class="clear fle" ks-fle='14/09/2017'></div>			
+		</li>
+		<li class="filtroCategoria filtroCat-40">
+			
+            <div class="infoEve">
+            
+                <div class="ico icoConExtra" style=margin-top:0;>
+                    <img Alt="Egipto Premier League" onerror="this.onerror=null;this.src=&#39;https://cdn.kirolbet.es/web/7/Content/images/trans.png&#39;;" src="https://cdn.kirolbet.es/mrk/7/Content/images/SCT/sct_00002317.png"></img>
+			    </div>
+
+                <div>
+    			
+                    <div class="date" style="margin-right:-20px;margin-left:-3px;">
+                        <div class="ico_tv_cont">        
+				            <p>         
+                                
+                         
+    
+                           
+                                            <time class="dateFecha" datetime="2017-09-14 15:00:00Z" showToday="true" format="sd"></time>
+
+                                <br />
+				                <span title="2017-09-14 15:00:00Z" class="timeto tooltipEve" live="0" d-date="<h3>#date</h3><span>#time</span>">17:00</span>                            
+                    
+				            </p>
+                       </div>
+			        </div>
+                    <div style="margin-top:-5px;" class="ico"><img Style="width:24px; height:24px" onerror="this.onerror=null;this.src=&#39;https://cdn.kirolbet.es/web/7/Content/images/trans.png&#39;;" src="https://cdn.kirolbet.es/mrk/7/Content/images/TV/tvc_000000-1.png"></img></div>
+                    
+			        <div class="info">
+				        <p>                
+                                                            <span class="overStar">
+		                            <span class="campeonato"> <a href="/esp/Sport/Competicion/2317">Egipto Premier League</a> </span>
+                                    <span class="star tooltipEve" title="Añadir a favoritos"><a class="fav" data-catId="40" data-id="2317" data-tipo="2"></a></span>
+	                            </span>
+					        <br />
+					        <span class="partido">                                
+                                                <a href="/esp/Sport/Evento/917132">Petrojet FC vs. Al Masry Club <span>(+ 7)</span></a>
+
+                            </span>
+				        </p> 
+			        </div>
+            
+                </div>
+
+            </div>
+
+         
+               
+			<div class="it_917132 apuestas_fut" sport-type="Eve" des="Petrojet FC vs. Al Masry Club">
+
+
+		<ul	class="it_917132_842 houdini_apuesta" sport-type="Mkt" des="N&#186; Goles (2,5)" 				
+			il="0" ic="1" cg="0">
+
+				<li>
+
+					<a class="it_842_1_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="- 2,5"><p class="tipe1"><span class="pronEvLst">- 2,5</span><br/><span class="coef">1,38</span></p></a>
+				</li>
+				<li>
+
+					<a class="it_842_2_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="+ 2,5"><p class="tipe1"><span class="pronEvLst">+ 2,5</span><br/><span class="coef">2,60</span></p></a>
+				</li>
+		</ul>                                               
+		<ul 			   	  
+						class="it_917132_66" sport-type="Mkt" des="1X2" 
+		il="0" ic="1" cg="0"
+		>
+				
+				<li >
+					
+					<a class="it_66_1_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="1"><p class="tipe1"><span class="pronEvLst">1</span><br/><span class="coef">3,60</span></p></a>
+				</li>
+				<li >
+					
+					<a class="it_66_2_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="X"><p class="tipe1"><span class="pronEvLst">X</span><br/><span class="coef">2,90</span></p></a>
+				</li>
+				<li >
+					
+					<a class="it_66_3_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="2"><p class="tipe1"><span class="pronEvLst">2</span><br/><span class="coef">2,05</span></p></a>
+				</li>
+				    </ul>		
+                
+			</div>
+
+			<div class="clear fle" ks-fle='14/09/2017'></div>			
+		</li>
+		<li class="filtroCategoria filtroCat-40">
+			
+            <div class="infoEve">
+            
+                <div class="ico icoConExtra" style=margin-top:0;>
+                    <img Alt="Perú Primera División" onerror="this.onerror=null;this.src=&#39;https://cdn.kirolbet.es/web/7/Content/images/trans.png&#39;;" src="https://cdn.kirolbet.es/mrk/7/Content/images/SCT/sct_00002332.png"></img>
+			    </div>
+
+                <div>
+    			
+                    <div class="date" style="margin-right:-20px;margin-left:-3px;">
+                        <div class="ico_tv_cont">        
+				            <p>         
+                                
+                         
+    
+                           
+                                            <time class="dateFecha" datetime="2017-09-14 16:00:00Z" showToday="true" format="sd"></time>
+
+                                <br />
+				                <span title="2017-09-14 16:00:00Z" class="timeto tooltipEve" live="0" d-date="<h3>#date</h3><span>#time</span>">18:00</span>                            
+                    
+				            </p>
+                       </div>
+			        </div>
+                    <div style="margin-top:-5px;" class="ico"><img Style="width:24px; height:24px" onerror="this.onerror=null;this.src=&#39;https://cdn.kirolbet.es/web/7/Content/images/trans.png&#39;;" src="https://cdn.kirolbet.es/mrk/7/Content/images/TV/tvc_000000-1.png"></img></div>
+                    
+			        <div class="info">
+				        <p>                
+                                                            <span class="overStar">
+		                            <span class="campeonato"> <a href="/esp/Sport/Competicion/2332">Per&#250; Primera Divisi&#243;n</a> </span>
+                                    <span class="star tooltipEve" title="Añadir a favoritos"><a class="fav" data-catId="40" data-id="2332" data-tipo="2"></a></span>
+	                            </span>
+					        <br />
+					        <span class="partido">                                
+                                                <a href="/esp/Sport/Evento/891149">Sport Huancayo vs. UTC de Cajamarca <span>(+ 9)</span></a>
+
+                            </span>
+				        </p> 
+			        </div>
+            
+                </div>
+
+            </div>
+
+         
+               
+			<div class="it_891149 apuestas_fut" sport-type="Eve" des="Sport Huancayo vs. UTC de Cajamarca">
+
+
+		<ul	class="it_891149_842 houdini_apuesta" sport-type="Mkt" des="N&#186; Goles (2,5)" 				
+			il="0" ic="1" cg="0">
+
+				<li>
+
+					<a class="it_842_1_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="- 2,5"><p class="tipe1"><span class="pronEvLst">- 2,5</span><br/><span class="coef">1,65</span></p></a>
+				</li>
+				<li>
+
+					<a class="it_842_2_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="+ 2,5"><p class="tipe1"><span class="pronEvLst">+ 2,5</span><br/><span class="coef">2,05</span></p></a>
+				</li>
+		</ul>                                               
+		<ul 			   	  
+						class="it_891149_66" sport-type="Mkt" des="1X2" 
+		il="0" ic="1" cg="0"
+		>
+				
+				<li >
+					
+					<a class="it_66_1_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="1"><p class="tipe1"><span class="pronEvLst">1</span><br/><span class="coef">1,60</span></p></a>
+				</li>
+				<li >
+					
+					<a class="it_66_2_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="X"><p class="tipe1"><span class="pronEvLst">X</span><br/><span class="coef">3,50</span></p></a>
+				</li>
+				<li >
+					
+					<a class="it_66_3_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="2"><p class="tipe1"><span class="pronEvLst">2</span><br/><span class="coef">5,00</span></p></a>
+				</li>
+				    </ul>		
+                
+			</div>
+
+			<div class="clear fle" ks-fle='14/09/2017'></div>			
+		</li>
+		<li class="filtroCategoria filtroCat-40">
+			
+            <div class="infoEve">
+            
+                <div class="ico icoConExtra" style=margin-top:0;>
+                    <img Alt="Jordan League" onerror="this.onerror=null;this.src=&#39;https://cdn.kirolbet.es/web/7/Content/images/trans.png&#39;;" src="https://cdn.kirolbet.es/mrk/7/Content/images/SCT/sct_00002339.png"></img>            <span class="livetxt">LIVE</span>
+
+			    </div>
+
+                <div>
+    			
+                    <div class="date" style="margin-right:-20px;margin-left:-3px;">
+                        <div class="ico_tv_cont">        
+				            <p>         
+                                
+                         
+    
+                           
+                                            <time class="dateFecha" datetime="2017-09-14 16:30:00Z" showToday="true" format="sd"></time>
+
+                                <br />
+				                <span title="2017-09-14 16:30:00Z" class="timeto tooltipEve" live="1" d-date="<h3>#date</h3><span>#time</span>">18:30</span>                            
+                    
+				            </p>
+                       </div>
+			        </div>
+                    <div style="margin-top:-5px;" class="ico"><img Style="width:24px; height:24px" onerror="this.onerror=null;this.src=&#39;https://cdn.kirolbet.es/web/7/Content/images/trans.png&#39;;" src="https://cdn.kirolbet.es/mrk/7/Content/images/TV/tvc_00000017.png"></img></div>
+                    
+			        <div class="info">
+				        <p>                
+                                                            <span class="overStar">
+		                            <span class="campeonato"> <a href="/esp/Sport/Competicion/2339">Jordan League</a> </span>
+                                    <span class="star tooltipEve" title="Añadir a favoritos"><a class="fav" data-catId="40" data-id="2339" data-tipo="2"></a></span>
+	                            </span>
+					        <br />
+					        <span class="partido">                                
+                                                <a href="/esp/Sport/Evento/900068">Al Yarmouk vs. AL Hussein Irbid <span>(+ 8)</span></a>
+
+                            </span>
+				        </p> 
+			        </div>
+            
+                </div>
+
+            </div>
+
+         
+               
+			<div class="it_900068 apuestas_fut" sport-type="Eve" des="Al Yarmouk vs. AL Hussein Irbid">
+
+
+		<ul	class="it_900068_842 houdini_apuesta" sport-type="Mkt" des="N&#186; Goles (2,5)" 				
+			il="0" ic="1" cg="0">
+
+				<li>
+
+					<a class="it_842_1_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="- 2,5"><p class="tipe1"><span class="pronEvLst">- 2,5</span><br/><span class="coef">1,50</span></p></a>
+				</li>
+				<li>
+
+					<a class="it_842_2_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="+ 2,5"><p class="tipe1"><span class="pronEvLst">+ 2,5</span><br/><span class="coef">2,20</span></p></a>
+				</li>
+		</ul>                                               
+		<ul 			   	  
+						class="it_900068_66" sport-type="Mkt" des="1X2" 
+		il="0" ic="1" cg="0"
+		>
+				
+				<li >
+					
+					<a class="it_66_1_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="1"><p class="tipe1"><span class="pronEvLst">1</span><br/><span class="coef">3,55</span></p></a>
+				</li>
+				<li >
+					
+					<a class="it_66_2_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="X"><p class="tipe1"><span class="pronEvLst">X</span><br/><span class="coef">3,05</span></p></a>
+				</li>
+				<li >
+					
+					<a class="it_66_3_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="2"><p class="tipe1"><span class="pronEvLst">2</span><br/><span class="coef">2,00</span></p></a>
+				</li>
+				    </ul>		
+                
+			</div>
+
+			<div class="clear fle" ks-fle='14/09/2017'></div>			
+		</li>
+		<li class="filtroCategoria filtroCat-40">
+			
+            <div class="infoEve">
+            
+                <div class="ico icoConExtra" style=margin-top:0;>
+                    <img Alt="UEFA Europa League" onerror="this.onerror=null;this.src=&#39;https://cdn.kirolbet.es/web/7/Content/images/trans.png&#39;;" src="https://cdn.kirolbet.es/mrk/7/Content/images/SCT/sct_00000210.png"></img>            <span class="livetxt">LIVE</span>
+
+			    </div>
+
+                <div>
+    			
+                    <div class="date" style="margin-right:-20px;margin-left:-3px;">
+                        <div class="ico_tv_cont">        
+				            <p>         
+                                
+                         
+    
+                           
+                                            <time class="dateFecha" datetime="2017-09-14 17:00:00Z" showToday="true" format="sd"></time>
+
+                                <br />
+				                <span title="2017-09-14 17:00:00Z" class="timeto tooltipEve" live="1" d-date="<h3>#date</h3><span>#time</span>">19:00</span>                            
+                    
+				            </p>
+                       </div>
+			        </div>
+                    <div style="margin-top:-5px;" class="ico"><img Style="width:24px; height:24px" onerror="this.onerror=null;this.src=&#39;https://cdn.kirolbet.es/web/7/Content/images/trans.png&#39;;" src="https://cdn.kirolbet.es/mrk/7/Content/images/TV/tvc_00000051.png"></img></div>
+                    
+			        <div class="info">
+				        <p>                
+                                                            <span class="overStar">
+		                            <span class="campeonato"> <a href="/esp/Sport/Competicion/210">UEFA Europa League</a> </span>
+                                    <span class="star tooltipEve" title="Añadir a favoritos"><a class="fav" data-catId="40" data-id="210" data-tipo="2"></a></span>
+	                            </span>
+					        <br />
+					        <span class="partido">                                
+                                                <a href="/esp/Sport/Evento/898609">Apollon Limassol FC vs. Olympique Lyon <span>(+ 67)</span></a>
+
+                            </span>
+				        </p> 
+			        </div>
+            
+                </div>
+
+            </div>
+
+         
+               
+			<div class="it_898609 apuestas_fut" sport-type="Eve" des="Apollon Limassol FC vs. Olympique Lyon">
+
+
+		<ul	class="it_898609_842 houdini_apuesta" sport-type="Mkt" des="N&#186; Goles (2,5)" 				
+			il="0" ic="1" cg="0">
+
+				<li>
+
+					<a class="it_842_1_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="- 2,5"><p class="tipe1"><span class="pronEvLst">- 2,5</span><br/><span class="coef">2,00</span></p></a>
+				</li>
+				<li>
+
+					<a class="it_842_2_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="+ 2,5"><p class="tipe1"><span class="pronEvLst">+ 2,5</span><br/><span class="coef">1,70</span></p></a>
+				</li>
+		</ul>                                               
+		<ul 			   	  
+						class="it_898609_66" sport-type="Mkt" des="1X2" 
+		il="0" ic="1" cg="0"
+		>
+				
+				<li >
+					
+					<a class="it_66_1_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="1"><p class="tipe1"><span class="pronEvLst">1</span><br/><span class="coef">5,20</span></p></a>
+				</li>
+				<li >
+					
+					<a class="it_66_2_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="X"><p class="tipe1"><span class="pronEvLst">X</span><br/><span class="coef">3,95</span></p></a>
+				</li>
+				<li >
+					
+					<a class="it_66_3_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="2"><p class="tipe1"><span class="pronEvLst">2</span><br/><span class="coef">1,60</span></p></a>
+				</li>
+				    </ul>		
+                
+			</div>
+
+			<div class="clear fle" ks-fle='14/09/2017'></div>			
+		</li>
+		<li class="filtroCategoria filtroCat-40">
+			
+            <div class="infoEve">
+            
+                <div class="ico icoConExtra" style=margin-top:0;>
+                    <img Alt="UEFA Europa League" onerror="this.onerror=null;this.src=&#39;https://cdn.kirolbet.es/web/7/Content/images/trans.png&#39;;" src="https://cdn.kirolbet.es/mrk/7/Content/images/SCT/sct_00000210.png"></img>            <span class="livetxt">LIVE</span>
+
+			    </div>
+
+                <div>
+    			
+                    <div class="date" style="margin-right:-20px;margin-left:-3px;">
+                        <div class="ico_tv_cont">        
+				            <p>         
+                                
+                         
+    
+                           
+                                            <time class="dateFecha" datetime="2017-09-14 17:00:00Z" showToday="true" format="sd"></time>
+
+                                <br />
+				                <span title="2017-09-14 17:00:00Z" class="timeto tooltipEve" live="1" d-date="<h3>#date</h3><span>#time</span>">19:00</span>                            
+                    
+				            </p>
+                       </div>
+			        </div>
+                    <div style="margin-top:-5px;" class="ico"><img Style="width:24px; height:24px" onerror="this.onerror=null;this.src=&#39;https://cdn.kirolbet.es/web/7/Content/images/trans.png&#39;;" src="https://cdn.kirolbet.es/mrk/7/Content/images/TV/tvc_00000051.png"></img></div>
+                    
+			        <div class="info">
+				        <p>                
+                                                            <span class="overStar">
+		                            <span class="campeonato"> <a href="/esp/Sport/Competicion/210">UEFA Europa League</a> </span>
+                                    <span class="star tooltipEve" title="Añadir a favoritos"><a class="fav" data-catId="40" data-id="210" data-tipo="2"></a></span>
+	                            </span>
+					        <br />
+					        <span class="partido">                                
+                                                <a href="/esp/Sport/Evento/898608">Austria Viena vs. AC Mil&#225;n <span>(+ 67)</span></a>
+
+                            </span>
+				        </p> 
+			        </div>
+            
+                </div>
+
+            </div>
+
+         
+               
+			<div class="it_898608 apuestas_fut" sport-type="Eve" des="Austria Viena vs. AC Mil&#225;n">
+
+
+		<ul	class="it_898608_842 houdini_apuesta" sport-type="Mkt" des="N&#186; Goles (2,5)" 				
+			il="0" ic="1" cg="0">
+
+				<li>
+
+					<a class="it_842_1_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="- 2,5"><p class="tipe1"><span class="pronEvLst">- 2,5</span><br/><span class="coef">2,20</span></p></a>
+				</li>
+				<li>
+
+					<a class="it_842_2_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="+ 2,5"><p class="tipe1"><span class="pronEvLst">+ 2,5</span><br/><span class="coef">1,60</span></p></a>
+				</li>
+		</ul>                                               
+		<ul 			   	  
+						class="it_898608_66" sport-type="Mkt" des="1X2" 
+		il="0" ic="1" cg="0"
+		>
+				
+				<li >
+					
+					<a class="it_66_1_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="1"><p class="tipe1"><span class="pronEvLst">1</span><br/><span class="coef">6,50</span></p></a>
+				</li>
+				<li >
+					
+					<a class="it_66_2_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="X"><p class="tipe1"><span class="pronEvLst">X</span><br/><span class="coef">4,60</span></p></a>
+				</li>
+				<li >
+					
+					<a class="it_66_3_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="2"><p class="tipe1"><span class="pronEvLst">2</span><br/><span class="coef">1,44</span></p></a>
+				</li>
+				    </ul>		
+                
+			</div>
+
+			<div class="clear fle" ks-fle='14/09/2017'></div>			
+		</li>
+		<li class="filtroCategoria filtroCat-40">
+			
+            <div class="infoEve">
+            
+                <div class="ico icoConExtra" style=margin-top:0;>
+                    <img Alt="UEFA Europa League" onerror="this.onerror=null;this.src=&#39;https://cdn.kirolbet.es/web/7/Content/images/trans.png&#39;;" src="https://cdn.kirolbet.es/mrk/7/Content/images/SCT/sct_00000210.png"></img>
+			    </div>
+
+                <div>
+    			
+                    <div class="date" style="margin-right:-20px;margin-left:-3px;">
+                        <div class="ico_tv_cont">        
+				            <p>         
+                                
+                         
+    
+                           
+                                            <time class="dateFecha" datetime="2017-09-14 17:00:00Z" showToday="true" format="sd"></time>
+
+                                <br />
+				                <span title="2017-09-14 17:00:00Z" class="timeto tooltipEve" live="0" d-date="<h3>#date</h3><span>#time</span>">19:00</span>                            
+                    
+				            </p>
+                       </div>
+			        </div>
+                    <div style="margin-top:-5px;" class="ico"><img Style="width:24px; height:24px" onerror="this.onerror=null;this.src=&#39;https://cdn.kirolbet.es/web/7/Content/images/trans.png&#39;;" src="https://cdn.kirolbet.es/mrk/7/Content/images/TV/tvc_000000-1.png"></img></div>
+                    
+			        <div class="info">
+				        <p>                
+                                                            <span class="overStar">
+		                            <span class="campeonato"> <a href="/esp/Sport/Competicion/210">UEFA Europa League</a> </span>
+                                    <span class="star tooltipEve" title="Añadir a favoritos"><a class="fav" data-catId="40" data-id="210" data-tipo="2"></a></span>
+	                            </span>
+					        <br />
+					        <span class="partido">                                
+                                                <a href="/esp/Sport/Evento/898606">Basaksehir FK vs. Ludogorets Razgrad <span>(+ 63)</span></a>
+
+                            </span>
+				        </p> 
+			        </div>
+            
+                </div>
+
+            </div>
+
+         
+               
+			<div class="it_898606 apuestas_fut" sport-type="Eve" des="Basaksehir FK vs. Ludogorets Razgrad">
+
+
+		<ul	class="it_898606_842 houdini_apuesta" sport-type="Mkt" des="N&#186; Goles (2,5)" 				
+			il="0" ic="1" cg="0">
+
+				<li>
+
+					<a class="it_842_1_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="- 2,5"><p class="tipe1"><span class="pronEvLst">- 2,5</span><br/><span class="coef">1,80</span></p></a>
+				</li>
+				<li>
+
+					<a class="it_842_2_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="+ 2,5"><p class="tipe1"><span class="pronEvLst">+ 2,5</span><br/><span class="coef">1,90</span></p></a>
+				</li>
+		</ul>                                               
+		<ul 			   	  
+						class="it_898606_66" sport-type="Mkt" des="1X2" 
+		il="0" ic="1" cg="0"
+		>
+				
+				<li >
+					
+					<a class="it_66_1_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="1"><p class="tipe1"><span class="pronEvLst">1</span><br/><span class="coef">1,55</span></p></a>
+				</li>
+				<li >
+					
+					<a class="it_66_2_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="X"><p class="tipe1"><span class="pronEvLst">X</span><br/><span class="coef">3,95</span></p></a>
+				</li>
+				<li >
+					
+					<a class="it_66_3_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="2"><p class="tipe1"><span class="pronEvLst">2</span><br/><span class="coef">5,50</span></p></a>
+				</li>
+				    </ul>		
+                
+			</div>
+
+			<div class="clear fle" ks-fle='14/09/2017'></div>			
+		</li>
+		<li class="filtroCategoria filtroCat-40">
+			
+            <div class="infoEve">
+            
+                <div class="ico icoConExtra" style=margin-top:0;>
+                    <img Alt="Islandia Urvalsdeild" onerror="this.onerror=null;this.src=&#39;https://cdn.kirolbet.es/web/7/Content/images/trans.png&#39;;" src="https://cdn.kirolbet.es/mrk/7/Content/images/SCT/sct_00002355.png"></img>
+			    </div>
+
+                <div>
+    			
+                    <div class="date" style="margin-right:-20px;margin-left:-3px;">
+                        <div class="ico_tv_cont">        
+				            <p>         
+                                
+                         
+    
+                           
+                                            <time class="dateFecha" datetime="2017-09-14 17:00:00Z" showToday="true" format="sd"></time>
+
+                                <br />
+				                <span title="2017-09-14 17:00:00Z" class="timeto tooltipEve" live="0" d-date="<h3>#date</h3><span>#time</span>">19:00</span>                            
+                    
+				            </p>
+                       </div>
+			        </div>
+                    <div style="margin-top:-5px;" class="ico"><img Style="width:24px; height:24px" onerror="this.onerror=null;this.src=&#39;https://cdn.kirolbet.es/web/7/Content/images/trans.png&#39;;" src="https://cdn.kirolbet.es/mrk/7/Content/images/TV/tvc_000000-1.png"></img></div>
+                    
+			        <div class="info">
+				        <p>                
+                                                            <span class="overStar">
+		                            <span class="campeonato"> <a href="/esp/Sport/Competicion/2355">Islandia Urvalsdeild</a> </span>
+                                    <span class="star tooltipEve" title="Añadir a favoritos"><a class="fav" data-catId="40" data-id="2355" data-tipo="2"></a></span>
+	                            </span>
+					        <br />
+					        <span class="partido">                                
+                                                <a href="/esp/Sport/Evento/891145">Breidablik Kopavogur vs. KR Reykjavik <span>(+ 8)</span></a>
+
+                            </span>
+				        </p> 
+			        </div>
+            
+                </div>
+
+            </div>
+
+         
+               
+			<div class="it_891145 apuestas_fut" sport-type="Eve" des="Breidablik Kopavogur vs. KR Reykjavik">
+
+
+		<ul	class="it_891145_842 houdini_apuesta" sport-type="Mkt" des="N&#186; Goles (2,5)" 				
+			il="0" ic="1" cg="0">
+
+				<li>
+
+					<a class="it_842_1_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="- 2,5"><p class="tipe1"><span class="pronEvLst">- 2,5</span><br/><span class="coef">1,95</span></p></a>
+				</li>
+				<li>
+
+					<a class="it_842_2_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="+ 2,5"><p class="tipe1"><span class="pronEvLst">+ 2,5</span><br/><span class="coef">1,70</span></p></a>
+				</li>
+		</ul>                                               
+		<ul 			   	  
+						class="it_891145_66" sport-type="Mkt" des="1X2" 
+		il="0" ic="1" cg="0"
+		>
+				
+				<li >
+					
+					<a class="it_66_1_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="1"><p class="tipe1"><span class="pronEvLst">1</span><br/><span class="coef">2,75</span></p></a>
+				</li>
+				<li >
+					
+					<a class="it_66_2_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="X"><p class="tipe1"><span class="pronEvLst">X</span><br/><span class="coef">3,25</span></p></a>
+				</li>
+				<li >
+					
+					<a class="it_66_3_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="2"><p class="tipe1"><span class="pronEvLst">2</span><br/><span class="coef">2,30</span></p></a>
+				</li>
+				    </ul>		
+                
+			</div>
+
+			<div class="clear fle" ks-fle='14/09/2017'></div>			
+		</li>
+		<li class="filtroCategoria filtroCat-40">
+			
+            <div class="infoEve">
+            
+                <div class="ico icoConExtra" style=margin-top:0;>
+                    <img Alt="UEFA Europa League" onerror="this.onerror=null;this.src=&#39;https://cdn.kirolbet.es/web/7/Content/images/trans.png&#39;;" src="https://cdn.kirolbet.es/mrk/7/Content/images/SCT/sct_00000210.png"></img>            <span class="livetxt">LIVE</span>
+
+			    </div>
+
+                <div>
+    			
+                    <div class="date" style="margin-right:-20px;margin-left:-3px;">
+                        <div class="ico_tv_cont">        
+				            <p>         
+                                
+                         
+    
+                           
+                                            <time class="dateFecha" datetime="2017-09-14 17:00:00Z" showToday="true" format="sd"></time>
+
+                                <br />
+				                <span title="2017-09-14 17:00:00Z" class="timeto tooltipEve" live="1" d-date="<h3>#date</h3><span>#time</span>">19:00</span>                            
+                    
+				            </p>
+                       </div>
+			        </div>
+                    <div style="margin-top:-5px;" class="ico"><img Style="width:24px; height:24px" onerror="this.onerror=null;this.src=&#39;https://cdn.kirolbet.es/web/7/Content/images/trans.png&#39;;" src="https://cdn.kirolbet.es/mrk/7/Content/images/TV/tvc_00000017.png"></img></div>
+                    
+			        <div class="info">
+				        <p>                
+                                                            <span class="overStar">
+		                            <span class="campeonato"> <a href="/esp/Sport/Competicion/210">UEFA Europa League</a> </span>
+                                    <span class="star tooltipEve" title="Añadir a favoritos"><a class="fav" data-catId="40" data-id="210" data-tipo="2"></a></span>
+	                            </span>
+					        <br />
+					        <span class="partido">                                
+                                                <a href="/esp/Sport/Evento/898604">BSC Young Boys Bern vs. Partizan Belgrado <span>(+ 63)</span></a>
+
+                            </span>
+				        </p> 
+			        </div>
+            
+                </div>
+
+            </div>
+
+         
+               
+			<div class="it_898604 apuestas_fut" sport-type="Eve" des="BSC Young Boys Bern vs. Partizan Belgrado">
+
+
+		<ul	class="it_898604_842 houdini_apuesta" sport-type="Mkt" des="N&#186; Goles (2,5)" 				
+			il="0" ic="1" cg="0">
+
+				<li>
+
+					<a class="it_842_1_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="- 2,5"><p class="tipe1"><span class="pronEvLst">- 2,5</span><br/><span class="coef">1,90</span></p></a>
+				</li>
+				<li>
+
+					<a class="it_842_2_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="+ 2,5"><p class="tipe1"><span class="pronEvLst">+ 2,5</span><br/><span class="coef">1,80</span></p></a>
+				</li>
+		</ul>                                               
+		<ul 			   	  
+						class="it_898604_66" sport-type="Mkt" des="1X2" 
+		il="0" ic="1" cg="0"
+		>
+				
+				<li >
+					
+					<a class="it_66_1_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="1"><p class="tipe1"><span class="pronEvLst">1</span><br/><span class="coef">1,80</span></p></a>
+				</li>
+				<li >
+					
+					<a class="it_66_2_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="X"><p class="tipe1"><span class="pronEvLst">X</span><br/><span class="coef">3,65</span></p></a>
+				</li>
+				<li >
+					
+					<a class="it_66_3_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="2"><p class="tipe1"><span class="pronEvLst">2</span><br/><span class="coef">4,20</span></p></a>
+				</li>
+				    </ul>		
+                
+			</div>
+
+			<div class="clear fle" ks-fle='14/09/2017'></div>			
+		</li>
+		<li class="filtroCategoria filtroCat-40">
+			
+            <div class="infoEve">
+            
+                <div class="ico icoConExtra" style=margin-top:0;>
+                    <img Alt="UEFA Europa League" onerror="this.onerror=null;this.src=&#39;https://cdn.kirolbet.es/web/7/Content/images/trans.png&#39;;" src="https://cdn.kirolbet.es/mrk/7/Content/images/SCT/sct_00000210.png"></img>
+			    </div>
+
+                <div>
+    			
+                    <div class="date" style="margin-right:-20px;margin-left:-3px;">
+                        <div class="ico_tv_cont">        
+				            <p>         
+                                
+                         
+    
+                           
+                                            <time class="dateFecha" datetime="2017-09-14 17:00:00Z" showToday="true" format="sd"></time>
+
+                                <br />
+				                <span title="2017-09-14 17:00:00Z" class="timeto tooltipEve" live="0" d-date="<h3>#date</h3><span>#time</span>">19:00</span>                            
+                    
+				            </p>
+                       </div>
+			        </div>
+                    <div style="margin-top:-5px;" class="ico"><img Style="width:24px; height:24px" onerror="this.onerror=null;this.src=&#39;https://cdn.kirolbet.es/web/7/Content/images/trans.png&#39;;" src="https://cdn.kirolbet.es/mrk/7/Content/images/TV/tvc_000000-1.png"></img></div>
+                    
+			        <div class="info">
+				        <p>                
+                                                            <span class="overStar">
+		                            <span class="campeonato"> <a href="/esp/Sport/Competicion/210">UEFA Europa League</a> </span>
+                                    <span class="star tooltipEve" title="Añadir a favoritos"><a class="fav" data-catId="40" data-id="210" data-tipo="2"></a></span>
+	                            </span>
+					        <br />
+					        <span class="partido">                                
+                                                <a href="/esp/Sport/Evento/898605">FC Dynamo Kiev vs. Skenderbeu Korce <span>(+ 59)</span></a>
+
+                            </span>
+				        </p> 
+			        </div>
+            
+                </div>
+
+            </div>
+
+         
+               
+			<div class="it_898605 apuestas_fut" sport-type="Eve" des="FC Dynamo Kiev vs. Skenderbeu Korce">
+
+
+		<ul	class="it_898605_842 houdini_apuesta" sport-type="Mkt" des="N&#186; Goles (2,5)" 				
+			il="0" ic="1" cg="0">
+
+				<li>
+
+					<a class="it_842_1_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="- 2,5"><p class="tipe1"><span class="pronEvLst">- 2,5</span><br/><span class="coef">2,45</span></p></a>
+				</li>
+				<li>
+
+					<a class="it_842_2_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="+ 2,5"><p class="tipe1"><span class="pronEvLst">+ 2,5</span><br/><span class="coef">1,47</span></p></a>
+				</li>
+		</ul>                                               
+		<ul 			   	  
+						class="it_898605_66" sport-type="Mkt" des="1X2" 
+		il="0" ic="1" cg="0"
+		>
+				
+				<li >
+					
+					<a class="it_66_1_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="1"><p class="tipe1"><span class="pronEvLst">1</span><br/><span class="coef">1,13</span></p></a>
+				</li>
+				<li >
+					
+					<a class="it_66_2_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="X"><p class="tipe1"><span class="pronEvLst">X</span><br/><span class="coef">7,50</span></p></a>
+				</li>
+				<li >
+					
+					<a class="it_66_3_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="2"><p class="tipe1"><span class="pronEvLst">2</span><br/><span class="coef">19,00</span></p></a>
+				</li>
+				    </ul>		
+                
+			</div>
+
+			<div class="clear fle" ks-fle='14/09/2017'></div>			
+		</li>
+		<li class="filtroCategoria filtroCat-40">
+			
+            <div class="infoEve">
+            
+                <div class="ico icoConExtra" style=margin-top:0;>
+                    <img Alt="Islandia Urvalsdeild" onerror="this.onerror=null;this.src=&#39;https://cdn.kirolbet.es/web/7/Content/images/trans.png&#39;;" src="https://cdn.kirolbet.es/mrk/7/Content/images/SCT/sct_00002355.png"></img>
+			    </div>
+
+                <div>
+    			
+                    <div class="date" style="margin-right:-20px;margin-left:-3px;">
+                        <div class="ico_tv_cont">        
+				            <p>         
+                                
+                         
+    
+                           
+                                            <time class="dateFecha" datetime="2017-09-14 17:00:00Z" showToday="true" format="sd"></time>
+
+                                <br />
+				                <span title="2017-09-14 17:00:00Z" class="timeto tooltipEve" live="0" d-date="<h3>#date</h3><span>#time</span>">19:00</span>                            
+                    
+				            </p>
+                       </div>
+			        </div>
+                    <div style="margin-top:-5px;" class="ico"><img Style="width:24px; height:24px" onerror="this.onerror=null;this.src=&#39;https://cdn.kirolbet.es/web/7/Content/images/trans.png&#39;;" src="https://cdn.kirolbet.es/mrk/7/Content/images/TV/tvc_000000-1.png"></img></div>
+                    
+			        <div class="info">
+				        <p>                
+                                                            <span class="overStar">
+		                            <span class="campeonato"> <a href="/esp/Sport/Competicion/2355">Islandia Urvalsdeild</a> </span>
+                                    <span class="star tooltipEve" title="Añadir a favoritos"><a class="fav" data-catId="40" data-id="2355" data-tipo="2"></a></span>
+	                            </span>
+					        <br />
+					        <span class="partido">                                
+                                                <a href="/esp/Sport/Evento/891143">Fjolnir Reykjavik vs. IA Akranes <span>(+ 8)</span></a>
+
+                            </span>
+				        </p> 
+			        </div>
+            
+                </div>
+
+            </div>
+
+         
+               
+			<div class="it_891143 apuestas_fut" sport-type="Eve" des="Fjolnir Reykjavik vs. IA Akranes">
+
+
+		<ul	class="it_891143_842 houdini_apuesta" sport-type="Mkt" des="N&#186; Goles (2,5)" 				
+			il="0" ic="1" cg="0">
+
+				<li>
+
+					<a class="it_842_1_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="- 2,5"><p class="tipe1"><span class="pronEvLst">- 2,5</span><br/><span class="coef">2,45</span></p></a>
+				</li>
+				<li>
+
+					<a class="it_842_2_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="+ 2,5"><p class="tipe1"><span class="pronEvLst">+ 2,5</span><br/><span class="coef">1,43</span></p></a>
+				</li>
+		</ul>                                               
+		<ul 			   	  
+						class="it_891143_66" sport-type="Mkt" des="1X2" 
+		il="0" ic="1" cg="0"
+		>
+				
+				<li >
+					
+					<a class="it_66_1_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="1"><p class="tipe1"><span class="pronEvLst">1</span><br/><span class="coef">1,60</span></p></a>
+				</li>
+				<li >
+					
+					<a class="it_66_2_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="X"><p class="tipe1"><span class="pronEvLst">X</span><br/><span class="coef">3,95</span></p></a>
+				</li>
+				<li >
+					
+					<a class="it_66_3_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="2"><p class="tipe1"><span class="pronEvLst">2</span><br/><span class="coef">4,50</span></p></a>
+				</li>
+				    </ul>		
+                
+			</div>
+
+			<div class="clear fle" ks-fle='14/09/2017'></div>			
+		</li>
+		<li class="filtroCategoria filtroCat-40">
+			
+            <div class="infoEve">
+            
+                <div class="ico icoConExtra" style=margin-top:0;>
+                    <img Alt="UEFA Europa League" onerror="this.onerror=null;this.src=&#39;https://cdn.kirolbet.es/web/7/Content/images/trans.png&#39;;" src="https://cdn.kirolbet.es/mrk/7/Content/images/SCT/sct_00000210.png"></img>
+			    </div>
+
+                <div>
+    			
+                    <div class="date" style="margin-right:-20px;margin-left:-3px;">
+                        <div class="ico_tv_cont">        
+				            <p>         
+                                
+                         
+    
+                           
+                                            <time class="dateFecha" datetime="2017-09-14 17:00:00Z" showToday="true" format="sd"></time>
+
+                                <br />
+				                <span title="2017-09-14 17:00:00Z" class="timeto tooltipEve" live="0" d-date="<h3>#date</h3><span>#time</span>">19:00</span>                            
+                    
+				            </p>
+                       </div>
+			        </div>
+                    <div style="margin-top:-5px;" class="ico"><img Style="width:24px; height:24px" onerror="this.onerror=null;this.src=&#39;https://cdn.kirolbet.es/web/7/Content/images/trans.png&#39;;" src="https://cdn.kirolbet.es/mrk/7/Content/images/TV/tvc_000000-1.png"></img></div>
+                    
+			        <div class="info">
+				        <p>                
+                                                            <span class="overStar">
+		                            <span class="campeonato"> <a href="/esp/Sport/Competicion/210">UEFA Europa League</a> </span>
+                                    <span class="star tooltipEve" title="Añadir a favoritos"><a class="fav" data-catId="40" data-id="210" data-tipo="2"></a></span>
+	                            </span>
+					        <br />
+					        <span class="partido">                                
+                                                <a href="/esp/Sport/Evento/898610">HNK Rijeka vs. AEK Atenas <span>(+ 63)</span></a>
+
+                            </span>
+				        </p> 
+			        </div>
+            
+                </div>
+
+            </div>
+
+         
+               
+			<div class="it_898610 apuestas_fut" sport-type="Eve" des="HNK Rijeka vs. AEK Atenas">
+
+
+		<ul	class="it_898610_842 houdini_apuesta" sport-type="Mkt" des="N&#186; Goles (2,5)" 				
+			il="0" ic="1" cg="0">
+
+				<li>
+
+					<a class="it_842_1_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="- 2,5"><p class="tipe1"><span class="pronEvLst">- 2,5</span><br/><span class="coef">1,41</span></p></a>
+				</li>
+				<li>
+
+					<a class="it_842_2_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="+ 2,5"><p class="tipe1"><span class="pronEvLst">+ 2,5</span><br/><span class="coef">2,65</span></p></a>
+				</li>
+		</ul>                                               
+		<ul 			   	  
+						class="it_898610_66" sport-type="Mkt" des="1X2" 
+		il="0" ic="1" cg="0"
+		>
+				
+				<li >
+					
+					<a class="it_66_1_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="1"><p class="tipe1"><span class="pronEvLst">1</span><br/><span class="coef">2,30</span></p></a>
+				</li>
+				<li >
+					
+					<a class="it_66_2_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="X"><p class="tipe1"><span class="pronEvLst">X</span><br/><span class="coef">3,00</span></p></a>
+				</li>
+				<li >
+					
+					<a class="it_66_3_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="2"><p class="tipe1"><span class="pronEvLst">2</span><br/><span class="coef">3,35</span></p></a>
+				</li>
+				    </ul>		
+                
+			</div>
+
+			<div class="clear fle" ks-fle='14/09/2017'></div>			
+		</li>
+		<li class="filtroCategoria filtroCat-40">
+			
+            <div class="infoEve">
+            
+                <div class="ico icoConExtra" style=margin-top:0;>
+                    <img Alt="UEFA Europa League" onerror="this.onerror=null;this.src=&#39;https://cdn.kirolbet.es/web/7/Content/images/trans.png&#39;;" src="https://cdn.kirolbet.es/mrk/7/Content/images/SCT/sct_00000210.png"></img>            <span class="livetxt">LIVE</span>
+
+			    </div>
+
+                <div>
+    			
+                    <div class="date" style="margin-right:-20px;margin-left:-3px;">
+                        <div class="ico_tv_cont">        
+				            <p>         
+                                
+                         
+    
+                           
+                                            <time class="dateFecha" datetime="2017-09-14 17:00:00Z" showToday="true" format="sd"></time>
+
+                                <br />
+				                <span title="2017-09-14 17:00:00Z" class="timeto tooltipEve" live="1" d-date="<h3>#date</h3><span>#time</span>">19:00</span>                            
+                    
+				            </p>
+                       </div>
+			        </div>
+                    <div style="margin-top:-5px;" class="ico"><img Style="width:24px; height:24px" onerror="this.onerror=null;this.src=&#39;https://cdn.kirolbet.es/web/7/Content/images/trans.png&#39;;" src="https://cdn.kirolbet.es/mrk/7/Content/images/TV/tvc_00000017.png"></img></div>
+                    
+			        <div class="info">
+				        <p>                
+                                                            <span class="overStar">
+		                            <span class="campeonato"> <a href="/esp/Sport/Competicion/210">UEFA Europa League</a> </span>
+                                    <span class="star tooltipEve" title="Añadir a favoritos"><a class="fav" data-catId="40" data-id="210" data-tipo="2"></a></span>
+	                            </span>
+					        <br />
+					        <span class="partido">                                
+                                                <a href="/esp/Sport/Evento/898607">Hoffenheim vs. Sporting Braga <span>(+ 62)</span></a>
+
+                            </span>
+				        </p> 
+			        </div>
+            
+                </div>
+
+            </div>
+
+         
+               
+			<div class="it_898607 apuestas_fut" sport-type="Eve" des="Hoffenheim vs. Sporting Braga">
+
+
+		<ul	class="it_898607_842 houdini_apuesta" sport-type="Mkt" des="N&#186; Goles (2,5)" 				
+			il="0" ic="1" cg="0">
+
+				<li>
+
+					<a class="it_842_1_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="- 2,5"><p class="tipe1"><span class="pronEvLst">- 2,5</span><br/><span class="coef">2,15</span></p></a>
+				</li>
+				<li>
+
+					<a class="it_842_2_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="+ 2,5"><p class="tipe1"><span class="pronEvLst">+ 2,5</span><br/><span class="coef">1,60</span></p></a>
+				</li>
+		</ul>                                               
+		<ul 			   	  
+						class="it_898607_66" sport-type="Mkt" des="1X2" 
+		il="0" ic="1" cg="0"
+		>
+				
+				<li >
+					
+					<a class="it_66_1_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="1"><p class="tipe1"><span class="pronEvLst">1</span><br/><span class="coef">1,30</span></p></a>
+				</li>
+				<li >
+					
+					<a class="it_66_2_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="X"><p class="tipe1"><span class="pronEvLst">X</span><br/><span class="coef">5,30</span></p></a>
+				</li>
+				<li >
+					
+					<a class="it_66_3_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="2"><p class="tipe1"><span class="pronEvLst">2</span><br/><span class="coef">9,00</span></p></a>
+				</li>
+				    </ul>		
+                
+			</div>
+
+			<div class="clear fle" ks-fle='14/09/2017'></div>			
+		</li>
+		<li class="filtroCategoria filtroCat-40">
+			
+            <div class="infoEve">
+            
+                <div class="ico icoConExtra" style=margin-top:0;>
+                    <img Alt="Islandia Urvalsdeild" onerror="this.onerror=null;this.src=&#39;https://cdn.kirolbet.es/web/7/Content/images/trans.png&#39;;" src="https://cdn.kirolbet.es/mrk/7/Content/images/SCT/sct_00002355.png"></img>
+			    </div>
+
+                <div>
+    			
+                    <div class="date" style="margin-right:-20px;margin-left:-3px;">
+                        <div class="ico_tv_cont">        
+				            <p>         
+                                
+                         
+    
+                           
+                                            <time class="dateFecha" datetime="2017-09-14 17:00:00Z" showToday="true" format="sd"></time>
+
+                                <br />
+				                <span title="2017-09-14 17:00:00Z" class="timeto tooltipEve" live="0" d-date="<h3>#date</h3><span>#time</span>">19:00</span>                            
+                    
+				            </p>
+                       </div>
+			        </div>
+                    <div style="margin-top:-5px;" class="ico"><img Style="width:24px; height:24px" onerror="this.onerror=null;this.src=&#39;https://cdn.kirolbet.es/web/7/Content/images/trans.png&#39;;" src="https://cdn.kirolbet.es/mrk/7/Content/images/TV/tvc_000000-1.png"></img></div>
+                    
+			        <div class="info">
+				        <p>                
+                                                            <span class="overStar">
+		                            <span class="campeonato"> <a href="/esp/Sport/Competicion/2355">Islandia Urvalsdeild</a> </span>
+                                    <span class="star tooltipEve" title="Añadir a favoritos"><a class="fav" data-catId="40" data-id="2355" data-tipo="2"></a></span>
+	                            </span>
+					        <br />
+					        <span class="partido">                                
+                                                <a href="/esp/Sport/Evento/891144">IBV Vestmannaeyjar vs. UMF Grindavik <span>(+ 8)</span></a>
+
+                            </span>
+				        </p> 
+			        </div>
+            
+                </div>
+
+            </div>
+
+         
+               
+			<div class="it_891144 apuestas_fut" sport-type="Eve" des="IBV Vestmannaeyjar vs. UMF Grindavik">
+
+
+		<ul	class="it_891144_842 houdini_apuesta" sport-type="Mkt" des="N&#186; Goles (2,5)" 				
+			il="0" ic="1" cg="0">
+
+				<li>
+
+					<a class="it_842_1_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="- 2,5"><p class="tipe1"><span class="pronEvLst">- 2,5</span><br/><span class="coef">2,15</span></p></a>
+				</li>
+				<li>
+
+					<a class="it_842_2_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="+ 2,5"><p class="tipe1"><span class="pronEvLst">+ 2,5</span><br/><span class="coef">1,55</span></p></a>
+				</li>
+		</ul>                                               
+		<ul 			   	  
+						class="it_891144_66" sport-type="Mkt" des="1X2" 
+		il="0" ic="1" cg="0"
+		>
+				
+				<li >
+					
+					<a class="it_66_1_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="1"><p class="tipe1"><span class="pronEvLst">1</span><br/><span class="coef">1,85</span></p></a>
+				</li>
+				<li >
+					
+					<a class="it_66_2_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="X"><p class="tipe1"><span class="pronEvLst">X</span><br/><span class="coef">3,55</span></p></a>
+				</li>
+				<li >
+					
+					<a class="it_66_3_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="2"><p class="tipe1"><span class="pronEvLst">2</span><br/><span class="coef">3,50</span></p></a>
+				</li>
+				    </ul>		
+                
+			</div>
+
+			<div class="clear fle" ks-fle='14/09/2017'></div>			
+		</li>
+		<li class="filtroCategoria filtroCat-40">
+			
+            <div class="infoEve">
+            
+                <div class="ico icoConExtra" style=margin-top:0;>
+                    <img Alt="Islandia Urvalsdeild" onerror="this.onerror=null;this.src=&#39;https://cdn.kirolbet.es/web/7/Content/images/trans.png&#39;;" src="https://cdn.kirolbet.es/mrk/7/Content/images/SCT/sct_00002355.png"></img>
+			    </div>
+
+                <div>
+    			
+                    <div class="date" style="margin-right:-20px;margin-left:-3px;">
+                        <div class="ico_tv_cont">        
+				            <p>         
+                                
+                         
+    
+                           
+                                            <time class="dateFecha" datetime="2017-09-14 17:00:00Z" showToday="true" format="sd"></time>
+
+                                <br />
+				                <span title="2017-09-14 17:00:00Z" class="timeto tooltipEve" live="0" d-date="<h3>#date</h3><span>#time</span>">19:00</span>                            
+                    
+				            </p>
+                       </div>
+			        </div>
+                    <div style="margin-top:-5px;" class="ico"><img Style="width:24px; height:24px" onerror="this.onerror=null;this.src=&#39;https://cdn.kirolbet.es/web/7/Content/images/trans.png&#39;;" src="https://cdn.kirolbet.es/mrk/7/Content/images/TV/tvc_000000-1.png"></img></div>
+                    
+			        <div class="info">
+				        <p>                
+                                                            <span class="overStar">
+		                            <span class="campeonato"> <a href="/esp/Sport/Competicion/2355">Islandia Urvalsdeild</a> </span>
+                                    <span class="star tooltipEve" title="Añadir a favoritos"><a class="fav" data-catId="40" data-id="2355" data-tipo="2"></a></span>
+	                            </span>
+					        <br />
+					        <span class="partido">                                
+                                                <a href="/esp/Sport/Evento/891146">KA Akureyri vs. Valur Reykjavik <span>(+ 8)</span></a>
+
+                            </span>
+				        </p> 
+			        </div>
+            
+                </div>
+
+            </div>
+
+         
+               
+			<div class="it_891146 apuestas_fut" sport-type="Eve" des="KA Akureyri vs. Valur Reykjavik">
+
+
+		<ul	class="it_891146_842 houdini_apuesta" sport-type="Mkt" des="N&#186; Goles (2,5)" 				
+			il="0" ic="1" cg="0">
+
+				<li>
+
+					<a class="it_842_1_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="- 2,5"><p class="tipe1"><span class="pronEvLst">- 2,5</span><br/><span class="coef">2,00</span></p></a>
+				</li>
+				<li>
+
+					<a class="it_842_2_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="+ 2,5"><p class="tipe1"><span class="pronEvLst">+ 2,5</span><br/><span class="coef">1,65</span></p></a>
+				</li>
+		</ul>                                               
+		<ul 			   	  
+						class="it_891146_66" sport-type="Mkt" des="1X2" 
+		il="0" ic="1" cg="0"
+		>
+				
+				<li >
+					
+					<a class="it_66_1_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="1"><p class="tipe1"><span class="pronEvLst">1</span><br/><span class="coef">3,25</span></p></a>
+				</li>
+				<li >
+					
+					<a class="it_66_2_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="X"><p class="tipe1"><span class="pronEvLst">X</span><br/><span class="coef">3,45</span></p></a>
+				</li>
+				<li >
+					
+					<a class="it_66_3_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="2"><p class="tipe1"><span class="pronEvLst">2</span><br/><span class="coef">1,95</span></p></a>
+				</li>
+				    </ul>		
+                
+			</div>
+
+			<div class="clear fle" ks-fle='14/09/2017'></div>			
+		</li>
+		<li class="filtroCategoria filtroCat-40">
+			
+            <div class="infoEve">
+            
+                <div class="ico icoConExtra" style=margin-top:0;>
+                    <img Alt="UEFA Europa League" onerror="this.onerror=null;this.src=&#39;https://cdn.kirolbet.es/web/7/Content/images/trans.png&#39;;" src="https://cdn.kirolbet.es/mrk/7/Content/images/SCT/sct_00000210.png"></img>
+			    </div>
+
+                <div>
+    			
+                    <div class="date" style="margin-right:-20px;margin-left:-3px;">
+                        <div class="ico_tv_cont">        
+				            <p>         
+                                
+                         
+    
+                           
+                                            <time class="dateFecha" datetime="2017-09-14 17:00:00Z" showToday="true" format="sd"></time>
+
+                                <br />
+				                <span title="2017-09-14 17:00:00Z" class="timeto tooltipEve" live="0" d-date="<h3>#date</h3><span>#time</span>">19:00</span>                            
+                    
+				            </p>
+                       </div>
+			        </div>
+                    <div style="margin-top:-5px;" class="ico"><img Style="width:24px; height:24px" onerror="this.onerror=null;this.src=&#39;https://cdn.kirolbet.es/web/7/Content/images/trans.png&#39;;" src="https://cdn.kirolbet.es/mrk/7/Content/images/TV/tvc_000000-1.png"></img></div>
+                    
+			        <div class="info">
+				        <p>                
+                                                            <span class="overStar">
+		                            <span class="campeonato"> <a href="/esp/Sport/Competicion/210">UEFA Europa League</a> </span>
+                                    <span class="star tooltipEve" title="Añadir a favoritos"><a class="fav" data-catId="40" data-id="210" data-tipo="2"></a></span>
+	                            </span>
+					        <br />
+					        <span class="partido">                                
+                                                <a href="/esp/Sport/Evento/898602">SK Slavia Praga vs. Maccabi Tel Aviv <span>(+ 63)</span></a>
+
+                            </span>
+				        </p> 
+			        </div>
+            
+                </div>
+
+            </div>
+
+         
+               
+			<div class="it_898602 apuestas_fut" sport-type="Eve" des="SK Slavia Praga vs. Maccabi Tel Aviv">
+
+
+		<ul	class="it_898602_842 houdini_apuesta" sport-type="Mkt" des="N&#186; Goles (2,5)" 				
+			il="0" ic="1" cg="0">
+
+				<li>
+
+					<a class="it_842_1_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="- 2,5"><p class="tipe1"><span class="pronEvLst">- 2,5</span><br/><span class="coef">1,55</span></p></a>
+				</li>
+				<li>
+
+					<a class="it_842_2_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="+ 2,5"><p class="tipe1"><span class="pronEvLst">+ 2,5</span><br/><span class="coef">2,25</span></p></a>
+				</li>
+		</ul>                                               
+		<ul 			   	  
+						class="it_898602_66" sport-type="Mkt" des="1X2" 
+		il="0" ic="1" cg="0"
+		>
+				
+				<li >
+					
+					<a class="it_66_1_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="1"><p class="tipe1"><span class="pronEvLst">1</span><br/><span class="coef">2,00</span></p></a>
+				</li>
+				<li >
+					
+					<a class="it_66_2_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="X"><p class="tipe1"><span class="pronEvLst">X</span><br/><span class="coef">3,30</span></p></a>
+				</li>
+				<li >
+					
+					<a class="it_66_3_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="2"><p class="tipe1"><span class="pronEvLst">2</span><br/><span class="coef">3,80</span></p></a>
+				</li>
+				    </ul>		
+                
+			</div>
+
+			<div class="clear fle" ks-fle='14/09/2017'></div>			
+		</li>
+		<li class="filtroCategoria filtroCat-40">
+			
+            <div class="infoEve">
+            
+                <div class="ico icoConExtra" style=margin-top:0;>
+                    <img Alt="Islandia Urvalsdeild" onerror="this.onerror=null;this.src=&#39;https://cdn.kirolbet.es/web/7/Content/images/trans.png&#39;;" src="https://cdn.kirolbet.es/mrk/7/Content/images/SCT/sct_00002355.png"></img>
+			    </div>
+
+                <div>
+    			
+                    <div class="date" style="margin-right:-20px;margin-left:-3px;">
+                        <div class="ico_tv_cont">        
+				            <p>         
+                                
+                         
+    
+                           
+                                            <time class="dateFecha" datetime="2017-09-14 17:00:00Z" showToday="true" format="sd"></time>
+
+                                <br />
+				                <span title="2017-09-14 17:00:00Z" class="timeto tooltipEve" live="0" d-date="<h3>#date</h3><span>#time</span>">19:00</span>                            
+                    
+				            </p>
+                       </div>
+			        </div>
+                    <div style="margin-top:-5px;" class="ico"><img Style="width:24px; height:24px" onerror="this.onerror=null;this.src=&#39;https://cdn.kirolbet.es/web/7/Content/images/trans.png&#39;;" src="https://cdn.kirolbet.es/mrk/7/Content/images/TV/tvc_000000-1.png"></img></div>
+                    
+			        <div class="info">
+				        <p>                
+                                                            <span class="overStar">
+		                            <span class="campeonato"> <a href="/esp/Sport/Competicion/2355">Islandia Urvalsdeild</a> </span>
+                                    <span class="star tooltipEve" title="Añadir a favoritos"><a class="fav" data-catId="40" data-id="2355" data-tipo="2"></a></span>
+	                            </span>
+					        <br />
+					        <span class="partido">                                
+                                                <a href="/esp/Sport/Evento/891148">Vikingur Reykjavik vs. FH Hafnarfjordur <span>(+ 8)</span></a>
+
+                            </span>
+				        </p> 
+			        </div>
+            
+                </div>
+
+            </div>
+
+         
+               
+			<div class="it_891148 apuestas_fut" sport-type="Eve" des="Vikingur Reykjavik vs. FH Hafnarfjordur">
+
+
+		<ul	class="it_891148_842 houdini_apuesta" sport-type="Mkt" des="N&#186; Goles (2,5)" 				
+			il="0" ic="1" cg="0">
+
+				<li>
+
+					<a class="it_842_1_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="- 2,5"><p class="tipe1"><span class="pronEvLst">- 2,5</span><br/><span class="coef">1,85</span></p></a>
+				</li>
+				<li>
+
+					<a class="it_842_2_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="+ 2,5"><p class="tipe1"><span class="pronEvLst">+ 2,5</span><br/><span class="coef">1,75</span></p></a>
+				</li>
+		</ul>                                               
+		<ul 			   	  
+						class="it_891148_66" sport-type="Mkt" des="1X2" 
+		il="0" ic="1" cg="0"
+		>
+				
+				<li >
+					
+					<a class="it_66_1_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="1"><p class="tipe1"><span class="pronEvLst">1</span><br/><span class="coef">3,15</span></p></a>
+				</li>
+				<li >
+					
+					<a class="it_66_2_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="X"><p class="tipe1"><span class="pronEvLst">X</span><br/><span class="coef">3,30</span></p></a>
+				</li>
+				<li >
+					
+					<a class="it_66_3_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="2"><p class="tipe1"><span class="pronEvLst">2</span><br/><span class="coef">2,05</span></p></a>
+				</li>
+				    </ul>		
+                
+			</div>
+
+			<div class="clear fle" ks-fle='14/09/2017'></div>			
+		</li>
+		<li class="filtroCategoria filtroCat-40">
+			
+            <div class="infoEve">
+            
+                <div class="ico icoConExtra" style=margin-top:0;>
+                    <img Alt="UEFA Europa League" onerror="this.onerror=null;this.src=&#39;https://cdn.kirolbet.es/web/7/Content/images/trans.png&#39;;" src="https://cdn.kirolbet.es/mrk/7/Content/images/SCT/sct_00000210.png"></img>            <span class="livetxt">LIVE</span>
+
+			    </div>
+
+                <div>
+    			
+                    <div class="date" style="margin-right:-20px;margin-left:-3px;">
+                        <div class="ico_tv_cont">        
+				            <p>         
+                                
+                         
+    
+                           
+                                            <time class="dateFecha" datetime="2017-09-14 17:00:00Z" showToday="true" format="sd"></time>
+
+                                <br />
+				                <span title="2017-09-14 17:00:00Z" class="timeto tooltipEve" live="1" d-date="<h3>#date</h3><span>#time</span>">19:00</span>                            
+                    
+				            </p>
+                       </div>
+			        </div>
+                    <div style="margin-top:-5px;" class="ico"><img Style="width:24px; height:24px" onerror="this.onerror=null;this.src=&#39;https://cdn.kirolbet.es/web/7/Content/images/trans.png&#39;;" src="https://cdn.kirolbet.es/mrk/7/Content/images/TV/tvc_00000051.png"></img></div>
+                    
+			        <div class="info">
+				        <p>                
+                                                            <span class="overStar">
+		                            <span class="campeonato"> <a href="/esp/Sport/Competicion/210">UEFA Europa League</a> </span>
+                                    <span class="star tooltipEve" title="Añadir a favoritos"><a class="fav" data-catId="40" data-id="210" data-tipo="2"></a></span>
+	                            </span>
+					        <br />
+					        <span class="partido">                                
+                                                <a href="/esp/Sport/Evento/898603">Villarreal vs. FC Astana <span>(+ 80)</span></a>
+
+                            </span>
+				        </p> 
+			        </div>
+            
+                </div>
+
+            </div>
+
+         
+               
+			<div class="it_898603 apuestas_fut" sport-type="Eve" des="Villarreal vs. FC Astana">
+
+
+		<ul	class="it_898603_842 houdini_apuesta" sport-type="Mkt" des="N&#186; Goles (2,5)" 				
+			il="0" ic="1" cg="0">
+
+				<li>
+
+					<a class="it_842_1_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="- 2,5"><p class="tipe1"><span class="pronEvLst">- 2,5</span><br/><span class="coef">2,15</span></p></a>
+				</li>
+				<li>
+
+					<a class="it_842_2_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="+ 2,5"><p class="tipe1"><span class="pronEvLst">+ 2,5</span><br/><span class="coef">1,60</span></p></a>
+				</li>
+		</ul>                                               
+		<ul 			   	  
+						class="it_898603_66" sport-type="Mkt" des="1X2" 
+		il="0" ic="1" cg="0"
+		>
+				
+				<li >
+					
+					<a class="it_66_1_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="1"><p class="tipe1"><span class="pronEvLst">1</span><br/><span class="coef">1,21</span></p></a>
+				</li>
+				<li >
+					
+					<a class="it_66_2_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="X"><p class="tipe1"><span class="pronEvLst">X</span><br/><span class="coef">6,00</span></p></a>
+				</li>
+				<li >
+					
+					<a class="it_66_3_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="2"><p class="tipe1"><span class="pronEvLst">2</span><br/><span class="coef">13,00</span></p></a>
+				</li>
+				    </ul>		
+                
+			</div>
+
+			<div class="clear fle" ks-fle='14/09/2017'></div>			
+		</li>
+		<li class="filtroCategoria filtroCat-40">
+			
+            <div class="infoEve">
+            
+                <div class="ico icoConExtra" style=margin-top:0;>
+                    <img Alt="Lituania A Lyga" onerror="this.onerror=null;this.src=&#39;https://cdn.kirolbet.es/web/7/Content/images/trans.png&#39;;" src="https://cdn.kirolbet.es/mrk/7/Content/images/SCT/sct_00002358.png"></img>            <span class="livetxt">LIVE</span>
+
+			    </div>
+
+                <div>
+    			
+                    <div class="date" style="margin-right:-20px;margin-left:-3px;">
+                        <div class="ico_tv_cont">        
+				            <p>         
+                                
+                         
+    
+                           
+                                            <time class="dateFecha" datetime="2017-09-14 17:00:00Z" showToday="true" format="sd"></time>
+
+                                <br />
+				                <span title="2017-09-14 17:00:00Z" class="timeto tooltipEve" live="1" d-date="<h3>#date</h3><span>#time</span>">19:00</span>                            
+                    
+				            </p>
+                       </div>
+			        </div>
+                    <div style="margin-top:-5px;" class="ico"><img Style="width:24px; height:24px" onerror="this.onerror=null;this.src=&#39;https://cdn.kirolbet.es/web/7/Content/images/trans.png&#39;;" src="https://cdn.kirolbet.es/mrk/7/Content/images/TV/tvc_00000058.png"></img></div>
+                    
+			        <div class="info">
+				        <p>                
+                                                            <span class="overStar">
+		                            <span class="campeonato"> <a href="/esp/Sport/Competicion/2358">Lituania A Lyga</a> </span>
+                                    <span class="star tooltipEve" title="Añadir a favoritos"><a class="fav" data-catId="40" data-id="2358" data-tipo="2"></a></span>
+	                            </span>
+					        <br />
+					        <span class="partido">                                
+                                                <a href="/esp/Sport/Evento/891147">VMFD Zalgiris vs. FK Spyris Kaunas <span>(+ 8)</span></a>
+
+                            </span>
+				        </p> 
+			        </div>
+            
+                </div>
+
+            </div>
+
+         
+               
+			<div class="it_891147 apuestas_fut" sport-type="Eve" des="VMFD Zalgiris vs. FK Spyris Kaunas">
+
+
+		<ul	class="it_891147_842 houdini_apuesta" sport-type="Mkt" des="N&#186; Goles (2,5)" 				
+			il="0" ic="1" cg="0">
+
+				<li>
+
+					<a class="it_842_1_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="- 2,5"><p class="tipe1"><span class="pronEvLst">- 2,5</span><br/><span class="coef">2,50</span></p></a>
+				</li>
+				<li>
+
+					<a class="it_842_2_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="+ 2,5"><p class="tipe1"><span class="pronEvLst">+ 2,5</span><br/><span class="coef">1,41</span></p></a>
+				</li>
+		</ul>                                               
+		<ul 			   	  
+						class="it_891147_66" sport-type="Mkt" des="1X2" 
+		il="0" ic="1" cg="0"
+		>
+				
+				<li >
+					
+					<a class="it_66_1_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="1"><p class="tipe1"><span class="pronEvLst">1</span><br/><span class="coef">1,13</span></p></a>
+				</li>
+				<li >
+					
+					<a class="it_66_2_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="X"><p class="tipe1"><span class="pronEvLst">X</span><br/><span class="coef">6,50</span></p></a>
+				</li>
+				<li >
+					
+					<a class="it_66_3_F" href="/esp/BetSlip/AddLine" ks-prn="true" rel="nofollow" title="2"><p class="tipe1"><span class="pronEvLst">2</span><br/><span class="coef">15,00</span></p></a>
+				</li>
+				    </ul>		
+                
+			</div>
+
+			<div class="clear fle" ks-fle='14/09/2017'></div>			
+		</li>
+</ul>
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                </div>
+
+            </div>
+        </div>
+
+
+
+
+
+<script type="text/javascript">
+    function setClickMod() {
+        $(document).on('click', '.modalidad li a', function () {
+            var el = $(this);
+            var idDiv = el.closest('.getSct').attr('id');
+            var parent = $('#' + idDiv);
+            var selectedClass = "selected";
+            $('.modalidad li a', parent).removeClass(selectedClass);
+            $(el, parent).addClass(selectedClass);
+        });
+    }
+    $(document).ready(setClickMod());
+</script>
+
+    </div>
+
+ 
+
+</div>
+
+	  
+		</div>	 
+			<div id="pagging"><a class="viewmore pagging" href="/esp/Sport/DeporteProximos/40" ks-div="#EveList">M&#225;s eventos</a></div>
+
+         		
+                        </div>
+					</div>
+					<!-- /column -->					
+					<div class="column last">	
+                        <div class="resizer resLast">					
+						    <!-- BOLETO -->
+						    <div class="blue">
+							    <div id="BetSlipParent">
+							       <div id="BetSlip">
+
+
+
+
+
+
+   
+
+<h3>Mi Boleto</h3>
+						
+<div class="clear"></div>
+<ul class="nav_glob">
+    <li class="BetSlip"><a href="javascript: changeBetSlip('BetSlip'); void(0);">Deportes</a></li>
+</ul>
+
+
+
+ <!--- -->
+<script type="text/javascript">
+    window.bsMode = "BetSlip"; 		
+	$(function(){
+		bs.cache.setBsMode(bsMode);
+	});
+	
+	resetAllLines();
+	
+
+</script>
+                                
+    
+								    </div>
+							    </div>
+						    </div>
+						    <!-- /boleto -->                                                                                                                        
+  
+                            
+
+    <a id="casino" class="destacados alargarExtended" category="casino" href="/esp/Casino"><img src="https://cdn.kirolbet.es/mrkcli/7/Customers/7/Content/images/DESTACADOS/txt_casino_esp.png" onError="this.onerror=null;this.src='https://cdn.kirolbet.es/web/7/Content/images/trans.png';" /></a>
+    <a id="app" class="destacados alargarExtended" href="/esp/Sport/Mobile"><img src="https://cdn.kirolbet.es/mrkcli/7/Customers/7/Content/images/DESTACADOS/txt_app_esp.png" onError="this.onerror=null;this.src='https://cdn.kirolbet.es/web/7/Content/images/trans.png';" alt="APP KIROLBET" /></a>
+
+<a id="registrate" class="hidden destacados alargarExtended " href="/esp/Account/RegistroDeUsuario"><img src="https://cdn.kirolbet.es/mrkcli/7/Customers/7/Content/images/DESTACADOS/registrate_texto_esp.png" onError="this.onerror=null;this.src='https://cdn.kirolbet.es/web/7/Content/images/trans.png';" alt="&#161;Reg&#237;strate!" /></a>
+
+
+    <a id="cercaDeTi" class="destacados alargarExtended" category="cercaDeTi" href="/esp/General/RedTerrestreMapas"><img src="https://cdn.kirolbet.es/mrkcli/7/Customers/7/Content/images/DESTACADOS/txt_CercaDeTi_esp.png" onError="this.onerror=null;this.src='https://cdn.kirolbet.es/web/7/Content/images/trans.png';" /></a>
+<a id="blog" class="hidden destacados alargarExtended" category="blog" href="http://www.blog.kirolbet.es/" target="_blank" style="display:none;"><img src="https://cdn.kirolbet.es/mrkcli/7/Customers/7/Content/images/DESTACADOS/txt_blog_esp.png" onError="this.onerror=null;this.src='https://cdn.kirolbet.es/web/7/Content/images/trans.png';" /></a>
+
+						    <div class="graphite liveAcordeon">
+							    <div>
+								    <h3 id="MenuLive" class="red"><a href="/esp/Live" style="color:#FFFFFF;">Live</a></h3>
+							    </div>
+							    <div class="clear"></div>
+							    <div id="menuDirectos">								    
+									
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('#conEventosAccordion').hide();
+        $('#sinEventosAccordion').hide();
+    });
+</script>
+
+
+
+<div id="sinDatosAccordion" style="display: none;"></div>
+
+<div id="conDatosAccordion" style="display: none;">
+    <div id="liveAccordion">
+
+        
+        <div data-bind="controlDatosAccordion: $data.Matches().length" section="DatosAccordion"></div>
+
+        
+        <div id="menuLiveMatches">
+                <ul class="accordion" id="accordion-live-normal" data-bind="foreach: MbyCat">
+        <li class="dcjq-parent-li ksAccordion-li" data-bind="accordion: {}">
+            <a href="#" class="ksAccordion-icon"><img data-bind="attr: {src: kslib.ksPaths.getImageSrc({parameterID: CategoryId, imageType: 'CAT'})}" onError="this.onerror=null;this.src='https://cdn.kirolbet.es/web/7/Content/images/trans.png';" class="icoImg" alt="imagen de categoría" style="float:left;margin-top:3px;" /> <span class="maximo_deporte" data-bind="text: CategoryText.toUpperCase()"></span><div class="clear"></div></a>
+            <ul class="ksAccordion-toggle" data-bind="foreach: $data.Matches, attr: {id: 'accordion-live-'+CategoryId}">
+                
+
+                <!-- ko if: $data.Score && $data.Score != null -->
+                <li>
+                    <!-- ko with: $data.Score -->
+                        <div class="seccion_live">
+                            <p class="live-hora">
+                                <!-- ko if: ($data.TipoMarcadorMulti != "Tenis" && $data.TipoMarcadorMulti != "PingPong" && $data.TipoMarcadorMulti != "Basket" && $data.TipoMarcadorMulti != "Beisbol" && $data.TipoMarcadorMulti != "Snooker") -->
+                                    <!-- ko if: $data.GameTime() && $data.GameTime() != "0" && $data.GameTime() != "" -->
+	<span class="ksNegrita">  M&#237;n.</span> <span class="ksNegrita" data-bind="text: GameTime"></span>
+<!-- /ko -->
+<!-- ko if: !$data.GameTime() || $data.GameTime() == "0" || $data.GameTime() == "" -->
+	<!-- ko if: $data.RemainingGameTime() && $data.RemainingGameTime() != "0" && $data.RemainingGameTime() != "" -->
+		<span class="ksNegrita">  Faltan</span> <span class="ksNegrita" data-bind="remainingTime: RemainingGameTime"></span>
+	<!-- /ko -->
+<!-- /ko -->
+<!-- ko if: (!$data.GameTime() || $data.GameTime() == "0" || $data.GameTime() == "") && (!$data.RemainingGameTime() || $data.RemainingGameTime() == "0" || $data.RemainingGameTime() == "") -->
+	<span class="ksNegrita">  Hora Inicio <span  data-bind="hora:$parent.StartDate, type: 'SHORT_TIME'"></span></span>
+<!-- /ko -->
+
+                                <!-- /ko -->
+
+                                <!-- ko if: ($data.TipoMarcadorMulti == "Tenis" || $data.TipoMarcadorMulti == "PingPong" || $data.TipoMarcadorMulti == "Basket" || $data.TipoMarcadorMulti == "Beisbol" || $data.TipoMarcadorMulti == "Snooker") -->
+                                    <span>
+                                        <!-- ko if: $data.Periods -->
+                                            <!-- ko if: PeriodActive() > 0 -->
+                                
+                                                <!-- ko if: $data.TipoMarcadorMulti == "Basket" -->
+                                                    <span class="marcador_tenis" data-bind="highlightScore: PeriodActive"></span><span class="marcador_tenis">º cuarto</span>
+                                                <!-- /ko -->
+
+                                                <!-- ko if: ($data.TipoMarcadorMulti == "Tenis" || $data.TipoMarcadorMulti == "PingPong" || $data.TipoMarcadorMulti == "Beisbol") && ($data.TipoMarcador != "Dardos" && $data.TipoMarcador != "Snooker") -->
+                                                    <span class="marcador_tenis">Set</span> <span class="marcador_tenis" data-bind="highlightScore: PeriodActive"></span>
+                                                <!-- /ko -->
+
+                                                <!-- ko if: ($data.TipoMarcadorMulti == "Snooker") -->
+                                                    <!-- ko if: ($parent.CategoryId == "451") -->
+                                                        <span class="marcador_tenis">Frame</span>
+                                                    <!-- /ko -->
+                                        
+                                                    <!-- ko if: ($parent.CategoryId == "449") -->
+                                                        <span class="marcador_tenis">Leg</span>
+                                                    <!-- /ko -->
+                                        
+                                                    <span class="marcador_tenis" data-bind="highlightScore: PeriodActive"></span>
+                                                <!-- /ko -->
+
+                                            <!-- /ko -->
+                                        <!-- /ko -->
+                                    </span>
+                                <!-- /ko -->
+
+                                    <!-- ko with: $parent -->
+                                        <!-- ko if: $data.TVChannel() == '58' -->
+	<img data-bind="attr: {'src': kslib.ksPaths.getImageSrc({parameterID: TVChannel(), imageType: 'TV'}), 'alt': TVChannel}" class="TvLiveParStreaming" onError="this.style.visibility='hidden';" />
+                                        <!-- /ko -->
+                                    <!-- /ko -->
+
+                            </p>
+                            
+                            <a href="#" class="sin dcjq-current" data-bind="attr: {'match-id': $parent.Id, 'href': '/esp/Live/Evento' + '/' + $parent.Id}">
+                                <!-- ko if: ($data.TipoMarcadorMulti != "Ciclismo") -->
+                                <p>
+                                    <span data-bind="text: TeamHome"></span>
+                                    <!-- ko if: $data.Service && $data.Service() == 1 -->
+                                    <b class="saque"></b>
+                                    <!-- /ko -->
+                                </p>
+                                <p>
+                                    <span data-bind="text: TeamAway"></span>
+                                    <!-- ko if: $data.Service && $data.Service() == 2 -->
+                                    <b class="saque"></b>
+                                    <!-- /ko -->
+                                </p>
+                                <!-- /ko -->
+                                <!-- ko if: ($data.TipoMarcadorMulti == "Ciclismo") -->
+                                <p>
+                                    <span data-bind="text: $parent.Text"></span>
+                                </p>
+                                <!-- /ko -->
+                            </a>                         
+                        </div>                      
+
+                        <div class="marcadorNoTenis">
+                            <!-- ko if: $data.TipoMarcadorMulti != "Tenis" && $data.TipoMarcadorMulti != "PingPong" && $data.TipoMarcadorMulti != "none" && $data.TipoMarcadorMulti != "Basket" && $data.TipoMarcadorMulti != "Beisbol" && $data.TipoMarcadorMulti != "Snooker" -->
+                                <!-- ko if: $data.Periods -->
+                                    <div class="marcador" data-bind="foreach: Periods">
+                                            <div class="fleft"><span data-bind="highlightScore: Home"></span></div>
+	<div class="fleft"><span data-bind="highlightScore: Away"></span></div>
+
+                                    </div>
+                                <!-- /ko -->
+                            <!-- /ko -->
+                        </div>
+
+                        <!-- ko if: ($data.TipoMarcadorMulti == "Tenis" || $data.TipoMarcadorMulti == "PingPong" || $data.TipoMarcadorMulti == "Basket" || $data.TipoMarcadorMulti == "Beisbol" ) -->
+                            <div class="marcadorTenis">
+                                <!-- ko if: $data.Periods -->
+
+                                <ul>
+                                    <!-- ko foreach: $data.Periods -->
+                                        <!-- ko if: $data.Id != 0 -->
+                                            <!-- ko if: $index() < $parent.PeriodActive()  -->
+                                            <li>    <div class=""><span data-bind="highlightScore: Home"></span></div>
+	<div class=""><span data-bind="highlightScore: Away"></span></div>
+</li>
+                                            <!-- /ko -->
+                                        <!-- /ko -->
+                                        <!-- ko if: $data.Id == $parent.PeriodActive()-->
+                                            <!-- ko if: $index() <= $parent.PeriodActive() -->
+                                            <li class="period-active">    <div class=""><span data-bind="highlightScore: Home"></span></div>
+	<div class=""><span data-bind="highlightScore: Away"></span></div>
+</li>
+                                            <!-- /ko -->
+                                        <!-- /ko -->
+                                    <!-- /ko -->
+                                    <!-- ko if: $data.TipoMarcadorMulti == "Basket" || $data.TipoMarcadorMulti == "Beisbol" -->
+                                    <li data-bind="foreach: Periods" class="totalResult">
+                                        <!-- ko if: $data.Id == 0 -->
+                                            <div class=""><span data-bind="highlightScore: Home"></span></div>
+	<div class=""><span data-bind="highlightScore: Away"></span></div>
+
+                                        <!-- /ko -->
+                                    </li>
+                                    <!-- /ko -->
+
+                                </ul>
+
+                                <!-- /ko -->
+                            </div>
+                        <!-- /ko -->
+
+                        <!-- ko if: ( $data.TipoMarcadorMulti == "Snooker" ) -->
+                            <div class="marcadorTenis">
+                                <!-- ko if: $data.Periods -->
+                                <ul>
+                                    <!-- ko foreach: $data.Periods -->
+                                    <!-- ko if: $data.Id == 1 -->
+                                    <li>    <div class=""><span data-bind="highlightScore: Home"></span></div>
+	<div class=""><span data-bind="highlightScore: Away"></span></div>
+</li>
+                                    <!-- /ko -->
+                                    <!-- /ko -->
+                                    <li data-bind="foreach: Periods" class="totalResult">
+                                        <!-- ko if: $data.Id == 0 -->
+                                            <div class=""><span data-bind="highlightScore: Home"></span></div>
+	<div class=""><span data-bind="highlightScore: Away"></span></div>
+
+                                        <!-- /ko -->
+                                    </li>
+                                </ul>
+                                <!-- /ko -->
+                            </div>
+                        <!-- /ko -->
+
+                    <!-- /ko -->
+
+                </li>
+                <!-- /ko -->
+
+
+            </ul>
+        </li>
+    </ul>
+
+        </div>
+
+        
+            <div id="menuLiveMatchesStreaming" style="display: none;">
+                    <ul class="accordion" id="accordion-live-streaming" data-bind="foreach: MbyCat">
+        <li class="dcjq-parent-li ksAccordion-li" data-bind="accordion: {}">
+            <a href="#" class="ksAccordion-icon"><img data-bind="attr: {src: kslib.ksPaths.getImageSrc({parameterID: CategoryId, imageType: 'CAT'})}" onError="this.onerror=null;this.src='https://cdn.kirolbet.es/web/7/Content/images/trans.png';" class="icoImg" alt="imagen de categoría" style="float:left;margin-top:3px;" /> <span class="maximo_deporte" data-bind="text: CategoryText.toUpperCase()"></span><div class="clear"></div></a>
+            <ul class="ksAccordion-toggle" data-bind="foreach: $data.Matches, attr: {id: 'accordion-live-'+CategoryId}">
+                
+                    <!-- ko if: $data.TVChannel() == '58' -->
+
+                <!-- ko if: $data.Score && $data.Score != null -->
+                <li>
+                    <!-- ko with: $data.Score -->
+                        <div class="seccion_live">
+                            <p class="live-hora">
+                                <!-- ko if: ($data.TipoMarcadorMulti != "Tenis" && $data.TipoMarcadorMulti != "PingPong" && $data.TipoMarcadorMulti != "Basket" && $data.TipoMarcadorMulti != "Beisbol" && $data.TipoMarcadorMulti != "Snooker") -->
+                                    <!-- ko if: $data.GameTime() && $data.GameTime() != "0" && $data.GameTime() != "" -->
+	<span class="ksNegrita">  M&#237;n.</span> <span class="ksNegrita" data-bind="text: GameTime"></span>
+<!-- /ko -->
+<!-- ko if: !$data.GameTime() || $data.GameTime() == "0" || $data.GameTime() == "" -->
+	<!-- ko if: $data.RemainingGameTime() && $data.RemainingGameTime() != "0" && $data.RemainingGameTime() != "" -->
+		<span class="ksNegrita">  Faltan</span> <span class="ksNegrita" data-bind="remainingTime: RemainingGameTime"></span>
+	<!-- /ko -->
+<!-- /ko -->
+<!-- ko if: (!$data.GameTime() || $data.GameTime() == "0" || $data.GameTime() == "") && (!$data.RemainingGameTime() || $data.RemainingGameTime() == "0" || $data.RemainingGameTime() == "") -->
+	<span class="ksNegrita">  Hora Inicio <span  data-bind="hora:$parent.StartDate, type: 'SHORT_TIME'"></span></span>
+<!-- /ko -->
+
+                                <!-- /ko -->
+
+                                <!-- ko if: ($data.TipoMarcadorMulti == "Tenis" || $data.TipoMarcadorMulti == "PingPong" || $data.TipoMarcadorMulti == "Basket" || $data.TipoMarcadorMulti == "Beisbol" || $data.TipoMarcadorMulti == "Snooker") -->
+                                    <span>
+                                        <!-- ko if: $data.Periods -->
+                                            <!-- ko if: PeriodActive() > 0 -->
+                                
+                                                <!-- ko if: $data.TipoMarcadorMulti == "Basket" -->
+                                                    <span class="marcador_tenis" data-bind="highlightScore: PeriodActive"></span><span class="marcador_tenis">º cuarto</span>
+                                                <!-- /ko -->
+
+                                                <!-- ko if: ($data.TipoMarcadorMulti == "Tenis" || $data.TipoMarcadorMulti == "PingPong" || $data.TipoMarcadorMulti == "Beisbol") && ($data.TipoMarcador != "Dardos" && $data.TipoMarcador != "Snooker") -->
+                                                    <span class="marcador_tenis">Set</span> <span class="marcador_tenis" data-bind="highlightScore: PeriodActive"></span>
+                                                <!-- /ko -->
+
+                                                <!-- ko if: ($data.TipoMarcadorMulti == "Snooker") -->
+                                                    <!-- ko if: ($parent.CategoryId == "451") -->
+                                                        <span class="marcador_tenis">Frame</span>
+                                                    <!-- /ko -->
+                                        
+                                                    <!-- ko if: ($parent.CategoryId == "449") -->
+                                                        <span class="marcador_tenis">Leg</span>
+                                                    <!-- /ko -->
+                                        
+                                                    <span class="marcador_tenis" data-bind="highlightScore: PeriodActive"></span>
+                                                <!-- /ko -->
+
+                                            <!-- /ko -->
+                                        <!-- /ko -->
+                                    </span>
+                                <!-- /ko -->
+
+                                    <!-- ko with: $parent -->
+                                        <!-- ko if: $data.TVChannel() == '58' -->
+	<img data-bind="attr: {'src': kslib.ksPaths.getImageSrc({parameterID: TVChannel(), imageType: 'TV'}), 'alt': TVChannel}" class="TvLiveParStreaming" onError="this.style.visibility='hidden';" />
+                                        <!-- /ko -->
+                                    <!-- /ko -->
+
+                            </p>
+                            
+                            <a href="#" class="sin dcjq-current" data-bind="attr: {'match-id': $parent.Id, 'href': '/esp/Live/Evento' + '/' + $parent.Id}">
+                                <!-- ko if: ($data.TipoMarcadorMulti != "Ciclismo") -->
+                                <p>
+                                    <span data-bind="text: TeamHome"></span>
+                                    <!-- ko if: $data.Service && $data.Service() == 1 -->
+                                    <b class="saque"></b>
+                                    <!-- /ko -->
+                                </p>
+                                <p>
+                                    <span data-bind="text: TeamAway"></span>
+                                    <!-- ko if: $data.Service && $data.Service() == 2 -->
+                                    <b class="saque"></b>
+                                    <!-- /ko -->
+                                </p>
+                                <!-- /ko -->
+                                <!-- ko if: ($data.TipoMarcadorMulti == "Ciclismo") -->
+                                <p>
+                                    <span data-bind="text: $parent.Text"></span>
+                                </p>
+                                <!-- /ko -->
+                            </a>                         
+                        </div>                      
+
+                        <div class="marcadorNoTenis">
+                            <!-- ko if: $data.TipoMarcadorMulti != "Tenis" && $data.TipoMarcadorMulti != "PingPong" && $data.TipoMarcadorMulti != "none" && $data.TipoMarcadorMulti != "Basket" && $data.TipoMarcadorMulti != "Beisbol" && $data.TipoMarcadorMulti != "Snooker" -->
+                                <!-- ko if: $data.Periods -->
+                                    <div class="marcador" data-bind="foreach: Periods">
+                                            <div class="fleft"><span data-bind="highlightScore: Home"></span></div>
+	<div class="fleft"><span data-bind="highlightScore: Away"></span></div>
+
+                                    </div>
+                                <!-- /ko -->
+                            <!-- /ko -->
+                        </div>
+
+                        <!-- ko if: ($data.TipoMarcadorMulti == "Tenis" || $data.TipoMarcadorMulti == "PingPong" || $data.TipoMarcadorMulti == "Basket" || $data.TipoMarcadorMulti == "Beisbol" ) -->
+                            <div class="marcadorTenis">
+                                <!-- ko if: $data.Periods -->
+
+                                <ul>
+                                    <!-- ko foreach: $data.Periods -->
+                                        <!-- ko if: $data.Id != 0 -->
+                                            <!-- ko if: $index() < $parent.PeriodActive()  -->
+                                            <li>    <div class=""><span data-bind="highlightScore: Home"></span></div>
+	<div class=""><span data-bind="highlightScore: Away"></span></div>
+</li>
+                                            <!-- /ko -->
+                                        <!-- /ko -->
+                                        <!-- ko if: $data.Id == $parent.PeriodActive()-->
+                                            <!-- ko if: $index() <= $parent.PeriodActive() -->
+                                            <li class="period-active">    <div class=""><span data-bind="highlightScore: Home"></span></div>
+	<div class=""><span data-bind="highlightScore: Away"></span></div>
+</li>
+                                            <!-- /ko -->
+                                        <!-- /ko -->
+                                    <!-- /ko -->
+                                    <!-- ko if: $data.TipoMarcadorMulti == "Basket" || $data.TipoMarcadorMulti == "Beisbol" -->
+                                    <li data-bind="foreach: Periods" class="totalResult">
+                                        <!-- ko if: $data.Id == 0 -->
+                                            <div class=""><span data-bind="highlightScore: Home"></span></div>
+	<div class=""><span data-bind="highlightScore: Away"></span></div>
+
+                                        <!-- /ko -->
+                                    </li>
+                                    <!-- /ko -->
+
+                                </ul>
+
+                                <!-- /ko -->
+                            </div>
+                        <!-- /ko -->
+
+                        <!-- ko if: ( $data.TipoMarcadorMulti == "Snooker" ) -->
+                            <div class="marcadorTenis">
+                                <!-- ko if: $data.Periods -->
+                                <ul>
+                                    <!-- ko foreach: $data.Periods -->
+                                    <!-- ko if: $data.Id == 1 -->
+                                    <li>    <div class=""><span data-bind="highlightScore: Home"></span></div>
+	<div class=""><span data-bind="highlightScore: Away"></span></div>
+</li>
+                                    <!-- /ko -->
+                                    <!-- /ko -->
+                                    <li data-bind="foreach: Periods" class="totalResult">
+                                        <!-- ko if: $data.Id == 0 -->
+                                            <div class=""><span data-bind="highlightScore: Home"></span></div>
+	<div class=""><span data-bind="highlightScore: Away"></span></div>
+
+                                        <!-- /ko -->
+                                    </li>
+                                </ul>
+                                <!-- /ko -->
+                            </div>
+                        <!-- /ko -->
+
+                    <!-- /ko -->
+
+                </li>
+                <!-- /ko -->
+
+                    <!-- /ko -->
+
+            </ul>
+        </li>
+    </ul>
+
+            </div>
+
+    </div>
+</div>
+
+
+							    </div>
+						    </div>
+						    <!-- /live-menuderecho -->
+                        </div>
+					</div>
+					<!-- /column last -->					
+					<div class="clear"></div>					
+				</div> 				
+			</div>
+			<!-- /principal -->		
+			<!-- footer -->
+			<div id="footer">
+				
+
+
+<div id="pie">
+	<div class="pie_izquierdo">
+    
+</div>
+	<div class="pie_centro">					 
+ 
+ <div class="pie_centro_inf">
+        
+        <div class="pie_centro_inf_4bloq">
+            <h1>Sobre nosotros</h1>
+            <ul>
+                <li><a href="/esp/General/SobreNosotros">Qui&#233;nes somos</a></li>
+                    <li><a href="/esp/General/RedTerrestreMapas">Red Terrestre</a></li>
+                                    <li><a href="/esp/General/ConsultaBoleto">Consulta boletos</a></li>
+                <li><a href="/esp/General/Reclamaciones#contacto">Contacto</a></li>
+            </ul>
+        </div>
+        <div class="pie_centro_inf_4bloq">
+            <h1>Ayuda</h1>
+            <ul>
+                    <li><a href="/esp/General/Tutoriales">Tutoriales</a></li>
+                <li><a href="/esp/General/PreguntasFrecuentes">Preguntas Frecuentes</a></li>
+                <li><a href="/esp/General/IngresosRetiradas">Ingresos y Retiradas</a></li>
+                <li><a href="/esp/General/Reclamaciones">Atenci&#243;n al Cliente</a></li>
+            </ul>
+        </div>
+        <div class="pie_centro_inf_4bloq">
+            <h1>Juego Responsable</h1>
+            <ul>
+                <li><a href="/esp/General/JuegoResponsable#main">Prohibiciones</a></li>
+                <li><a href="/esp/General/JuegoResponsable#ReglasApuestas">Prevenci&#243;n y Test</a></li>
+                <li><a href="/esp/General/JuegoResponsable#Instrucciones">Autoexclusi&#243;n</a></li>
+                <li><a href="/esp/General/JuegoResponsable#Asociacion">Solicita Ayuda</a> </li>
+            </ul>
+        </div>
+        <div class="pie_centro_inf_4bloq">
+            <h1>T&#233;rminos y Condiciones</h1>
+            <ul>
+				<li><a href="/esp/General/Reglamento">Regulaci&#243;n</a></li>
+                <li><a href="/esp/General/Reglamento">Contrato de Juego</a></li>
+				<li><a href="/esp/General/Reglamento">Reglamento de apuestas</a></li>
+                <li><a href="/esp/General/Reglamento">Pol&#237;tica de Privacidad</a></li>
+            </ul>
+        </div>
+  </div>
+
+
+        <div class="legal">            
+            <div>
+                <a href="/esp/General/IngresosRetiradas">
+                    <span class="texto">Métodos de pago:</span>
+                    
+
+                                        <span class="logos logo_halcash">
+                        <span><em></em><b>Halcash</b></span>
+                    </span>
+                    <span class="logos logo_maestro">
+                        <span><em></em><b>Maestro</b></span>
+                    </span>
+                    <span class="logos logo_mastercard">
+                        <span><em></em><b>Mastercard</b></span>
+                    </span>
+                    <span class="logos logo_electron">
+                        <span><em></em><b>Visa Electron</b></span>
+                    </span>
+                    <span class="logos logo_visa">
+                        <span><em></em><b>Visa</b></span>
+                    </span>
+                </a>
+            </div>            <div>
+    <a class="logos logo_juego" href="//www.juegoseguro.es">
+        <span class="juego1"><em></em><b>Juego Responsable</b></span>
+        <span class="juego2"><em></em><b>Juego Responsable</b></span>
+        <span class="juego3"><em></em><b>Juego Responsable</b></span>
+    </a>
+    <a class="logos logo_jugarbien" href="//www.jugarbien.es">
+        <span><em></em><b>Jugar Bien</b></span>
+    </a>
+</div>        </div>	</div>
+
+
+	<div class="pie_derecho">
+        <span class="redes">
+            <a class="fb" href="https://www.facebook.com/kirolbet" target="_blank"><span>Facebook</span></a>
+	        <a class="tw" href="https://www.twitter.com/Kirolbet_es" target="_blank"><span>Twitter</span></a>
+        </span>
+		<img src="https://cdn.kirolbet.es/web/7/Customers/7/Content/img/at_cliente_esp.png" onError="this.onerror=null;this.src='https://cdn.kirolbet.es/web/7/Content/images/trans.png';" alt="Atenci&#243;n al Cliente" title="Atenci&#243;n al Cliente" />
+        
+	</div></div>
+
+<div class="footer-promos">
+    <div class="unMed">
+        <div>
+            <h4>Casa de apuestas <span>oficial de</span>:</h4>
+            <span class="logos logo_athletic">
+                <span><em></em><b>Athletic</b></span>
+            </span>
+            <span class="logos logo_real">
+                <span><em></em><b>Real</b></span>
+            </span>
+            <span class="logos logo_eibar">
+                <span><em></em><b>Eibar</b></span>
+            </span>
+            <span class="logos logo_alaves">
+                <span><em></em><b>Alavés</b></span>
+            </span>
+        </div>
+        <div>
+            <span class="logos logo_baskonia">
+                <span><em></em><b>Baskonia</b></span>
+            </span>
+            <span class="logos logo_osasuna">
+                <span><em></em><b>Osasuna</b></span>
+            </span>
+            <span class="logos logo_numancia">
+                <span><em></em><b>Numancia</b></span>
+            </span>
+        </div>
+    </div>
+    <div class="unMed trabajaconnosotros">
+        <div>
+            <h3>Únete al equipo <b>KIROLBET</b></h3>
+            <p>Si eres una persona apasionada de las nuevas tecnolog&#237;as y del deporte, &#161;&#201;ste es tu proyecto!.</p>
+            <p>&#218;nete a nuestro equipo de Kirolbet. &#161;Env&#237;anos tu CV!.</p>
+        </div>
+        <a href="/esp/General/TrabajaConNosotros">Trabaja con nosotros</a>
+        
+    </div>
+
+</div>
+
+<div class="repie">
+    <p class="fleft">Copyright &#169; 2013-2017 TELE APOSTUAK PROMOTORA DE JUEGOS Y APUESTAS S.A.</p>
+	<p class="fright"><span style="color:orange" class=hidden>Versi&#243;n Portal: KIROLBET Estatal - 4.0.0.3 - </span>Powered by <a href="http://www.kirolsoft.com/" target="_blank" title="Kirolsoft"><img style="margin-left:5px;" src="https://cdn.kirolbet.es/web/7/Content/img/kirolsoft.png" alt="KirolSoft" /></a></p>
+    <div class="clear"></div>
+</div>
+           
+			</div>
+			<!-- /footer -->
+		</div>
+		<!-- cuerpo -->
+	</div>
+	<!-- /estructura -->
+		<div id="Error404dg" style="display:none">
+<p class="ks-message">&#191;No encuentras lo que buscas? Ponte en contacto con nosotros.</p>
+	</div>
+	<div id="Error500dg" style="display:none">
+<p class="ks-message">Lo sentimos ocurri&#243; un error, por favor vuelve a intentarlo o ponte en contacto con nosotros.</p>
+	</div>
+	<div class="problemasConexion naranja" style="display: none;">
+    	<p>Puede que haya problemas con la conexi&#243;n.</p>
+	</div>
+	<div class="errorConexion" style="display: none;">
+	  <p>En estos momentos la p&#225;gina no est&#225; disponible. Estamos trabajando para resolverlo lo antes posible. Disculpa las molestias..</p>
+    </div>
+	<div id="uiTimeout" style="display: none;">
+	  <p class="ks-message">Se ha detectado un periodo largo de inactividad</p>
+    </div>
+
+
+	
+            <script src="https://cdn.kirolbet.es/web/7/Scripts/scriptsWebsync.js?v=344" type="text/javascript"></script>
+            <script src="https://cdn.kirolbet.es/web/7/Scripts/scriptsKsLive.js?v=344" type="text/javascript"></script>
+	
+	<script type="text/javascript">
+        var fechaHoy = '14/09/2017';
+
+		var doTimeto = true;
+		if (modoPantalla == 'extended') kslib.ksUtil.loadjscssfile("https://cdn.kirolbet.es/web/7" + '/Content/css/estilosExtendidos.css?v=' + 344, 'css');
+		
+		function displayMessages() {
+			if ($("#messagewrapper").children().length > 0) {
+				kslib.ksMessages.showMessageFromArea({
+					areaID: '#messagewrapper',
+					title: 'Operación No Autorizada',
+					dialogClass: 'ks-dialogError'
+				});
+				$(document).click(function () {
+					clearMessages();
+				});
+			}
+		}
+
+		function clearMessages() {
+			$("#messagewrapper").fadeOut(500, function () {
+				$("#messagewrapper").empty();
+			});
+		}
+
+		$(document).ready(function () {
+		    
+		    var galgos = ('False') == 'True' ? true : false;
+		    if (galgos) getGalgosNextRaceData();
+
+			displayMessages();
+
+			getLines(true);
+
+			// NOTIFICADOR
+			var notificaciones = ["fav_abs_cont"];
+			var notificador = new notifier(notificaciones, storage);
+			$(".fav_abs_cerrar, #fav_abs_cerrar_btn").on("click", function(){
+				notificador.closeNotify($(this).attr('data-key'));
+			});
+			notificador.notify();
+
+            // CARGA DE DIRECTOS: Hacemos la carga asíncrona para que el resto de datos no se queden a esperar.
+            setTimeout(function () {
+
+                var action = "deporte";
+                var elementId = (action == 'index') ? '#directosHome' : null;
+                var screenType = (action == 'index') ? 'LIVEHOME' : 'LIVEMENU';
+                var actionUrl = '/esp/Live/LiveData';
+
+                setLiveHomeDataByAjax ({
+                    elementId: elementId,
+                    screenType: 'LIVEHOME',
+                    actionUrl: actionUrl,
+                    renderMenuLive: true,
+                    renderLiveHome: true,
+                    afterUpdateModel: afterUpdateModelHome,
+                    koAc: window['koAc'] == undefined ? null : window['koAc'],
+                    koId: window['koId'] == undefined ? null : window['koId']
+                });
+
+                /*var oHome = new objLiveHome({
+                    elementId: elementId,
+                    elementIdAux: '#menuDirectos',
+                    language: 'esp',
+                    afterUpdateModel: afterUpdateModelHome,
+                    koAc: window['koAc'] == undefined ? null : window['koAc'],
+                    koId: window['koId'] == undefined ? null : window['koId']
+                });*/
+
+            }, 10);
+
+		});
+
+	</script>
+
+    
+<script type="text/javascript">
+
+	var $comptCont;
+	var eveLoader = new eventLoader(0, 7);
+		
+	var koAc = 'deporte';
+	if (koAc == '') {
+		koAc = 'competicion';
+		var koId = '0';
+	} else {
+		koAc = 'deporte';
+		var koId = '40';
+	}
+
+	koAc = (koAc == '') ? 'competicion' : koAc;
+
+	
+	paggerCtrl = new pagger();
+	
+
+
+	$(document).on("click", ".cmbbox", function(){
+        var selector = $(this).attr("data-div");
+        var flechita = $('.arrowRotate');
+		$(selector).slideToggle(200, function(){ eveLoader.stored.cmbModVState = $(this).is(":visible"); });
+        if (flechita.hasClass("invert")){
+            flechita.css('transform', 'rotate(0deg)');
+            flechita.removeClass('invert');
+        }
+        else{
+            flechita.css('transform', 'rotate(180deg');
+            flechita.addClass('invert');
+        }
+    });
+    $(document).on('click', '.comptSel', function(){
+        $(this).siblings('.cmbbox').click();
+    });
+
+	$(document).ready(function () {
+        
+        $('.setArrow').css('transform', 'rotate(180deg)').addClass('invert');
+
+		/*kslib.ksAccordion.setAccordion({
+			areaID: '#bloqueLiveDeporte',
+			toggleSpeed: 'fast',
+			autoExpand: false,
+			classIconOpen: 'ksIconOpen',
+			classIconClose: 'ksIconClose'
+		});*/
+
+        $comptCont = $("#comptCont");		
+
+		    
+		        $("a[ks-filterEvent=true]").click(function (evt) {
+			        evt.preventDefault();
+			        var filter = $(this);
+			        var field = filter.attr("filter-field");
+			        var value = filter.attr("filter-value");
+			        eveLoader.changeHiddenFieldSubmit(value, field);
+		        });
+		        setTabActive('group-', 7);
+		    
+        
+        eveLoader.paintWidgetResultados(true);
+	});
+
+</script>
+
+<script type="text/javascript">updateTipoSaldoLogin();</script>
+
+
+
+
+<!-- Google Code for registro Conversion Page
+In your html page, add the snippet and call
+goog_report_conversion when someone clicks on the
+chosen link or button. -->
+<script type="text/javascript">
+  /* <![CDATA[ */
+  goog_snippet_vars = function() {
+    var w = window;
+    w.google_conversion_id = 989387188;
+    w.google_conversion_label = "M4D9CIfx2GMQtLPj1wM";
+    w.google_remarketing_only = false;
+  }
+  // DO NOT CHANGE THE CODE BELOW.
+  goog_report_conversion = function(url) {
+    goog_snippet_vars();
+    window.google_conversion_format = "3";
+    var opt = new Object();
+    opt.onload_callback = function() {
+    if (typeof(url) != 'undefined') {
+      window.location = url;
+    }
+  }
+  var conv_handler = window['google_trackConversion'];
+  if (typeof(conv_handler) == 'function') {
+    conv_handler(opt);
+  }
+}
+/* ]]> */
+</script>
+<script type="text/javascript" 
+  src="//www.googleadservices.com/pagead/conversion_async.js">
+</script>
+
+
+
+
+
+<!-- Google Code para etiquetas de remarketing -->
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 989387188;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/989387188/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+
+<!-- Facebook Pixel Code -->
+<script>
+    !function (f, b, e, v, n, t, s) {
+        if (f.fbq) return; n = f.fbq = function () {
+            n.callMethod ?
+n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+        }; if (!f._fbq) f._fbq = n;
+        n.push = n; n.loaded = !0; n.version = '2.0'; n.queue = []; t = b.createElement(e); t.async = !0;
+        t.src = v; s = b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t, s)
+    } (window,
+document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+
+    fbq('init', '131751290569507');
+    fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=131751290569507&ev=PageView&noscript=1" onError="this.style.visibility='hidden';"
+/></noscript>
+<!-- End Facebook Pixel Code --></body>
+</html>    

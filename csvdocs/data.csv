@@ -1,0 +1,136 @@
+sport,casa de apostes,equipo1,cuota1,equipo2,cuota2,uppers1,uppers2,lliga
+Baseball,Sportium,Chicago White Sox,2.1,Detroit Tigers,1.75,"[u'C', u'W', u'S']","[u'D', u'T']",MLB
+Baseball,Sportium,Oakland Athletics,2.8,Boston Red Sox,1.44,"[u'O', u'A']","[u'B', u'R', u'S']",MLB
+Baseball,Sportium,Cincinnati Reds,2.8,Sant Louis Cardinals,1.44,"[u'C', u'R']","[u'S', u'L', u'C']",MLB
+Baseball,Sportium,Colorado Rockies,2.45,Arizona Diamonds,1.57,"[u'C', u'R']","[u'A', u'D']",MLB
+Baseball,Sportium,Miami Marlins,1.75,Philadelphia Phillies,2.1,"[u'M', u'M']","[u'P', u'P']",MLB
+Baseball,Sportium,Baltimore Orioles,2.7,New York Yankees,1.5,"[u'B', u'O']","[u'N', u'Y', u'Y']",MLB
+Baseball,Sportium,Atlanta Braves,2.5,Washington Nationals,1.53,"[u'A', u'B']","[u'W', u'N']",MLB
+Baseball,Sportium,Kansas City,2.87,Cleveland Indians,1.44,"[u'K', u'C', u'R']","[u'C', u'I']",MLB
+Baseball,Sportium,Seattle Mariners,1.95,Texas Rangers,1.87,"[u'S', u'M']","[u'T', u'R']",MLB
+Baseball,Sportium,Toronto Blue Jays,2.45,Minnesota Twins,1.57,"[u'T', u'B', u'J']","[u'M', u'T']",MLB
+Baseball,Sportium,Houston Astros,1.7,Los Angeles Angels,2.2,"[u'H', u'A']","[u'L', u'A', u'A']",MLB
+Baseball,Bwin,Detroit Tigers,1.8,Chicago White Sox,2.05,[u'D'],"[u'C', u'W', u'S']",MLB
+Baseball,Bwin,Sant Louis Cardinals,1.5,Cincinnati Reds,2.65,"[u'S', u'L']",[u'C'],MLB
+Baseball,Bwin,Washington Nationals,1.57,Atlanta Braves,2.45,[u'W'],[u'A'],MLB
+Baseball,Bwin,Philadelphia Phillies,2.0,Miami Marlins,1.83,[u'P'],[u'M'],MLB
+Baseball,William Hill,Chicago White Sox,2.1,Detroit Tigers,1.77,"['C', 'W', 'S']","['D', 'T']",MLB
+Baseball,William Hill,Oakland Athletics,2.8,Boston Red Sox,1.45,"['O', 'A']","['B', 'R', 'S']",MLB
+Baseball,William Hill,Cincinnati Reds,2.8,Sant Louis Cardinals,1.45,"['C', 'R']","['S', 'C']",MLB
+Baseball,William Hill,Colorado Rockies,2.5,Arizona Diamonds,1.59,"['C', 'R']","['A', 'D']",MLB
+Baseball,William Hill,Atlanta Braves,2.6,Washington Nationals,1.56,"['A', 'B']","['W', 'N']",MLB
+Baseball,William Hill,Miami Marlins,1.77,Philadelphia Phillies,2.1,"['M', 'M']","['P', 'P']",MLB
+Baseball,William Hill,Baltimore Orioles,2.75,New York Yankees,1.48,"['B', 'O']","['N', 'Y']",MLB
+Baseball,William Hill,Kansas City,2.9,Cleveland Indians,1.43,"['K', 'R']","['C', 'I']",MLB
+Baseball,William Hill,Seattle Mariners,1.95,Texas Rangers,1.87,"['S', 'M']","['T', 'R']",MLB
+Baseball,William Hill,Toronto Blue Jays,2.5,Minnesota Twins,1.59,"['T', 'B', 'J']","['M', 'T']",MLB
+Baseball,William Hill,Houston Astros,1.71,Los Angeles Angels,2.2,"['H', 'A']","['L', 'A']",MLB
+Baseball,Tipbet,Chicago White Sox,2.0,Detroit Tigers,1.75,"[u'C', u'W', u'S']","[u'D', u'T']",MLB
+Baseball,Tipbet,Oakland Athletics,2.7,Boston Red Sox,1.45,"[u'O', u'A']","[u'B', u'R', u'S']",MLB
+Baseball,Tipbet,Cincinnati Reds,2.65,Sant Louis Cardinals,1.45,"[u'C', u'R']","[u'S', u'L', u'C']",MLB
+Baseball,Tipbet,Colorado Rockies,2.35,Arizona Diamonds,1.55,"[u'C', u'R']","[u'A', u'D']",MLB
+Baseball,Tipbet,Miami Marlins,1.75,Philadelphia Phillies,2.0,"[u'M', u'M']","[u'P', u'P']",MLB
+Baseball,Tipbet,Atlanta Braves,2.45,Washington Nationals,1.5,"[u'A', u'B']","[u'W', u'N']",MLB
+Baseball,Tipbet,Baltimore Orioles,2.6,New York Yankees,1.45,"[u'B', u'O']","[u'N', u'Y', u'Y']",MLB
+Baseball,Tipbet,Kansas City,2.75,Cleveland Indians,1.4,"[u'K', u'C', u'R']","[u'C', u'I']",MLB
+Baseball,Tipbet,Seattle Mariners,1.9,Texas Rangers,1.8,"[u'S', u'M']","[u'T', u'R']",MLB
+Baseball,Tipbet,Toronto Blue Jays,2.4,Minnesota Twins,1.55,"[u'T', u'B', u'J']","[u'M', u'T']",MLB
+Baseball,Tipbet,Houston Astros,1.7,Los Angeles Angels,2.1,"[u'H', u'A']","[u'L', u'A', u'A']",MLB
+Baseball,Betfair,Oakland Athletics,2.7,Boston Red Sox,1.47,[u'O'],[u'B'],MLB
+Baseball,Betfair,Cincinnati Reds,2.7,Sant Louis Cardinals,1.47,[u'C'],"[u'S', u'L']",MLB
+Baseball,Betfair,Colorado Rockies,2.37,Arizona Diamonds,1.61,[u'C'],[u'A'],MLB
+Baseball,Betfair,Miami Marlins,1.75,Philadelphia Phillies,2.1,[u'M'],[u'P'],MLB
+Baseball,Betfair,Atlanta Braves,2.45,Washington Nationals,1.57,[u'A'],[u'W'],MLB
+Baseball,Betfair,Baltimore Orioles,2.62,New York Yankees,1.5,[u'B'],"[u'N', u'Y']",MLB
+Baseball,Betfair,Kansas City,2.8,Cleveland Indians,1.44,"[u'K', u'C']",[u'C'],MLB
+Baseball,Betfair,Seattle Mariners,1.9,Texas Rangers,1.9,[u'S'],[u'T'],MLB
+Baseball,Betfair,Toronto Blue Jays,2.37,Minnesota Twins,1.61,[u'T'],[u'M'],MLB
+Baseball,Betfair,Houston Astros,1.7,Los Angeles Angels,2.2,[u'H'],"[u'L', u'A']",MLB
+Baseball,Marca apuestas,Chicago White Sox,2.1,Detroit Tigers,1.75,"[u'C', u'W', u'S']","[u'D', u'T']",MLB
+Baseball,Marca apuestas,Oakland Athletics,2.8,Boston Red Sox,1.45,"[u'O', u'A']","[u'B', u'R', u'S']",MLB
+Baseball,Marca apuestas,Cincinnati Reds,2.8,Sant Louis Cardinals,1.45,"[u'C', u'R']","[u'S', u'L', u'C']",MLB
+Baseball,Marca apuestas,Colorado Rockies,2.45,Arizona Diamonds,1.57,"[u'C', u'R']","[u'A', u'D']",MLB
+Baseball,Marca apuestas,Miami Marlins,1.75,Philadelphia Phillies,2.1,"[u'M', u'M']","[u'P', u'P']",MLB
+Baseball,Marca apuestas,Atlanta Braves,2.5,Washington Nationals,1.55,"[u'A', u'B']","[u'W', u'N']",MLB
+Baseball,Marca apuestas,Baltimore Orioles,2.75,New York Yankees,1.48,"[u'B', u'O']","[u'N', u'Y', u'Y']",MLB
+Baseball,Marca apuestas,Kansas City,2.85,Cleveland Indians,1.44,"[u'K', u'C', u'R']","[u'C', u'I']",MLB
+Baseball,Marca apuestas,Seattle Mariners,1.95,Texas Rangers,1.9,"[u'S', u'M']","[u'T', u'R']",MLB
+Baseball,Marca apuestas,Toronto Blue Jays,2.45,Minnesota Twins,1.57,"[u'T', u'B', u'J']","[u'M', u'T']",MLB
+Baseball,Marca apuestas,Houston Astros,1.7,Los Angeles Angels,2.2,"[u'H', u'A']","[u'L', u'A', u'A']",MLB
+Baseball,Suertia,Chicago White Sox,2.02,Detroit Tigers,1.75,"[u'C', u'W', u'S']","[u'D', u'T']",MLB
+Baseball,Suertia,Oakland Athletics,2.75,Boston Red Sox,1.43,"[u'O', u'A']","[u'B', u'R', u'S']",MLB
+Baseball,Suertia,Cincinnati Reds,2.7,Sant Louis Cardinals,1.43,"[u'C', u'R']","[u'S', u'L', u'C']",MLB
+Baseball,Suertia,Colorado Rockies,2.37,Arizona Diamonds,1.55,"[u'C', u'R']","[u'A', u'D']",MLB
+Baseball,Suertia,Miami Marlins,1.75,Philadelphia Phillies,2.02,"[u'M', u'M']","[u'P', u'P']",MLB
+Baseball,Suertia,Atlanta Braves,2.5,Washington Nationals,1.51,"[u'A', u'B']","[u'W', u'N']",MLB
+Baseball,Suertia,Baltimore Orioles,2.65,New York Yankees,1.45,"[u'B', u'O']","[u'N', u'Y', u'Y']",MLB
+Baseball,Suertia,Kansas City,2.82,Cleveland Indians,1.41,"[u'K', u'C', u'R']","[u'C', u'I']",MLB
+Baseball,Suertia,New York Mets,2.77,Chicago Cubs,1.42,"[u'N', u'Y', u'M']","[u'C', u'C']",MLB
+Baseball,Suertia,Seattle Mariners,1.93,Texas Rangers,1.83,"[u'S', u'M']","[u'T', u'R']",MLB
+Baseball,Suertia,Toronto Blue Jays,2.42,Minnesota Twins,1.53,"[u'T', u'B', u'J']","[u'M', u'T']",MLB
+Baseball,Suertia,Houston Astros,1.68,Los Angeles Angels,2.12,"[u'H', u'A']","[u'L', u'A', u'A']",MLB
+Baseball,Kirolbet,Chicago White Sox,2.0,Detroit Tigers,1.75,"[u'C', u'W', u'S']","[u'D', u'T']",MLB
+Baseball,Kirolbet,Oakland Athletics,2.7,Boston Red Sox,1.43,"[u'O', u'A']","[u'B', u'R', u'S']",MLB
+Baseball,Kirolbet,Cincinnati Reds,2.7,Sant Louis Cardinals,1.44,"[u'C', u'R']","[u'S', u'L', u'C']",MLB
+Baseball,Kirolbet,Colorado Rockies,2.35,Arizona Diamonds,1.55,"[u'C', u'R']","[u'A', u'D']",MLB
+Baseball,Kirolbet,Baltimore Orioles,2.6,New York Yankees,1.46,"[u'B', u'O']","[u'N', u'Y', u'Y']",MLB
+Baseball,Kirolbet,Miami Marlins,1.75,Philadelphia Phillies,2.05,"[u'M', u'M']","[u'P', u'P']",MLB
+Baseball,Kirolbet,Atlanta Braves,2.5,Washington Nationals,1.5,"[u'A', u'B']","[u'W', u'N']",MLB
+Baseball,Kirolbet,Kansas City,2.8,Cleveland Indians,1.42,"[u'K', u'C', u'R']","[u'C', u'I']",MLB
+Baseball,Kirolbet,Seattle Mariners,1.95,Texas Rangers,1.85,"[u'S', u'M']","[u'T', u'R']",MLB
+Baseball,Kirolbet,Toronto Blue Jays,2.4,Minnesota Twins,1.55,"[u'T', u'B', u'J']","[u'M', u'T']",MLB
+Baseball,Kirolbet,Houston Astros,1.7,Los Angeles Angels,2.1,"[u'H', u'A']","[u'L', u'\xc1', u'A']",MLB
+Baseball,Codere,Chicago White Sox,2.05,Detroit Tigers,1.8,"[u'C', u'W', u'S']","[u'D', u'T']",MLB
+Baseball,Codere,Oakland Athletics,2.8,Boston Red Sox,1.45,"[u'O', u'A']","[u'B', u'R', u'S']",MLB
+Baseball,Codere,Cincinnati Reds,2.75,Sant Louis Cardinals,1.48,"[u'C', u'R']","[u'S', u'C']",MLB
+Baseball,Codere,Colorado Rockies,2.45,Arizona Diamonds,1.59,"[u'C', u'R']","[u'A', u'D']",MLB
+Baseball,Codere,Baltimore Orioles,2.75,New York Yankees,1.48,"[u'B', u'O']","[u'N', u'Y']",MLB
+Baseball,Codere,Miami Marlins,1.77,Philadelphia Phillies,2.1,"[u'M', u'M']","[u'P', u'P']",MLB
+Baseball,Codere,Atlanta Braves,2.6,Washington Nationals,1.53,"[u'A', u'B']","[u'W', u'N']",MLB
+Baseball,Codere,Kansas City,2.8,Cleveland Indians,1.45,"[u'K', u'R']","[u'C', u'I']",MLB
+Baseball,Codere,Seattle Mariners,1.95,Texas Rangers,1.87,"[u'S', u'M']","[u'T', u'R']",MLB
+Baseball,Codere,Toronto Blue Jays,2.45,Minnesota Twins,1.59,"[u'T', u'B', u'J']","[u'M', u'T']",MLB
+Baseball,Codere,Houston Astros,1.71,Los Angeles Angels,2.2,"[u'H', u'A']","[u'L', u'A']",MLB
+Baseball,Juegging,Chicago White Sox,2.0,Detroit Tigers,1.75,"[u'C', u'W', u'S']","[u'D', u'T']",MLB
+Baseball,Juegging,Oakland Athletics,2.7,Boston Red Sox,1.43,"[u'O', u'A']","[u'B', u'R', u'S']",MLB
+Baseball,Juegging,Cincinnati Reds,2.7,Sant Louis Cardinals,1.44,"[u'C', u'R']","[u'S', u'L', u'C']",MLB
+Baseball,Juegging,Colorado Rockies,2.35,Arizona Diamonds,1.55,"[u'C', u'R']","[u'A', u'D']",MLB
+Baseball,Juegging,Baltimore Orioles,2.6,New York Yankees,1.46,"[u'B', u'O']","[u'N', u'Y', u'Y']",MLB
+Baseball,Juegging,Miami Marlins,1.75,Philadelphia Phillies,2.05,"[u'M', u'M']","[u'P', u'P']",MLB
+Baseball,Juegging,Atlanta Braves,2.5,Washington Nationals,1.5,"[u'A', u'B']","[u'W', u'N']",MLB
+Baseball,Juegging,Kansas City,2.8,Cleveland Indians,1.42,"[u'K', u'C', u'R']","[u'C', u'I']",MLB
+Baseball,Juegging,Seattle Mariners,1.95,Texas Rangers,1.85,"[u'S', u'M']","[u'T', u'R']",MLB
+Baseball,Juegging,Toronto Blue Jays,2.4,Minnesota Twins,1.55,"[u'T', u'B', u'J']","[u'M', u'T']",MLB
+Baseball,Juegging,Houston Astros,1.7,Los Angeles Angels,2.1,"[u'H', u'A']","[u'L', u'\xc1', u'A']",MLB
+Baseball,Marathonbet,Chicago White Sox,2.15,Detroit Tigers,1.8,"[u'C', u'W', u'S']","[u'D', u'T']",MLB
+Baseball,Marathonbet,Cincinnati Reds,2.79,Sant Louis Cardinals,1.51,"[u'C', u'R']","[u'S', u'L', u'C']",MLB
+Baseball,Marathonbet,Oakland Athletics,2.83,Boston Red Sox,1.5,"[u'O', u'A']","[u'B', u'R', u'S']",MLB
+Baseball,Marathonbet,El Paso ,2.13,Memphis Redbirds,1.75,"[u'E', u'P', u'C']","[u'M', u'R']",PCL
+Baseball,Marathonbet,Curacao Neptunus,1.28,Hoofddorp,3.84,"[u'C', u'N']","[u'H', u'P']",NL
+Baseball,Marathonbet,Amsterdam,1.11,HCAW Bussum,7.1,"[u'L', u'A']","[u'H', u'B']",NL
+Baseball,Paf,Chicago White Sox,2.1,Detroit Tigers,1.75,"[u'C', u'W', u'S']","[u'D', u'T']",MLB
+Baseball,Paf,Oakland Athletics,2.75,Boston Red Sox,1.44,"[u'O', u'A']","[u'B', u'R', u'S']",MLB
+Baseball,Paf,Cincinnati Reds,2.7,Sant Louis Cardinals,1.48,"[u'C', u'R']","[u'S', u'L', u'C']",MLB
+Baseball,Paf,Colorado Rockies,2.45,Arizona Diamonds,1.55,"[u'C', u'R']","[u'A', u'D']",MLB
+Baseball,Paf,Miami Marlins,1.77,Philadelphia Phillies,2.05,"[u'M', u'M']","[u'P', u'P']",MLB
+Baseball,Paf,Atlanta Braves,2.55,Washington Nationals,1.52,"[u'A', u'B']","[u'W', u'N']",MLB
+Baseball,Paf,Baltimore Orioles,2.7,New York Yankees,1.48,"[u'B', u'O']","[u'N', u'Y', u'Y']",MLB
+Baseball,Paf,Kansas City,2.95,Cleveland Indians,1.42,"[u'K', u'C', u'R']","[u'C', u'I']",MLB
+Baseball,Paf,Seattle Mariners,1.95,Texas Rangers,1.85,"[u'S', u'M']","[u'T', u'R']",MLB
+Baseball,Paf,Toronto Blue Jays,2.5,Minnesota Twins,1.53,"[u'T', u'B', u'J']","[u'M', u'T']",MLB
+Baseball,Paf,Houston Astros,1.7,Los Angeles Angels,2.15,"[u'H', u'A']","[u'L', u'A', u'A', u'A']",MLB
+Baseball,Wanabet,Chicago White Sox,2.1,Detroit Tigers,1.75,"[u'C', u'W', u'S']","[u'D', u'T']",MLB
+Baseball,Wanabet,Oakland Athletics,2.75,Boston Red Sox,1.44,"[u'O', u'A']","[u'B', u'R', u'S']",MLB
+Baseball,Wanabet,Cincinnati Reds,2.7,Sant Louis Cardinals,1.48,"[u'C', u'R']","[u'S', u'L', u'C']",MLB
+Baseball,Wanabet,Colorado Rockies,2.45,Arizona Diamonds,1.55,"[u'C', u'R']","[u'A', u'D']",MLB
+Baseball,Wanabet,Miami Marlins,1.77,Philadelphia Phillies,2.05,"[u'M', u'M']","[u'P', u'P']",MLB
+Baseball,Wanabet,Atlanta Braves,2.55,Washington Nationals,1.52,"[u'A', u'B']","[u'W', u'N']",MLB
+Baseball,Wanabet,Baltimore Orioles,2.7,New York Yankees,1.48,"[u'B', u'O']","[u'N', u'Y', u'Y']",MLB
+Baseball,Wanabet,Kansas City,2.95,Cleveland Indians,1.42,"[u'K', u'C', u'R']","[u'C', u'I']",MLB
+Baseball,Wanabet,Seattle Mariners,1.95,Texas Rangers,1.85,"[u'S', u'M']","[u'T', u'R']",MLB
+Baseball,Wanabet,Toronto Blue Jays,2.5,Minnesota Twins,1.53,"[u'T', u'B', u'J']","[u'M', u'T']",MLB
+Baseball,Wanabet,Houston Astros,1.7,Los Angeles Angels,2.15,"[u'H', u'A']","[u'L', u'A', u'A', u'A']",MLB
+Baseball,Bet365,Detroit Tigers,1.83,Chicago White Sox,2.0,[u'D'],"[u'C', u'W', u'S']",MLB
+Baseball,Bet365,Sant Louis Cardinals,1.5,Cincinnati Reds,2.7,"[u'S', u'L']",[u'C'],MLB
+Baseball,Bet365,Washington Nationals,1.57,Atlanta Braves,2.55,[u'W'],[u'A'],MLB
+Baseball,Bet365,Philadelphia Phillies,2.15,Miami Marlins,1.74,[u'P'],[u'M'],MLB

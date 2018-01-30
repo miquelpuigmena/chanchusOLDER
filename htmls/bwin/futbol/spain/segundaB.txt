@@ -1,0 +1,824 @@
+<?xml version="1.0"?>
+<page generated="2017-09-14 14:37:36" title="Soccer &gt; Spain &gt; Second Division B  2017/18" GA="dimension10_1/dimension11_32/dimension19_1/dimension14_42826/dimension3_overview/dimension12_544/dimension7_74/dimension8_bet365"><n id="1827" c="view" cache="600"><p n="divId" t="String" v="page-wrap"/><s p="2" s="sportid" id="2"/><s p="2" s="test" id="14"/><s p="1" s="clientid" id="1"/><s p="0" s="isvfl" id="409"/><s p="0" s="disable_topmenu" id="534"/><n p="0" id="1828" c="view"><p n="divId" t="String" v="menu-wrap"/><s p="2" s="test" id="14"/><s p="1" s="clientid" id="1"/><s p="2" s="clientid" id="1"/><s p="2" s="sportid" id="2"/><s p="3" s="clientid" id="1"/><s p="3" s="test" id="14"/><s p="0" s="clientid" id="1"/><s p="5" s="clientid" id="1"/><s p="3" s="search_ui_location" id="449"/><s p="1" s="test" id="14"/><s p="4" s="language_ui_location" id="553"/><n p="0" id="3605" c="logonew" data="1"><c cache="2592000" type="document"><![CDATA[<div id="node_logo_image" class="view"  >
+</div>]]></c></n><n p="1" id="2993" c="view"><s p="0" s="clientid" id="1"/><n p="0" id="2995" c="menu" data="1"><p n="limit" t="int" v="3"/><p n="jsfunction" t="String" v="enlargeSearchBox"/><p n="type" t="String" v="jd_menu"/><p n="usecache" t="boolean" v="1"/><p n="lightweight" t="boolean" v="1"/><p n="class" t="String" v="topmenu"/><p n="menuid" t="int" v="74"/><c cache="86400"><![CDATA[<div class="topmenu"><div><ul class="jd_menu jd_menustyle" data-notification="Touch and move to navigate the menu"><li class="topelem first home"><a href="javascript:s4.setState('',false);" class="atopelem"><div>Home<div class="clearResponsive"></div></div></a></li></ul></div></div>
+]]></c></n></n><n p="2" id="1233" c="view"/><n p="3" id="1233" c="view"/></n><n p="1" id="1233" c="view"/><n p="2" id="1829" c="view"><p n="divId" t="String" v="main-wrap"/><s p="3" s="clientid" id="1"/><s p="0" s="language_ui_location" id="553"/><s p="4" s="search_string" id="327"/><s p="0" s="clientid" id="1"/><s p="2" s="sportid" id="2"/><n p="0" id="2861" c="view"><p n="class" t="String" v="language_select"/><s p="0" s="haslanguageselect" id="331"/><s p="0" s="clientid" id="1"/><n p="0" id="2863" c="menu" data="1"><p n="type" t="String" v="slickselect"/><p n="menuid" t="int" v="123"/><c cache="86400"><![CDATA[<div class=""><div class="sb-wrapper"><div class="sb-selectedbox"><div class="sb-current"><div class="label"><span class="icon_flag cc-gb lang-2"></span><span>English</span></div><div class="arrow"></div><div class="clearResponsive"></div></div></div><div style="clear: both;"></div><div class="sb-optionswrap" style="display: none;"><div class="sb-scrollbox"><ul class="slickselect"><li class="sb-option active icon_flag cc-gb lang-2"><a href="javascript:s4.setLanguage('en');"><span><span class="icon_flag cc-gb lang-2"></span>English</span></a></li><li class="sb-option icon_flag cc-de lang-3"><a href="javascript:s4.setLanguage('de');"><span><span class="icon_flag cc-de lang-3"></span>Deutsch</span></a></li><li class="sb-option icon_flag cc-fr lang-4"><a href="javascript:s4.setLanguage('fr');"><span><span class="icon_flag cc-fr lang-4"></span>Fran&ccedil;ais</span></a></li><li class="sb-option icon_flag cc-it lang-1"><a href="javascript:s4.setLanguage('it');"><span><span class="icon_flag cc-it lang-1"></span>Italiano</span></a></li><li class="sb-option icon_flag cc-tr lang-6"><a href="javascript:s4.setLanguage('tr');"><span><span class="icon_flag cc-tr lang-6"></span>T&uuml;rk&ccedil;e</span></a></li><li class="sb-option icon_flag cc-hr lang-7"><a href="javascript:s4.setLanguage('hr');"><span><span class="icon_flag cc-hr lang-7"></span>Hrvatski</span></a></li><li class="sb-option icon_flag cc-sk lang-8"><a href="javascript:s4.setLanguage('sk');"><span><span class="icon_flag cc-sk lang-8"></span>Sloven&#269;ina</span></a></li><li class="sb-option icon_flag cc-si lang-9"><a href="javascript:s4.setLanguage('sl');"><span><span class="icon_flag cc-si lang-9"></span>Sloven&scaron;&#269;ina</span></a></li><li class="sb-option icon_flag cc-no lang-10"><a href="javascript:s4.setLanguage('no');"><span><span class="icon_flag cc-no lang-10"></span>Norsk</span></a></li><li class="sb-option icon_flag cc-se lang-11"><a href="javascript:s4.setLanguage('se');"><span><span class="icon_flag cc-se lang-11"></span>Svenska</span></a></li><li class="sb-option icon_flag cc-dk lang-12"><a href="javascript:s4.setLanguage('da');"><span><span class="icon_flag cc-dk lang-12"></span>Dansk</span></a></li><li class="sb-option icon_flag cc-es lang-13"><a href="javascript:s4.setLanguage('es');"><span><span class="icon_flag cc-es lang-13"></span>Espa&ntilde;ol</span></a></li><li class="sb-option icon_flag cc-nl lang-14"><a href="javascript:s4.setLanguage('nl');"><span><span class="icon_flag cc-nl lang-14"></span>Nederlands</span></a></li><li class="sb-option icon_flag cc-pl lang-15"><a href="javascript:s4.setLanguage('pl');"><span><span class="icon_flag cc-pl lang-15"></span>Polski</span></a></li><li class="sb-option icon_flag cc-pt lang-16"><a href="javascript:s4.setLanguage('pt');"><span><span class="icon_flag cc-pt lang-16"></span>Portugu&ecirc;s</span></a></li><li class="sb-option icon_flag cc-cz lang-17"><a href="javascript:s4.setLanguage('cs');"><span><span class="icon_flag cc-cz lang-17"></span>&#268;esky</span></a></li><li class="sb-option icon_flag cc-lv lang-18"><a href="javascript:s4.setLanguage('lv');"><span><span class="icon_flag cc-lv lang-18"></span>Latvie&scaron;u</span></a></li><li class="sb-option icon_flag cc-fi lang-19"><a href="javascript:s4.setLanguage('fi');"><span><span class="icon_flag cc-fi lang-19"></span>Suomeksi</span></a></li><li class="sb-option icon_flag cc-ru lang-21"><a href="javascript:s4.setLanguage('ru');"><span><span class="icon_flag cc-ru lang-21"></span>&#1056;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081;</span></a></li><li class="sb-option icon_flag cc-th lang-29"><a href="javascript:s4.setLanguage('th');"><span><span class="icon_flag cc-th lang-29"></span>&#3652;&#3607;&#3618;</span></a></li><li class="sb-option icon_flag cc-cn lang-30"><a href="javascript:s4.setLanguage('zh');"><span><span class="icon_flag cc-cn lang-30"></span>&#31616;&#20307;&#20013;&#25991;</span></a></li><li class="sb-option icon_flag cc-ba lang-31"><a href="javascript:s4.setLanguage('bs');"><span><span class="icon_flag cc-ba lang-31"></span>Bosanski</span></a></li><li class="sb-option icon_flag cc-hu lang-32"><a href="javascript:s4.setLanguage('hu');"><span><span class="icon_flag cc-hu lang-32"></span>Magyar</span></a></li><li class="sb-option icon_flag cc-bg lang-33"><a href="javascript:s4.setLanguage('bg');"><span><span class="icon_flag cc-bg lang-33"></span>&#1041;&#1098;&#1083;&#1075;&#1072;&#1088;&#1089;&#1082;&#1080;</span></a></li><li class="sb-option icon_flag cc-rs lang-34"><a href="javascript:s4.setLanguage('sr');"><span><span class="icon_flag cc-rs lang-34"></span>C&#1088;&#1087;&#1089;&#1082;&#1080;</span></a></li><li class="sb-option icon_flag cc-gr lang-35"><a href="javascript:s4.setLanguage('el');"><span><span class="icon_flag cc-gr lang-35"></span>E&lambda;&lambda;&eta;&nu;&iota;&kappa;&#940;</span></a></li><li class="sb-option icon_flag cc-ro lang-36"><a href="javascript:s4.setLanguage('ro');"><span><span class="icon_flag cc-ro lang-36"></span>Rom&acirc;n&#259;</span></a></li><li class="sb-option icon_flag cc-ee lang-37"><a href="javascript:s4.setLanguage('et');"><span><span class="icon_flag cc-ee lang-37"></span>Eesti</span></a></li><li class="sb-option icon_flag cc-mk lang-38"><a href="javascript:s4.setLanguage('mk');"><span><span class="icon_flag cc-mk lang-38"></span>&#1052;&#1072;&#1082;&#1077;&#1076;&#1086;&#1085;&#1089;&#1082;&#1080;</span></a></li><li class="sb-option icon_flag cc-lt lang-39"><a href="javascript:s4.setLanguage('lt');"><span><span class="icon_flag cc-lt lang-39"></span>Lietuvi&#371; </span></a></li><li class="sb-option icon_flag cc-cn lang-40"><a href="javascript:s4.setLanguage('zht');"><span><span class="icon_flag cc-cn lang-40"></span>&#20013;&#25991;&#32321;&#39636;</span></a></li><li class="sb-option icon_flag cc-vn lang-42"><a href="javascript:s4.setLanguage('vi');"><span><span class="icon_flag cc-vn lang-42"></span>Ti&#7871;ng Vi&#7879;t</span></a></li><li class="sb-option icon_flag cc-id lang-41"><a href="javascript:s4.setLanguage('id');"><span><span class="icon_flag cc-id lang-41"></span>Bahasa</span></a></li><li class="sb-option icon_flag cc-jp lang-43"><a href="javascript:s4.setLanguage('ja');"><span><span class="icon_flag cc-jp lang-43"></span>&#26085;&#26412;&#35486;</span></a></li><li class="sb-option icon_flag cc-kr lang-44"><a href="javascript:s4.setLanguage('ko');"><span><span class="icon_flag cc-kr lang-44"></span>&#54620;&#44397;&#50612;</span></a></li><li class="sb-option icon_flag cc-ch lang-46"><a href="javascript:s4.setLanguage('ch');"><span><span class="icon_flag cc-ch lang-46"></span>Schweizerdeutsch</span></a></li><li class="sb-option icon_flag cc-ge lang-53"><a href="javascript:s4.setLanguage('ka');"><span><span class="icon_flag cc-ge lang-53"></span>&#4325;&#4304;&#4320;&#4311;&#4323;&#4314;&#4312;</span></a></li><li class="sb-option icon_flag cc-al lang-56"><a href="javascript:s4.setLanguage('sqi');"><span><span class="icon_flag cc-al lang-56"></span>Shqip</span></a></li><li class="sb-option icon_flag cc-ua lang-58"><a href="javascript:s4.setLanguage('ukr');"><span><span class="icon_flag cc-ua lang-58"></span>&#1059;&#1082;&#1088;&#1072;&#1111;&#1085;&#1089;&#1100;&#1082;&#1072;</span></a></li><li class="sb-option icon_flag cc-rs lang-60"><a href="javascript:s4.setLanguage('srl');"><span><span class="icon_flag cc-rs lang-60"></span>Srpski</span></a></li></ul></div></div></div></div>
+]]></c></n></n><n p="1" id="4207" c="view"><p n="class" t="String" v="timezone_select"/><n p="0" id="4209" c="menu" data="1"><p n="type" t="String" v="slickselect"/><p n="menuid" t="int" v="163"/><c cache="86400"><![CDATA[<div class=""><ul class=""></ul></div>
+]]></c></n></n><n p="2" id="1830" c="view"><s p="4" s="stageid" id="16"/><s p="4" s="viewtype" id="9"/><s p="4" s="seasonid" id="5"/><s p="4" s="sportid" id="2"/><s p="0" s="sportid" id="2"/><s p="0" s="clientid" id="1"/><s p="4" s="sportid2" id="309"/><s p="3" s="clientid" id="1"/><s p="3" s="sportid" id="2"/><s p="2" s="clientid" id="1"/><s p="2" s="seasonid" id="5"/><s p="1" s="clientid" id="1"/><s p="4" s="clientid" id="1"/><s p="4" s="landingpage_stageid" id="262"/><s p="0" s="isvfl" id="409"/><s p="0" s="disable_breadcrumbs" id="536"/><n p="0" id="2014" c="view"><p n="class" t="String" v="breadcrumbs"/><s p="0" s="sportid" id="2"/><s p="2" s="continentid" id="22"/><s p="2" s="sportid" id="2"/><s p="2" s="test" id="14"/><s p="3" s="categoryid" id="3"/><s p="3" s="test" id="14"/><s p="7" s="seasonid" id="5"/><s p="9" s="tableorcup" id="239"/><s p="8" s="seasontypeid" id="242"/><s p="6" s="tournamentid" id="17"/><s p="5" s="weeklyevent_event" id="176"/><s p="5" s="tournamentid" id="17"/><s p="10" s="stageid" id="16"/><s p="4" s="category2id" id="33"/><s p="3" s="sportid" id="2"/><s p="12" s="clientid" id="1"/><s p="11" s="viewtype" id="9"/><s p="11" s="seasonid" id="5"/><s p="11" s="uniqueteamid" id="6"/><s p="2" s="mobile_client" id="554"/><s p="13" s="clientid" id="1"/><s p="1" s="sportid2" id="309"/><s p="1" s="landingpage_stageid" id="262"/><s p="1" s="stageid" id="16"/><s p="1" s="sportid" id="2"/><s p="1" s="categoryid" id="3"/><s p="11" s="clientid" id="1"/><s p="7" s="categoryid" id="3"/><s p="7" s="clientid" id="1"/><s p="10" s="clientid" id="1"/><s p="10" s="landingpage_stageid" id="262"/><s p="10" s="test" id="14"/><s p="2" s="sportid2" id="309"/><s p="2" s="stageid" id="16"/><s p="10" s="sportid" id="2"/><n p="0" id="2015" c="menu" data="1"><p n="br_levels" t="int" v="0"/><p n="class" t="String" v="breadcrumb"/><p n="type" t="String" v="br_menu"/><p n="menuid" t="int" v="79"/><c cache="86400"><![CDATA[<div class="breadcrumb"><ul class="jd_menu br_menustyle"><li class="topelem first icon_sport sport-1"><a href="javascript:s4.setState('2_1',false);" class="atopelem"><div><span class="icon_sport sport-1"></span><span>Soccer</span><span class="arrow_icon_space"></span><div class="clearResponsive"></div></div></a></li></ul></div>
+]]></c></n><n p="1" id="1233" c="view"/><n p="2" id="4113" c="breadcrumbdoc" data="1"><p n="hideForSportId" t="int" v="11"/><p n="type" t="String" v="continent"/><c cache="3600" type="document"><![CDATA[<div class="menu">
+    <div class="breadcrumb">
+            <ul class="jd_menu br_menustyle">
+            <li class="topelem first">
+                                <a href="javascript:s4.setState('2_1,22_1',false);" class="atopelem">
+                                    <div>
+                                                                                                    <span>Europe</span>
+                                                <span class="arrow_down_icon"></span>
+                        <div class="clearResponsive"></div>
+                    </div>
+                </a>
+                                <ul class="jdlvl_2">
+                                                                                        <li>
+                                <a href="javascript:s4.setState('2_1,22_2',false);"><span>North America</span></a>
+                                <div class="clearResponsive"></div>
+                            </li>
+                                                                                                                                    <li>
+                                <a href="javascript:s4.setState('2_1,22_3',false);"><span>South America</span></a>
+                                <div class="clearResponsive"></div>
+                            </li>
+                                                                                                                                    <li>
+                                <a href="javascript:s4.setState('2_1,22_4',false);"><span>Africa</span></a>
+                                <div class="clearResponsive"></div>
+                            </li>
+                                                                                                                                    <li>
+                                <a href="javascript:s4.setState('2_1,22_5',false);"><span>Asia</span></a>
+                                <div class="clearResponsive"></div>
+                            </li>
+                                                                            </ul>
+                        </ul>
+        </div>
+</div>]]></c></n><n p="3" id="4105" c="breadcrumbdoc" data="1"><p n="hideForSportId" t="int" v="11"/><p n="type" t="String" v="category"/><c cache="3600" type="document"><![CDATA[<div class="menu">
+    <div class="breadcrumb">
+            <ul class="jd_menu br_menustyle">
+            <li class="topelem first">
+                                <a href="javascript:s4.deeplink('categoryid','32','');" class="atopelem">
+                                    <div>
+                                                    <span class="icon_flag cc-es"></span>
+                                                                                                    <span>Spain</span>
+                                                <span class="arrow_down_icon"></span>
+                        <div class="clearResponsive"></div>
+                    </div>
+                </a>
+                                <ul class="jdlvl_2">
+                                                                                        <li>
+                                <a href="javascript:s4.deeplink('categoryid','1','');"><span>England</span></a>
+                                <div class="clearResponsive"></div>
+                            </li>
+                                                                                                                                    <li>
+                                <a href="javascript:s4.deeplink('categoryid','31','');"><span>Italy</span></a>
+                                <div class="clearResponsive"></div>
+                            </li>
+                                                                                                                                    <li>
+                                <a href="javascript:s4.deeplink('categoryid','30','');"><span>Germany</span></a>
+                                <div class="clearResponsive"></div>
+                            </li>
+                                                                                                                                    <li>
+                                <a href="javascript:s4.deeplink('categoryid','7','');"><span>France</span></a>
+                                <div class="clearResponsive"></div>
+                            </li>
+                                                                                                                                    <li>
+                                <a href="javascript:s4.deeplink('categoryid','46','');"><span>Turkey</span></a>
+                                <div class="clearResponsive"></div>
+                            </li>
+                                                                                                                                    <li>
+                                <a href="javascript:s4.deeplink('categoryid','22','');"><span>Scotland</span></a>
+                                <div class="clearResponsive"></div>
+                            </li>
+                                                                                                                                    <li>
+                                <a href="javascript:s4.deeplink('categoryid','17','');"><span>Austria</span></a>
+                                <div class="clearResponsive"></div>
+                            </li>
+                                                                                                                                    <li>
+                                <a href="javascript:s4.deeplink('categoryid','35','');"><span>Netherlands</span></a>
+                                <div class="clearResponsive"></div>
+                            </li>
+                                                                                                                                    <li>
+                                <a href="javascript:s4.deeplink('categoryid','14','');"><span>Croatia</span></a>
+                                <div class="clearResponsive"></div>
+                            </li>
+                                                                            </ul>
+                        </ul>
+        </div>
+</div>]]></c></n><n p="4" id="1233" c="view"/><n p="5" id="1233" c="view"/><n p="6" id="1233" c="view"/><n p="7" id="2032" c="menu" data="1"><p n="class" t="String" v="breadcrumb"/><p n="menuid" t="int" v="83"/><p n="type" t="String" v="br_menu"/><c cache="86400"><![CDATA[<div class="breadcrumb"><ul class="jd_menu br_menustyle"><li class="topelem first "><a href="javascript:s4.deeplink('seasonid','42826','');" class="atopelem"><div><span>Second Division B 17/18</span><span class="arrow_down_icon"></span><div class="clearResponsive"></div></div></a><ul class=" jdlvl_2"><li class=""><a href="javascript:s4.deeplink('seasonid','42556','');"><span>LaLiga 17/18</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','42560','');"><span>LaLiga 2 17/18</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','42826','');"><span>Second Division B 17/18</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','43320','');"><span>Copa del Rey 17/18</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','42796','');"><span>Super Cup 2017</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','44414','');"><span>Primera Division Women 17/18</span><div class="clearResponsive"></div></a></li><li class=""><a class="arrow_right"><span>Amateur</span><div class="clearResponsive"></div></a><div class="arrow_right_icon"></div><ul class=" jdlvl_3"><li class=""><a href="javascript:s4.deeplink('seasonid','43668','');"><span>Tercera Division 17/18</span><div class="clearResponsive"></div></a></li></ul></li></ul></li></ul></div>
+]]></c></n><n p="8" id="1233" c="view"/><n p="9" id="1233" c="view"/><n p="10" id="1233" c="view"/><n p="11" id="1233" c="view"/><n p="12" id="2675" c="view"><p n="class" t="String" v="right"/><s p="0" s="test" id="14"/><s p="0" s="clientid" id="1"/><s p="0" s="is_landing_page" id="560"/><n p="0" id="2685" c="Button" data="1"><p n="href" t="String" v="s4.goback()"/><p n="value" t="String" v="Back"/><p n="innertagname" t="String" v="span"/><p n="tagname" t="String" v="a"/><c cache="86400"><![CDATA[<a class=" button" onclick="s4.goback()"><span>Back</span></a>
+]]></c></n></n><n p="13" id="1233" c="view"/><n p="14" id="2729" c="view"><p n="class" t="String" v="clear"/></n></n><n p="1" id="1233" c="view"/><n p="2" id="1233" c="view"/><n p="3" id="1233" c="view"/><n p="4" id="1833" c="view"><s p="1" s="seasonid" id="5"/><s p="1" s="mobile_client" id="554"/><s p="0" s="isvfl" id="409"/><n p="0" id="1233" c="view"/><n p="1" id="956" c="menu" data="1"><p n="menuid" t="int" v="15"/><p n="type" t="String" v="dropdown"/><p n="divId" t="String" v="nav-wrap-inner-2"/><p n="class" t="String" v="nav-wrap-class-2"/><c cache="86400"><![CDATA[<div class="nav-wrap-class-2"><ul class="dropdown"><li class="expandable type_9_overview active"><span class="underlevel-expandable-1-last"></span><a href="javascript:s4.setState('9_overview',false);" class="selected"><span>Tables</span></a></li><li class="expandable type_9_teampage"><span class="underlevel-expandable-1-last"></span><a href="javascript:s4.setState('9_teampage',false);"><span>Teams</span></a></li><li class="expandable type_9_headtohead"><span class="underlevel-expandable-1-last"></span><a href="javascript:s4.setState('9_headtohead',false);"><span>Head to Head</span></a></li><li class="expandable type_9_statistics"><span class="underlevel-expandable-1-last"></span><a href="javascript:s4.setState('9_statistics',false);"><span>Statistics</span></a></li><li class="expandable type_9_fixtures"><span class="underlevel-expandable-1-last"></span><a href="javascript:s4.setState('9_fixtures',false);"><span>Fixtures</span></a></li><li class="expandable type_9_archive last"><span class="underlevel-expandable-1-last"></span><a href="javascript:s4.setState('9_archive',false);"><span>Archive</span></a></li><div class="clearResponsive"></div></ul></div>
+]]></c></n></n><n p="5" id="1233" c="view"/></n><n p="3" id="2727" c="view"><p n="class" t="String" v="clear"/></n><n p="4" id="1831" c="view"><p n="class" t="String" v="under-main"/><s p="0" s="sportid" id="2"/><s p="0" s="categoryid" id="3"/><s p="0" s="tournamentid" id="17"/><s p="0" s="seasonid" id="5"/><s p="0" s="viewtype" id="9"/><s p="1" s="clientid" id="1"/><s p="3" s="clientid" id="1"/><n p="0" id="1424" c="view"><s p="0" s="viewtype" id="9"/><s p="0" s="haspartialdisplay" id="365"/><s p="0" s="matchid" id="8"/><s p="0" s="hasplayerservice" id="276"/><s p="0" s="hasmultipleinfo" id="196"/><s p="0" s="seasontypeid" id="242"/><s p="0" s="tableorcup" id="239"/><s p="0" s="internalh2h" id="381"/><s p="0" s="test" id="14"/><n p="0" id="1393" c="view"><n p="0" id="1496" c="view"><p n="template" t="1" v="VBox"/><p n="template" t="1" v="Full"/><s p="3" s="matchtype" id="26"/><s p="3" s="tabletype" id="25"/><s p="3" s="fulltimeorhalftime" id="72"/><s p="3" s="round" id="24"/><s p="0" s="iscupandtable" id="247"/><n p="0" id="5264" c="button_print" data="0"/><n p="1" id="2144" c="view"><p n="template" t="1" v="cornerbox"/><s p="0" s="isresponsive" id="569"/><n p="0" id="2146" c="view"><n p="0" id="3125" c="view"><p n="class" t="String" v="season_dropdown"/><s p="0" s="vleague" id="527"/><s p="1" s="clientid" id="1"/><n p="0" id="995" c="menu" data="1"><p n="type" t="String" v="slickselect"/><p n="template" t="1" v="HBox"/><p n="menuid" t="int" v="19"/><c cache="86400"><![CDATA[<div class=""><div class="sb-wrapper"><div class="sb-selectedbox"><div class="sb-current"><div class="label">17/18</div><div class="arrow"></div><div class="clearResponsive"></div></div></div><div style="clear: both;"></div><div class="sb-optionswrap" style="display: none;"><div class="sb-scrollbox"><ul class="slickselect"><li class="sb-option active " onclick="javascript:s4.deeplink('seasonid','42826','');">17/18</li><li class="sb-option " onclick="javascript:s4.deeplink('seasonid','34169','');">16/17</li><li class="sb-option " onclick="javascript:s4.deeplink('seasonid','10764','');">15/16</li><li class="sb-option " onclick="javascript:s4.deeplink('seasonid','8654','');">14/15</li><li class="sb-option " onclick="javascript:s4.deeplink('seasonid','6921','');">13/14</li><li class="sb-option " onclick="javascript:s4.deeplink('seasonid','5157','');">12/13</li><li class="sb-option " onclick="javascript:s4.deeplink('seasonid','3659','');">11/12</li><li class="sb-option " onclick="javascript:s4.deeplink('seasonid','2935','');">10/11</li><li class="sb-option " onclick="javascript:s4.deeplink('seasonid','2379','');">09/10</li><li class="sb-option " onclick="javascript:s4.deeplink('seasonid','1751','');">08/09</li></ul></div></div></div></div>
+]]></c></n><n p="1" id="1233" c="view"/></n><n p="1" id="2149" c="menu" data="1"><p n="class" t="String" v="gismo_invert gismo_left"/><p n="menuid" t="int" v="97"/><p n="type" t="String" v="gismo"/><c cache="86400"><![CDATA[<div class="gismo_invert gismo_left"><div class="table_selector"><div class="tabs navtabs"><ul class="navtabs gismo"><li class="active first"><a href="javascript:s4.setState('5_42826,9_overview',false);"><div class="htab"><span>Overview</span></div></a></li><li class="followingSelected last"><a href="javascript:s4.deeplink('seasontypeid','21','5_42826');"><div class="htab"><span>Group stage</span></div></a></li><div class="clearResponsive"></div></ul></div></div></div>
+]]></c></n><n p="2" id="2150" c="Hr" data="1"><c cache="2592000"><![CDATA[<div class="horizontal_ruler"></div>]]></c></n></n><n p="1" id="2151" c="view"><s p="0" s="seasontypeid" id="242"/><s p="0" s="tableorcup" id="239"/><s p="1" s="seasonold" id="259"/><s p="1" s="tableorcup" id="239"/><s p="1" s="vleague" id="527"/><s p="1" s="sportid" id="2"/><s p="1" s="categoryid" id="3"/><n p="0" id="1233" c="view"/><n p="1" id="3655" c="view"><p n="class" t="String" v="with_border"/><s p="3" s="isresponsive" id="569"/><n p="0" id="2257" c="view"><p n="template" t="1" v="HBox"/><p n="template" t="1" v="Half"/><n p="0" id="2259" c="view"><p n="template" t="1" v="component"/><p n="class" t="String" v="landingpage"/><s p="0" s="landingpage_seasonid" id="260"/><s p="0" s="test" id="14"/><s p="0" s="clientid" id="1"/><n p="0" id="3285" c="couch_lastx" data="1"><p n="useabbr" t="boolean" v="1"/><p n="defaultFromToplist" t="boolean" v="1"/><p n="titletext" t="String" v="Results"/><c cache="900" type="document" name="Last 10"><![CDATA[<h2 class="title">Results</h2>
+
+
+
+
+    <table  class="normaltable lastx">
+    
+        <thead>
+        <tr class="header0"><th class="datetime first"><abbr title="Date">DA</abbr></th><th class="match">Match</th><th class="homeodds">1</th><th class="drawodds">X</th><th class="awayodds">2</th><th class="nt">FT</th><th class="round last"><abbr title="Round">RO</abbr></th></tr>        </thead>
+    
+    
+    
+        <tbody>
+        <tr class="odd"><td class="datetime">10/09/17</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 12257208, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/24335.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/6586.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                Sabadell
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                Badalona
+                                        </span>
+            </span>
+</a>
+</td>        <td class="homeodds">
+    2.6
+
+
+</td>            
+                            
+            <td class="drawodds winner">
+    3.1
+
+
+</td>            
+                            
+            <td class="awayodds">
+    2.6
+
+
+</td>            
+
+                            
+            <td class="nt ftx ">
+                                                                                        <span class="score">0</span>:<span class="score">0</span>
+                                                                                                    </td>
+            
+
+                                            <td class="round">
+                
+                                                                                                                                                    4
+                                                                                                        </td>
+                                </tr>
+    <tr class="even"><td class="datetime">10/09/17</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 12247902, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/37051.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/43754.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home winner">
+                                                Villanovense
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                Jumilla
+                                        </span>
+            </span>
+</a>
+</td>        <td class="homeodds winner">
+    1.91
+
+
+</td>            
+                            
+            <td class="drawodds">
+    3.1
+
+
+</td>            
+                            
+            <td class="awayodds">
+    4.1
+
+
+</td>            
+
+                            
+            <td class="nt ftx ">
+                                                                                        <span class="score">2</span>:<span class="score">0</span>
+                                                                                                    </td>
+            
+
+                                            <td class="round">
+                
+                                                                                                                                                    4
+                                                                                                        </td>
+                                </tr>
+    <tr class="odd"><td class="datetime">10/09/17</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 12247896, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/191166.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/2853.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                El Ejido 2012
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                Badajoz
+                                        </span>
+            </span>
+</a>
+</td>        <td class="homeodds">
+    2.25
+
+
+</td>            
+                            
+            <td class="drawodds winner">
+    3.1
+
+
+</td>            
+                            
+            <td class="awayodds">
+    3.1
+
+
+</td>            
+
+                            
+            <td class="nt ftx ">
+                                                                                        <span class="score">1</span>:<span class="score">1</span>
+                                                                                                    </td>
+            
+
+                                            <td class="round">
+                
+                                                                                                                                                    4
+                                                                                                        </td>
+                                </tr>
+    <tr class="even"><td class="datetime">10/09/17</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 12247894, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/216186.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/24358.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home winner">
+                                                Rec. de Huelva
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                Betis B
+                                        </span>
+            </span>
+</a>
+</td>        <td class="homeodds winner">
+    1.67
+
+
+</td>            
+                            
+            <td class="drawodds">
+    3.5
+
+
+</td>            
+                            
+            <td class="awayodds">
+    4.75
+
+
+</td>            
+
+                            
+            <td class="nt ftx ">
+                                                                                        <span class="score">1</span>:<span class="score">0</span>
+                                                                                                    </td>
+            
+
+                                            <td class="round">
+                
+                                                                                                                                                    4
+                                                                                                        </td>
+                                </tr>
+    <tr class="odd"><td class="datetime">10/09/17</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 12247124, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/2846.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/76805.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home winner">
+                                                Elche
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                Peralada
+                                        </span>
+            </span>
+</a>
+</td>        <td class="homeodds winner">
+    1.18
+
+
+</td>            
+                            
+            <td class="drawodds">
+    6.0
+
+
+</td>            
+                            
+            <td class="awayodds">
+    13.0
+
+
+</td>            
+
+                            
+            <td class="nt ftx ">
+                                                                                        <span class="score">4</span>:<span class="score">1</span>
+                                                                                                    </td>
+            
+
+                                            <td class="round">
+                
+                                                                                                                                                    4
+                                                                                                        </td>
+                                </tr>
+    <tr class="even"><td class="datetime">10/09/17</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 12245600, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/47567.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/2843.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                Talavera
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away winner                  ">
+                                                Ferrol
+                                        </span>
+            </span>
+</a>
+</td>        <td class="homeodds">
+    2.2
+
+
+</td>            
+                            
+            <td class="drawodds">
+    3.2
+
+
+</td>            
+                            
+            <td class="awayodds winner">
+    3.1
+
+
+</td>            
+
+                            
+            <td class="nt ftx ">
+                                                                                        <span class="score">0</span>:<span class="score">1</span>
+                                                                                                    </td>
+            
+
+                                            <td class="round">
+                
+                                                                                                                                                    4
+                                                                                                        </td>
+                                </tr>
+    <tr class="odd"><td class="datetime">10/09/17</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 12245598, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/24342.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/5069.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home winner">
+                                                RC Deportivo
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                RM Castilla
+                                        </span>
+            </span>
+</a>
+</td>        <td class="homeodds winner">
+    3.0
+
+
+</td>            
+                            
+            <td class="drawodds">
+    3.2
+
+
+</td>            
+                            
+            <td class="awayodds">
+    2.25
+
+
+</td>            
+
+                            
+            <td class="nt ftx ">
+                                                                                        <span class="score">3</span>:<span class="score">0</span>
+                                                                                                    </td>
+            
+
+                                            <td class="round">
+                
+                                                                                                                                                    4
+                                                                                                        </td>
+                                </tr>
+    <tr class="even"><td class="datetime">10/09/17</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 12247908, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/24348.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/24334.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home winner">
+                                                Marbella
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                San Fernando
+                                        </span>
+            </span>
+</a>
+</td>        <td class="homeodds winner">
+    2.15
+
+
+</td>            
+                            
+            <td class="drawodds">
+    3.1
+
+
+</td>            
+                            
+            <td class="awayodds">
+    3.25
+
+
+</td>            
+
+                            
+            <td class="nt ftx ">
+                                                                                        <span class="score">1</span>:<span class="score">0</span>
+                                                                                                    </td>
+            
+
+                                            <td class="round">
+                
+                                                                                                                                                    4
+                                                                                                        </td>
+                                </tr>
+    <tr class="odd"><td class="datetime">10/09/17</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 12247890, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/24357.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/43758.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home winner">
+                                                RB Linense
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                Extremadura
+                                        </span>
+            </span>
+</a>
+</td>        <td class="homeodds winner">
+    2.8
+
+
+</td>            
+                            
+            <td class="drawodds">
+    3.1
+
+
+</td>            
+                            
+            <td class="awayodds">
+    2.4
+
+
+</td>            
+
+                            
+            <td class="nt ftx ">
+                                                                                        <span class="score">2</span>:<span class="score">0</span>
+                                                                                                    </td>
+            
+
+                                            <td class="round">
+                
+                                                                                                                                                    4
+                                                                                                        </td>
+                                </tr>
+    <tr class="even"><td class="datetime">10/09/17</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 12245604, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/24346.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/35097.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                Guijuelo
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away winner                  ">
+                                                Fuenlabrada
+                                        </span>
+            </span>
+</a>
+</td>        <td class="homeodds">
+    2.63
+
+
+</td>            
+                            
+            <td class="drawodds">
+    3.2
+
+
+</td>            
+                            
+            <td class="awayodds winner">
+    2.5
+
+
+</td>            
+
+                            
+            <td class="nt ftx ">
+                                                                                        <span class="score">0</span>:<span class="score">2</span>
+                                                                                                    </td>
+            
+
+                                            <td class="round">
+                
+                                                                                                                                                    4
+                                                                                                        </td>
+                                </tr>
+    
+
+        </tbody>
+    
+
+    
+    </table>]]></c></n></n></n><n p="1" id="3661" c="view"><p n="class" t="String" v="border_normal"/></n><n p="2" id="2258" c="view"><p n="template" t="1" v="HBox"/><p n="template" t="1" v="Half"/><p n="template" t="1" v="Last"/><n p="0" id="2260" c="view"><p n="template" t="1" v="component"/><p n="class" t="String" v="landingpage"/><s p="1" s="clientid" id="1"/><s p="1" s="landingpage_seasonid" id="260"/><s p="1" s="test" id="14"/><s p="1" s="oddstype_next" id="415"/><s p="0" s="oddstype_next" id="415"/><s p="0" s="showoddsmenu" id="417"/><s p="0" s="sportid" id="2"/><n p="0" id="4347" c="menu" data="1"><p n="type" t="String" v="gismo"/><p n="menuid" t="int" v="167"/><c cache="86400"><![CDATA[<div class=""><div class="table_selector"><div class="tabs navtabs"><ul class="navtabs gismo"><li class="active first last"><a href="javascript:s4.setState('415_1',true);"><div class="htab"><span>3Way</span></div></a></li><div class="clearResponsive"></div></ul></div></div></div>
+]]></c></n><n p="1" id="3297" c="couch_nextx" data="1"><p n="useabbr" t="boolean" v="1"/><p n="defaultFromToplist" t="boolean" v="1"/><p n="titletext" t="String" v="Fixtures"/><c cache="900" type="document" name="Next 10"><![CDATA[<h2 class="title">Fixtures</h2>
+
+
+
+
+    <table  class="normaltable nextx">
+    
+        <thead>
+        <tr class="header0"><th class="datetime first"><abbr title="Date">DA</abbr></th><th class="match">Match</th><th class="round last"><abbr title="Round">RO</abbr></th></tr>        </thead>
+    
+    
+    
+        <tbody>
+        <tr class="odd"><td class="datetime">16/09/17 15:00</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 12246364, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/54103.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/24360.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                Amorebieta
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                Sociedad B
+                                        </span>
+            </span>
+</a>
+</td>                                    <td class="round">
+                
+                                                                                                                                                    5
+                                                                                                        </td>
+                                </tr>
+    <tr class="even"><td class="datetime">16/09/17 16:30</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 12245624, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/35097.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/4941.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                Fuenlabrada
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                Pontevedra
+                                        </span>
+            </span>
+</a>
+</td>                                    <td class="round">
+                
+                                                                                                                                                    5
+                                                                                                        </td>
+                                </tr>
+    <tr class="odd"><td class="datetime">16/09/17 17:00</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 12246370, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/24324.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/216184.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                <abbr title="Athletic Bilbao B">Athletic Bilbao…</abbr>
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                Gernika
+                                        </span>
+            </span>
+</a>
+</td>                                    <td class="round">
+                
+                                                                                                                                                    5
+                                                                                                        </td>
+                                </tr>
+    <tr class="even"><td class="datetime">16/09/17 17:00</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 12247138, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/273937.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/24337.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                <abbr title="Atletico Saguntino">Atletico Sagunt…</abbr>
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                Valencia B
+                                        </span>
+            </span>
+</a>
+</td>                                    <td class="round">
+                
+                                                                                                                                                    5
+                                                                                                        </td>
+                                </tr>
+    <tr class="odd"><td class="datetime">16/09/17 17:00</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 12247924, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/24369.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/115061.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                Las Palmas B
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                Cordoba B
+                                        </span>
+            </span>
+</a>
+</td>                                    <td class="round">
+                
+                                                                                                                                                    5
+                                                                                                        </td>
+                                </tr>
+    <tr class="even"><td class="datetime">16/09/17 17:30</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 12247926, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/115065.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/24348.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                Granada B
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                Marbella
+                                        </span>
+            </span>
+</a>
+</td>                                    <td class="round">
+                
+                                                                                                                                                    5
+                                                                                                        </td>
+                                </tr>
+    <tr class="odd"><td class="datetime">16/09/17 18:00</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 12247144, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/76805.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/115059.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                Peralada
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                Olot
+                                        </span>
+            </span>
+</a>
+</td>                                    <td class="round">
+                
+                                                                                                                                                    5
+                                                                                                        </td>
+                                </tr>
+    <tr class="even"><td class="datetime">16/09/17 18:30</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 12245628, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/35093.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/336767.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                Cerceda
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                AD Union Adarve
+                                        </span>
+            </span>
+</a>
+</td>                                    <td class="round">
+                
+                                                                                                                                                    5
+                                                                                                        </td>
+                                </tr>
+    <tr class="odd"><td class="datetime">16/09/17 19:00</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 12247130, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/167162.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/215218.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                Cornella
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                Ebro
+                                        </span>
+            </span>
+</a>
+</td>                                    <td class="round">
+                
+                                                                                                                                                    5
+                                                                                                        </td>
+                                </tr>
+    <tr class="even"><td class="datetime">16/09/17 19:30</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 12247918, '')"            >
+                                        <img src="//ls.betradar.com/ls/crest/small/4487.png" onload="s4.resizeIframe()" class="home">
+                                                        <img src="//ls.betradar.com/ls/crest/small/55785.png" onload="s4.resizeIframe()" class="away">
+                            <span class="teams logos">
+                    <span class="home">
+                                                Murcia
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                U. Murcia
+                                        </span>
+            </span>
+</a>
+</td>                                    <td class="round">
+                
+                                                                                                                                                    5
+                                                                                                        </td>
+                                </tr>
+    
+
+        </tbody>
+    
+
+    
+    </table>]]></c></n></n></n><n p="3" id="1233" c="view"/></n></n></n><n p="2" id="2145" c="view"><p n="class" t="String" v="motorsport_playoffs_view"/><p n="template" t="1" v="cornerbox"/><s p="0" s="clientid" id="1"/><s p="0" s="seasonid" id="5"/><s p="0" s="test" id="14"/><s p="0" s="cupsection" id="323"/><s p="0" s="cupid" id="28"/><n p="0" id="2905" c="view"><p n="template" t="1" v="component"/><p n="class" t="String" v="cuprostertabsview"/><s p="1" s="clientid" id="1"/><s p="1" s="isdoubles" id="299"/><s p="1" s="cupsection" id="323"/><s p="1" s="cupid" id="28"/><s p="1" s="showplacementmatches" id="322"/><s p="1" s="new_cup_tree" id="427"/><s p="0" s="new_cup_tree" id="427"/><s p="1" s="tournamentid" id="17"/><s p="0" s="clientid" id="1"/><n p="0" id="2907" c="menu" data="1"><p n="menuid" t="int" v="112"/><p n="type" t="String" v="gismo"/><p n="class" t="String" v="gismo_invert "/><c cache="86400"><![CDATA[<div class="gismo_invert "><ul class=""></ul></div>
+]]></c></n><n p="1" id="1280" c="Cuptree" data="0"><p n="team_translationlength" t="String" v="SHORT"/><p n="maxRounds" t="int" v="3"/></n></n></n><n p="3" id="2147" c="view"><p n="template" t="1" v="component"/><p n="class" t="String" v="motorsport_leaguetable_view"/><s p="0" s="seasontypeid" id="242"/><n p="0" id="2159" c="view"><s p="0" s="sportid" id="2"/><s p="3" s="seasontypeid" id="242"/><s p="2" s="seasontypeid" id="242"/><s p="1" s="clientid" id="1"/><s p="1" s="seasontypeid" id="242"/><s p="0" s="hasmultipleinfo" id="196"/><s p="0" s="test" id="14"/><n p="0" id="1397" c="leaguetable" data="1"><p n="settype" t="int" v="23"/><p n="childtemplates" t="intarray" v="13"/><p n="tablesorter" t="int" v="1"/><p n="display" t="int" v="0"/><p n="tabletype" t="String" v="normal"/><p n="hover" t="int" v="1"/><c cache="600"><![CDATA[<div class="multiview"><div class=" template_cornerbox template_First" builder="multiview"><div class="multiview_wrap"><h2 class="title "><a href="javascript:s4.deeplink('tableid','27562','');">Group I</a></h2><table class="normaltable"><thead><tr class="header0"><th title="Position" class="positiontotal  position first">Pos</th><th class="teamname  team">Team</th><th title="Played" class="{sorter: 'desc'} matchestotal  matches">P</th><th title="win" class="{sorter: 'desc'} wintotal  wins">W</th><th title="Draw" class="{sorter: 'desc'} drawtotal  draws">D</th><th title="loss" class="losstotal  losses">L</th><th title="DIFF" class="{sorter: 'desc'} goaldifftotal  diff unsigned difftotal">DI</th><th title="Points" class="{sorter: 'desc'} pointstotal  points pointstotal last">Points</th></tr></thead><tbody><tr class="firstingroup promotioncolor_promotionplayoff firstingroup even"><td class="position first">1</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','2883','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/2883.png" onLoad="s4.resizeIframe()">San Sebastian</span></a></td><td class="matches">4</td><td class="wins">3</td><td class="draws">1</td><td class="losses">0</td><td class="diff unsigned difftotal">5</td><td class="points pointstotal last">10</td></tr><tr class="promotioncolor_promotionplayoff"><td class="position first">2</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','166958','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/166958.png" onLoad="s4.resizeIframe()">Rapido d. Bouzas</span></a></td><td class="matches">4</td><td class="wins">3</td><td class="draws">1</td><td class="losses">0</td><td class="diff unsigned difftotal">3</td><td class="points pointstotal last">10</td></tr><tr class="promotioncolor_promotionplayoff even"><td class="position first">3</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','35093','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/35093.png" onLoad="s4.resizeIframe()">Cerceda</span></a></td><td class="matches">4</td><td class="wins">3</td><td class="draws">0</td><td class="losses">1</td><td class="diff unsigned difftotal">2</td><td class="points pointstotal last">9</td></tr><tr class="promotioncolor_promotionplayoff"><td class="position first">4</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','24326','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/24326.png" onLoad="s4.resizeIframe()">Atletico Madrid B</span></a></td><td class="matches">4</td><td class="wins">2</td><td class="draws">2</td><td class="losses">0</td><td class="diff unsigned difftotal">3</td><td class="points pointstotal last">8</td></tr><tr class="even"><td class="position first">5</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','24336','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/24336.png" onLoad="s4.resizeIframe()">Celta Vigo B</span></a></td><td class="matches">4</td><td class="wins">2</td><td class="draws">2</td><td class="losses">0</td><td class="diff unsigned difftotal">3</td><td class="points pointstotal last">8</td></tr><tr><td class="position first">6</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','2843','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/2843.png" onLoad="s4.resizeIframe()">Ferrol</span></a></td><td class="matches">4</td><td class="wins">2</td><td class="draws">2</td><td class="losses">0</td><td class="diff unsigned difftotal">2</td><td class="points pointstotal last">8</td></tr><tr class="even"><td class="position first">7</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','24342','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/24342.png" onLoad="s4.resizeIframe()">RC Deportivo</span></a></td><td class="matches">4</td><td class="wins">2</td><td class="draws">1</td><td class="losses">1</td><td class="diff unsigned difftotal">3</td><td class="points pointstotal last">7</td></tr><tr><td class="position first">8</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','35097','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/35097.png" onLoad="s4.resizeIframe()">Fuenlabrada</span></a></td><td class="matches">4</td><td class="wins">2</td><td class="draws">1</td><td class="losses">1</td><td class="diff unsigned difftotal">2</td><td class="points pointstotal last">7</td></tr><tr class="even"><td class="position first">9</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','24352','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/24352.png" onLoad="s4.resizeIframe()">Navalcarnero</span></a></td><td class="matches">4</td><td class="wins">2</td><td class="draws">1</td><td class="losses">1</td><td class="diff unsigned difftotal">0</td><td class="points pointstotal last">7</td></tr><tr><td class="position first">10</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','216190','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/216190.png" onLoad="s4.resizeIframe()">Rayo Majadahonda</span></a></td><td class="matches">4</td><td class="wins">2</td><td class="draws">0</td><td class="losses">2</td><td class="diff unsigned difftotal">0</td><td class="points pointstotal last">6</td></tr><tr class="even"><td class="position first">11</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','43755','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/43755.png" onLoad="s4.resizeIframe()">Coruxo</span></a></td><td class="matches">4</td><td class="wins">2</td><td class="draws">0</td><td class="losses">2</td><td class="diff unsigned difftotal">-2</td><td class="points pointstotal last">6</td></tr><tr><td class="position first">12</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','6195','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/6195.png" onLoad="s4.resizeIframe()">Ponferradina</span></a></td><td class="matches">4</td><td class="wins">1</td><td class="draws">2</td><td class="losses">1</td><td class="diff unsigned difftotal">2</td><td class="points pointstotal last">5</td></tr><tr class="even"><td class="position first">13</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','5069','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/5069.png" onLoad="s4.resizeIframe()">RM Castilla</span></a></td><td class="matches">4</td><td class="wins">1</td><td class="draws">1</td><td class="losses">2</td><td class="diff unsigned difftotal">-1</td><td class="points pointstotal last">4</td></tr><tr><td class="position first">14</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','25401','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/25401.png" onLoad="s4.resizeIframe()">Toledo Sad</span></a></td><td class="matches">4</td><td class="wins">0</td><td class="draws">3</td><td class="losses">1</td><td class="diff unsigned difftotal">-1</td><td class="points pointstotal last">3</td></tr><tr class="even"><td class="position first">15</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','336767','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/336767.png" onLoad="s4.resizeIframe()">AD Union Adarve</span></a></td><td class="matches">4</td><td class="wins">0</td><td class="draws">3</td><td class="losses">1</td><td class="diff unsigned difftotal">-2</td><td class="points pointstotal last">3</td></tr><tr class="promotioncolor_relegationplayoff firstingroup"><td class="position first">16</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','47567','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/47567.png" onLoad="s4.resizeIframe()">Talavera</span></a></td><td class="matches">4</td><td class="wins">0</td><td class="draws">2</td><td class="losses">2</td><td class="diff unsigned difftotal">-2</td><td class="points pointstotal last">2</td></tr><tr class="promotioncolor_relegation firstingroup even"><td class="position first">17</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','4941','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/4941.png" onLoad="s4.resizeIframe()">Pontevedra</span></a></td><td class="matches">4</td><td class="wins">0</td><td class="draws">1</td><td class="losses">3</td><td class="diff unsigned difftotal">-3</td><td class="points pointstotal last">1</td></tr><tr class="promotioncolor_relegation"><td class="position first">18</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','6578','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/6578.png" onLoad="s4.resizeIframe()">Segoviana</span></a></td><td class="matches">4</td><td class="wins">0</td><td class="draws">1</td><td class="losses">3</td><td class="diff unsigned difftotal">-4</td><td class="points pointstotal last">1</td></tr><tr class="promotioncolor_relegation even"><td class="position first">19</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','24346','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/24346.png" onLoad="s4.resizeIframe()">Guijuelo</span></a></td><td class="matches">4</td><td class="wins">0</td><td class="draws">1</td><td class="losses">3</td><td class="diff unsigned difftotal">-4</td><td class="points pointstotal last">1</td></tr><tr class="promotioncolor_relegation"><td class="position first">20</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','24361','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/24361.png" onLoad="s4.resizeIframe()">Valladolid B</span></a></td><td class="matches">4</td><td class="wins">0</td><td class="draws">1</td><td class="losses">3</td><td class="diff unsigned difftotal">-6</td><td class="points pointstotal last">1</td></tr></tbody></table><div hidden="1" class="choosecolumntext">Choose columns</div>
+</div></div><div class=" template_cornerbox" builder="multiview"><div class="multiview_wrap"><h2 class="title "><a href="javascript:s4.deeplink('tableid','27564','');">Group II</a></h2><table class="normaltable"><thead><tr class="header0"><th title="Position" class="positiontotal  position first">Pos</th><th class="teamname  team">Team</th><th title="Played" class="{sorter: 'desc'} matchestotal  matches">P</th><th title="win" class="{sorter: 'desc'} wintotal  wins">W</th><th title="Draw" class="{sorter: 'desc'} drawtotal  draws">D</th><th title="loss" class="losstotal  losses">L</th><th title="DIFF" class="{sorter: 'desc'} goaldifftotal  diff unsigned difftotal">DI</th><th title="Points" class="{sorter: 'desc'} pointstotal  points pointstotal last">Points</th></tr></thead><tbody><tr class="firstingroup promotioncolor_promotionplayoff firstingroup even"><td class="position first">1</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','37057','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/37057.png" onLoad="s4.resizeIframe()">UD Logrones</span></a></td><td class="matches">4</td><td class="wins">3</td><td class="draws">1</td><td class="losses">0</td><td class="diff unsigned difftotal">4</td><td class="points pointstotal last">10</td></tr><tr class="promotioncolor_promotionplayoff"><td class="position first">2</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','35092','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/35092.png" onLoad="s4.resizeIframe()">Mirandes</span></a></td><td class="matches">4</td><td class="wins">3</td><td class="draws">1</td><td class="losses">0</td><td class="diff unsigned difftotal">3</td><td class="points pointstotal last">10</td></tr><tr class="promotioncolor_promotionplayoff even"><td class="position first">3</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','2854','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/2854.png" onLoad="s4.resizeIframe()">Burgos</span></a></td><td class="matches">4</td><td class="wins">3</td><td class="draws">1</td><td class="losses">0</td><td class="diff unsigned difftotal">3</td><td class="points pointstotal last">10</td></tr><tr class="promotioncolor_promotionplayoff"><td class="position first">4</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','24365','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/24365.png" onLoad="s4.resizeIframe()">Sporting Gijon B</span></a></td><td class="matches">4</td><td class="wins">3</td><td class="draws">0</td><td class="losses">1</td><td class="diff unsigned difftotal">3</td><td class="points pointstotal last">9</td></tr><tr class="even"><td class="position first">5</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','2881','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/2881.png" onLoad="s4.resizeIframe()">Union de Irun</span></a></td><td class="matches">4</td><td class="wins">3</td><td class="draws">0</td><td class="losses">1</td><td class="diff unsigned difftotal">-1</td><td class="points pointstotal last">9</td></tr><tr><td class="position first">6</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','24324','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/24324.png" onLoad="s4.resizeIframe()">Athletic Bilbao B</span></a></td><td class="matches">4</td><td class="wins">2</td><td class="draws">1</td><td class="losses">1</td><td class="diff unsigned difftotal">6</td><td class="points pointstotal last">7</td></tr><tr class="even"><td class="position first">7</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','24360','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/24360.png" onLoad="s4.resizeIframe()">Sociedad B</span></a></td><td class="matches">4</td><td class="wins">2</td><td class="draws">0</td><td class="losses">2</td><td class="diff unsigned difftotal">1</td><td class="points pointstotal last">6</td></tr><tr><td class="position first">8</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','44230','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/44230.png" onLoad="s4.resizeIframe()">Tudelano</span></a></td><td class="matches">4</td><td class="wins">1</td><td class="draws">3</td><td class="losses">0</td><td class="diff unsigned difftotal">1</td><td class="points pointstotal last">6</td></tr><tr class="even"><td class="position first">9</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','2835','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/2835.png" onLoad="s4.resizeIframe()">R. Santander</span></a></td><td class="matches">4</td><td class="wins">2</td><td class="draws">0</td><td class="losses">2</td><td class="diff unsigned difftotal">0</td><td class="points pointstotal last">6</td></tr><tr><td class="position first">10</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','216184','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/216184.png" onLoad="s4.resizeIframe()">Gernika</span></a></td><td class="matches">4</td><td class="wins">2</td><td class="draws">0</td><td class="losses">2</td><td class="diff unsigned difftotal">0</td><td class="points pointstotal last">6</td></tr><tr class="even"><td class="position first">11</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','167160','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/167160.png" onLoad="s4.resizeIframe()">Leioa</span></a></td><td class="matches">4</td><td class="wins">1</td><td class="draws">2</td><td class="losses">1</td><td class="diff unsigned difftotal">2</td><td class="points pointstotal last">5</td></tr><tr><td class="position first">12</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','2879','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/2879.png" onLoad="s4.resizeIframe()">Baracaldo</span></a></td><td class="matches">4</td><td class="wins">1</td><td class="draws">2</td><td class="losses">1</td><td class="diff unsigned difftotal">1</td><td class="points pointstotal last">5</td></tr><tr class="even"><td class="position first">13</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','216196','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/216196.png" onLoad="s4.resizeIframe()">A. Club de Getxo</span></a></td><td class="matches">4</td><td class="wins">1</td><td class="draws">2</td><td class="losses">1</td><td class="diff unsigned difftotal">0</td><td class="points pointstotal last">5</td></tr><tr><td class="position first">14</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','43749','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/43749.png" onLoad="s4.resizeIframe()">Caudal</span></a></td><td class="matches">4</td><td class="wins">1</td><td class="draws">2</td><td class="losses">1</td><td class="diff unsigned difftotal">0</td><td class="points pointstotal last">5</td></tr><tr class="even"><td class="position first">15</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','224834','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/224834.png" onLoad="s4.resizeIframe()">Vitoria</span></a></td><td class="matches">4</td><td class="wins">1</td><td class="draws">1</td><td class="losses">2</td><td class="diff unsigned difftotal">-2</td><td class="points pointstotal last">4</td></tr><tr class="promotioncolor_relegationplayoff firstingroup"><td class="position first">16</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','167156','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/167156.png" onLoad="s4.resizeIframe()">Lealtad</span></a></td><td class="matches">4</td><td class="wins">1</td><td class="draws">0</td><td class="losses">3</td><td class="diff unsigned difftotal">-4</td><td class="points pointstotal last">3</td></tr><tr class="promotioncolor_relegation firstingroup even"><td class="position first">17</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','24328','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/24328.png" onLoad="s4.resizeIframe()">Osasuna B</span></a></td><td class="matches">4</td><td class="wins">0</td><td class="draws">2</td><td class="losses">2</td><td class="diff unsigned difftotal">-4</td><td class="points pointstotal last">2</td></tr><tr class="promotioncolor_relegation"><td class="position first">18</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','54103','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/54103.png" onLoad="s4.resizeIframe()">Amorebieta</span></a></td><td class="matches">4</td><td class="wins">0</td><td class="draws">1</td><td class="losses">3</td><td class="diff unsigned difftotal">-3</td><td class="points pointstotal last">1</td></tr><tr class="promotioncolor_relegation even"><td class="position first">19</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','37048','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/37048.png" onLoad="s4.resizeIframe()">Izarra</span></a></td><td class="matches">4</td><td class="wins">0</td><td class="draws">1</td><td class="losses">3</td><td class="diff unsigned difftotal">-6</td><td class="points pointstotal last">1</td></tr><tr class="promotioncolor_relegation"><td class="position first">20</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','6588','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/6588.png" onLoad="s4.resizeIframe()">Pena Sport</span></a></td><td class="matches">4</td><td class="wins">0</td><td class="draws">0</td><td class="losses">4</td><td class="diff unsigned difftotal">-4</td><td class="points pointstotal last">0</td></tr></tbody></table><div hidden="1" class="choosecolumntext">Choose columns</div>
+</div></div><div class=" template_cornerbox" builder="multiview"><div class="multiview_wrap"><h2 class="title "><a href="javascript:s4.deeplink('tableid','27566','');">Group III</a></h2><table class="normaltable"><thead><tr class="header0"><th title="Position" class="positiontotal  position first">Pos</th><th class="teamname  team">Team</th><th title="Played" class="{sorter: 'desc'} matchestotal  matches">P</th><th title="win" class="{sorter: 'desc'} wintotal  wins">W</th><th title="Draw" class="{sorter: 'desc'} drawtotal  draws">D</th><th title="loss" class="losstotal  losses">L</th><th title="DIFF" class="{sorter: 'desc'} goaldifftotal  diff unsigned difftotal">DI</th><th title="Points" class="{sorter: 'desc'} pointstotal  points pointstotal last">Points</th></tr></thead><tbody><tr class="firstingroup promotioncolor_promotionplayoff firstingroup even"><td class="position first">1</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','2846','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/2846.png" onLoad="s4.resizeIframe()">Elche</span></a></td><td class="matches">4</td><td class="wins">3</td><td class="draws">1</td><td class="losses">0</td><td class="diff unsigned difftotal">11</td><td class="points pointstotal last">10</td></tr><tr class="promotioncolor_promotionplayoff"><td class="position first">2</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','2826','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/2826.png" onLoad="s4.resizeIframe()">Mallorca</span></a></td><td class="matches">4</td><td class="wins">3</td><td class="draws">1</td><td class="losses">0</td><td class="diff unsigned difftotal">3</td><td class="points pointstotal last">10</td></tr><tr class="promotioncolor_promotionplayoff even"><td class="position first">3</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','24338','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/24338.png" onLoad="s4.resizeIframe()">Villarreal B</span></a></td><td class="matches">4</td><td class="wins">3</td><td class="draws">1</td><td class="losses">0</td><td class="diff unsigned difftotal">3</td><td class="points pointstotal last">10</td></tr><tr class="promotioncolor_promotionplayoff"><td class="position first">4</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','4942','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/4942.png" onLoad="s4.resizeIframe()">Lleida</span></a></td><td class="matches">4</td><td class="wins">2</td><td class="draws">2</td><td class="losses">0</td><td class="diff unsigned difftotal">2</td><td class="points pointstotal last">8</td></tr><tr class="even"><td class="position first">5</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','24325','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/24325.png" onLoad="s4.resizeIframe()">Atletico Baleares</span></a></td><td class="matches">4</td><td class="wins">2</td><td class="draws">1</td><td class="losses">1</td><td class="diff unsigned difftotal">2</td><td class="points pointstotal last">7</td></tr><tr><td class="position first">5</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','24353','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/24353.png" onLoad="s4.resizeIframe()">Ontinyent</span></a></td><td class="matches">4</td><td class="wins">2</td><td class="draws">1</td><td class="losses">1</td><td class="diff unsigned difftotal">2</td><td class="points pointstotal last">7</td></tr><tr class="even"><td class="position first">7</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','167162','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/167162.png" onLoad="s4.resizeIframe()">Cornella</span></a></td><td class="matches">4</td><td class="wins">2</td><td class="draws">1</td><td class="losses">1</td><td class="diff unsigned difftotal">1</td><td class="points pointstotal last">7</td></tr><tr><td class="position first">8</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','24337','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/24337.png" onLoad="s4.resizeIframe()">Valencia B</span></a></td><td class="matches">4</td><td class="wins">2</td><td class="draws">0</td><td class="losses">2</td><td class="diff unsigned difftotal">3</td><td class="points pointstotal last">6</td></tr><tr class="even"><td class="position first">9</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','2877','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/2877.png" onLoad="s4.resizeIframe()">Hercules</span></a></td><td class="matches">4</td><td class="wins">1</td><td class="draws">2</td><td class="losses">1</td><td class="diff unsigned difftotal">1</td><td class="points pointstotal last">5</td></tr><tr><td class="position first">10</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','6585','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/6585.png" onLoad="s4.resizeIframe()">Alcoyano</span></a></td><td class="matches">4</td><td class="wins">1</td><td class="draws">2</td><td class="losses">1</td><td class="diff unsigned difftotal">0</td><td class="points pointstotal last">5</td></tr><tr class="even"><td class="position first">11</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','24335','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/24335.png" onLoad="s4.resizeIframe()">Sabadell</span></a></td><td class="matches">4</td><td class="wins">1</td><td class="draws">2</td><td class="losses">1</td><td class="diff unsigned difftotal">0</td><td class="points pointstotal last">5</td></tr><tr><td class="position first">12</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','6586','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/6586.png" onLoad="s4.resizeIframe()">Badalona</span></a></td><td class="matches">4</td><td class="wins">1</td><td class="draws">2</td><td class="losses">1</td><td class="diff unsigned difftotal">-3</td><td class="points pointstotal last">5</td></tr><tr class="even"><td class="position first">13</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','273937','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/273937.png" onLoad="s4.resizeIframe()">Atletico Saguntino</span></a></td><td class="matches">4</td><td class="wins">1</td><td class="draws">1</td><td class="losses">2</td><td class="diff unsigned difftotal">-1</td><td class="points pointstotal last">4</td></tr><tr><td class="position first">14</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','54127','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/54127.png" onLoad="s4.resizeIframe()">Llagostera</span></a></td><td class="matches">4</td><td class="wins">1</td><td class="draws">1</td><td class="losses">2</td><td class="diff unsigned difftotal">-1</td><td class="points pointstotal last">4</td></tr><tr class="even"><td class="position first">15</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','215218','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/215218.png" onLoad="s4.resizeIframe()">Ebro</span></a></td><td class="matches">4</td><td class="wins">1</td><td class="draws">1</td><td class="losses">2</td><td class="diff unsigned difftotal">-2</td><td class="points pointstotal last">4</td></tr><tr class="promotioncolor_relegationplayoff firstingroup"><td class="position first">15</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','216774','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/216774.png" onLoad="s4.resizeIframe()">Formentera</span></a></td><td class="matches">4</td><td class="wins">1</td><td class="draws">1</td><td class="losses">2</td><td class="diff unsigned difftotal">-2</td><td class="points pointstotal last">4</td></tr><tr class="promotioncolor_relegation firstingroup even"><td class="position first">17</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','116243','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/116243.png" onLoad="s4.resizeIframe()">Santa Eulalia</span></a></td><td class="matches">4</td><td class="wins">1</td><td class="draws">0</td><td class="losses">3</td><td class="diff unsigned difftotal">-2</td><td class="points pointstotal last">3</td></tr><tr class="promotioncolor_relegation"><td class="position first">18</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','115059','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/115059.png" onLoad="s4.resizeIframe()">Olot</span></a></td><td class="matches">4</td><td class="wins">0</td><td class="draws">2</td><td class="losses">2</td><td class="diff unsigned difftotal">-3</td><td class="points pointstotal last">2</td></tr><tr class="promotioncolor_relegation even"><td class="position first">19</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','54125','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/54125.png" onLoad="s4.resizeIframe()">Zaragoza B</span></a></td><td class="matches">4</td><td class="wins">0</td><td class="draws">2</td><td class="losses">2</td><td class="diff unsigned difftotal">-6</td><td class="points pointstotal last">2</td></tr><tr class="promotioncolor_relegation"><td class="position first">20</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','76805','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/76805.png" onLoad="s4.resizeIframe()">Peralada</span></a></td><td class="matches">4</td><td class="wins">0</td><td class="draws">0</td><td class="losses">4</td><td class="diff unsigned difftotal">-8</td><td class="points pointstotal last">0</td></tr></tbody></table><div hidden="1" class="choosecolumntext">Choose columns</div>
+</div></div><div class=" template_cornerbox template_Last" builder="multiview"><div class="multiview_wrap"><h2 class="title "><a href="javascript:s4.deeplink('tableid','27568','');">Group IV</a></h2><table class="normaltable"><thead><tr class="header0"><th title="Position" class="positiontotal  position first">Pos</th><th class="teamname  team">Team</th><th title="Played" class="{sorter: 'desc'} matchestotal  matches">P</th><th title="win" class="{sorter: 'desc'} wintotal  wins">W</th><th title="Draw" class="{sorter: 'desc'} drawtotal  draws">D</th><th title="loss" class="losstotal  losses">L</th><th title="DIFF" class="{sorter: 'desc'} goaldifftotal  diff unsigned difftotal">DI</th><th title="Points" class="{sorter: 'desc'} pointstotal  points pointstotal last">Points</th></tr></thead><tbody><tr class="firstingroup promotioncolor_promotionplayoff firstingroup even"><td class="position first">1</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','24357','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/24357.png" onLoad="s4.resizeIframe()">RB Linense</span></a></td><td class="matches">4</td><td class="wins">3</td><td class="draws">1</td><td class="losses">0</td><td class="diff unsigned difftotal">7</td><td class="points pointstotal last">10</td></tr><tr class="promotioncolor_promotionplayoff"><td class="position first">2</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','24329','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/24329.png" onLoad="s4.resizeIframe()">Cartagena</span></a></td><td class="matches">4</td><td class="wins">3</td><td class="draws">1</td><td class="losses">0</td><td class="diff unsigned difftotal">4</td><td class="points pointstotal last">10</td></tr><tr class="promotioncolor_promotionplayoff even"><td class="position first">3</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','6587','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/6587.png" onLoad="s4.resizeIframe()">Ecija</span></a></td><td class="matches">4</td><td class="wins">3</td><td class="draws">1</td><td class="losses">0</td><td class="diff unsigned difftotal">4</td><td class="points pointstotal last">10</td></tr><tr class="promotioncolor_promotionplayoff"><td class="position first">4</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','115065','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/115065.png" onLoad="s4.resizeIframe()">Granada B</span></a></td><td class="matches">4</td><td class="wins">3</td><td class="draws">0</td><td class="losses">1</td><td class="diff unsigned difftotal">3</td><td class="points pointstotal last">9</td></tr><tr class="even"><td class="position first">5</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','55785','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/55785.png" onLoad="s4.resizeIframe()">U. Murcia</span></a></td><td class="matches">4</td><td class="wins">3</td><td class="draws">0</td><td class="losses">1</td><td class="diff unsigned difftotal">1</td><td class="points pointstotal last">9</td></tr><tr><td class="position first">6</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','43758','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/43758.png" onLoad="s4.resizeIframe()">Extremadura</span></a></td><td class="matches">4</td><td class="wins">2</td><td class="draws">1</td><td class="losses">1</td><td class="diff unsigned difftotal">2</td><td class="points pointstotal last">7</td></tr><tr class="even"><td class="position first">7</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','24348','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/24348.png" onLoad="s4.resizeIframe()">Marbella</span></a></td><td class="matches">4</td><td class="wins">2</td><td class="draws">1</td><td class="losses">1</td><td class="diff unsigned difftotal">0</td><td class="points pointstotal last">7</td></tr><tr><td class="position first">8</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','24351','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/24351.png" onLoad="s4.resizeIframe()">Merida</span></a></td><td class="matches">4</td><td class="wins">2</td><td class="draws">0</td><td class="losses">2</td><td class="diff unsigned difftotal">2</td><td class="points pointstotal last">6</td></tr><tr class="even"><td class="position first">9</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','4487','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/4487.png" onLoad="s4.resizeIframe()">Murcia</span></a></td><td class="matches">4</td><td class="wins">1</td><td class="draws">2</td><td class="losses">1</td><td class="diff unsigned difftotal">2</td><td class="points pointstotal last">5</td></tr><tr><td class="position first">10</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','216186','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/216186.png" onLoad="s4.resizeIframe()">Rec. de Huelva</span></a></td><td class="matches">4</td><td class="wins">1</td><td class="draws">2</td><td class="losses">1</td><td class="diff unsigned difftotal">0</td><td class="points pointstotal last">5</td></tr><tr class="even"><td class="position first">11</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','24350','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/24350.png" onLoad="s4.resizeIframe()">Melilla</span></a></td><td class="matches">4</td><td class="wins">1</td><td class="draws">2</td><td class="losses">1</td><td class="diff unsigned difftotal">0</td><td class="points pointstotal last">5</td></tr><tr><td class="position first">12</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','24358','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/24358.png" onLoad="s4.resizeIframe()">Betis B</span></a></td><td class="matches">4</td><td class="wins">1</td><td class="draws">1</td><td class="losses">2</td><td class="diff unsigned difftotal">-1</td><td class="points pointstotal last">4</td></tr><tr class="even"><td class="position first">13</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','37051','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/37051.png" onLoad="s4.resizeIframe()">Villanovense</span></a></td><td class="matches">4</td><td class="wins">1</td><td class="draws">1</td><td class="losses">2</td><td class="diff unsigned difftotal">-1</td><td class="points pointstotal last">4</td></tr><tr><td class="position first">14</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','24369','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/24369.png" onLoad="s4.resizeIframe()">Las Palmas B</span></a></td><td class="matches">4</td><td class="wins">1</td><td class="draws">1</td><td class="losses">2</td><td class="diff unsigned difftotal">-4</td><td class="points pointstotal last">4</td></tr><tr class="even"><td class="position first">15</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','2853','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/2853.png" onLoad="s4.resizeIframe()">Badajoz</span></a></td><td class="matches">4</td><td class="wins">0</td><td class="draws">3</td><td class="losses">1</td><td class="diff unsigned difftotal">-1</td><td class="points pointstotal last">3</td></tr><tr class="promotioncolor_relegationplayoff firstingroup"><td class="position first">16</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','191166','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/191166.png" onLoad="s4.resizeIframe()">El Ejido 2012</span></a></td><td class="matches">4</td><td class="wins">0</td><td class="draws">3</td><td class="losses">1</td><td class="diff unsigned difftotal">-3</td><td class="points pointstotal last">3</td></tr><tr class="promotioncolor_relegation firstingroup even"><td class="position first">17</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','24334','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/24334.png" onLoad="s4.resizeIframe()">San Fernando</span></a></td><td class="matches">4</td><td class="wins">0</td><td class="draws">2</td><td class="losses">2</td><td class="diff unsigned difftotal">-2</td><td class="points pointstotal last">2</td></tr><tr class="promotioncolor_relegation"><td class="position first">17</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','115061','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/115061.png" onLoad="s4.resizeIframe()">Cordoba B</span></a></td><td class="matches">4</td><td class="wins">0</td><td class="draws">2</td><td class="losses">2</td><td class="diff unsigned difftotal">-2</td><td class="points pointstotal last">2</td></tr><tr class="promotioncolor_relegation even"><td class="position first">19</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','43754','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/43754.png" onLoad="s4.resizeIframe()">Jumilla</span></a></td><td class="matches">4</td><td class="wins">0</td><td class="draws">1</td><td class="losses">3</td><td class="diff unsigned difftotal">-4</td><td class="points pointstotal last">1</td></tr><tr class="promotioncolor_relegation"><td class="position first">20</td><td class="team"><a href="javascript:s4.deeplink('uniqueteamid','5068','5_42826');"><span><img src="//ls.betradar.com/ls/crest/small/5068.png" onLoad="s4.resizeIframe()">Lorca</span></a></td><td class="matches">4</td><td class="wins">0</td><td class="draws">1</td><td class="losses">3</td><td class="diff unsigned difftotal">-7</td><td class="points pointstotal last">1</td></tr></tbody></table><div hidden="1" class="choosecolumntext">Choose columns</div>
+</div></div></div>]]></c></n></n><n p="1" id="2222" c="Leaguetablecomments" data="1"><p n="wordwrap" t="int" v="120"/><c cache="86400"><![CDATA[
+]]></c></n><n p="2" id="2221" c="rankingrule" data="0"/></n></n></n></n><n p="1" id="1233" c="view"/><n p="2" id="2106" c="view"><p n="template" t="1" v="VBox"/></n><n p="3" id="1233" c="view"/><n p="4" id="4049" c="socialmedia" data="1"><c cache="86400" type="document"><![CDATA[<div id="socialmedia">
+
+
+<div class="clear"></div>
+</div>]]></c></n></n></n><n p="3" id="2106" c="view"><p n="template" t="1" v="VBox"/></n></n></page>

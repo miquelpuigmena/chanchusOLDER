@@ -1,0 +1,789 @@
+<?xml version="1.0"?>
+<page generated="2017-09-14 14:37:27" title="Baseball &gt; USA &gt; MLB  2017" GA="dimension10_3/dimension11_16/dimension19_2/dimension14_38836/dimension3_overview/dimension12_109/dimension7_12/dimension8_bwintop"><n id="1827" c="view" cache="600"><p n="divId" t="String" v="page-wrap"/><s p="2" s="sportid" id="2"/><s p="2" s="test" id="14"/><s p="1" s="clientid" id="1"/><s p="0" s="isvfl" id="409"/><s p="0" s="disable_topmenu" id="534"/><n p="0" id="1828" c="view"><p n="divId" t="String" v="menu-wrap"/><s p="2" s="test" id="14"/><s p="1" s="clientid" id="1"/><s p="2" s="clientid" id="1"/><s p="2" s="sportid" id="2"/><s p="3" s="clientid" id="1"/><s p="3" s="test" id="14"/><s p="0" s="clientid" id="1"/><s p="5" s="clientid" id="1"/><s p="3" s="search_ui_location" id="449"/><s p="1" s="test" id="14"/><s p="4" s="language_ui_location" id="553"/><n p="0" id="3605" c="logonew" data="1"><c cache="2592000" type="document"><![CDATA[<div id="node_logo_image" class="view"  >
+</div>]]></c></n><n p="1" id="2993" c="view"><s p="0" s="clientid" id="1"/><n p="0" id="2995" c="menu" data="1"><p n="limit" t="int" v="3"/><p n="jsfunction" t="String" v="enlargeSearchBox"/><p n="type" t="String" v="jd_menu"/><p n="usecache" t="boolean" v="1"/><p n="lightweight" t="boolean" v="1"/><p n="class" t="String" v="topmenu"/><p n="menuid" t="int" v="74"/><c cache="86400"><![CDATA[<div class="topmenu"><div><ul class="jd_menu jd_menustyle" data-notification="Zum Navigieren Bildschirm ber&uuml;hren"><li class="topelem first home"><a href="javascript:s4.setState('',false);" class="atopelem"><div>Startseite<div class="clearResponsive"></div></div></a></li><li class="topelem sport-1"><a href="javascript:s4.setState('2_1',false);" class="atopelem"><div>Fu&szlig;ball<span class="arrow_icon_space"></span><div class="clearResponsive"></div></div></a></li><li class="topelem sport-5"><a href="javascript:s4.setState('2_5,241_1',false);" class="atopelem"><div>Tennis<span class="arrow_icon_space"></span><div class="clearResponsive"></div></div></a></li><li class="topelem sport-4"><a href="javascript:s4.setState('2_4',false);" class="atopelem"><div>Eishockey<span class="arrow_icon_space"></span><div class="clearResponsive"></div></div></a></li><li class="topelem sport-2"><a href="javascript:s4.setState('2_2',false);" class="atopelem"><div>Basketball<span class="arrow_icon_space"></span><div class="clearResponsive"></div></div></a></li><li class="topelem sport-6"><a href="javascript:s4.setState('2_6',false);" class="atopelem"><div>Handball<span class="arrow_icon_space"></span><div class="clearResponsive"></div></div></a></li><li class="topelem allsports"><a class="atopelem"><div>Alle Sportarten<span class="arrow_icon_space"></span><div class="clearResponsive"></div></div></a></li><li class="topelem last search_right"><div class="searchcontainer searchscope">
+            <div class="ui-widget">
+                <input aria-haspopup="true" aria-autocomplete="list" role="textbox" autocomplete="off" id="sphinx" class="ui-autocomplete-input">
+                <span id="sphinx_search_button"></span>
+            </div>
+        </div></li></ul></div></div>
+]]></c></n></n><n p="2" id="1233" c="view"/><n p="3" id="1233" c="view"/></n><n p="1" id="1233" c="view"/><n p="2" id="1829" c="view"><p n="divId" t="String" v="main-wrap"/><s p="3" s="clientid" id="1"/><s p="0" s="language_ui_location" id="553"/><s p="4" s="search_string" id="327"/><s p="0" s="clientid" id="1"/><s p="2" s="sportid" id="2"/><n p="0" id="2861" c="view"><p n="class" t="String" v="language_select"/><s p="0" s="haslanguageselect" id="331"/><s p="0" s="clientid" id="1"/><n p="0" id="2863" c="menu" data="1"><p n="type" t="String" v="slickselect"/><p n="menuid" t="int" v="123"/><c cache="86400"><![CDATA[<div class=""><div class="sb-wrapper"><div class="sb-selectedbox"><div class="sb-current"><div class="label"><span class="icon_flag cc-de lang-3"></span><span>Deutsch</span></div><div class="arrow"></div><div class="clearResponsive"></div></div></div><div style="clear: both;"></div><div class="sb-optionswrap" style="display: none;"><div class="sb-scrollbox"><ul class="slickselect"><li class="sb-option icon_flag cc-gb lang-2"><a href="javascript:s4.setLanguage('en');"><span><span class="icon_flag cc-gb lang-2"></span>English</span></a></li><li class="sb-option active icon_flag cc-de lang-3"><a href="javascript:s4.setLanguage('de');"><span><span class="icon_flag cc-de lang-3"></span>Deutsch</span></a></li><li class="sb-option icon_flag cc-fr lang-4"><a href="javascript:s4.setLanguage('fr');"><span><span class="icon_flag cc-fr lang-4"></span>Fran&ccedil;ais</span></a></li><li class="sb-option icon_flag cc-it lang-1"><a href="javascript:s4.setLanguage('it');"><span><span class="icon_flag cc-it lang-1"></span>Italiano</span></a></li><li class="sb-option icon_flag cc-tr lang-6"><a href="javascript:s4.setLanguage('tr');"><span><span class="icon_flag cc-tr lang-6"></span>T&uuml;rk&ccedil;e</span></a></li><li class="sb-option icon_flag cc-hr lang-7"><a href="javascript:s4.setLanguage('hr');"><span><span class="icon_flag cc-hr lang-7"></span>Hrvatski</span></a></li><li class="sb-option icon_flag cc-sk lang-8"><a href="javascript:s4.setLanguage('sk');"><span><span class="icon_flag cc-sk lang-8"></span>Sloven&#269;ina</span></a></li><li class="sb-option icon_flag cc-si lang-9"><a href="javascript:s4.setLanguage('sl');"><span><span class="icon_flag cc-si lang-9"></span>Sloven&scaron;&#269;ina</span></a></li><li class="sb-option icon_flag cc-no lang-10"><a href="javascript:s4.setLanguage('no');"><span><span class="icon_flag cc-no lang-10"></span>Norsk</span></a></li><li class="sb-option icon_flag cc-se lang-11"><a href="javascript:s4.setLanguage('se');"><span><span class="icon_flag cc-se lang-11"></span>Svenska</span></a></li><li class="sb-option icon_flag cc-dk lang-12"><a href="javascript:s4.setLanguage('da');"><span><span class="icon_flag cc-dk lang-12"></span>Dansk</span></a></li><li class="sb-option icon_flag cc-es lang-13"><a href="javascript:s4.setLanguage('es');"><span><span class="icon_flag cc-es lang-13"></span>Espa&ntilde;ol</span></a></li><li class="sb-option icon_flag cc-nl lang-14"><a href="javascript:s4.setLanguage('nl');"><span><span class="icon_flag cc-nl lang-14"></span>Nederlands</span></a></li><li class="sb-option icon_flag cc-pl lang-15"><a href="javascript:s4.setLanguage('pl');"><span><span class="icon_flag cc-pl lang-15"></span>Polski</span></a></li><li class="sb-option icon_flag cc-pt lang-16"><a href="javascript:s4.setLanguage('pt');"><span><span class="icon_flag cc-pt lang-16"></span>Portugu&ecirc;s</span></a></li><li class="sb-option icon_flag cc-cz lang-17"><a href="javascript:s4.setLanguage('cs');"><span><span class="icon_flag cc-cz lang-17"></span>&#268;esky</span></a></li><li class="sb-option icon_flag cc-ru lang-21"><a href="javascript:s4.setLanguage('ru');"><span><span class="icon_flag cc-ru lang-21"></span>&#1056;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081;</span></a></li><li class="sb-option icon_flag cc-hu lang-32"><a href="javascript:s4.setLanguage('hu');"><span><span class="icon_flag cc-hu lang-32"></span>Magyar</span></a></li><li class="sb-option icon_flag cc-bg lang-33"><a href="javascript:s4.setLanguage('bg');"><span><span class="icon_flag cc-bg lang-33"></span>&#1041;&#1098;&#1083;&#1075;&#1072;&#1088;&#1089;&#1082;&#1080;</span></a></li><li class="sb-option icon_flag cc-gr lang-35"><a href="javascript:s4.setLanguage('el');"><span><span class="icon_flag cc-gr lang-35"></span>E&lambda;&lambda;&eta;&nu;&iota;&kappa;&#940;</span></a></li><li class="sb-option icon_flag cc-ro lang-36"><a href="javascript:s4.setLanguage('ro');"><span><span class="icon_flag cc-ro lang-36"></span>Rom&acirc;n&#259;</span></a></li></ul></div></div></div></div>
+]]></c></n></n><n p="1" id="4207" c="view"><p n="class" t="String" v="timezone_select"/><n p="0" id="4209" c="menu" data="1"><p n="type" t="String" v="slickselect"/><p n="menuid" t="int" v="163"/><c cache="86400"><![CDATA[<div class=""><ul class=""></ul></div>
+]]></c></n></n><n p="2" id="1830" c="view"><s p="4" s="stageid" id="16"/><s p="4" s="viewtype" id="9"/><s p="4" s="seasonid" id="5"/><s p="4" s="sportid" id="2"/><s p="0" s="sportid" id="2"/><s p="0" s="clientid" id="1"/><s p="4" s="sportid2" id="309"/><s p="3" s="clientid" id="1"/><s p="3" s="sportid" id="2"/><s p="2" s="clientid" id="1"/><s p="2" s="seasonid" id="5"/><s p="1" s="clientid" id="1"/><s p="4" s="clientid" id="1"/><s p="4" s="landingpage_stageid" id="262"/><s p="0" s="isvfl" id="409"/><s p="0" s="disable_breadcrumbs" id="536"/><n p="0" id="2014" c="view"><p n="class" t="String" v="breadcrumbs"/><s p="0" s="sportid" id="2"/><s p="2" s="continentid" id="22"/><s p="2" s="sportid" id="2"/><s p="2" s="test" id="14"/><s p="3" s="categoryid" id="3"/><s p="3" s="test" id="14"/><s p="7" s="seasonid" id="5"/><s p="9" s="tableorcup" id="239"/><s p="8" s="seasontypeid" id="242"/><s p="6" s="tournamentid" id="17"/><s p="5" s="weeklyevent_event" id="176"/><s p="5" s="tournamentid" id="17"/><s p="10" s="stageid" id="16"/><s p="4" s="category2id" id="33"/><s p="3" s="sportid" id="2"/><s p="12" s="clientid" id="1"/><s p="11" s="viewtype" id="9"/><s p="11" s="seasonid" id="5"/><s p="11" s="uniqueteamid" id="6"/><s p="2" s="mobile_client" id="554"/><s p="13" s="clientid" id="1"/><s p="1" s="sportid2" id="309"/><s p="1" s="landingpage_stageid" id="262"/><s p="1" s="stageid" id="16"/><s p="1" s="sportid" id="2"/><s p="1" s="categoryid" id="3"/><s p="11" s="clientid" id="1"/><s p="7" s="categoryid" id="3"/><s p="7" s="clientid" id="1"/><s p="10" s="clientid" id="1"/><s p="10" s="landingpage_stageid" id="262"/><s p="10" s="test" id="14"/><s p="2" s="sportid2" id="309"/><s p="2" s="stageid" id="16"/><s p="10" s="sportid" id="2"/><n p="0" id="2015" c="menu" data="1"><p n="br_levels" t="int" v="0"/><p n="class" t="String" v="breadcrumb"/><p n="type" t="String" v="br_menu"/><p n="menuid" t="int" v="79"/><c cache="86400"><![CDATA[<div class="breadcrumb"><ul class="jd_menu br_menustyle"><li class="topelem first icon_sport sport-3"><a href="javascript:s4.setState('2_3',false);" class="atopelem"><div><span class="icon_sport sport-3"></span><span>Baseball</span><span class="arrow_icon_space"></span><div class="clearResponsive"></div></div></a></li></ul></div>
+]]></c></n><n p="1" id="1233" c="view"/><n p="2" id="4113" c="breadcrumbdoc" data="1"><p n="hideForSportId" t="int" v="11"/><p n="type" t="String" v="continent"/><c cache="3600" type="document"><![CDATA[<div class="menu">
+    <div class="breadcrumb">
+            <ul class="jd_menu br_menustyle">
+            <li class="topelem first">
+                                <a href="javascript:s4.setState('2_3,22_2',false);" class="atopelem">
+                                    <div>
+                                                                                                    <span>Nordamerika</span>
+                                                <span class="arrow_down_icon"></span>
+                        <div class="clearResponsive"></div>
+                    </div>
+                </a>
+                                <ul class="jdlvl_2">
+                                                                                        <li>
+                                <a href="javascript:s4.setState('2_3,22_1',false);"><span>Europa</span></a>
+                                <div class="clearResponsive"></div>
+                            </li>
+                                                                                                                                    <li>
+                                <a href="javascript:s4.setState('2_3,22_5',false);"><span>Asien</span></a>
+                                <div class="clearResponsive"></div>
+                            </li>
+                                                                            </ul>
+                        </ul>
+        </div>
+</div>]]></c></n><n p="3" id="4105" c="breadcrumbdoc" data="1"><p n="hideForSportId" t="int" v="11"/><p n="type" t="String" v="category"/><c cache="3600" type="document"><![CDATA[<div class="menu">
+    <div class="breadcrumb">
+            <ul class="jd_menu br_menustyle">
+            <li class="topelem first">
+                                <a href="javascript:s4.deeplink('categoryid','16','');" class="atopelem">
+                                    <div>
+                                                    <span class="icon_flag cc-us"></span>
+                                                                                                    <span>USA</span>
+                                                <span class="arrow_down_icon"></span>
+                        <div class="clearResponsive"></div>
+                    </div>
+                </a>
+                                <ul class="jdlvl_2">
+                                                                                        <li>
+                                <a href="javascript:s4.deeplink('categoryid','426','');"><span>Mexiko</span></a>
+                                <div class="clearResponsive"></div>
+                            </li>
+                                                                            </ul>
+                        </ul>
+        </div>
+</div>]]></c></n><n p="4" id="1233" c="view"/><n p="5" id="1233" c="view"/><n p="6" id="1233" c="view"/><n p="7" id="2032" c="menu" data="1"><p n="class" t="String" v="breadcrumb"/><p n="menuid" t="int" v="83"/><p n="type" t="String" v="br_menu"/><c cache="86400"><![CDATA[<div class="breadcrumb"><ul class="jd_menu br_menustyle"><li class="topelem first "><a href="javascript:s4.deeplink('seasonid','38836','');" class="atopelem"><div><span>MLB 2017</span><span class="arrow_down_icon"></span><div class="clearResponsive"></div></div></a><ul class=" jdlvl_2"><li class=""><a href="javascript:s4.deeplink('seasonid','38836','');"><span>MLB 2017</span><div class="clearResponsive"></div></a></li><li class=""><a href="javascript:s4.deeplink('seasonid','40039','');"><span>MLB All Star Game 2017</span><div class="clearResponsive"></div></a></li></ul></li></ul></div>
+]]></c></n><n p="8" id="1233" c="view"/><n p="9" id="1233" c="view"/><n p="10" id="1233" c="view"/><n p="11" id="1233" c="view"/><n p="12" id="2675" c="view"><p n="class" t="String" v="right"/><s p="0" s="test" id="14"/><s p="0" s="clientid" id="1"/><s p="0" s="is_landing_page" id="560"/><n p="0" id="2685" c="Button" data="1"><p n="href" t="String" v="s4.goback()"/><p n="value" t="String" v="Back"/><p n="innertagname" t="String" v="span"/><p n="tagname" t="String" v="a"/><c cache="86400"><![CDATA[<a class=" button" onclick="s4.goback()"><span>Zur&uuml;ck</span></a>
+]]></c></n></n><n p="13" id="1233" c="view"/><n p="14" id="2729" c="view"><p n="class" t="String" v="clear"/></n></n><n p="1" id="1233" c="view"/><n p="2" id="1233" c="view"/><n p="3" id="1233" c="view"/><n p="4" id="1833" c="view"><s p="1" s="seasonid" id="5"/><s p="1" s="mobile_client" id="554"/><s p="0" s="isvfl" id="409"/><n p="0" id="1233" c="view"/><n p="1" id="956" c="menu" data="1"><p n="menuid" t="int" v="15"/><p n="type" t="String" v="dropdown"/><p n="divId" t="String" v="nav-wrap-inner-2"/><p n="class" t="String" v="nav-wrap-class-2"/><c cache="86400"><![CDATA[<div class="nav-wrap-class-2"><ul class="dropdown"><li class="expandable type_9_overview active"><span class="underlevel-expandable-1-last"></span><a href="javascript:s4.setState('9_overview',false);" class="selected"><span>Tabellen</span></a></li><li class="expandable type_9_teampage"><span class="underlevel-expandable-1-last"></span><a href="javascript:s4.setState('9_teampage',false);"><span>Mannschaften</span></a></li><li class="expandable type_9_headtohead"><span class="underlevel-expandable-1-last"></span><a href="javascript:s4.setState('9_headtohead',false);"><span>Direkter Vergleich</span></a></li><li class="expandable type_9_statistics"><span class="underlevel-expandable-1-last"></span><a href="javascript:s4.setState('9_statistics',false);"><span>Statistiken</span></a></li><li class="expandable type_9_fixtures"><span class="underlevel-expandable-1-last"></span><a href="javascript:s4.setState('9_fixtures',false);"><span>Spielplan</span></a></li><li class="expandable type_9_archive last"><span class="underlevel-expandable-1-last"></span><a href="javascript:s4.setState('9_archive',false);"><span>Archiv</span></a></li><div class="clearResponsive"></div></ul></div>
+]]></c></n></n><n p="5" id="1233" c="view"/></n><n p="3" id="2727" c="view"><p n="class" t="String" v="clear"/></n><n p="4" id="1831" c="view"><p n="class" t="String" v="under-main"/><s p="0" s="sportid" id="2"/><s p="0" s="categoryid" id="3"/><s p="0" s="tournamentid" id="17"/><s p="0" s="seasonid" id="5"/><s p="0" s="viewtype" id="9"/><s p="1" s="clientid" id="1"/><s p="3" s="clientid" id="1"/><n p="0" id="1424" c="view"><s p="0" s="viewtype" id="9"/><s p="0" s="haspartialdisplay" id="365"/><s p="0" s="matchid" id="8"/><s p="0" s="hasplayerservice" id="276"/><s p="0" s="hasmultipleinfo" id="196"/><s p="0" s="seasontypeid" id="242"/><s p="0" s="tableorcup" id="239"/><s p="0" s="internalh2h" id="381"/><s p="0" s="test" id="14"/><n p="0" id="1393" c="view"><n p="0" id="1496" c="view"><p n="template" t="1" v="VBox"/><p n="template" t="1" v="Full"/><s p="3" s="matchtype" id="26"/><s p="3" s="tabletype" id="25"/><s p="3" s="fulltimeorhalftime" id="72"/><s p="3" s="round" id="24"/><s p="0" s="iscupandtable" id="247"/><n p="0" id="5264" c="button_print" data="0"/><n p="1" id="2144" c="view"><p n="template" t="1" v="cornerbox"/><s p="0" s="isresponsive" id="569"/><n p="0" id="2146" c="view"><n p="0" id="3125" c="view"><p n="class" t="String" v="season_dropdown"/><s p="0" s="vleague" id="527"/><s p="1" s="clientid" id="1"/><n p="0" id="995" c="menu" data="1"><p n="type" t="String" v="slickselect"/><p n="template" t="1" v="HBox"/><p n="menuid" t="int" v="19"/><c cache="86400"><![CDATA[<div class=""><div class="sb-wrapper"><div class="sb-selectedbox"><div class="sb-current"><div class="label">2017</div><div class="arrow"></div><div class="clearResponsive"></div></div></div><div style="clear: both;"></div><div class="sb-optionswrap" style="display: none;"><div class="sb-scrollbox"><ul class="slickselect"><li class="sb-option active " onclick="javascript:s4.deeplink('seasonid','38836','');">2017</li><li class="sb-option " onclick="javascript:s4.deeplink('seasonid','12528','');">2016</li><li class="sb-option " onclick="javascript:s4.deeplink('seasonid','10030','');">2015</li><li class="sb-option " onclick="javascript:s4.deeplink('seasonid','7500','');">2014</li><li class="sb-option " onclick="javascript:s4.deeplink('seasonid','5728','');">2013</li><li class="sb-option " onclick="javascript:s4.deeplink('seasonid','4210','');">2012</li><li class="sb-option " onclick="javascript:s4.deeplink('seasonid','3193','');">2011</li><li class="sb-option " onclick="javascript:s4.deeplink('seasonid','2641','');">2010</li><li class="sb-option " onclick="javascript:s4.deeplink('seasonid','2082','');">2009</li><li class="sb-option " onclick="javascript:s4.deeplink('seasonid','1293','');">2008</li><li class="sb-option " onclick="javascript:s4.deeplink('seasonid','480','');">2007</li><li class="sb-option " onclick="javascript:s4.deeplink('seasonid','655','');">2006</li><li class="sb-option " onclick="javascript:s4.deeplink('seasonid','1478','');">2005</li><li class="sb-option " onclick="javascript:s4.deeplink('seasonid','1479','');">2004</li></ul></div></div></div></div>
+]]></c></n><n p="1" id="1233" c="view"/></n><n p="1" id="2149" c="menu" data="1"><p n="class" t="String" v="gismo_invert gismo_left"/><p n="menuid" t="int" v="97"/><p n="type" t="String" v="gismo"/><c cache="86400"><![CDATA[<div class="gismo_invert gismo_left"><div class="table_selector"><div class="tabs navtabs"><ul class="navtabs gismo"><li class="active first"><a href="javascript:s4.setState('5_38836,9_overview',false);"><div class="htab"><span>&Uuml;bersicht</span></div></a></li><li class="followingSelected last"><a href="javascript:s4.deeplink('seasontypeid','21','5_38836');"><div class="htab"><span>Gruppenphase</span></div></a></li><div class="clearResponsive"></div></ul></div></div></div>
+]]></c></n><n p="2" id="2150" c="Hr" data="1"><c cache="2592000"><![CDATA[<div class="horizontal_ruler"></div>]]></c></n></n><n p="1" id="2151" c="view"><s p="0" s="seasontypeid" id="242"/><s p="0" s="tableorcup" id="239"/><s p="1" s="seasonold" id="259"/><s p="1" s="tableorcup" id="239"/><s p="1" s="vleague" id="527"/><s p="1" s="sportid" id="2"/><s p="1" s="categoryid" id="3"/><n p="0" id="1233" c="view"/><n p="1" id="3655" c="view"><p n="class" t="String" v="with_border"/><s p="3" s="isresponsive" id="569"/><n p="0" id="2257" c="view"><p n="template" t="1" v="HBox"/><p n="template" t="1" v="Half"/><n p="0" id="2259" c="view"><p n="template" t="1" v="component"/><p n="class" t="String" v="landingpage"/><s p="0" s="landingpage_seasonid" id="260"/><s p="0" s="test" id="14"/><s p="0" s="clientid" id="1"/><n p="0" id="3285" c="couch_lastx" data="1"><p n="useabbr" t="boolean" v="1"/><p n="defaultFromToplist" t="boolean" v="1"/><p n="titletext" t="String" v="Results"/><c cache="900" type="document" name="Letzte 10"><![CDATA[<h2 class="title">Ergebnisse</h2>
+
+
+
+
+    <table  class="normaltable lastx">
+    
+        <thead>
+        <tr class="header0"><th class="datetime first"><abbr title="Datum">DA</abbr></th><th class="match">Spiel</th><th class="extra"> </th><th class="homeodds">1</th><th class="awayodds">2</th><th class="nt"><abbr title="ERG">ER</abbr></th></tr>        </thead>
+    
+    
+    
+        <tbody>
+        <tr class="odd"><td class="datetime">14/09/17</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 10946336, '')"            >
+        <span class="teams">
+                    <span class="home">
+                                                San Francisco
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away winner                  ">
+                                                LA Dodgers
+                                        </span>
+            </span>
+</a>
+</td>        <td class="extra"></td>        <td class="homeodds">
+    2.85
+
+
+</td>            
+                            
+            <td class="awayodds winner">
+    1.44
+
+
+</td>            
+
+                            
+            <td class="nt ftx ">
+                                                                                        <span class="score">1</span>:<span class="score">4</span>
+                                                                                                    </td>
+            
+
+                                                </tr>
+    <tr class="even"><td class="datetime">14/09/17</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 10946334, '')"            >
+        <span class="teams">
+                    <span class="home winner">
+                                                LA Angels
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                Houston
+                                        </span>
+            </span>
+</a>
+</td>        <td class="extra"></td>        <td class="homeodds winner">
+    1.83
+
+
+</td>            
+                            
+            <td class="awayodds">
+    2.00
+
+
+</td>            
+
+                            
+            <td class="nt ftx ">
+                                                                                        <span class="score">9</span>:<span class="score">1</span>
+                                                                                                    </td>
+            
+
+                                                </tr>
+    <tr class="odd"><td class="datetime">14/09/17</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 10946332, '')"            >
+        <span class="teams">
+                    <span class="home winner">
+                                                Arizona
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                Colorado
+                                        </span>
+            </span>
+</a>
+</td>        <td class="extra"></td>        <td class="homeodds winner">
+    1.62
+
+
+</td>            
+                            
+            <td class="awayodds">
+    2.35
+
+
+</td>            
+
+                            
+            <td class="nt ftx ">
+                                                                                        <span class="score">8</span>:<span class="score">2</span>
+                                                                                                    </td>
+            
+
+                                                </tr>
+    <tr class="even"><td class="datetime">14/09/17</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 10946330, '')"            >
+        <span class="teams">
+                    <span class="home">
+                                                St. Louis
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away winner                  ">
+                                                Cincinnati
+                                        </span>
+            </span>
+</a>
+</td>        <td class="extra"></td>        <td class="homeodds">
+    1.62
+
+
+</td>            
+                            
+            <td class="awayodds winner">
+    2.35
+
+
+</td>            
+
+                            
+            <td class="nt ftx ">
+                                                                                        <span class="score">0</span>:<span class="score">6</span>
+                                                                                                    </td>
+            
+
+                                                </tr>
+    <tr class="odd"><td class="datetime">14/09/17</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 10946328, '')"            >
+        <span class="teams">
+                    <span class="home winner">
+                                                Minnesota
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                San Diego
+                                        </span>
+            </span>
+</a>
+</td>        <td class="extra"></td>        <td class="homeodds">
+    1.62
+
+
+</td>            
+                            
+            <td class="awayodds">
+    2.35
+
+
+</td>            
+
+                            
+            <td class="nt ftx ">
+                                                                                        <span class="score">3</span>:<span class="score">1</span>
+                            <span class="ftstatus">(EI)</span>                                                                        </td>
+            
+
+                                                </tr>
+    <tr class="even"><td class="datetime">14/09/17</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 10946326, '')"            >
+        <span class="teams">
+                    <span class="home winner">
+                                                Milwaukee
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                Pittsburgh
+                                        </span>
+            </span>
+</a>
+</td>        <td class="extra"></td>        <td class="homeodds winner">
+    1.60
+
+
+</td>            
+                            
+            <td class="awayodds">
+    2.35
+
+
+</td>            
+
+                            
+            <td class="nt ftx ">
+                                                                                        <span class="score">8</span>:<span class="score">2</span>
+                                                                                                    </td>
+            
+
+                                                </tr>
+    <tr class="odd"><td class="datetime">14/09/17</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 10946324, '')"            >
+        <span class="teams">
+                    <span class="home">
+                                                Texas
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away winner                  ">
+                                                Seattle
+                                        </span>
+            </span>
+</a>
+</td>        <td class="extra"></td>        <td class="homeodds">
+    1.91
+
+
+</td>            
+                            
+            <td class="awayodds winner">
+    1.91
+
+
+</td>            
+
+                            
+            <td class="nt ftx ">
+                                                                                        <span class="score">1</span>:<span class="score">8</span>
+                                                                                                    </td>
+            
+
+                                                </tr>
+    <tr class="even"><td class="datetime">14/09/17</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 10946322, '')"            >
+        <span class="teams">
+                    <span class="home winner">
+                                                Chicago Cubs
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                New York Mets
+                                        </span>
+            </span>
+</a>
+</td>        <td class="extra"></td>        <td class="homeodds winner">
+    1.33
+
+
+</td>            
+                            
+            <td class="awayodds">
+    3.40
+
+
+</td>            
+
+                            
+            <td class="nt ftx ">
+                                                                                        <span class="score">17</span>:<span class="score">5</span>
+                                                                                                    </td>
+            
+
+                                                </tr>
+    <tr class="odd"><td class="datetime">14/09/17</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 10946320, '')"            >
+        <span class="teams">
+                    <span class="home">
+                                                Boston
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away winner                  ">
+                                                Oakland
+                                        </span>
+            </span>
+</a>
+</td>        <td class="extra"></td>        <td class="homeodds">
+    1.53
+
+
+</td>            
+                            
+            <td class="awayodds winner">
+    2.55
+
+
+</td>            
+
+                            
+            <td class="nt ftx ">
+                                                                                        <span class="score">3</span>:<span class="score">7</span>
+                                                                                                    </td>
+            
+
+                                                </tr>
+    <tr class="even"><td class="datetime">14/09/17</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 10946316, '')"            >
+        <span class="teams">
+                    <span class="home">
+                                                Toronto
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away winner                  ">
+                                                Baltimore
+                                        </span>
+            </span>
+</a>
+</td>        <td class="extra"></td>        <td class="homeodds">
+    1.80
+
+
+</td>            
+                            
+            <td class="awayodds winner">
+    2.05
+
+
+</td>            
+
+                            
+            <td class="nt ftx ">
+                                                                                        <span class="score">1</span>:<span class="score">2</span>
+                                                                                                    </td>
+            
+
+                                                </tr>
+    
+
+        </tbody>
+    
+
+    
+    </table>]]></c></n></n></n><n p="1" id="3661" c="view"><p n="class" t="String" v="border_normal"/></n><n p="2" id="2258" c="view"><p n="template" t="1" v="HBox"/><p n="template" t="1" v="Half"/><p n="template" t="1" v="Last"/><n p="0" id="2260" c="view"><p n="template" t="1" v="component"/><p n="class" t="String" v="landingpage"/><s p="1" s="clientid" id="1"/><s p="1" s="landingpage_seasonid" id="260"/><s p="1" s="test" id="14"/><s p="1" s="oddstype_next" id="415"/><s p="0" s="oddstype_next" id="415"/><s p="0" s="showoddsmenu" id="417"/><s p="0" s="sportid" id="2"/><n p="0" id="4347" c="menu" data="1"><p n="type" t="String" v="gismo"/><p n="menuid" t="int" v="167"/><c cache="86400"><![CDATA[<div class=""><div class="table_selector"><div class="tabs navtabs"><ul class="navtabs gismo"><li class="active first"><a href="javascript:s4.setState('415_2',true);"><div class="htab"><span>2-Weg</span></div></a></li><li class="followingSelected last"><a href="javascript:s4.setState('415_4',true);"><div class="htab"><span>&Uuml;ber/Unter</span></div></a></li><div class="clearResponsive"></div></ul></div></div></div>
+]]></c></n><n p="1" id="3297" c="couch_nextx" data="1"><p n="useabbr" t="boolean" v="1"/><p n="defaultFromToplist" t="boolean" v="1"/><p n="titletext" t="String" v="Fixtures"/><c cache="900" type="document" name="N&#xE4;chste 10"><![CDATA[<h2 class="title">Spielplan</h2>
+
+
+
+
+    <table  class="normaltable nextx">
+    
+        <thead>
+        <tr class="header0"><th class="datetime first"><abbr title="Datum">DA</abbr></th><th class="match">Spiel</th><th class="extra"> </th><th class="homeodds">1</th><th class="awayodds">2</th></tr>        </thead>
+    
+    
+    
+        <tbody>
+        <tr class="odd"><td class="datetime">14/09/17 19:10</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 10946338, '')"            >
+        <span class="teams">
+                    <span class="home">
+                                                Detroit
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                <abbr title="Chicago White Sox">Chicago White S…</abbr>
+                                        </span>
+            </span>
+</a>
+</td>        <td class="extra fixture"></td>        <td class="homeodds fixture">
+  
+    
+    <a class="odds_button" target="_top" href="http://stats.betradar.com/tb.php?type=iscreenFromId&id=6243119562&language=de">
+        1.80
+    </a>
+
+
+</td>
+                <td class="awayodds fixture">
+  
+    
+    <a class="odds_button" target="_top" href="http://stats.betradar.com/tb.php?type=iscreenFromId&id=6243119564&language=de">
+        2.05
+    </a>
+
+
+</td>
+
+                                                </tr>
+    <tr class="even"><td class="datetime">14/09/17 19:35</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 10946340, '')"            >
+        <span class="teams">
+                    <span class="home">
+                                                Boston
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                Oakland
+                                        </span>
+            </span>
+</a>
+</td>        <td class="extra fixture"></td>        <td class="homeodds fixture">
+  
+    
+    <a class="odds_button" target="_top" href="http://stats.betradar.com/tb.php?type=iscreenFromId&id=6243125876&language=de">
+        1.48
+    </a>
+
+
+</td>
+                <td class="awayodds fixture">
+  
+    
+    <a class="odds_button" target="_top" href="http://stats.betradar.com/tb.php?type=iscreenFromId&id=6243125878&language=de">
+        2.70
+    </a>
+
+
+</td>
+
+                                                </tr>
+    <tr class="odd"><td class="datetime">14/09/17 19:45</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 10946342, '')"            >
+        <span class="teams">
+                    <span class="home">
+                                                St. Louis
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                Cincinnati
+                                        </span>
+            </span>
+</a>
+</td>        <td class="extra fixture"></td>        <td class="homeodds fixture">
+  
+    
+    <a class="odds_button" target="_top" href="http://stats.betradar.com/tb.php?type=iscreenFromId&id=6243109482&language=de">
+        1.50
+    </a>
+
+
+</td>
+                <td class="awayodds fixture">
+  
+    
+    <a class="odds_button" target="_top" href="http://stats.betradar.com/tb.php?type=iscreenFromId&id=6243109484&language=de">
+        2.65
+    </a>
+
+
+</td>
+
+                                                </tr>
+    <tr class="even"><td class="datetime">14/09/17 21:40</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 10946344, '')"            >
+        <span class="teams">
+                    <span class="home">
+                                                Arizona
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                Colorado
+                                        </span>
+            </span>
+</a>
+</td>        <td class="extra fixture"></td>        <td class="homeodds fixture">
+  
+    
+    <a class="odds_button" target="_top" href="http://stats.betradar.com/tb.php?type=iscreenFromId&id=6243119544&language=de">
+        1.62
+    </a>
+
+
+</td>
+                <td class="awayodds fixture">
+  
+    
+    <a class="odds_button" target="_top" href="http://stats.betradar.com/tb.php?type=iscreenFromId&id=6243119546&language=de">
+        2.35
+    </a>
+
+
+</td>
+
+                                                </tr>
+    <tr class="odd"><td class="datetime">15/09/17 01:05</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 10946346, '')"            >
+        <span class="teams">
+                    <span class="home">
+                                                Washington
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                Atlanta
+                                        </span>
+            </span>
+</a>
+</td>        <td class="extra fixture"></td>        <td class="homeodds fixture">
+  
+    
+    <a class="odds_button" target="_top" href="http://stats.betradar.com/tb.php?type=iscreenFromId&id=6243119496&language=de">
+        1.57
+    </a>
+
+
+</td>
+                <td class="awayodds fixture">
+  
+    
+    <a class="odds_button" target="_top" href="http://stats.betradar.com/tb.php?type=iscreenFromId&id=6243119498&language=de">
+        2.45
+    </a>
+
+
+</td>
+
+                                                </tr>
+    <tr class="even"><td class="datetime">15/09/17 01:05</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 10946348, '')"            >
+        <span class="teams">
+                    <span class="home">
+                                                New York Yankees
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                Baltimore
+                                        </span>
+            </span>
+</a>
+</td>        <td class="extra fixture"></td>        <td class="homeodds fixture">
+  
+    
+    <a class="odds_button" target="_top" href="http://stats.betradar.com/tb.php?type=iscreenFromId&id=6243134442&language=de">
+        1.50
+    </a>
+
+
+</td>
+                <td class="awayodds fixture">
+  
+    
+    <a class="odds_button" target="_top" href="http://stats.betradar.com/tb.php?type=iscreenFromId&id=6243134444&language=de">
+        2.65
+    </a>
+
+
+</td>
+
+                                                </tr>
+    <tr class="odd"><td class="datetime">15/09/17 01:05</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 10946350, '')"            >
+        <span class="teams">
+                    <span class="home">
+                                                Philadelphia
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                Miami
+                                        </span>
+            </span>
+</a>
+</td>        <td class="extra fixture"></td>        <td class="homeodds fixture">
+  
+    
+    <a class="odds_button" target="_top" href="http://stats.betradar.com/tb.php?type=iscreenFromId&id=6243119514&language=de">
+        2.00
+    </a>
+
+
+</td>
+                <td class="awayodds fixture">
+  
+    
+    <a class="odds_button" target="_top" href="http://stats.betradar.com/tb.php?type=iscreenFromId&id=6243119516&language=de">
+        1.83
+    </a>
+
+
+</td>
+
+                                                </tr>
+    <tr class="even"><td class="datetime">15/09/17 01:10</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 10946352, '')"            >
+        <span class="teams">
+                    <span class="home">
+                                                Cleveland
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                Kansas City
+                                        </span>
+            </span>
+</a>
+</td>        <td class="extra fixture"></td>        <td class="homeodds fixture">
+  
+    
+    <a class="odds_button" target="_top" href="http://stats.betradar.com/tb.php?type=iscreenFromId&id=6243134460&language=de">
+        1.45
+    </a>
+
+
+</td>
+                <td class="awayodds fixture">
+  
+    
+    <a class="odds_button" target="_top" href="http://stats.betradar.com/tb.php?type=iscreenFromId&id=6243134462&language=de">
+        2.80
+    </a>
+
+
+</td>
+
+                                                </tr>
+    <tr class="odd"><td class="datetime">15/09/17 02:05</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 10946354, '')"            >
+        <span class="teams">
+                    <span class="home">
+                                                Chicago Cubs
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                New York Mets
+                                        </span>
+            </span>
+</a>
+</td>        <td class="extra fixture"></td>        <td class="homeodds fixture">
+    
+
+
+</td>
+                <td class="awayodds fixture">
+    
+
+
+</td>
+
+                                                </tr>
+    <tr class="even"><td class="datetime">15/09/17 02:05</td>        <td class="match">
+    
+
+<a
+                         href="javascript:s4.deeplink('matchid', 10946356, '')"            >
+        <span class="teams">
+                    <span class="home">
+                                                Texas
+                                        </span>
+            <span class="separator">-</span>
+            <span class="away                  ">
+                                                Seattle
+                                        </span>
+            </span>
+</a>
+</td>        <td class="extra fixture"></td>        <td class="homeodds fixture">
+  
+    
+    <a class="odds_button" target="_top" href="http://stats.betradar.com/tb.php?type=iscreenFromId&id=6243139404&language=de">
+        1.91
+    </a>
+
+
+</td>
+                <td class="awayodds fixture">
+  
+    
+    <a class="odds_button" target="_top" href="http://stats.betradar.com/tb.php?type=iscreenFromId&id=6243139406&language=de">
+        1.91
+    </a>
+
+
+</td>
+
+                                                </tr>
+    
+
+        </tbody>
+    
+
+    
+    </table>]]></c></n></n></n><n p="3" id="1233" c="view"/></n></n></n><n p="2" id="2145" c="view"><p n="class" t="String" v="motorsport_playoffs_view"/><p n="template" t="1" v="cornerbox"/><s p="0" s="clientid" id="1"/><s p="0" s="seasonid" id="5"/><s p="0" s="test" id="14"/><s p="0" s="cupsection" id="323"/><s p="0" s="cupid" id="28"/><n p="0" id="2905" c="view"><p n="template" t="1" v="component"/><p n="class" t="String" v="cuprostertabsview"/><s p="1" s="clientid" id="1"/><s p="1" s="isdoubles" id="299"/><s p="1" s="cupsection" id="323"/><s p="1" s="cupid" id="28"/><s p="1" s="showplacementmatches" id="322"/><s p="1" s="new_cup_tree" id="427"/><s p="0" s="new_cup_tree" id="427"/><s p="1" s="tournamentid" id="17"/><s p="0" s="clientid" id="1"/><n p="0" id="2907" c="menu" data="1"><p n="menuid" t="int" v="112"/><p n="type" t="String" v="gismo"/><p n="class" t="String" v="gismo_invert "/><c cache="86400"><![CDATA[<div class="gismo_invert "><ul class=""></ul></div>
+]]></c></n><n p="1" id="1280" c="Cuptree" data="0"><p n="team_translationlength" t="String" v="SHORT"/><p n="maxRounds" t="int" v="3"/></n></n></n><n p="3" id="2147" c="view"><p n="template" t="1" v="component"/><p n="class" t="String" v="motorsport_leaguetable_view"/><s p="0" s="seasontypeid" id="242"/><n p="0" id="2159" c="view"><s p="0" s="sportid" id="2"/><s p="3" s="seasontypeid" id="242"/><s p="2" s="seasontypeid" id="242"/><s p="1" s="clientid" id="1"/><s p="1" s="seasontypeid" id="242"/><s p="0" s="hasmultipleinfo" id="196"/><s p="0" s="test" id="14"/><n p="0" id="1397" c="leaguetable" data="1"><p n="childtemplates" t="intarray" v="13"/><p n="tablesorter" t="int" v="1"/><p n="display" t="int" v="0"/><p n="tabletype" t="String" v="normal"/><p n="hover" t="int" v="1"/><c cache="600"><![CDATA[<div class="multiview"><div class=" template_cornerbox template_Full template_Full template_First template_Last" builder="multiview"><div class="multiview_wrap"><h2 class="title "><a href="javascript:s4.deeplink('tableid','24718','');">MLB</a></h2><table class="normaltable"><thead><tr class="header0"><th class="teamname  team first">Mannschaft</th><th title="Gewonnen" class="{sorter: 'desc'} wintotal  wins">S</th><th title="Verloren" class="losstotal  losses">N</th><th title="S in Prozent" class="{sorter: 'desc'} pcttotal  pct">%</th><th class="gb  gb">GB</th><th class="e#  e#">E#</th><th class="last10  last10">Letzte 10 Spiele</th><th class="{sorter: 'desc'} streak  streak">in Folge</th><th class="homestat  statistics">Heim</th><th class="awaystat  statistics last">Ausw&auml;rts</th></tr></thead><tbody><tr class="firstingroup even"><td class="team first"><a href="javascript:s4.deeplink('uniqueteamid','3638','5_38836');">LA Dodgers</a></td><td class="wins">94</td><td class="losses">52</td><td class="pct">0.644</td><td class="gb">-</td><td class="e#">-</td><td class="last10">2 8</td><td class="streak">Gewonnen 2</td><td class="statistics">52 23</td><td class="statistics last">42 29</td></tr><tr><td class="team first"><a href="javascript:s4.deeplink('uniqueteamid','3650','5_38836');">Cleveland</a></td><td class="wins">90</td><td class="losses">56</td><td class="pct">0.616</td><td class="gb">4.0</td><td class="e#">13</td><td class="last10">10 0</td><td class="streak">Gewonnen 21</td><td class="statistics">42 29</td><td class="statistics last">48 27</td></tr><tr class="even"><td class="team first"><a href="javascript:s4.deeplink('uniqueteamid','5930','5_38836');">Washington</a></td><td class="wins">88</td><td class="losses">57</td><td class="pct">0.607</td><td class="gb">5.5</td><td class="e#">12</td><td class="last10">6 4</td><td class="streak">Verloren 2</td><td class="statistics">43 30</td><td class="statistics last">45 27</td></tr><tr><td class="team first"><a href="javascript:s4.deeplink('uniqueteamid','3655','5_38836');">Houston</a></td><td class="wins">87</td><td class="losses">58</td><td class="pct">0.600</td><td class="gb">6.5</td><td class="e#">11</td><td class="last10">5 5</td><td class="streak">Verloren 1</td><td class="statistics">41 31</td><td class="statistics last">46 27</td></tr><tr class="even"><td class="team first"><a href="javascript:s4.deeplink('uniqueteamid','3640','5_38836');">Arizona</a></td><td class="wins">84</td><td class="losses">62</td><td class="pct">0.575</td><td class="gb">10.0</td><td class="e#">7</td><td class="last10">6 4</td><td class="streak">Gewonnen 1</td><td class="statistics">47 27</td><td class="statistics last">37 35</td></tr><tr><td class="team first"><a href="javascript:s4.deeplink('uniqueteamid','3646','5_38836');">Boston</a></td><td class="wins">82</td><td class="losses">63</td><td class="pct">0.566</td><td class="gb">11.5</td><td class="e#">6</td><td class="last10">5 5</td><td class="streak">Verloren 1</td><td class="statistics">45 28</td><td class="statistics last">37 35</td></tr><tr class="even"><td class="team first"><a href="javascript:s4.deeplink('uniqueteamid','3628','5_38836');">Colorado</a></td><td class="wins">80</td><td class="losses">66</td><td class="pct">0.548</td><td class="gb">14.0</td><td class="e#">3</td><td class="last10">8 2</td><td class="streak">Verloren 1</td><td class="statistics">41 31</td><td class="statistics last">39 35</td></tr><tr><td class="team first"><a href="javascript:s4.deeplink('uniqueteamid','3627','5_38836');">Chicago Cubs</a></td><td class="wins">79</td><td class="losses">66</td><td class="pct">0.545</td><td class="gb">14.5</td><td class="e#">3</td><td class="last10">4 6</td><td class="streak">Gewonnen 2</td><td class="statistics">42 32</td><td class="statistics last">37 34</td></tr><tr class="even"><td class="team first"><a href="javascript:s4.deeplink('uniqueteamid','3654','5_38836');">New York Yankees</a></td><td class="wins">79</td><td class="losses">66</td><td class="pct">0.545</td><td class="gb">14.5</td><td class="e#">3</td><td class="last10">7 3</td><td class="streak">Gewonnen 1</td><td class="statistics">40 27</td><td class="statistics last">39 39</td></tr><tr><td class="team first"><a href="javascript:s4.deeplink('uniqueteamid','3630','5_38836');">Milwaukee</a></td><td class="wins">77</td><td class="losses">69</td><td class="pct">0.527</td><td class="gb">17.0</td><td class="e#">0</td><td class="last10">6 4</td><td class="streak">Gewonnen 2</td><td class="statistics">41 33</td><td class="statistics last">36 36</td></tr><tr class="even"><td class="team first"><a href="javascript:s4.deeplink('uniqueteamid','3649','5_38836');">Minnesota</a></td><td class="wins">76</td><td class="losses">69</td><td class="pct">0.524</td><td class="gb">17.5</td><td class="e#">0</td><td class="last10">5 5</td><td class="streak">Gewonnen 2</td><td class="statistics">37 37</td><td class="statistics last">39 32</td></tr><tr><td class="team first"><a href="javascript:s4.deeplink('uniqueteamid','3632','5_38836');">St. Louis</a></td><td class="wins">76</td><td class="losses">69</td><td class="pct">0.524</td><td class="gb">17.5</td><td class="e#">0</td><td class="last10">8 2</td><td class="streak">Verloren 1</td><td class="statistics">41 32</td><td class="statistics last">35 37</td></tr><tr class="even"><td class="team first"><a href="javascript:s4.deeplink('uniqueteamid','5929','5_38836');">LA Angels</a></td><td class="wins">74</td><td class="losses">71</td><td class="pct">0.510</td><td class="gb">19.5</td><td class="e#">-2</td><td class="last10">5 5</td><td class="streak">Gewonnen 1</td><td class="statistics">39 32</td><td class="statistics last">35 39</td></tr><tr><td class="team first"><a href="javascript:s4.deeplink('uniqueteamid','3641','5_38836');">Seattle</a></td><td class="wins">73</td><td class="losses">73</td><td class="pct">0.500</td><td class="gb">21.0</td><td class="e#">-4</td><td class="last10">5 5</td><td class="streak">Gewonnen 2</td><td class="statistics">39 36</td><td class="statistics last">34 37</td></tr><tr class="even"><td class="team first"><a href="javascript:s4.deeplink('uniqueteamid','3651','5_38836');">Kansas City</a></td><td class="wins">72</td><td class="losses">73</td><td class="pct">0.497</td><td class="gb">21.5</td><td class="e#">-4</td><td class="last10">5 5</td><td class="streak">Verloren 1</td><td class="statistics">39 36</td><td class="statistics last">33 37</td></tr><tr><td class="team first"><a href="javascript:s4.deeplink('uniqueteamid','3647','5_38836');">Texas</a></td><td class="wins">72</td><td class="losses">73</td><td class="pct">0.497</td><td class="gb">21.5</td><td class="e#">-4</td><td class="last10">5 5</td><td class="streak">Verloren 2</td><td class="statistics">39 34</td><td class="statistics last">33 39</td></tr><tr class="even"><td class="team first"><a href="javascript:s4.deeplink('uniqueteamid','3652','5_38836');">Baltimore</a></td><td class="wins">72</td><td class="losses">74</td><td class="pct">0.493</td><td class="gb">22.0</td><td class="e#">-5</td><td class="last10">3 7</td><td class="streak">Gewonnen 1</td><td class="statistics">44 30</td><td class="statistics last">28 44</td></tr><tr><td class="team first"><a href="javascript:s4.deeplink('uniqueteamid','3653','5_38836');">Tampa Bay</a></td><td class="wins">72</td><td class="losses">75</td><td class="pct">0.490</td><td class="gb">22.5</td><td class="e#">-6</td><td class="last10">4 6</td><td class="streak">Verloren 1</td><td class="statistics">37 36</td><td class="statistics last">35 39</td></tr><tr class="even"><td class="team first"><a href="javascript:s4.deeplink('uniqueteamid','3639','5_38836');">Miami</a></td><td class="wins">68</td><td class="losses">77</td><td class="pct">0.469</td><td class="gb">25.5</td><td class="e#">-8</td><td class="last10">1 9</td><td class="streak">Verloren 4</td><td class="statistics">36 35</td><td class="statistics last">32 42</td></tr><tr><td class="team first"><a href="javascript:s4.deeplink('uniqueteamid','3642','5_38836');">Toronto</a></td><td class="wins">68</td><td class="losses">78</td><td class="pct">0.466</td><td class="gb">26.0</td><td class="e#">-9</td><td class="last10">5 5</td><td class="streak">Verloren 1</td><td class="statistics">39 36</td><td class="statistics last">29 42</td></tr><tr class="even"><td class="team first"><a href="javascript:s4.deeplink('uniqueteamid','3637','5_38836');">Pittsburgh</a></td><td class="wins">68</td><td class="losses">79</td><td class="pct">0.463</td><td class="gb">26.5</td><td class="e#">-10</td><td class="last10">3 7</td><td class="streak">Verloren 2</td><td class="statistics">39 34</td><td class="statistics last">29 45</td></tr><tr><td class="team first"><a href="javascript:s4.deeplink('uniqueteamid','3656','5_38836');">Atlanta</a></td><td class="wins">66</td><td class="losses">78</td><td class="pct">0.458</td><td class="gb">27.0</td><td class="e#">-9</td><td class="last10">7 3</td><td class="streak">Gewonnen 4</td><td class="statistics">33 39</td><td class="statistics last">33 39</td></tr><tr class="even"><td class="team first"><a href="javascript:s4.deeplink('uniqueteamid','3636','5_38836');">San Diego</a></td><td class="wins">65</td><td class="losses">81</td><td class="pct">0.445</td><td class="gb">29.0</td><td class="e#">-12</td><td class="last10">4 6</td><td class="streak">Verloren 3</td><td class="statistics">39 35</td><td class="statistics last">26 46</td></tr><tr><td class="team first"><a href="javascript:s4.deeplink('uniqueteamid','3645','5_38836');">Oakland</a></td><td class="wins">64</td><td class="losses">81</td><td class="pct">0.441</td><td class="gb">29.5</td><td class="e#">-12</td><td class="last10">6 4</td><td class="streak">Gewonnen 1</td><td class="statistics">42 33</td><td class="statistics last">22 48</td></tr><tr class="even"><td class="team first"><a href="javascript:s4.deeplink('uniqueteamid','3629','5_38836');">New York Mets</a></td><td class="wins">63</td><td class="losses">82</td><td class="pct">0.434</td><td class="gb">30.5</td><td class="e#">-13</td><td class="last10">5 5</td><td class="streak">Verloren 3</td><td class="statistics">33 41</td><td class="statistics last">30 41</td></tr><tr><td class="team first"><a href="javascript:s4.deeplink('uniqueteamid','3633','5_38836');">Cincinnati</a></td><td class="wins">63</td><td class="losses">83</td><td class="pct">0.432</td><td class="gb">31.0</td><td class="e#">-14</td><td class="last10">5 5</td><td class="streak">Gewonnen 1</td><td class="statistics">36 36</td><td class="statistics last">27 47</td></tr><tr class="even"><td class="team first"><a href="javascript:s4.deeplink('uniqueteamid','3648','5_38836');">Detroit</a></td><td class="wins">60</td><td class="losses">85</td><td class="pct">0.414</td><td class="gb">33.5</td><td class="e#">-16</td><td class="last10">2 8</td><td class="streak">Verloren 5</td><td class="statistics">32 38</td><td class="statistics last">28 47</td></tr><tr><td class="team first"><a href="javascript:s4.deeplink('uniqueteamid','3644','5_38836');">Chicago White Sox</a></td><td class="wins">58</td><td class="losses">87</td><td class="pct">0.400</td><td class="gb">35.5</td><td class="e#">-18</td><td class="last10">4 6</td><td class="streak">Gewonnen 1</td><td class="statistics">34 40</td><td class="statistics last">24 47</td></tr><tr class="even"><td class="team first"><a href="javascript:s4.deeplink('uniqueteamid','3635','5_38836');">Philadelphia</a></td><td class="wins">56</td><td class="losses">89</td><td class="pct">0.386</td><td class="gb">37.5</td><td class="e#">-20</td><td class="last10">5 5</td><td class="streak">Gewonnen 2</td><td class="statistics">30 37</td><td class="statistics last">26 52</td></tr><tr><td class="team first"><a href="javascript:s4.deeplink('uniqueteamid','3634','5_38836');">San Francisco</a></td><td class="wins">57</td><td class="losses">91</td><td class="pct">0.385</td><td class="gb">38.0</td><td class="e#">-22</td><td class="last10">3 7</td><td class="streak">Verloren 2</td><td class="statistics">33 40</td><td class="statistics last">24 51</td></tr></tbody></table><div hidden="1" class="choosecolumntext">Spalte ausw&auml;hlen</div>
+</div></div></div>]]></c></n></n><n p="1" id="2222" c="Leaguetablecomments" data="1"><p n="wordwrap" t="int" v="120"/><c cache="86400"><![CDATA[
+]]></c></n><n p="2" id="2221" c="rankingrule" data="1"><c cache="86400"><![CDATA[<div class="rankingrule comment"><table><tr><td>In der MLB-Gesamttabelle werden die Mannschaften nach der Prozentzahl an Siegen eingestuft</td></tr></table></div>
+]]></c></n></n></n></n></n><n p="1" id="1233" c="view"/><n p="2" id="2106" c="view"><p n="template" t="1" v="VBox"/></n><n p="3" id="1233" c="view"/><n p="4" id="4049" c="socialmedia" data="1"><c cache="86400" type="document"><![CDATA[<div id="socialmedia">
+
+
+<div class="clear"></div>
+</div>]]></c></n></n></n><n p="3" id="2106" c="view"><p n="template" t="1" v="VBox"/></n></n></page>

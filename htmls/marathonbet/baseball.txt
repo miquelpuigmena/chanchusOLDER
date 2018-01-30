@@ -1,0 +1,1960 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Marathonbet Online Sportsbook - Events for 6 Hours</title>
+<meta name="keywords" content="Sport, Bet, Live, Prices, Odds, Online, Bookie, Low, Margins, sports betting, bet online, online betting, football betting,  sport bet, betting online, live betting, sports betting online, bookmakers, betting odds" /> 
+<meta name="description" content="Online sports betting featuring free sports bets, Marathonbet are an independent UK bookmaker for all sports including football, horse racing, tennis, golf and motorsport" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+ <meta http-equiv="X-UA-Compatible" content="IE=edge">
+ <link rel="shortcut icon" type="image/x-icon" href="https://web.mbstatic.org/008AE5/3-0-550-752/images/marathon_favicon.ico" />
+<link rel="apple-touch-icon" href="https://web.mbstatic.org/008AE5/3-0-550-752/images/apple-touch-icon.png" />
+   
+ 
+<script src="/en/jsconst.htm" type="text/javascript"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+ initData = {"tzPrefix":"GMT+1","isBelarus":false,"remainingSecondsToShowChat":30073,"isLoginAndRegistrationOnRussiaEnabled":false,"isLogged":false,"isMarathon":false,"home_http_url":"http://www.mbet.es/en/","syncTimeUrl":"/en/utils/synctime","timeResyncInterval":300,"serverTime":"2017,09,14,13,38,47","siteStyleCookieName":"panbet.sitestyle","siteStyle":"SIMPLE","langCookieName":"lang","isAlderney":false,"useAjaxLoadingStatusDelay":true,"localeLanguage":"en","balanceRefreshEnabled":false,"isCuracaoPlatform":true,"region":"ES","isBroadcastWidgetEnable":true,"gb_index":1,"ajaxLoadingStatusDelay":300,"isClientSidePasswordValidationEnable":true,"seance_update":180000,"trendVisualizationCookieName":"LIVE_TRENDS_STYLE","sessionAlertInterval":60000,"isTestMode":false,"seance_prolongate_url":"/en/prolongateseance.htm","seance_preference_update_url":"/en/getseancepreference.htm","oddsType":"Decimal","isSpain":true,"defaultBelarusianCurrencyCode":"BYN","isMarathonClient":false,"locale_name":"en","tooltipShowDelay":1000,"bannersSlideInterval":8000,"isRussia":false,"personalDetailsPageUrl":"/en/myaccount/personaldetails.htm","stomp":{"queueName":"stomp-856c3328-d063-40e8-9beb-9ac3c5e13fda","debug":false,"punterPendingPayoutsChangesPath":"/user/exchange/punter.pendingPayouts.changes/","appPrefix":"/app","punterBalanceChangesPath":"/user/exchange/punter.balance.changes/","priceChangesDestination":"/exchange/price.changes/","betStatusChangesDestination":"/user/exchange/calc.bet.web/","selectionStateChangesDestination":"/exchange/selection.result/","config":{"heartbeatIncoming":25000,"heartbeatOutgoing":25000,"transports":["websocket","xhr-polling","iframe-xhr-polling"],"updateInterval":60000,"fakeConnectionsCount":0,"lastModified":1505306775269,"connectTimeout":5000,"isSingleQueuePerSessionEnabled":true},"url":"/en/websocket/endpoint"},"oddsTypeCookieName":"panbet.oddstype","bannersRefreshInterval":600000,"sessionAlertDelay":30000,"currencySymbol":"€","openEventNameSeparatelyCookieName":"panbet.openeventnameseparately","isWebAnalyticsEnabled":false,"isOpenBetsEnabled":true,"base_dir":"/en","openAddMarketsSeparatelyCookieName":"panbet.openadditionalmarketsseparately","isItaly":false};
+ reactData = {"prematchLeftPanel":{"selectedTimeFilterControlItem":0,"isPopularMenuSelected":false,"menuModeSelectorModel":{"mode":"ALL_EVENTS","liveLabel":"LIVE","liveUrl":"/en/live/popular","prematchLabel":"All Events","prematchUrl":"/en/all-events.htm"},"timeFilterControl":{"items":[{"id":0,"label":"All"},{"id":1,"timeRange":7200000,"label":"2h"},{"id":2,"timeRange":18000000,"label":"5h"},{"id":3,"timeRange":28800000,"label":"8h"},{"id":4,"timeRange":43200000,"label":"12h"},{"id":5,"timeRange":86400000,"label":"24h"}]},"popularMenu":{"uid":"popularMenu","label":"Popular","childs":[{"uid":"11","type":"sport","label":"Football","href":"/en/popular/Football/?menu=11","icon":"icon-sport-football","hasChilds":true,"minEventTime":1505394300000},{"uid":"6","type":"sport","label":"Basketball","href":"/en/popular/Basketball/?menu=6","icon":"icon-sport-basketball","hasChilds":true,"minEventTime":1505393100000},{"uid":"2398","type":"sport","label":"Tennis","href":"/en/popular/Tennis/?menu=2398","icon":"icon-sport-tennis","hasChilds":true,"minEventTime":1505393100000},{"uid":"52914","type":"sport","label":"Handball","href":"/en/popular/Handball/?menu=52914","icon":"icon-sport-handball","hasChilds":true,"minEventTime":1505395800000}],"hasChilds":false},"regularMenu":{"uid":"regularMenu","label":"Categories (A-Z)","childs":[{"uid":"4","type":"sport","label":"American Football","href":"/en/betting/American+Football/?menu=4","icon":"icon-sport-american-football","hasChilds":true,"minEventTime":1505516400000},{"uid":"237218","type":"sport","label":"Aussie Rules","href":"/en/betting/Aussie+Rules/?menu=237218","icon":"icon-sport-aussie-rules","hasChilds":true},{"uid":"5","type":"sport","label":"Baseball","href":"/en/betting/Baseball/?menu=5","icon":"icon-sport-baseball","hasChilds":true,"minEventTime":1505410200000},{"uid":"6","type":"sport","label":"Basketball","href":"/en/betting/Basketball/?menu=6","icon":"icon-sport-basketball","hasChilds":true,"minEventTime":1505393100000},{"uid":"193335","type":"sport","label":"Beach Soccer","href":"/en/betting/Beach+Soccer/?menu=193335","icon":"icon-sport-beach-soccer","hasChilds":true,"minEventTime":1505393100000},{"uid":"7","type":"sport","label":"Boxing","href":"/en/betting/Boxing/?menu=7","icon":"icon-sport-boxing","hasChilds":true,"minEventTime":1505593800000},{"uid":"140628","type":"sport","label":"Chess","href":"/en/betting/Chess/?menu=140628","icon":"icon-sport-chess","hasChilds":true,"minEventTime":1505404800000},{"uid":"8","type":"sport","label":"Cricket","href":"/en/betting/Cricket/?menu=8","icon":"icon-sport-cricket","hasChilds":true,"minEventTime":1505395800000},{"uid":"2311","type":"sport","label":"Cycling","href":"/en/betting/Cycling/?menu=2311","icon":"icon-sport-cycling","hasChilds":true,"minEventTime":1506240300000},{"uid":"9","type":"sport","label":"Darts","href":"/en/betting/Darts/?menu=9","icon":"icon-sport-darts","hasChilds":true},{"uid":"11","type":"sport","label":"Football","href":"/en/betting/Football/?menu=11","icon":"icon-sport-football","hasChilds":true,"minEventTime":1505394300000},{"uid":"1506","type":"sport","label":"Football Outright","href":"/en/betting/Football+Outright/?menu=1506","icon":"icon-sport-football-outright","hasChilds":true,"minEventTime":1505408400000},{"uid":"444782","type":"sport","label":"Futsal","href":"/en/betting/Futsal/?menu=444782","icon":"icon-sport-futsal","hasChilds":true,"minEventTime":1505482200000},{"uid":"1037392","type":"sport","label":"Gaelic Football","href":"/en/betting/Gaelic+Football/?menu=1037392","icon":"icon-sport-gaelic-football","hasChilds":true},{"uid":"10","type":"sport","label":"Golf","href":"/en/betting/Golf/?menu=10","icon":"icon-sport-golf","hasChilds":true,"minEventTime":1505397600000},{"uid":"52914","type":"sport","label":"Handball","href":"/en/betting/Handball/?menu=52914","icon":"icon-sport-handball","hasChilds":true,"minEventTime":1505395800000},{"uid":"537","type":"sport","label":"Ice Hockey","href":"/en/betting/Ice+Hockey/?menu=537","icon":"icon-sport-ice-hockey","hasChilds":true,"minEventTime":1505394000000},{"uid":"439050","type":"sport","label":"MMA","href":"/en/betting/MMA/?menu=439050","icon":"icon-sport-mma","hasChilds":true},{"uid":"1261","type":"sport","label":"Motorsport","href":"/en/betting/Motorsport/?menu=1261","icon":"icon-sport-motorsport","hasChilds":true,"minEventTime":1505464200000},{"uid":"300533","type":"sport","label":"Pool","href":"/en/betting/Pool/?menu=300533","icon":"icon-sport-pool","hasChilds":true},{"uid":"947","type":"sport","label":"Rugby League","href":"/en/betting/Rugby+League/?menu=947","icon":"icon-sport-rugby-league","hasChilds":true,"minEventTime":1505415600000},{"uid":"1580","type":"sport","label":"Rugby Union","href":"/en/betting/Rugby+Union/?menu=1580","icon":"icon-sport-rugby-union","hasChilds":true,"minEventTime":1505414700000},{"uid":"2185","type":"sport","label":"Snooker","href":"/en/betting/Snooker/?menu=2185","icon":"icon-sport-snooker","hasChilds":true},{"uid":"954952","type":"sport","label":"Sumo","href":"/en/betting/Sumo/?menu=954952","icon":"icon-sport-sumo","hasChilds":true},{"uid":"2398","type":"sport","label":"Tennis","href":"/en/betting/Tennis/?menu=2398","icon":"icon-sport-tennis","hasChilds":true,"minEventTime":1505393100000},{"uid":"22712","type":"sport","label":"Volleyball","href":"/en/betting/Volleyball/?menu=22712","icon":"icon-sport-volleyball","hasChilds":true,"minEventTime":1505399400000},{"uid":"382582","type":"sport","label":"Water Polo","href":"/en/betting/Water+Polo/?menu=382582","icon":"icon-sport-water-polo","hasChilds":true,"minEventTime":1505406600000}],"hasChilds":false},"contactServiceInfo":{"serviceCenterText":"Customer Care & Phone Betting","servicePhoneFreeText":"Freephone","serviceCentreAddText":"800&nbsp;099&nbsp;522","servicePhoneInternationalText":"International","isAlderney":false,"isRussianLocale":false,"isSpain":true,"isItaly":false,"isMarathon":false,"isBelarus":false,"customerServicePhone":"800&nbsp;099&nbsp;522"}},"siteSearch":{"label":"Search","actionURL":"/en/search/"},"settingsDropdownModel":{"label":"Settings","submitBtnLabel":"Submit","settingModels":[{"id":"oddsType","label":"Odds Type","variants":[{"id":"Decimal","label":"Decimal"},{"id":"Fractions","label":"Fraction"}],"processingURL":"/en/changeoddstype.htm"},{"id":"siteStyle","label":"Site Type","variants":[{"id":"MULTIMARKETS","label":"Multimarkets"},{"id":"SIMPLE","label":"Classic View"},{"id":"ASIAN","label":"Asian View"}]},{"id":"trendsVisualization","label":"Price Change Notification","variants":[{"id":"OFF","label":"Off","supportedOddsTypes":["Fractions","Decimal"]},{"id":"TEXT_COLOR","label":"Price Colour","supportedOddsTypes":["Fractions","Decimal"]},{"id":"ARROW","label":"Arrows","supportedOddsTypes":["Decimal"]}]},{"id":"clickableOptions","label":"Event Display Options","settingModels":[{"id":"openEventNameSeparately","label":"Click on","label2":"Event Name","variants":[{"id":"true","label":"New Page"},{"id":"false","label":"Current Page"}]},{"id":"openAdditionalMarketsSeparately","label":"Click on","label2":"Number of Markets","variants":[{"id":"true","label":"New Page"},{"id":"false","label":"Current Page"}]}]}],"selectedSettings":{"oddsType":"Decimal","siteStyle":"SIMPLE","trendsVisualization":"ARROW","openEventNameSeparately":true,"openAdditionalMarketsSeparately":false}}};
+//]]>>
+</script>
+ 
+<link rel="stylesheet" href="https://web.mbstatic.org/008AE5/3-0-550-752/styles/panbet.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="https://web.mbstatic.org/008AE5/3-0-550-752/styles/panbet_events.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="https://web.mbstatic.org/008AE5/3-0-550-752/styles/panbet_pages.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="https://web.mbstatic.org/008AE5/3-0-550-752/styles/panbet_vendors.css" type="text/css" media="screen" />
+<!--[if IE]><link rel="stylesheet" href="/en/styles/panbet_ie.css" type="text/css" media="screen" /><![endif]-->
+
+<!--[if IE]><script src="https://web.mbstatic.org/008AE5/3-0-550-752/js/css3-mediaqueries.js" type="text/javascript"></script><![endif]-->
+
+   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js" type="text/javascript"></script>
+   <script src="https://code.jquery.com/jquery-migrate-1.2.1.min.js" type="text/javascript"></script>
+   <script type="text/javascript">
+ //<![CDATA[
+ (window.jQuery) || document.write('<script src="https://web.mbstatic.org/008AE5/3-0-550-752/js/jquery-1.10.2.min.js" type="text/javascript"><\/script>');
+ //]]>
+ </script>
+ <script type="text/javascript">
+ //<![CDATA[
+ (window.jQuery.migrateWarnings) || document.write('<script src="https://web.mbstatic.org/008AE5/3-0-550-752/js/jquery-migrate-1.2.1.min.js" type="text/javascript"><\/script>');
+ //]]>
+ </script>
+
+ <script src="https://web.mbstatic.org/008AE5/3-0-550-752/js/common/plugins.js" type="text/javascript"></script>
+ <script src="https://web.mbstatic.org/008AE5/3-0-550-752/js/common/panbet.js" type="text/javascript"></script>
+
+ <!--[if IE]><script src="https://web.mbstatic.org/008AE5/3-0-550-752/js/StylesIE.js" type="text/javascript"></script><![endif]-->
+ 
+ <!-- Page dependent JS imports -->
+ <script src="https://web.mbstatic.org/008AE5/3-0-550-752/assets/bootstrap.js" type="text/javascript"></script>
+<script src="https://web.mbstatic.org/008AE5/3-0-550-752/js/HomeHelperClass.js" type="text/javascript"></script>
+<script src="https://web.mbstatic.org/008AE5/3-0-550-752/js/AllEventsHelperClass.js" type="text/javascript"></script>
+<script src="https://web.mbstatic.org/008AE5/3-0-550-752/js/CollapsibleTablePanelHelperClass.js" type="text/javascript"></script>
+
+ <!-- Page dependent CSS imports -->
+ 
+
+  
+ <script type="text/javascript">
+ jQuery(document).ready(function() {
+ TrackingEngine.trigger(TrackingEngine.EVENT.VISIT_PAGE);
+  });
+ </script>
+</head>
+
+ 
+<body class="en_GB  region-ES">
+
+   <!-- Google Tag Manager -->
+ <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-55XD8C" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+ <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-55XD8C');</script>
+ <!-- End Google Tag Manager -->
+ 
+<div id="punterMessage" class="messenger hidden">
+<p class="_message">$punterMessage</p>
+<div class="buttons messenger-but">
+<button type="submit" class="button yes simplemodal-close" onclick="closeMessengerNote('punterMessage');"><span>OK</span></button>
+</div>
+</div>
+ <div id="errorMessage" class="messenger hidden">
+<p class="_message">$errorMessage</p>
+<div class="buttons messenger-but">
+<button type="submit" class="button yes simplemodal-close" onclick="closeMessengerNote('errorMessage');"><span>OK</span></button>
+</div>
+</div>
+ <div id="loginMessage" class="messenger hidden">
+<p class="_message">$loginMessage</p>
+<div class="buttons messenger-but">
+<button type="submit" class="button yes simplemodal-close" onclick="closeMessengerNote('loginMessage');"><span>OK</span></button>
+</div>
+</div>
+  <div id="domainMessage" class="messenger info hidden">
+ <p class="_message">$domainMessage</p>
+ <div class="buttons messenger-but">
+ <button type="button" class="button btn-cancel no simplemodal-close"><span>Close</span></button>
+ </div>
+ </div>
+
+<div id="sherror" class="messenger hidden">
+<p class="_message">Search string must not contain symbols "%" or "_" and must be at least 3 symbols length.</p>
+<div class="buttons messenger-but">
+<button type="submit" class="button yes simplemodal-close" onclick="closeMessengerNote('sherror');"><span>OK</span></button>
+</div>
+</div>
+<div id="forbidden" class="messenger hidden">
+<p class="_message">Access forbidden</p>
+<div class="buttons messenger-but">
+<button type="submit" class="button yes simplemodal-close" onclick="closeMessengerNote('forbidden');"><span>OK</span></button>
+</div>
+</div>
+<div id="select_events_warning" class="messenger hidden">
+<p class="_message">Please select events to view</p>
+<div class="buttons messenger-but">
+<button type="submit" class="button yes simplemodal-close" onclick="closeMessengerNote('select_events_warning');"><span>OK</span></button>
+</div>
+</div>
+
+ <div id="any_message" class="messenger hidden">
+<p class="_message"></p>
+<div class="buttons messenger-but">
+<button type="submit" class="button yes simplemodal-close" onclick="closeMessengerNote('any_message');"><span>OK</span></button>
+</div>
+</div>
+
+ 
+ 
+<div class="container" id="id_container">
+ <div id="js_topbar_messages" class="topbar-container">
+   <div id="js_topbar_optimum_browser" class="topbar-messages hidden">
+ <div class="topbar-messages-wrap">
+ <div class="topbar-message-text">The version of your internet browser is no longer supported. Please upgrade to a newer version or install a supported browser.</div>
+ </div>
+</div>  </div><div class="header" id="header_container" data-topbar-fix="true">
+<div class="header-content">
+<div class="head">
+
+<div class="head-main ">
+ <div class="head-right">
+   <form action="https://www.mbet.es:443/en/login.htm" id="auth"  method="post">
+ <div class="login-pass">
+ <a href="https://www.mbet.es:443/en/forgottenpassword.htm" class="lostpass">Lost Password?</a>
+ <div class="user">
+ <input  id="auth_login" tabindex="1" type="text" name="login"
+ rel="Username:" maxlength="40" regex="^[0-9]{6,7}|[A-Za-z0-9\-_\.\%\+]+@([A-Za-z0-9\-_]+\.)+[A-Za-z]{2,4}|[a-zA-Z][a-zA-Z0-9\-_]{2,31}$"
+  autocomplete="off" data-prevent-copy-paste="true" data-prevent-autocomplete="true" readonly="readonly"  />
+  <input type="text" class="hidden" />
+  </div>
+ <div class="pass">
+ <input  id="auth_login_password" tabindex="2" type="password" name="login_password"
+ rel="Password:" maxlength="100" regex="^.{6,}$"
+  autocomplete="off" data-prevent-copy-paste="true" data-prevent-autocomplete="true" readonly="readonly"  />
+  <input type="password" class="hidden" />
+  </div>
+ <div class="login"><button  type="submit" tabindex="3" class="button btn-login">Login</button></div>
+  <div class="join"><a href="https://www.mbet.es:443/en/join.htm" tabindex="4" class="button btn-join">Join now</a></div>
+  </div>
+   <div class="captcha">
+ <div class="image">
+ Verification Code:
+ <img src="" style="height: 20px; width: 106px;"/>
+ <button type="button" class="button btn-reload"></button>
+ </div>
+ <div class="code">
+ <div><input type="text" name="captcha" id="captcha" value="" size="20" regex="^.+$" autocomplete="off" rel="Enter code" class="required"/></div>
+ <div class="login"><button type="submit" class="button btn-login">Login</button></div>
+ </div>
+</div>
+  </form>
+   <div id="login" class="messenger hidden">
+<form id="login_form" action="https://www.mbet.es:443/en/login.htm" method="post">
+ <div class="login-pass">
+ <p>You are not currently logged in. Please enter your account details or Join Now.</p>
+ <table class="login-form-table">
+ <tr>
+ <td class="popup-login">
+ <p>Username:&nbsp;&nbsp;</p>
+ </td>
+ <td class="popup-input">
+ <p><input type="text" name="login" regex="^[0-9]{6,7}|[A-Za-z0-9\-_\.\%\+]+@([A-Za-z0-9\-_]+\.)+[A-Za-z]{2,4}|[a-zA-Z][a-zA-Z0-9\-_]{2,31}$" maxlength="40" class="required _copy"
+  autocomplete="off" data-prevent-copy-paste="true" data-prevent-autocomplete="true" readonly="readonly" /></p>
+  <input type="text" class="hidden" />
+  </td>
+ </tr>
+ <tr>
+ <td class="popup-login">
+ <p>Password:&nbsp;&nbsp;</p>
+ </td>
+ <td class="popup-input">
+ <p><input type="password" name="login_password" maxlength="100" class="required _copy"
+  autocomplete="off" data-prevent-copy-paste="true" data-prevent-autocomplete="true" readonly="readonly"  regex="^.{6,}$"/></p>
+  <input type="password" class="hidden" />
+  </td>
+ </tr>
+ </table>
+  <input type="hidden" name="placebet" value=""/>
+  <input type="hidden" name="totoStake" value=""/>
+ <div class="buttons messenger-but">
+ <button type="submit" class="button"><span>Login</span></button>
+  <button type="button" class="button btn-join-now" onclick="location.href = 'https://www.mbet.es:443/en/join.htm'"><span>Join now</span></button>
+  <button type="button" class="button btn-cancel no simplemodal-close"><span>Cancel</span></button>
+ </div>
+ </div>
+ <div class="captcha">
+ <p>You are not currently logged in.</p>
+ <table class="login-form-table">
+   <tr>
+ <td>
+ <p>Verification Code:&nbsp;&nbsp;</p>
+ </td>
+ <td>
+ <img src="" style="height: 20px; width: 106px;"/>
+ <button type="button" class="button btn-reload"></button>
+ </td>
+</tr>
+<tr>
+ <td colspan="2">
+ <p>
+ <input type="text" name="captcha" id="captcha" value="" size="20" autocomplete="off" rel="Enter code" class="required"/>
+ </p>
+ </td>
+</tr>
+  </table>
+ <div class="buttons messenger-but">
+ <button type="submit" class="button"><span>Login</span></button>
+ </div>
+ </div>
+</form>
+</div> 
+ <script type="text/javascript">
+ authInit();
+ </script>
+ </div>
+
+ <div class="head-left">
+ <div class="logo">
+ <a href="/en/"><img src="https://web.mbstatic.org/008AE5/3-0-550-752/images/marathon_logo_en.png" alt="Marathonbet Logo" height="71" width="190" /></a>
+</div>
+ <div class="main-menu">
+  <span class="top-tabs-block">
+ 
+ <a
+class="" 
+ href="/en/"><span>Sport</span></a>
+  
+ <a
+class="live" 
+ href="/en/live/popular"><span>LIVE</span></a>
+  </span>
+   <span class="top-tabs-block">
+ 
+ <a
+class="" 
+ href="https://www.mbet.es/en/casino/lobby/?v=casino"><span>Casino</span></a>
+  </span>
+ </div> </div>
+</div>
+
+<div class="head-sub js-head-sub">
+
+ <div id="timer"><span id="time"></span></div>
+
+ 
+ 
+ <div class="head-sub-item services js-head-sub-item">
+ <div class="menu-link js-menu-link">Services
+ <b>
+ <i class="arrow"></i>
+ </b>
+ </div>
+
+ <ul class="dropdown js-dropdown">
+  <li class="first"><span data-show-help="/en/help/payments/" class="show-help-link ur-link" >Payments</span></li>
+    <li><span data-show-help="/en/help/contact_us/" class="show-help-link ur-link" >Help</span></li>
+    <li><span data-show-help="/en/help/how_to_place_a_bet/" class="show-help-link ur-link last-item" >How to bet?</span></li>
+  </ul>
+ </div>
+
+ <div class="head-sub-item js-head-sub-item">
+  <div name="languageSwitcher" id="language_form" data-action-url="/en/changelanguage.htm"><div name="languageSelectField" id="languageSelectField"><div class="menu-link js-menu-link"><span class="flag en_GB"></span>English<b><i class="arrow"></i></b></div><div class="dropdown js-dropdown"><ul class="lang-col-1"><li><div class="ur-link js-ur-link last-item" data-field-value="en" data-menu-item-selected="true"><span class="flag en_GB"></span>English</div></li></ul><ul class="lang-col-2"><li><div class="ur-link js-ur-link last-item" data-field-value="es"><span class="flag es_ES"></span>Español</div></li></ul></div></div></div>
+  </div>
+
+ <div class="head-sub-item js-head-sub-item">
+ <div class="menu-link js-menu-link">Results & Statistics
+ <b>
+ <i class="arrow"></i>
+ </b>
+ </div>
+
+ <ul class="dropdown js-dropdown">
+   <li><a href="/en/results.htm" class="ur-link ">Results</a></li>
+    <li><a href="/en/liveresults.htm" class="ur-link ">Live Scores</a></li>
+    <li><a href="/en/stats" class="ur-link last-item ">Statistics</a></li>
+   </ul>
+ </div>
+
+ 
+ <span id="settingsDropdownContainer" data-react-component="topmenu/containers/SettingsDropdownContainer"></span>
+ <script type="text/javascript">
+ panbet.initInlineReactContainer('settingsDropdownContainer');
+ </script>
+
+  <div class="head-sub-item js-head-sub-item">
+ <div id="online_chat" class="online-chat">
+ <a href="https://mbet.es/lhn/livechatvisitor.aspx?d=32473&ms=&zzwindow=32108&lhnid=8102" onclick="showChat(event, this)"><i class="icon"></i>Chat</a>
+ </div>
+ </div>
+  
+ 
+ <div class="head-sub-item js-head-sub-item">
+ <div id="bonus-info" class="bonus-info-hide">
+ <div data-tooltip-parent='{"position":{"container":".header-content","at":"bottom center","my":"top left"},"hide":{"delay":"300","fixed":"true"}}'>
+ <span class="bonus-info-ico"></span>
+ <div class="tooltip">
+ Available Free Bets (<span data-show-help='/en/help/bonuses_and_offers/free_bet/' class='show-help-link'>more</span>):
+ <ol id="bonus-info-list" class="bonus-info-list"></ol>
+ </div>
+ </div>
+</div>
+ </div>
+
+ </div>
+
+<div id="auth_validation_warning" class="messenger hidden">
+<p class="_message"><span id='auth_validation_warning_message' class='simple-text'></span></p>
+<div class="buttons messenger-but">
+<button type="submit" class="button yes simplemodal-close" onclick="closeMessengerNote('auth_validation_warning');"><span>OK</span></button>
+</div>
+</div>
+<div id="on_line_notification" class="messenger hidden">
+<p class="_message">You have been online for&nbsp;<span id='on_line_notification_value'></span>&nbsp;hour(s)</p>
+<div class="buttons messenger-but">
+<button type="submit" class="button yes simplemodal-close" onclick="closeMessengerNote('on_line_notification');"><span>OK</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="main-panel  " id="main_panel" data-topbar-fix="true">
+ <div class="pure-g main-panel-inner">
+ <div class="main-panel-container">
+ <div class="main-panel-content  leftbar-helper  rightbar-helper">
+<div class="top-panel js-top-panel">
+
+ <div class="top-panel-right-side-container">
+  <div class="bet-in-one-click" id="bet-in-one-click">
+ <label for="bet-in-one-click-checked" >Bet in one click</label>
+ <input type="checkbox" name="checked" id="bet-in-one-click-checked"
+  disabled="disabled"  onclick="getOneClick().update()"
+ />
+ </div>
+ <div class="js-scroll-to-top scroll-to-top-wrapper"></div>
+ </div>
+ 
+<div class="button-container">
+
+
+  
+  
+ 
+ <span>
+  <input type="checkbox" name="collapseAllCategoriesCheckbox"
+  class="collapse-all-categories-checkbox">
+ <span data-collapse-all-categories-link="true" class="link">Categories</span>
+   <input type="checkbox" name="collapseAllSportsCheckbox"
+  class="collapse-all-sports-checkbox">
+ <span data-collapse-all-sports-link="true" class="link">Sports</span>
+  </span>
+
+</div>
+</div>
+ </div>
+ </div>
+ <div class="betslip-wrapper">
+ 
+ <div id="betslip-container">
+<!-- This is a placeholder. Betslip content is loaded dynamically by AJAX requests -->
+<!-- To get more information about Betslip template please check betslip.html -->
+<div class="betslip-content" id="betslip-content">
+ <div id="stakeNoWideScreenId" class="stake-no hidden">
+ <div class="bet-slip-nostake">Please make a selection</div>
+ <div class="bet-slip-info">Maximum stakes increase towards match start times.</div>
+ </div>
+<div id="stakeNoNotWideScreenId" class="stake-no hidden">
+ <div class="bet-slip-nostake-not-wide">Please make a selection</div>
+ </div>
+</div>
+</div>
+
+
+<div id="result-dialog" class="messenger hidden">
+<p id="betresult">$betresult</p>
+<div id="detail-result" class="detail-result hidden">
+<p id="detail-result-content"></p>
+<div id="deposit-msg" class="deposit-msg hidden">
+<p>Please click <button type="submit" class="button yes simplemodal-close" onclick="location.href = '/en/deposit.htm'"><span>Deposit</span></button>&nbsp;to add funds.</p>
+</div>
+</div>
+<div class="buttons messenger-but">
+<button type="submit" id="ok-button" class="button no simplemodal-close"><span>OK</span></button>
+<button type="submit" id="print-bet" class="button no simplemodal-close">
+<span>Print</span>
+</button>
+<button type="submit" id="deposit-button" class="button yes simplemodal-close hidden" onclick="location.href = '/en/deposit.htm'"><span>Deposit</span></button>
+
+
+
+<button type="submit" id="cancel-button" class="button btn-cancel no simplemodal-close hidden"><span>Cancel</span></button>
+<button type="submit" id="place-changed-terms" class="button no simplemodal-close hidden"><span>Place bet with changed terms</span></button>
+<button type="submit" id="place-amended-stake" class="button no simplemodal-close hidden"><span>Place bet with amended stake</span></button>
+</div>
+</div>
+<div id="off_events_placebet" class="messenger hidden">
+<p>$betresult</p>
+<div class="buttons messenger-but">
+<button type="submit" class="button yes simplemodal-close" onclick="location.reload()"><span>OK</span></button>
+</div>
+</div><div id="out_of_money_dialog" class="messenger hidden">
+<p class="_message">$betresult</p>
+<div class="buttons messenger-but">
+<button type="submit" class="button yes simplemodal-close" onclick="location.href = '/en/deposit.htm'"><span>Deposit</span></button>
+<button type="submit" class="button btn-cancel no simplemodal-close"><span>Cancel</span></button>
+</div>
+</div>
+<div id="half-place-dialog" class="messenger hidden">
+<p>
+The place part of this bet is restricted:<br/> <span id="half-palace-msg"></span>
+<br/>
+Please, confirm or cancel bet.
+</p>
+<div class="buttons messenger-but">
+<button type="submit" class="button yes"
+onclick="(function(){ this.disabled = true; getBetslip().continuePlaceBet(false);})();"
+><span>Confirm bet</span>
+</button>
+<button type="button" class="button btn-cancel no simplemodal-close"><span>Cancel</span></button>
+</div>
+</div> </div>
+</div>
+</div>
+<div class="pure-g body-container" id="body_container">
+<div id="leftMenuPanel" data-react-component="leftpanel/containers/PrematchLeftPanelContainer" ></div>
+ <script type="text/javascript">
+ panbet.initInlineReactContainer('leftMenuPanel');
+ </script>
+
+<div class="grid-main  grid-middle   main-panel-helper " id="main_container" data-topbar-fix="true" data-scrollable-container="true">
+ <div class="main-container" data-scrollable-content="true">
+ <div class="main-content pure-g  leftbar-helper  rightbar-helper" data-leftbar-helper="true">
+ <div class="pure-u-1-1">
+ <div id="middle-container">
+ <div data-content class="content">
+ <a id="top" name="top"></a>
+ <form method="post" name="form" id="form" action="/selected-events.htm" class="control-event-period-form">
+<input type="hidden" name="sportsMenuMinimized" id="form_sportsMenuMinimized" value="true"/>
+<input type="hidden" name="form_name" id="form_form_name" value="form"/>
+
+<table id="sportsMenu" data-colums-count="6" class="collapsible-table-panel minimized" data-collapsible-table-panel="MINIMIZED">
+<tr data-row-type="MAIN" class="">
+<td data-cell-type="MAIN">
+  
+
+<div class="main-sport-category" >
+<input class="group-selection" type="checkbox" id="top-sport-0"
+name="top-sport-0"
+onclick="getAllEventsHelper().swapTopSportSelection(this)"
+data-tree-ids="[11]"
+>
+<div class="label" data-ellipsis='{"position":{"at":"top right","my":"bottom left"}}'>
+<a href="#" data-sport-cb-id="top-sport-0" onclick="getAllEventsHelper().onClickSportLink(this); return false;">Football</a>
+</div>
+</div> </td>
+<td data-cell-type="MAIN">
+  
+
+<div class="main-sport-category" >
+<input class="group-selection" type="checkbox" id="top-sport-1"
+name="top-sport-1"
+onclick="getAllEventsHelper().swapTopSportSelection(this)"
+data-tree-ids="[6]"
+>
+<div class="label" data-ellipsis='{"position":{"at":"top right","my":"bottom left"}}'>
+<a href="#" data-sport-cb-id="top-sport-1" onclick="getAllEventsHelper().onClickSportLink(this); return false;">Basketball</a>
+</div>
+</div> </td>
+<td data-cell-type="MAIN">
+  
+
+<div class="main-sport-category" >
+<input class="group-selection" type="checkbox" id="top-sport-2"
+name="top-sport-2"
+onclick="getAllEventsHelper().swapTopSportSelection(this)"
+data-tree-ids="[2398]"
+>
+<div class="label" data-ellipsis='{"position":{"at":"top right","my":"bottom left"}}'>
+<a href="#" data-sport-cb-id="top-sport-2" onclick="getAllEventsHelper().onClickSportLink(this); return false;">Tennis</a>
+</div>
+</div> </td>
+<td data-cell-type="MAIN">
+  
+
+<div class="main-sport-category" >
+<input class="group-selection" type="checkbox" id="top-sport-3"
+name="top-sport-3"
+onclick="getAllEventsHelper().swapTopSportSelection(this)"
+data-tree-ids="[52914]"
+>
+<div class="label" data-ellipsis='{"position":{"at":"top right","my":"bottom left"}}'>
+<a href="#" data-sport-cb-id="top-sport-3" onclick="getAllEventsHelper().onClickSportLink(this); return false;">Handball</a>
+</div>
+</div> </td>
+<td data-cell-type="MAIN">
+  
+
+<div class="main-sport-category" >
+<input class="group-selection" type="checkbox" id="top-sport-4"
+name="top-sport-4"
+onclick="getAllEventsHelper().swapTopSportSelection(this)"
+data-tree-ids="[4]"
+>
+<div class="label" data-ellipsis='{"position":{"at":"top right","my":"bottom left"}}'>
+<a href="#" data-sport-cb-id="top-sport-4" onclick="getAllEventsHelper().onClickSportLink(this); return false;">American Football</a>
+</div>
+</div> </td>
+<td data-cell-type="COLLAPSE_BUTTON_CONTAINER">
+  <div class="main-sport-category">
+<input class="group-selection" type="checkbox" id="otherSports" name="otherSports" >
+<div class="label fl-left" data-ellipsis='{"position":{"at":"top right","my":"bottom left"}}'>
+<a data-other-sports-link onclick="return false" href="#">More...</a>
+</div>
+<a href="#" data-collapse-button class="collapse-button" onclick="return false"></a>
+</div> </td>
+</tr>
+<tr data-row-type="FIRST_COLLAPSES_ROW" class="first-collapses-row">
+<td data-cell-type="COLLAPSES">
+  
+
+<div class="main-sport-category" >
+<input class="group-selection" type="checkbox" id="top-sport-5"
+name="top-sport-5"
+onclick="getAllEventsHelper().swapTopSportSelection(this)"
+data-tree-ids="[237218]"
+>
+<div class="label" data-ellipsis='{"position":{"at":"top right","my":"bottom left"}}'>
+<a href="#" data-sport-cb-id="top-sport-5" onclick="getAllEventsHelper().onClickSportLink(this); return false;">Aussie Rules</a>
+</div>
+</div> </td>
+<td data-cell-type="COLLAPSES">
+  
+
+<div class="main-sport-category" >
+<input class="group-selection" type="checkbox" id="top-sport-6"
+name="top-sport-6"
+onclick="getAllEventsHelper().swapTopSportSelection(this)"
+data-tree-ids="[5]"
+checked="checked">
+<div class="label" data-ellipsis='{"position":{"at":"top right","my":"bottom left"}}'>
+<a href="#" data-sport-cb-id="top-sport-6" onclick="getAllEventsHelper().onClickSportLink(this); return false;">Baseball</a>
+</div>
+</div> </td>
+<td data-cell-type="COLLAPSES">
+  
+
+<div class="main-sport-category" >
+<input class="group-selection" type="checkbox" id="top-sport-7"
+name="top-sport-7"
+onclick="getAllEventsHelper().swapTopSportSelection(this)"
+data-tree-ids="[193335]"
+>
+<div class="label" data-ellipsis='{"position":{"at":"top right","my":"bottom left"}}'>
+<a href="#" data-sport-cb-id="top-sport-7" onclick="getAllEventsHelper().onClickSportLink(this); return false;">Beach Soccer</a>
+</div>
+</div> </td>
+<td data-cell-type="COLLAPSES">
+  
+
+<div class="main-sport-category" >
+<input class="group-selection" type="checkbox" id="top-sport-8"
+name="top-sport-8"
+onclick="getAllEventsHelper().swapTopSportSelection(this)"
+data-tree-ids="[7]"
+>
+<div class="label" data-ellipsis='{"position":{"at":"top right","my":"bottom left"}}'>
+<a href="#" data-sport-cb-id="top-sport-8" onclick="getAllEventsHelper().onClickSportLink(this); return false;">Boxing</a>
+</div>
+</div> </td>
+<td data-cell-type="COLLAPSES">
+  
+
+<div class="main-sport-category" >
+<input class="group-selection" type="checkbox" id="top-sport-9"
+name="top-sport-9"
+onclick="getAllEventsHelper().swapTopSportSelection(this)"
+data-tree-ids="[140628]"
+>
+<div class="label" data-ellipsis='{"position":{"at":"top right","my":"bottom left"}}'>
+<a href="#" data-sport-cb-id="top-sport-9" onclick="getAllEventsHelper().onClickSportLink(this); return false;">Chess</a>
+</div>
+</div> </td>
+<td data-cell-type="COLLAPSES">
+  
+
+<div class="main-sport-category" >
+<input class="group-selection" type="checkbox" id="top-sport-10"
+name="top-sport-10"
+onclick="getAllEventsHelper().swapTopSportSelection(this)"
+data-tree-ids="[8]"
+>
+<div class="label" data-ellipsis='{"position":{"at":"top right","my":"bottom left"}}'>
+<a href="#" data-sport-cb-id="top-sport-10" onclick="getAllEventsHelper().onClickSportLink(this); return false;">Cricket</a>
+</div>
+</div> </td>
+</tr>
+<tr data-row-type="COLLAPSES" class="">
+<td data-cell-type="COLLAPSES">
+  
+
+<div class="main-sport-category" >
+<input class="group-selection" type="checkbox" id="top-sport-11"
+name="top-sport-11"
+onclick="getAllEventsHelper().swapTopSportSelection(this)"
+data-tree-ids="[2311]"
+>
+<div class="label" data-ellipsis='{"position":{"at":"top right","my":"bottom left"}}'>
+<a href="#" data-sport-cb-id="top-sport-11" onclick="getAllEventsHelper().onClickSportLink(this); return false;">Cycling</a>
+</div>
+</div> </td>
+<td data-cell-type="COLLAPSES">
+  
+
+<div class="main-sport-category" >
+<input class="group-selection" type="checkbox" id="top-sport-12"
+name="top-sport-12"
+onclick="getAllEventsHelper().swapTopSportSelection(this)"
+data-tree-ids="[9]"
+>
+<div class="label" data-ellipsis='{"position":{"at":"top right","my":"bottom left"}}'>
+<a href="#" data-sport-cb-id="top-sport-12" onclick="getAllEventsHelper().onClickSportLink(this); return false;">Darts</a>
+</div>
+</div> </td>
+<td data-cell-type="COLLAPSES">
+  
+
+<div class="main-sport-category" >
+<input class="group-selection" type="checkbox" id="top-sport-13"
+name="top-sport-13"
+onclick="getAllEventsHelper().swapTopSportSelection(this)"
+data-tree-ids="[1506]"
+>
+<div class="label" data-ellipsis='{"position":{"at":"top right","my":"bottom left"}}'>
+<a href="#" data-sport-cb-id="top-sport-13" onclick="getAllEventsHelper().onClickSportLink(this); return false;">Football Outright</a>
+</div>
+</div> </td>
+<td data-cell-type="COLLAPSES">
+  
+
+<div class="main-sport-category" >
+<input class="group-selection" type="checkbox" id="top-sport-14"
+name="top-sport-14"
+onclick="getAllEventsHelper().swapTopSportSelection(this)"
+data-tree-ids="[444782]"
+>
+<div class="label" data-ellipsis='{"position":{"at":"top right","my":"bottom left"}}'>
+<a href="#" data-sport-cb-id="top-sport-14" onclick="getAllEventsHelper().onClickSportLink(this); return false;">Futsal</a>
+</div>
+</div> </td>
+<td data-cell-type="COLLAPSES">
+  
+
+<div class="main-sport-category" >
+<input class="group-selection" type="checkbox" id="top-sport-15"
+name="top-sport-15"
+onclick="getAllEventsHelper().swapTopSportSelection(this)"
+data-tree-ids="[1037392]"
+>
+<div class="label" data-ellipsis='{"position":{"at":"top right","my":"bottom left"}}'>
+<a href="#" data-sport-cb-id="top-sport-15" onclick="getAllEventsHelper().onClickSportLink(this); return false;">Gaelic Football</a>
+</div>
+</div> </td>
+<td data-cell-type="COLLAPSES">
+  
+
+<div class="main-sport-category" >
+<input class="group-selection" type="checkbox" id="top-sport-16"
+name="top-sport-16"
+onclick="getAllEventsHelper().swapTopSportSelection(this)"
+data-tree-ids="[10]"
+>
+<div class="label" data-ellipsis='{"position":{"at":"top right","my":"bottom left"}}'>
+<a href="#" data-sport-cb-id="top-sport-16" onclick="getAllEventsHelper().onClickSportLink(this); return false;">Golf</a>
+</div>
+</div> </td>
+</tr>
+<tr data-row-type="COLLAPSES" class="">
+<td data-cell-type="COLLAPSES">
+  
+
+<div class="main-sport-category" >
+<input class="group-selection" type="checkbox" id="top-sport-17"
+name="top-sport-17"
+onclick="getAllEventsHelper().swapTopSportSelection(this)"
+data-tree-ids="[537]"
+>
+<div class="label" data-ellipsis='{"position":{"at":"top right","my":"bottom left"}}'>
+<a href="#" data-sport-cb-id="top-sport-17" onclick="getAllEventsHelper().onClickSportLink(this); return false;">Ice Hockey</a>
+</div>
+</div> </td>
+<td data-cell-type="COLLAPSES">
+  
+
+<div class="main-sport-category" >
+<input class="group-selection" type="checkbox" id="top-sport-18"
+name="top-sport-18"
+onclick="getAllEventsHelper().swapTopSportSelection(this)"
+data-tree-ids="[439050]"
+>
+<div class="label" data-ellipsis='{"position":{"at":"top right","my":"bottom left"}}'>
+<a href="#" data-sport-cb-id="top-sport-18" onclick="getAllEventsHelper().onClickSportLink(this); return false;">MMA</a>
+</div>
+</div> </td>
+<td data-cell-type="COLLAPSES">
+  
+
+<div class="main-sport-category" >
+<input class="group-selection" type="checkbox" id="top-sport-19"
+name="top-sport-19"
+onclick="getAllEventsHelper().swapTopSportSelection(this)"
+data-tree-ids="[1261]"
+>
+<div class="label" data-ellipsis='{"position":{"at":"top right","my":"bottom left"}}'>
+<a href="#" data-sport-cb-id="top-sport-19" onclick="getAllEventsHelper().onClickSportLink(this); return false;">Motorsport</a>
+</div>
+</div> </td>
+<td data-cell-type="COLLAPSES">
+  
+
+<div class="main-sport-category" >
+<input class="group-selection" type="checkbox" id="top-sport-20"
+name="top-sport-20"
+onclick="getAllEventsHelper().swapTopSportSelection(this)"
+data-tree-ids="[300533]"
+>
+<div class="label" data-ellipsis='{"position":{"at":"top right","my":"bottom left"}}'>
+<a href="#" data-sport-cb-id="top-sport-20" onclick="getAllEventsHelper().onClickSportLink(this); return false;">Pool</a>
+</div>
+</div> </td>
+<td data-cell-type="COLLAPSES">
+  
+
+<div class="main-sport-category" >
+<input class="group-selection" type="checkbox" id="top-sport-21"
+name="top-sport-21"
+onclick="getAllEventsHelper().swapTopSportSelection(this)"
+data-tree-ids="[947]"
+>
+<div class="label" data-ellipsis='{"position":{"at":"top right","my":"bottom left"}}'>
+<a href="#" data-sport-cb-id="top-sport-21" onclick="getAllEventsHelper().onClickSportLink(this); return false;">Rugby League</a>
+</div>
+</div> </td>
+<td data-cell-type="COLLAPSES">
+  
+
+<div class="main-sport-category" >
+<input class="group-selection" type="checkbox" id="top-sport-22"
+name="top-sport-22"
+onclick="getAllEventsHelper().swapTopSportSelection(this)"
+data-tree-ids="[1580]"
+>
+<div class="label" data-ellipsis='{"position":{"at":"top right","my":"bottom left"}}'>
+<a href="#" data-sport-cb-id="top-sport-22" onclick="getAllEventsHelper().onClickSportLink(this); return false;">Rugby Union</a>
+</div>
+</div> </td>
+</tr>
+<tr data-row-type="LAST_COLLAPSES_ROW" class="last-collapses-row">
+<td data-cell-type="COLLAPSES">
+  
+
+<div class="main-sport-category" >
+<input class="group-selection" type="checkbox" id="top-sport-23"
+name="top-sport-23"
+onclick="getAllEventsHelper().swapTopSportSelection(this)"
+data-tree-ids="[2185]"
+>
+<div class="label" data-ellipsis='{"position":{"at":"top right","my":"bottom left"}}'>
+<a href="#" data-sport-cb-id="top-sport-23" onclick="getAllEventsHelper().onClickSportLink(this); return false;">Snooker</a>
+</div>
+</div> </td>
+<td data-cell-type="COLLAPSES">
+  
+
+<div class="main-sport-category" >
+<input class="group-selection" type="checkbox" id="top-sport-24"
+name="top-sport-24"
+onclick="getAllEventsHelper().swapTopSportSelection(this)"
+data-tree-ids="[954952]"
+>
+<div class="label" data-ellipsis='{"position":{"at":"top right","my":"bottom left"}}'>
+<a href="#" data-sport-cb-id="top-sport-24" onclick="getAllEventsHelper().onClickSportLink(this); return false;">Sumo</a>
+</div>
+</div> </td>
+<td data-cell-type="COLLAPSES">
+  
+
+<div class="main-sport-category" >
+<input class="group-selection" type="checkbox" id="top-sport-25"
+name="top-sport-25"
+onclick="getAllEventsHelper().swapTopSportSelection(this)"
+data-tree-ids="[22712]"
+>
+<div class="label" data-ellipsis='{"position":{"at":"top right","my":"bottom left"}}'>
+<a href="#" data-sport-cb-id="top-sport-25" onclick="getAllEventsHelper().onClickSportLink(this); return false;">Volleyball</a>
+</div>
+</div> </td>
+<td data-cell-type="COLLAPSES">
+  
+
+<div class="main-sport-category" >
+<input class="group-selection" type="checkbox" id="top-sport-26"
+name="top-sport-26"
+onclick="getAllEventsHelper().swapTopSportSelection(this)"
+data-tree-ids="[382582]"
+>
+<div class="label" data-ellipsis='{"position":{"at":"top right","my":"bottom left"}}'>
+<a href="#" data-sport-cb-id="top-sport-26" onclick="getAllEventsHelper().onClickSportLink(this); return false;">Water Polo</a>
+</div>
+</div> </td>
+<td data-cell-type="FAKE">
+</td>
+<td data-cell-type="FAKE">
+</td>
+</tr>
+</table>
+
+<label>Events for</label>
+<div class="select-hours">
+<select name="periodGroupAllEvents" id="period-group-select" size="1"><option value="0">All Times</option><option value="2">2 Hours</option><option selected="selected" value="6">6 Hours</option><option value="12">12 Hours</option><option value="24">24 Hours</option></select>
+</div>
+<div class="button-container">
+<span class="button " onclick="showEvents('select_events_warning'); return false;">Show selections</span>
+
+<div id="select_events_warning" class="messenger hidden">
+<p class="_message">Please select events to view</p>
+<div class="buttons messenger-but">
+<button type="submit" class="button yes simplemodal-close" onclick="closeMessengerNote('select_events_warning');"><span>OK</span></button>
+</div>
+</div>
+<span class="button btn-show-all-events" onclick="showAllInAllEvents()">Show all</span><span class="button btn-clear " onclick="TopButtons.ClearAll.clear();">Clear all</span></div>
+</form>
+ <div id="container_EVENTS" class="events-container">
+      
+ <div data-sport-treeId="5" class="sport-category-container" data-collapsible="5">
+ <div class="sport-category-header" data-sticky="5">
+  <div data-collapsible-clickable-surface="true" class="collapse-button right-border ">
+ <div class="icon-collapse"></div>
+ </div>
+  <a data-ellipsis="{}" class="sport-category-label" href="">Baseball</a>
+</div> <div class="sport-category-content" data-collapsing="true">
+    
+<div class="category-container"
+ id="container_21231"
+ data-category-treeId="21231"
+ data-filtered="true"
+ data-collapsible="21231"
+>
+ 
+  
+ <table class="category-header">
+ <tr>
+  <td rowspan="2" class="collapse-button buttons-area right-border" data-collapsible-clickable-surface="true" >
+ <div class="icon-collapse"></div>
+ </td>
+
+  
+  <td class="category-label-td">
+ <a class="category-label-link" href="">
+ <h2 data-ellipsis="{}" class="category-label"><span class="nowrap">MLB</span></h2>
+ </a>
+ </td>
+   
+
+<td data-category-events-link-container="true" data-state="hide" class="show-category-events " data-collapsing="true">
+ <a href="/en/betting/Baseball/MLB/">
+ <span data-category-events-link="true">
+ <span><img src="https://web.mbstatic.org/008AE5/3-0-550-752/images/loading.gif" class="load" alt=""/></span>
+ <span class="show-all-category-events">All Events</span>
+ <span class="show-selected-category-events">Back</span>
+ </span>
+ </a>
+</td>
+
+ 
+    <td class="sport-stat-td">
+ <a href="/en/stats/9/52?" data-tooltip='{"position":{"container":".header-content"}}'>
+ <span class="sport-stat-icon-link"></span>
+ </a>
+ <span class="tooltip">
+ Statistics
+ </span>
+ </td>
+ 
+  
+ </tr>
+
+ <tr class="category-blurb-tr" data-collapsing="true">
+ <td class="category-blurb" data-collapsing="true">
+  </td>
+ </tr>
+ </table>
+
+
+   
+<div id="category21231" class="category-content" data-collapsing="true">
+      <div class="foot-market-border">
+     <table class="foot-market" data-columns-count="8" data-sport-type="Baseball" >
+  <tr class="coupone-labels">
+ <th class="first">Event Name</th>
+ <th class="main-row-buttons-header"></th>
+   
+
+  <th class="coupone coupone-width-2" colspan="3"  data-tooltip-parent='{}' >
+  <span class="hint">
+ <b>2</b>
+ </span>
+ <div id="hint_21231_1" class="tooltip">
+ Win 2
+ </div>
+  </th>
+   <th class="coupone coupone-width-2" colspan="3"  data-tooltip-parent='{}' >
+  <span class="hint">
+ <b>1</b>
+ </span>
+ <div id="hint_21231_2" class="tooltip">
+ Win 1
+ </div>
+  </th>
+            </tr>  <tbody class="" data-expanded-event-treeId="5926428" data-event-treeId="5926428" data-event-name="Chicago White Sox (J.Shields) @ Detroit Tigers (C.Bell)" data-live="false"
+ data-event-page="/en/betting/Baseball/MLB/Chicago+White+Sox+%28J.Shields%29+%40+Detroit+Tigers+%28C.Bell%29/">
+ 
+
+    <tr  data-mutable-id=""  class=" event-header" >
+      
+
+
+    
+<td class="first member-area   " rowspan="1"  data-mutable-id="MRMAmainRow" data-member-area="member-area">
+<table class="member-area-content-table  "
+ data-broadcasts-info='[]'>
+  
+   <tr>
+ 
+ <td class="today-name">
+ <div data-members="true" data-has-additional-markets="true" class="command">
+  <b class="member-number">2.</b>
+ <div class="today-member-name nowrap " data-ellipsis='{}'>
+ <span>Chicago White Sox (J.Shields)</span>
+ </div>
+ </div>
+ </td>
+
+ 
+ 
+ <td class="blurb-icon-td  row-span-2
+  one-line" rowspan="2" >
+ <div class="broadcasts-menu-container-blurb">
+     </div>
+ </td>
+
+ <td rowspan="2" class="date ">
+  18:10
+  </td>
+  </tr>
+  <tr>
+ 
+ <td class="today-name">
+ <div data-members="true" data-has-additional-markets="true" class="command">
+  <b class="member-number">1.</b>
+ <div class="today-member-name nowrap " data-ellipsis='{}'>
+ <span>Detroit Tigers (C.Bell)</span>
+ </div>
+ </div>
+ </td>
+
+  </tr>
+    </table>
+</td>
+
+       
+
+<td class="main-row-buttons " rowspan="1" data-mutable-id="BmainRow">
+ <table>
+  <tr>
+ <td data-event-statistics="true"
+ class="member-area-button">
+ <div class="member-area-buttons-label">
+ <div class="statistics-button-ico"></div>
+ <img src="https://web.mbstatic.org/008AE5/3-0-550-752/images/loading.gif" class="loading-ico" alt=""/>
+ </div>
+ </td>
+</tr>
+   <tr>
+ <td class="member-area-button" id="event-more-view-5926428"
+ data-event-more-view="event-more-view"
+ treeid="5926428" isLive="false" isSeparatedButton="false">
+ <div class="member-area-buttons-label">
+ <span class="event-more-view">+32</span>
+ <img src="https://web.mbstatic.org/008AE5/3-0-550-752/images/loading.gif" class="loading-ico" alt=""/>
+ </div>
+ </td>
+</tr>  </table>
+</td>         
+        <td colspan="3"   class="price height-column-with-price    first-in-main-row  " data-coeff-uuid="-1628867385-15672661219" data-sel='{"sn":"Chicago White Sox To Win","mn":"Match Result","ewc":"1/1 1","cid":15672661219,"prt":"CP","ewf":"1.0","epr":"2.15","prices":{"0":"23/20","1":"2.15","2":"+115","3":"1.15","4":"-0.87","5":"1.15"}}'
+  data-mutable-id="S1mainRow"  data-market-type="RESULT_2WAY"  >
+       <span class="selection-link
+normal 
+"
+  data-selection-price="2.15"
+  data-prt='CP'
+ data-selection-key="5236084@Match_Result.1"
+>2.15</span>
+    </td>    <td colspan="3"   class="price height-column-with-price    " data-coeff-uuid="-1628867383-15672661218" data-sel='{"sn":"Detroit Tigers To Win","mn":"Match Result","ewc":"1/1 1","cid":15672661218,"prt":"CP","ewf":"1.0","epr":"1.8","prices":{"0":"4/5","1":"1.80","2":"-125","3":"0.80","4":"0.80","5":"-1.25"}}'
+  data-mutable-id="S2mainRow"  data-market-type="RESULT_2WAY"  >
+       <span class="selection-link
+normal 
+"
+  data-selection-price="1.8"
+  data-prt='CP'
+ data-selection-key="5236084@Match_Result.3"
+>1.80</span>
+    </td>                        </tr>  
+<tr class="sport-stats coupon-statistics" data-coupon-statistics-tr="true" data-loaded='false'>
+ <td  colspan="8"  data-event-statistics-container="true"></td>
+</tr>
+
+
+
+
+ </tbody>
+ <tbody class="bg" data-expanded-event-treeId="5926433" data-event-treeId="5926433" data-event-name="Oakland Athletics (D.Gossett) @ Boston Red Sox (D.Pomeranz)" data-live="false"
+ data-event-page="/en/betting/Baseball/MLB/Oakland+Athletics+%28D.Gossett%29+%40+Boston+Red+Sox+%28D.Pomeranz%29/">
+ 
+
+    <tr  data-mutable-id=""  class=" event-header" >
+      
+
+
+    
+<td class="first member-area   " rowspan="1"  data-mutable-id="MRMAmainRow" data-member-area="member-area">
+<table class="member-area-content-table  "
+ data-broadcasts-info='[]'>
+  
+   <tr>
+ 
+ <td class="today-name">
+ <div data-members="true" data-has-additional-markets="true" class="command">
+  <b class="member-number">2.</b>
+ <div class="today-member-name nowrap " data-ellipsis='{}'>
+ <span>Oakland Athletics (D.Gossett)</span>
+ </div>
+ </div>
+ </td>
+
+ 
+ 
+ <td class="blurb-icon-td  row-span-2
+  one-line" rowspan="2" >
+ <div class="broadcasts-menu-container-blurb">
+     </div>
+ </td>
+
+ <td rowspan="2" class="date ">
+  18:35
+  </td>
+  </tr>
+  <tr>
+ 
+ <td class="today-name">
+ <div data-members="true" data-has-additional-markets="true" class="command">
+  <b class="member-number">1.</b>
+ <div class="today-member-name nowrap " data-ellipsis='{}'>
+ <span>Boston Red Sox (D.Pomeranz)</span>
+ </div>
+ </div>
+ </td>
+
+  </tr>
+    </table>
+</td>
+
+       
+
+<td class="main-row-buttons " rowspan="1" data-mutable-id="BmainRow">
+ <table>
+  <tr>
+ <td data-event-statistics="true"
+ class="member-area-button">
+ <div class="member-area-buttons-label">
+ <div class="statistics-button-ico"></div>
+ <img src="https://web.mbstatic.org/008AE5/3-0-550-752/images/loading.gif" class="loading-ico" alt=""/>
+ </div>
+ </td>
+</tr>
+   <tr>
+ <td class="member-area-button" id="event-more-view-5926433"
+ data-event-more-view="event-more-view"
+ treeid="5926433" isLive="false" isSeparatedButton="false">
+ <div class="member-area-buttons-label">
+ <span class="event-more-view">+32</span>
+ <img src="https://web.mbstatic.org/008AE5/3-0-550-752/images/loading.gif" class="loading-ico" alt=""/>
+ </div>
+ </td>
+</tr>  </table>
+</td>         
+        <td colspan="3"   class="price height-column-with-price    first-in-main-row  " data-coeff-uuid="-1628867237-15666502895" data-sel='{"sn":"Oakland Athletics To Win","mn":"Match Result","ewc":"1/1 1","cid":15666502895,"prt":"CP","ewf":"1.0","epr":"2.83","prices":{"0":"183/100","1":"2.83","2":"+183","3":"1.83","4":"-0.546","5":"1.83"}}'
+  data-mutable-id="S1mainRow"  data-market-type="RESULT_2WAY"  >
+       <span class="selection-link
+normal 
+"
+  data-selection-price="2.83"
+  data-prt='CP'
+ data-selection-key="5236088@Match_Result.1"
+>2.83</span>
+    </td>    <td colspan="3"   class="price height-column-with-price    " data-coeff-uuid="-1628867235-15666502886" data-sel='{"sn":"Boston Red Sox To Win","mn":"Match Result","ewc":"1/1 1","cid":15666502886,"prt":"CP","ewf":"1.0","epr":"1.5","prices":{"0":"1/2","1":"1.50","2":"-200","3":"0.50","4":"0.50","5":"-2.00"}}'
+  data-mutable-id="S2mainRow"  data-market-type="RESULT_2WAY"  >
+       <span class="selection-link
+normal 
+"
+  data-selection-price="1.5"
+  data-prt='CP'
+ data-selection-key="5236088@Match_Result.3"
+>1.50</span>
+    </td>                        </tr>  
+<tr class="sport-stats coupon-statistics" data-coupon-statistics-tr="true" data-loaded='false'>
+ <td  colspan="8"  data-event-statistics-container="true"></td>
+</tr>
+
+
+
+
+ </tbody>
+ <tbody class="" data-expanded-event-treeId="5926436" data-event-treeId="5926436" data-event-name="Cincinnati Reds (A.Garrett) @ St Louis Cardinals (L.Weaver)" data-live="false"
+ data-event-page="/en/betting/Baseball/MLB/Cincinnati+Reds+%28A.Garrett%29+%40+St+Louis+Cardinals+%28L.Weaver%29/">
+ 
+
+    <tr  data-mutable-id=""  class=" event-header" >
+      
+
+
+    
+<td class="first member-area   " rowspan="1"  data-mutable-id="MRMAmainRow" data-member-area="member-area">
+<table class="member-area-content-table  "
+ data-broadcasts-info='[]'>
+  
+   <tr>
+ 
+ <td class="today-name">
+ <div data-members="true" data-has-additional-markets="true" class="command">
+  <b class="member-number">2.</b>
+ <div class="today-member-name nowrap " data-ellipsis='{}'>
+ <span>Cincinnati Reds (A.Garrett)</span>
+ </div>
+ </div>
+ </td>
+
+ 
+ 
+ <td class="blurb-icon-td  row-span-2
+  one-line" rowspan="2" >
+ <div class="broadcasts-menu-container-blurb">
+     </div>
+ </td>
+
+ <td rowspan="2" class="date ">
+  18:45
+  </td>
+  </tr>
+  <tr>
+ 
+ <td class="today-name">
+ <div data-members="true" data-has-additional-markets="true" class="command">
+  <b class="member-number">1.</b>
+ <div class="today-member-name nowrap " data-ellipsis='{}'>
+ <span>St Louis Cardinals (L.Weaver)</span>
+ </div>
+ </div>
+ </td>
+
+  </tr>
+    </table>
+</td>
+
+       
+
+<td class="main-row-buttons " rowspan="1" data-mutable-id="BmainRow">
+ <table>
+  <tr>
+ <td data-event-statistics="true"
+ class="member-area-button">
+ <div class="member-area-buttons-label">
+ <div class="statistics-button-ico"></div>
+ <img src="https://web.mbstatic.org/008AE5/3-0-550-752/images/loading.gif" class="loading-ico" alt=""/>
+ </div>
+ </td>
+</tr>
+   <tr>
+ <td class="member-area-button" id="event-more-view-5926436"
+ data-event-more-view="event-more-view"
+ treeid="5926436" isLive="false" isSeparatedButton="false">
+ <div class="member-area-buttons-label">
+ <span class="event-more-view">+32</span>
+ <img src="https://web.mbstatic.org/008AE5/3-0-550-752/images/loading.gif" class="loading-ico" alt=""/>
+ </div>
+ </td>
+</tr>  </table>
+</td>         
+        <td colspan="3"   class="price height-column-with-price    first-in-main-row  " data-coeff-uuid="-1628867126-15666723807" data-sel='{"sn":"Cincinnati Reds To Win","mn":"Match Result","ewc":"1/1 1","cid":15666723807,"prt":"CP","ewf":"1.0","epr":"2.79","prices":{"0":"179/100","1":"2.79","2":"+179","3":"1.79","4":"-0.559","5":"1.79"}}'
+  data-mutable-id="S1mainRow"  data-market-type="RESULT_2WAY"  >
+       <span class="selection-link
+normal 
+"
+  data-selection-price="2.79"
+  data-prt='CP'
+ data-selection-key="5236091@Match_Result.1"
+>2.79</span>
+    </td>    <td colspan="3"   class="price height-column-with-price    " data-coeff-uuid="-1628867124-15666723803" data-sel='{"sn":"St Louis Cardinals To Win","mn":"Match Result","ewc":"1/1 1","cid":15666723803,"prt":"CP","ewf":"1.0","epr":"1.51","prices":{"0":"51/100","1":"1.51","2":"-196","3":"0.51","4":"0.51","5":"-1.96"}}'
+  data-mutable-id="S2mainRow"  data-market-type="RESULT_2WAY"  >
+       <span class="selection-link
+normal 
+"
+  data-selection-price="1.51"
+  data-prt='CP'
+ data-selection-key="5236091@Match_Result.3"
+>1.51</span>
+    </td>                        </tr>  
+<tr class="sport-stats coupon-statistics" data-coupon-statistics-tr="true" data-loaded='false'>
+ <td  colspan="8"  data-event-statistics-container="true"></td>
+</tr>
+
+
+
+
+ </tbody>
+  </table>
+</div>
+ 
+  </div> </div>     
+<div class="category-container"
+ id="container_866210"
+ data-category-treeId="866210"
+ data-filtered="false"
+ data-collapsible="866210"
+>
+ 
+  
+ <table class="category-header">
+ <tr>
+  <td rowspan="2" class="collapse-button buttons-area right-border bottom-border" data-collapsible-clickable-surface="true" >
+ <div class="icon-collapse"></div>
+ </td>
+
+  
+  <td class="category-label-td">
+ <a class="category-label-link" href="">
+ <h2 data-ellipsis="{}" class="category-label"><span class="nowrap">MiLB.</span> <span class="nowrap">Triple-A.</span> <span class="nowrap">Pacific Coast League.</span> <span class="nowrap">Play-Offs.</span> <span class="nowrap">Final</span></h2>
+ </a>
+ </td>
+   
+
+<td data-category-events-link-container="true" data-state="hide" class="show-category-events " data-collapsing="true">
+ <a href="/en/betting/Baseball/MiLB/Triple-A/Pacific+Coast+League/Play-Offs/Final/">
+ <span data-category-events-link="true">
+ <span><img src="https://web.mbstatic.org/008AE5/3-0-550-752/images/loading.gif" class="load" alt=""/></span>
+ <span class="show-all-category-events">All Events</span>
+ <span class="show-selected-category-events">Back</span>
+ </span>
+ </a>
+</td>
+
+ 
+    <td class="sport-stat-td">
+ <a href="/en/stats/9/1082?" data-tooltip='{"position":{"container":".header-content"}}'>
+ <span class="sport-stat-icon-link"></span>
+ </a>
+ <span class="tooltip">
+ Statistics
+ </span>
+ </td>
+ 
+  
+ </tr>
+
+ <tr class="category-blurb-tr" data-collapsing="true">
+ <td class="category-blurb" data-collapsing="true">
+ Best of 5 Matches </td>
+ </tr>
+ </table>
+
+
+   
+<div id="category866210" class="category-content" data-collapsing="true">
+      <div class="foot-market-border">
+     <table class="foot-market" data-columns-count="8" data-sport-type="Baseball" >
+  <tr class="coupone-labels">
+ <th class="first">Event Name</th>
+ <th class="main-row-buttons-header"></th>
+   
+
+  <th class="coupone coupone-width-2" colspan="3"  data-tooltip-parent='{}' >
+  <span class="hint">
+ <b>2</b>
+ </span>
+ <div id="hint_866210_1" class="tooltip">
+ Win 2
+ </div>
+  </th>
+   <th class="coupone coupone-width-2" colspan="3"  data-tooltip-parent='{}' >
+  <span class="hint">
+ <b>1</b>
+ </span>
+ <div id="hint_866210_2" class="tooltip">
+ Win 1
+ </div>
+  </th>
+            </tr>  <tbody class="" data-expanded-event-treeId="5928953" data-event-treeId="5928953" data-event-name="El Paso Chihuahuas @ Memphis Redbirds" data-live="false"
+ data-event-page="/en/betting/Baseball/MiLB/Triple-A/Pacific+Coast+League/Play-Offs/Final/El+Paso+Chihuahuas+%40+Memphis+Redbirds/">
+ 
+
+    <tr  data-mutable-id=""  class=" event-header" >
+      
+
+
+    
+<td class="first member-area   " rowspan="1"  data-mutable-id="MRMAmainRow" data-member-area="member-area">
+<table class="member-area-content-table  "
+ data-broadcasts-info='[]'>
+  
+   <tr>
+ 
+ <td class="today-name">
+ <div data-members="true" data-has-additional-markets="true" class="command">
+  <b class="member-number">2.</b>
+ <div class="today-member-name nowrap " data-ellipsis='{}'>
+ <span>El Paso Chihuahuas</span>
+ </div>
+ </div>
+ </td>
+
+ 
+ 
+ <td class="blurb-icon-td  row-span-2
+  one-line" rowspan="2" >
+ <div class="broadcasts-menu-container-blurb">
+    <div class="blurb-icon">
+ <div class="hint">
+ <img data-tooltip='{"position":{"my":"top center","at":"bottom center","container":".header-content"}}'
+ src="https://web.mbstatic.org/008AE5/3-0-550-752/images/info-12-icn.png" alt=""/>
+ <div class="tooltip">
+  Series Score 0:1
+   </div>
+</div>
+ </div>
+ </td>
+
+ <td rowspan="2" class="date ">
+  19:05
+  </td>
+  </tr>
+  <tr>
+ 
+ <td class="today-name">
+ <div data-members="true" data-has-additional-markets="true" class="command">
+  <b class="member-number">1.</b>
+ <div class="today-member-name nowrap " data-ellipsis='{}'>
+ <span>Memphis Redbirds</span>
+ </div>
+ </div>
+ </td>
+
+  </tr>
+    </table>
+</td>
+
+       
+
+<td class="main-row-buttons " rowspan="1" data-mutable-id="BmainRow">
+ <table>
+  <tr>
+ <td data-event-statistics="true"
+ class="member-area-button">
+ <div class="member-area-buttons-label">
+ <div class="statistics-button-ico"></div>
+ <img src="https://web.mbstatic.org/008AE5/3-0-550-752/images/loading.gif" class="loading-ico" alt=""/>
+ </div>
+ </td>
+</tr>
+   <tr>
+ <td class="member-area-button" id="event-more-view-5928953"
+ data-event-more-view="event-more-view"
+ treeid="5928953" isLive="false" isSeparatedButton="false">
+ <div class="member-area-buttons-label">
+ <span class="event-more-view">+24</span>
+ <img src="https://web.mbstatic.org/008AE5/3-0-550-752/images/loading.gif" class="loading-ico" alt=""/>
+ </div>
+ </td>
+</tr>  </table>
+</td>         
+        <td colspan="3"   class="price height-column-with-price    first-in-main-row  " data-coeff-uuid="-1628782507-15668371889" data-sel='{"sn":"El Paso Chihuahuas To Win","mn":"Match Result","ewc":"1/1 1","cid":15668371889,"prt":"CP","ewf":"1.0","epr":"2.13","prices":{"0":"113/100","1":"2.13","2":"+113","3":"1.13","4":"-0.885","5":"1.13"}}'
+  data-mutable-id="S1mainRow"  data-market-type="RESULT_2WAY"  >
+       <span class="selection-link
+normal 
+"
+  data-selection-price="2.13"
+  data-prt='CP'
+ data-selection-key="5238378@Match_Result.1"
+>2.13</span>
+    </td>    <td colspan="3"   class="price height-column-with-price    " data-coeff-uuid="-1628782505-15668371880" data-sel='{"sn":"Memphis Redbirds To Win","mn":"Match Result","ewc":"1/1 1","cid":15668371880,"prt":"CP","ewf":"1.0","epr":"1.75","prices":{"0":"3/4","1":"1.75","2":"-134","3":"0.75","4":"0.75","5":"-1.34"}}'
+  data-mutable-id="S2mainRow"  data-market-type="RESULT_2WAY"  >
+       <span class="selection-link
+normal 
+"
+  data-selection-price="1.75"
+  data-prt='CP'
+ data-selection-key="5238378@Match_Result.3"
+>1.75</span>
+    </td>                        </tr>  
+<tr class="sport-stats coupon-statistics" data-coupon-statistics-tr="true" data-loaded='false'>
+ <td  colspan="8"  data-event-statistics-container="true"></td>
+</tr>
+
+
+
+
+ </tbody>
+  </table>
+</div>
+ 
+  </div> </div>     
+<div class="category-container"
+ id="container_1390724"
+ data-category-treeId="1390724"
+ data-filtered="false"
+ data-collapsible="1390724"
+>
+ 
+  
+ <table class="category-header">
+ <tr>
+  <td rowspan="2" class="collapse-button buttons-area right-border" data-collapsible-clickable-surface="true" >
+ <div class="icon-collapse"></div>
+ </td>
+
+  
+  <td class="category-label-td">
+ <a class="category-label-link" href="">
+ <h2 data-ellipsis="{}" class="category-label"><span class="nowrap">Netherlands.</span> <span class="nowrap">Hoofdklasse.</span> <span class="nowrap">Play-Offs.</span> <span class="nowrap">Semi Final Round</span></h2>
+ </a>
+ </td>
+   
+
+<td data-category-events-link-container="true" data-state="hide" class="show-category-events " data-collapsing="true">
+ <a href="/en/betting/Baseball/Netherlands/Hoofdklasse/Play-Offs/Semi+Final+Round/">
+ <span data-category-events-link="true">
+ <span><img src="https://web.mbstatic.org/008AE5/3-0-550-752/images/loading.gif" class="load" alt=""/></span>
+ <span class="show-all-category-events">All Events</span>
+ <span class="show-selected-category-events">Back</span>
+ </span>
+ </a>
+</td>
+
+ 
+    <td class="sport-stat-td">
+ <a href="/en/stats/9/1142?" data-tooltip='{"position":{"container":".header-content"}}'>
+ <span class="sport-stat-icon-link"></span>
+ </a>
+ <span class="tooltip">
+ Statistics
+ </span>
+ </td>
+ 
+  
+ </tr>
+
+ <tr class="category-blurb-tr" data-collapsing="true">
+ <td class="category-blurb" data-collapsing="true">
+  </td>
+ </tr>
+ </table>
+
+
+   
+<div id="category1390724" class="category-content" data-collapsing="true">
+      <div class="foot-market-border">
+     <table class="foot-market" data-columns-count="8" data-sport-type="Baseball" >
+  <tr class="coupone-labels">
+ <th class="first">Event Name</th>
+ <th class="main-row-buttons-header"></th>
+   
+
+  <th class="coupone coupone-width-2" colspan="3"  data-tooltip-parent='{}' >
+  <span class="hint">
+ <b>2</b>
+ </span>
+ <div id="hint_1390724_1" class="tooltip">
+ Win 2
+ </div>
+  </th>
+   <th class="coupone coupone-width-2" colspan="3"  data-tooltip-parent='{}' >
+  <span class="hint">
+ <b>1</b>
+ </span>
+ <div id="hint_1390724_2" class="tooltip">
+ Win 1
+ </div>
+  </th>
+            </tr>  <tbody class="" data-expanded-event-treeId="5817144" data-event-treeId="5817144" data-event-name="Curacao Neptunus @ Hoofddorp Pioniers" data-live="false"
+ data-event-page="/en/betting/Baseball/Netherlands/Hoofdklasse/Play-Offs/Semi+Final+Round/Curacao+Neptunus+%40+Hoofddorp+Pioniers/">
+ 
+
+    <tr  data-mutable-id=""  class=" event-header" >
+      
+
+
+    
+<td class="first member-area   " rowspan="1"  data-mutable-id="MRMAmainRow" data-member-area="member-area">
+<table class="member-area-content-table  "
+ data-broadcasts-info='[]'>
+  
+   <tr>
+ 
+ <td class="today-name">
+ <div data-members="true" data-has-additional-markets="true" class="command">
+  <b class="member-number">2.</b>
+ <div class="today-member-name nowrap " data-ellipsis='{}'>
+ <span>Curacao Neptunus</span>
+ </div>
+ </div>
+ </td>
+
+ 
+ 
+ <td class="blurb-icon-td  row-span-2
+  one-line" rowspan="2" >
+ <div class="broadcasts-menu-container-blurb">
+     </div>
+ </td>
+
+ <td rowspan="2" class="date ">
+  18:30
+  </td>
+  </tr>
+  <tr>
+ 
+ <td class="today-name">
+ <div data-members="true" data-has-additional-markets="true" class="command">
+  <b class="member-number">1.</b>
+ <div class="today-member-name nowrap " data-ellipsis='{}'>
+ <span>Hoofddorp Pioniers</span>
+ </div>
+ </div>
+ </td>
+
+  </tr>
+    </table>
+</td>
+
+       
+
+<td class="main-row-buttons " rowspan="1" data-mutable-id="BmainRow">
+ <table>
+  <tr>
+ <td data-event-statistics="true"
+ class="member-area-button">
+ <div class="member-area-buttons-label">
+ <div class="statistics-button-ico"></div>
+ <img src="https://web.mbstatic.org/008AE5/3-0-550-752/images/loading.gif" class="loading-ico" alt=""/>
+ </div>
+ </td>
+</tr>
+   <tr>
+ <td class="member-area-button" id="event-more-view-5817144"
+ data-event-more-view="event-more-view"
+ treeid="5817144" isLive="false" isSeparatedButton="false">
+ <div class="member-area-buttons-label">
+ <span class="event-more-view">+18</span>
+ <img src="https://web.mbstatic.org/008AE5/3-0-550-752/images/loading.gif" class="loading-ico" alt=""/>
+ </div>
+ </td>
+</tr>  </table>
+</td>         
+        <td colspan="3"   class="price height-column-with-price    first-in-main-row  " data-coeff-uuid="-1632493755-15652184497" data-sel='{"sn":"Curacao Neptunus To Win","mn":"Match Result","ewc":"1/1 1","cid":15652184497,"prt":"CP","ewf":"1.0","epr":"1.28","prices":{"0":"7/25","1":"1.28","2":"-358","3":"0.28","4":"0.28","5":"-3.58"}}'
+  data-mutable-id="S1mainRow"  data-market-type="RESULT_2WAY"  >
+       <span class="selection-link
+normal 
+"
+  data-selection-price="1.28"
+  data-prt='CP'
+ data-selection-key="5138074@Match_Result.1"
+>1.28</span>
+    </td>    <td colspan="3"   class="price height-column-with-price    " data-coeff-uuid="-1632493753-15652184496" data-sel='{"sn":"Hoofddorp Pioniers To Win","mn":"Match Result","ewc":"1/1 1","cid":15652184496,"prt":"CP","ewf":"1.0","epr":"3.84","prices":{"0":"71/25","1":"3.84","2":"+284","3":"2.84","4":"-0.352","5":"2.84"}}'
+  data-mutable-id="S2mainRow"  data-market-type="RESULT_2WAY"  >
+       <span class="selection-link
+normal 
+"
+  data-selection-price="3.84"
+  data-prt='CP'
+ data-selection-key="5138074@Match_Result.3"
+>3.84</span>
+    </td>                        </tr>  
+<tr class="sport-stats coupon-statistics" data-coupon-statistics-tr="true" data-loaded='false'>
+ <td  colspan="8"  data-event-statistics-container="true"></td>
+</tr>
+
+
+
+
+ </tbody>
+ <tbody class="bg" data-expanded-event-treeId="5817142" data-event-treeId="5817142" data-event-name="L&D Amsterdam @ HCAW Bussum" data-live="false"
+ data-event-page="/en/betting/Baseball/Netherlands/Hoofdklasse/Play-Offs/Semi+Final+Round/L%26D+Amsterdam+%40+HCAW+Bussum/">
+ 
+
+    <tr  data-mutable-id=""  class=" event-header" >
+      
+
+
+    
+<td class="first member-area   " rowspan="1"  data-mutable-id="MRMAmainRow" data-member-area="member-area">
+<table class="member-area-content-table  "
+ data-broadcasts-info='[]'>
+  
+   <tr>
+ 
+ <td class="today-name">
+ <div data-members="true" data-has-additional-markets="true" class="command">
+  <b class="member-number">2.</b>
+ <div class="today-member-name nowrap " data-ellipsis='{}'>
+ <span>L&D Amsterdam</span>
+ </div>
+ </div>
+ </td>
+
+ 
+ 
+ <td class="blurb-icon-td  row-span-2
+  one-line" rowspan="2" >
+ <div class="broadcasts-menu-container-blurb">
+     </div>
+ </td>
+
+ <td rowspan="2" class="date ">
+  18:30
+  </td>
+  </tr>
+  <tr>
+ 
+ <td class="today-name">
+ <div data-members="true" data-has-additional-markets="true" class="command">
+  <b class="member-number">1.</b>
+ <div class="today-member-name nowrap " data-ellipsis='{}'>
+ <span>HCAW Bussum</span>
+ </div>
+ </div>
+ </td>
+
+  </tr>
+    </table>
+</td>
+
+       
+
+<td class="main-row-buttons " rowspan="1" data-mutable-id="BmainRow">
+ <table>
+  <tr>
+ <td data-event-statistics="true"
+ class="member-area-button">
+ <div class="member-area-buttons-label">
+ <div class="statistics-button-ico"></div>
+ <img src="https://web.mbstatic.org/008AE5/3-0-550-752/images/loading.gif" class="loading-ico" alt=""/>
+ </div>
+ </td>
+</tr>
+   <tr>
+ <td class="member-area-button" id="event-more-view-5817142"
+ data-event-more-view="event-more-view"
+ treeid="5817142" isLive="false" isSeparatedButton="false">
+ <div class="member-area-buttons-label">
+ <span class="event-more-view">+18</span>
+ <img src="https://web.mbstatic.org/008AE5/3-0-550-752/images/loading.gif" class="loading-ico" alt=""/>
+ </div>
+ </td>
+</tr>  </table>
+</td>         
+        <td colspan="3"   class="price height-column-with-price    first-in-main-row  " data-coeff-uuid="-1632493829-15652164978" data-sel='{"sn":"L&D Amsterdam To Win","mn":"Match Result","ewc":"1/1 1","cid":15652164978,"prt":"CP","ewf":"1.0","epr":"1.11","prices":{"0":"11/100","1":"1.11","2":"-910","3":".11","4":"0.11","5":"-9.10"}}'
+  data-mutable-id="S1mainRow"  data-market-type="RESULT_2WAY"  >
+       <span class="selection-link
+normal 
+"
+  data-selection-price="1.11"
+  data-prt='CP'
+ data-selection-key="5138072@Match_Result.1"
+>1.11</span>
+    </td>    <td colspan="3"   class="price height-column-with-price    " data-coeff-uuid="-1632493827-15652164974" data-sel='{"sn":"HCAW Bussum To Win","mn":"Match Result","ewc":"1/1 1","cid":15652164974,"prt":"CP","ewf":"1.0","epr":"7.1","prices":{"0":"61/10","1":"7.10","2":"+610","3":"6.10","4":"-0.164","5":"6.10"}}'
+  data-mutable-id="S2mainRow"  data-market-type="RESULT_2WAY"  >
+       <span class="selection-link
+normal 
+"
+  data-selection-price="7.1"
+  data-prt='CP'
+ data-selection-key="5138072@Match_Result.3"
+>7.10</span>
+    </td>                        </tr>  
+<tr class="sport-stats coupon-statistics" data-coupon-statistics-tr="true" data-loaded='false'>
+ <td  colspan="8"  data-event-statistics-container="true"></td>
+</tr>
+
+
+
+
+ </tbody>
+  </table>
+</div>
+ 
+  </div> </div>   </div>
+</div>   </div>
+
+ </div>
+ </div>
+ </div>
+ <div id="body_footer" ></div>
+ </div>
+ <div id="footer" class="footer-content pure-g  leftbar-helper  rightbar-helper ">
+ <div class="grid-footer">
+  <div class="bottom-menu-first-line">
+<ul>
+<li>
+  <span class="show-help-link" data-show-help="/en/help/about/">About Us</span>
+ </li>
+<li>
+  <span class="show-help-link" data-show-help="/en/help/terms_and_conditions/">Terms and Conditions</span>
+ </li>
+<li>
+  <span class="show-help-link" data-show-help="/en/help/privacy_policy/">Privacy Policy</span>
+ </li>
+<li>
+  <span class="show-help-link" data-show-help="/en/help/responsible_gambling/">Responsible Gambling</span>
+ </li>
+<li>
+  <span class="show-help-link" data-show-help="/en/help/contact_us/">Help</span>
+ </li>
+<li>
+  <span class="show-help-link" data-show-help="/en/help/payments/">Payments</span>
+ </li>
+<li>
+  <a
+ 
+ 
+ 
+ href="https://mobile.mbet.es/#/en/home">Mobile site</a>
+ </li>
+<li>
+  <span class="show-help-link" data-show-help="/en/help/cookies_policy/">Cookies Policy</span>
+ </li>
+</ul>
+</div>
+ 
+ <div class="bottom-menu-third-line">
+ <ul>
+ <li>
+ <a href="/en/partners.htm">Our Partners</a>
+ </li>
+ <li>
+ <a href="/en/partners.htm?partnerName=liverpool">Partnership history</a>
+ </li>
+ </ul>
+ </div>
+
+<div class="footer-main">
+  
+<p class="sponsor">
+ <em class="sprite-hibernian"><a href="http://www.hibernianfc.co.uk/" target="_blank" title='Main sponsor of Hibernian' rel="nofollow"></a></em>
+ <em class="sprite-malaga"><a href="http://www.malagacf.com/en/" target="_blank" title='Main sponsor of Malaga' rel="nofollow"></a></em>
+  <em class="sprite-manchester"><a href="http://www.manutd.com/" target="_blank" title='Official betting partner of Manchester United' rel="nofollow"></a></em>
+  <em class="sprite-dinamo_moscow"><a href="http://fcdynamo.ru/en/" target="_blank" title='Official partner of FC Dynamo Moscow' rel="nofollow"></a></em>
+</p>
+
+  <em class="sprite-visa" title="VISA"></em>
+ <em class="sprite-mastercard" title="MasterCard"></em>
+ <em class="sprite-maestro" title="Maestro"></em>
+ 
+ <em class="sprite-bank_transfer_spain" title="Bank Transfer"></em>
+ 
+ <em class="sprite-moneybookers" title="Skrill">
+ <a href="https://www.skrill.com/" target="_blank" title="Skrill"></a>
+ </em>
+ <em class="sprite-neteller" title="NETELLER">
+ <a href="https://www.neteller.com/" target="_blank" title="NETELLER"></a>
+ </em>
+    <em class="sprite-paypal" title="PayPal">
+ <a href="https://www.paypal.com/uk/webapps/mpp/home" target="_blank" title="PayPal"></a>
+ </em>
+ <em class="sprite-teleingreso" title="Teleingreso">
+ <a href="http://teleingreso.com/" target="_blank" title="Teleingreso"></a>
+ </em>
+ 
+<br/>
+
+  <img src="https://web.mbstatic.org/008AE5/3-0-550-752/images/footer/age_restriction.png" class="age-restriction" alt="" />
+   <em class="sprite-thawte" title="Thawte"></em>
+  
+  <em class="autoexclusion" title="Self-exclusion">
+  <a href="http://www.dgojuego.minhap.gob.es/en/rgiaj" target="_blank" title="Self-exclusion"></a>
+ </em>
+ <em class="juego-seguro" title="JuegoSeguro">
+ <a href="http://www.juegoseguro.es/" target="_blank" title="JuegoSeguro"></a>
+ </em>
+ <em class="jugar-bien" title="JugarBien">
+ <a href="http://www.jugarbien.es/" target="_blank" title="JugarBien"></a>
+ </em>
+ 
+  <em class="sprite-social_f"><a href="http://www.facebook.com/marathonbet.es" target="_blank" title="Facebook"></a></em>
+ <em class="sprite-social_t"><a href="https://twitter.com/Marathonbet_es" target="_blank" title="Twitter"></a></em>
+  <p class="copyright">Marathonbet Spain, S.A. operates under gaming licenses issued by the Directorate General for the Regulation of Gambling.</p>
+ <p>Imagery source <a href='https://www.shutterstock.com/' target='_blank'>shutterstock.com</a> and PA Images</p>
+ </div>
+ </div>
+ </div>
+ </div>
+</div>
+<div class="grid-rightbar  main-panel-helper " data-topbar-fix="true">
+ 
+<div class="sidebar-right">
+  
+ 
+ 
+
+  <div id="banners_block"
+ data-site-part-code="RIGHT_COLUMN"
+ data-version="-1514314268"
+  class="banners">
+
+     
+
+ <a href="https://www.mbet.es/en/casino/lobby?_ga=1.29223930.754445105.1452517177" target="_self" title="" onclick="TrackingEngine.trigger(TrackingEngine.EVENT.BANNER_CLICKED, ['casino_SP_EN', 'en']);"
+ data-id="15234" data-version="-1624089677" data-type="IMG">
+ <img src="/webbanners/archive/20160814/img_147117717628290.png" alt=""
+  width="476"   height="100"  />
+ </a>
+       
+
+ <a href="http://promo.mbet.es/bienvenida02" target="_blank" title="" onclick="TrackingEngine.trigger(TrackingEngine.EVENT.BANNER_CLICKED, ['/promo.mbet.es/bienvenida01', 'en']);"
+ data-id="15242" data-version="-223990996" data-type="IMG">
+ <img src="/webbanners/archive/20170120/img_148492389863582.jpg" alt=""
+  width="476"   height="100"  />
+ </a>
+       
+
+ <a href="/en/betting/Football/Clubs.+International/UEFA+Europa+League/Group+Stage/" target="_self" title="" onclick="TrackingEngine.trigger(TrackingEngine.EVENT.BANNER_CLICKED, ['Football', 'en']);"
+ data-id="15236" data-version="-1855129871" data-type="IMG">
+ <img src="/webbanners/archive/20160913/img_147375345335168.jpg" alt=""
+  width="476"   height="100"  />
+ </a>
+       
+
+ <a href="/en/events.htm?id=2181572,3500004" target="_self" title="" onclick="TrackingEngine.trigger(TrackingEngine.EVENT.BANNER_CLICKED, ['Tennis / WTA International / Quebec, Canada, Tennis / WTA International / Osaka, Japan', 'en']);"
+ data-id="15233" data-version="1416588483" data-type="IMG">
+ <img src="/webbanners/archive/20170908/img_150488492634042.png" alt=""
+  width="476"   height="100"  />
+ </a>
+       
+
+ <a href="/en/betting/Basketball/FIBA+EuroBasket/Men/2017/Final+Tournament/Play-Offs/" target="_self" title="" onclick="TrackingEngine.trigger(TrackingEngine.EVENT.BANNER_CLICKED, ['Basketball / FIBA EuroBasket / Men / 2017 / Final Tournament / Play-Offs', 'en']);"
+ data-id="15235" data-version="1505602673" data-type="IMG">
+ <img src="/webbanners/archive/20170829/img_15039973879715.jpg" alt=""
+  width="476"   height="100"  />
+ </a>
+       
+
+ <a href="/en/betting/Basketball/FIBA+AfroBasket/Men/2017/Final+Tournament/Senegal+%26+Tunisia/Play-Offs/" target="_self" title="" onclick="TrackingEngine.trigger(TrackingEngine.EVENT.BANNER_CLICKED, ['Basketball / FIBA AfroBasket / Men / 2017 / Final Tournament / Senegal & Tunisia / Play-Offs', 'en']);"
+ data-id="15229" data-version="564937392" data-type="IMG">
+ <img src="/webbanners/archive/20170904/img_150453207497944.jpg" alt=""
+  width="476"   height="100"  />
+ </a>
+       
+
+ <a href="/en/betting/Baseball/MLB/" target="_self" title="" onclick="TrackingEngine.trigger(TrackingEngine.EVENT.BANNER_CLICKED, ['Baseball / MLB', 'en']);"
+ data-id="15231" data-version="-1396406033" data-type="IMG">
+ <img src="/webbanners/archive/20170331/img_149095501253743.png" alt=""
+  width="476"   height="100"  />
+ </a>
+   
+ </div>
+ </div></div>
+ </div>
+
+ 
+</div>
+ <script type="text/javascript">
+ //<![CDATA[
+ 
+  panbetInit(); 
+ 
+  getHomeHelper().Init && getHomeHelper().Init();
+  getAllEventsHelper().Init && getAllEventsHelper().Init();
+  getCollapsibleTablePanelHelper().Init && getCollapsibleTablePanelHelper().Init();
+ 
+ //]]>>
+ </script>
+
+<script src="/en/pagemessages.htm"></script>
+
+  
+  
+ <!-- modal dialogs containers -->
+ <div id="enter_stake_dialog" class="messenger hidden">
+ <p>Please enter a stake for the bet</p>
+ <div class="buttons messenger-but">
+ <button class="button no simplemodal-close"><span>OK</span></button>
+ </div>
+ </div>
+ <div id="invalid_stake_dialog" class="messenger hidden">
+ <p>Please enter a valid stake</p>
+ <div class="buttons messenger-but">
+ <button class="button no simplemodal-close"><span>OK</span></button>
+ </div>
+ </div>
+ <div id="no_selections" class="messenger hidden">
+ <p>You have no selections in your betslip</p>
+ <div class="buttons messenger-but">
+ <button class="button no simplemodal-close"><span>OK</span></button>
+ </div>
+ </div>
+ <div id="no_selected_freebets" class="messenger hidden">
+ <p>Sorry, there is no selected Free Bet.</p>
+ <div class="buttons messenger-but">
+ <button class="button no simplemodal-close"><span>OK</span></button>
+ </div>
+ </div>
+ <div id="session_timeout" class="messenger hidden">
+ <p>Time of your working session ends, please click OK to extend the work.</p>
+ <div class="buttons messenger-but">
+ <button data-submit-btn class="button no simplemodal-close"><span>OK</span></button>
+ </div>
+ </div>
+ <div id="session_close_notification" class="messenger hidden">
+ <p>Sorry, your connection with the server has been lost.</p>
+ <div class="buttons messenger-but">
+ <button class="button no simplemodal-close" onclick="replacePage()"><span>OK</span></button>
+ </div>
+ </div>
+ <div id="common_messenger" class="messenger hidden">
+ <p id="common_messenger_msg"></p>
+ <div class="buttons messenger-but">
+ <button class="button no simplemodal-close"><span>OK</span></button>
+ </div>
+ </div>
+  <div id="progress_dialog" class="messenger hidden">
+<img src="https://web.mbstatic.org/008AE5/3-0-550-752/images/loading.gif" class="loading" alt=""/>
+<p>Please wait...</p>
+</div>
+ 
+ 
+ 
+</body>
+</html>
